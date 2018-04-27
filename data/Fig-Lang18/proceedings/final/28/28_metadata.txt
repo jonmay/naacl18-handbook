@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#Using Language Learner Data for Metaphor Detection
+ShortPaperTitle#=%=#Language Learner Data for Metaphor Detection
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#egon w. stemle
+JobTitle#==#
+Organization#==#Eurac Research
+Institute for Applied Linguistics
+Viale Druso 1 
+39100 Bolzano
+Italy
+Abstract#==#This article describes the system that participated in the shared task on metaphor detection on the Vrije University Amsterdam Metaphor Corpus (VUA).
+The ST was part of the workshop on processing figurative language at the 16th annual conference of the North American Chapter of the Association for Computational Linguistics (NAACL2018).
+
+The system combines a small assertion of trending techniques, which implement matured methods from NLP and ML; in particular, the system uses word embeddings from standard corpora and from corpora representing different proficiency levels of language learners in a LSTM BiRNN architecture.
+
+The system is available under the APLv2 open-source license.
+Author{1}{Firstname}#=%=#Egon
+Author{1}{Lastname}#=%=#Stemle
+Author{1}{Email}#=%=#egon.stemle@eurac.edu
+Author{1}{Affiliation}#=%=#Eurac Research
+Author{2}{Firstname}#=%=#Alexander
+Author{2}{Lastname}#=%=#Onysko
+Author{2}{Email}#=%=#alexander.onysko@aau.at
+Author{2}{Affiliation}#=%=#Alpen-Adria University Klagenfurt
+
+==========

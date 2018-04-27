@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Di-LSTM Contrast : A Deep Neural Network for Metaphor Detection
+ShortPaperTitle#=%=#Di-LSTM Contrast
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Krishnkant Swarnkar
+JobTitle#==#Student
+Organization#==#Indian Institute of Technology (BHU) Varanasi, Varanasi, Uttar Pradesh, India
+Abstract#==#The contrast between the contextual and general meaning of a word serves as an important clue for detecting its metaphoricity. In this paper, we present a deep neural architecture for metaphor detection which exploits this contrast. Additionally, we also use cost-sensitive learning by re-weighting examples, and baseline features like concreteness ratings, POS and WordNet-based features. The best performing system of ours achieves an overall F1 score of 0.570 on All POS category and 0.605 on the Verbs category at the Metaphor Shared Task 2018.
+Author{1}{Firstname}#=%=#Krishnkant
+Author{1}{Lastname}#=%=#Swarnkar
+Author{1}{Email}#=%=#krishnkant.swarnkar.cse15@iitbhu.ac.in
+Author{1}{Affiliation}#=%=#Indian Institute of Technology (BHU), Varanasi
+Author{2}{Firstname}#=%=#Anil Kumar
+Author{2}{Lastname}#=%=#Singh
+Author{2}{Email}#=%=#aksingh.cse@iitbhu.ac.in
+Author{2}{Affiliation}#=%=#Indian Institute of Technology (BHU), Varanasi
+
+==========

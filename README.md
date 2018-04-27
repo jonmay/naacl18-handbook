@@ -51,7 +51,7 @@ Style-Var18 not yet uploaded; skipping
 getting Story-NLP18
 getting SCLeM18
 getting TextGraphs-12
-Fig-Lang18 not yet uploaded; skipping
+getting Fig-Lang18
 getting PEOPLES18
 CRAC18 not yet uploaded; skipping
 SpLU18 not yet uploaded; skipping

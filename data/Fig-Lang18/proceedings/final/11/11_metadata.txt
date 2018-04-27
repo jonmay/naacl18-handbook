@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Catching Idiomatic Expressions in EFL Essays
+ShortPaperTitle#=%=#Catching Idiomatic Expressions in EFL Essays
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Michael Flor
+JobTitle#==#
+Organization#==#Educational Testing Service
+660 Rosedale Road
+Princeton, NJ 08541, USA
+Abstract#==#This paper presents an exploratory study on large-scale detection of idiomatic expressions in essays written by non-native speakers of English. We describe a computational search procedure for automatic detection of idiom-candidate phrases in
+essay texts. The study used a corpus of essays written during a standardized
+examination of English language proficiency. Automatically-flagged candidate
+expressions were manually annotated for idiomaticity. The study found that idioms are widely used in EFL essays. The study also showed that a search algorithm
+that accommodates the syntactic and lexical exibility of idioms can increase the recall of idiom instances by 30%, but it also increases the amount of false positives.
+Author{1}{Firstname}#=%=#Michael
+Author{1}{Lastname}#=%=#Flor
+Author{1}{Email}#=%=#mflor@ets.org
+Author{1}{Affiliation}#=%=#Educational Testing Service
+Author{2}{Firstname}#=%=#Beata
+Author{2}{Lastname}#=%=#Beigman Klebanov
+Author{2}{Email}#=%=#bbeigmanklebanov@ets.org
+Author{2}{Affiliation}#=%=#Educational Testing Service
+
+==========

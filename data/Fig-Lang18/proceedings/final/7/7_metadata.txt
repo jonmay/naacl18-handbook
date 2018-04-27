@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Challenges in Finding Metaphorical Connections
+ShortPaperTitle#=%=#Challenges in Finding Metaphorical Connections
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Katy Gero
+JobTitle#==#
+Organization#==#Columbia University
+Abstract#==#Poetry is known for its novel expression using figurative language.  We introduce a writing task that contains the essential challenges of generating meaningful figurative language and can be evaluated. We investigate how to find metaphorical connections between abstract themes and concrete domains by asking people to write four-line poems on a given metaphor, such as "death is a rose" or "anger is wood". We find that only 21% of poems successfully make a metaphorical connection. We present five alternate ways people respond to the prompt and release our dataset of 100 categorized poems. We suggest opportunities for computational approaches.
+Author{1}{Firstname}#=%=#Katy
+Author{1}{Lastname}#=%=#Gero
+Author{1}{Email}#=%=#katy@cs.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Lydia
+Author{2}{Lastname}#=%=#Chilton
+Author{2}{Email}#=%=#chilton@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+
+==========

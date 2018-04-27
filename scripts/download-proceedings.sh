@@ -9,18 +9,19 @@ for name in $(cat input/conferences.txt); do
   datadir="data/$x";
   if test $x = $url; then
       echo "No URL given for $x, skipping for now ..."
-      echo "$name" >> newcon.txt
+      echo "$name" | sed 's/\r//' >> newcon.txt
       continue
   fi
   remotemd5=$(curl -s -I $url | grep ETag | awk '{print $2}')
-  if [[ -d $datadir ]] && [[ -e $data/dir/etag ]] && [[ $remotemd5 == $(cat $data/dir/etag) ]]; then
+
+  if [[ -d $datadir ]] && [[ -e $datadir/etag ]] && [[ $remotemd5 == $(cat $datadir/etag) ]]; then
       echo "No change to $x; skipping";
-      echo "$name" >> newcon.txt
+      echo "$name" | sed 's/\r//' >> newcon.txt
       continue
   fi
   if [[ -z $remotemd5 ]]; then
       echo "$x not yet uploaded; skipping";
-      echo "$name" >> newcon.txt
+      echo "$name" | sed 's/\r//' >> newcon.txt
       continue;
   fi
   # echo $x $url $md5 $archive
@@ -32,7 +33,7 @@ for name in $(cat input/conferences.txt); do
   if [[ $? -gt 0 ]]; then
       echo "Couldn't find $x";
       cd $basefolder;
-      echo "$name" >> newcon.txt
+      echo "$name" | sed 's/\r//' >> newcon.txt
       continue
   fi
   echo "$remotemd5" > etag
@@ -66,5 +67,5 @@ for name in $(cat input/conferences.txt); do
   #  tar --exclude '*.pdf' --exclude '*gz' --exclude '*zip' -xzvf $lastfile proceedings/order proceedings/final.tgz 
   #  tar --exclude '*.pdf' --exclude '*gz' --exclude '*zip' -xzvf proceedings/final.tgz
   cd $basefolder
-  echo "$x|$url|$remotemd5" >> newcon.txt
+  echo "$x|$url|$remotemd5" | sed 's/\r//' >> newcon.txt
 done

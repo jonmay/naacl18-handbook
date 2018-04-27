@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Conditional Random Fields for Metaphor Detection
+ShortPaperTitle#=%=#Conditional Random Fields for Metaphor Detection
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Anna Mosolova
+JobTitle#==#
+Organization#==#Novosibirsk State University
+Abstract#==#We present an algorithm for detecting metaphor in sentences which was used in Shared Task on Metaphor Detection by First Workshop on Figurative Language Processing. The algorithm is based on different features and Conditional Random Fields.
+Author{1}{Firstname}#=%=#Anna
+Author{1}{Lastname}#=%=#Mosolova
+Author{1}{Email}#=%=#anya-belkina333@yandex.ru
+Author{1}{Affiliation}#=%=#Novosibirsk State University
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Bondarenko
+Author{2}{Email}#=%=#i.yu.bondarenko@gmail.com
+Author{2}{Affiliation}#=%=#Novosibirsk State University
+Author{3}{Firstname}#=%=#Vadim
+Author{3}{Lastname}#=%=#Fomin
+Author{3}{Email}#=%=#wadimiusz@gmail.com
+Author{3}{Affiliation}#=%=#Novosibirsk State University
+
+==========

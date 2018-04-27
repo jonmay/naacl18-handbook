@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Detecting Figurative Word Occurrences Using Recurrent Neural Networks
+ShortPaperTitle#=%=#Detecting Figurative Word Occurrences Using Recurrent Neural Networks
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Agnieszka Mykowiecka
+JobTitle#==#
+Organization#==#Institute of Computer Science Polish Academy of Sciences
+Abstract#==#The paper addresses detection of figurative usage
+of words in English text. The chosen
+method was to use neural nets fed by pretrained
+word embeddings. The obtained results
+show that simple solutions, based on
+words embeddings only, are comparable to
+complex solutions, using many sources of information
+which are not available for languages
+less-studied than English.
+Author{1}{Firstname}#=%=#Agnieszka
+Author{1}{Lastname}#=%=#Mykowiecka
+Author{1}{Email}#=%=#agn@ipipan.waw.pl
+Author{1}{Affiliation}#=%=#Institute of Computer Science, Polish Academy of Sciences
+Author{2}{Firstname}#=%=#Aleksander
+Author{2}{Lastname}#=%=#Wawer
+Author{2}{Email}#=%=#axw@ipipan.waw.pl
+Author{2}{Affiliation}#=%=#Institute of Computer Science, Polish Academy of Sciences
+Author{3}{Firstname}#=%=#Malgorzata
+Author{3}{Lastname}#=%=#Marciniak
+Author{3}{Email}#=%=#mm@ipipan.waw.pl
+Author{3}{Affiliation}#=%=#Institute of Computer Science, Polish Academy of Sciences
+
+==========

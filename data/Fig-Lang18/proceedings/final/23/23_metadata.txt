@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Neural Metaphor Detecting with CNN-LSTM Model
+ShortPaperTitle#=%=#Neural Metaphor Detecting with CNN-LSTM Model
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Chuhan Wu
+JobTitle#==#
+Organization#==#Department of Electronic Engineering, Tsinghua University, Beijing.
+Abstract#==#Metaphors are figurative languages widely used in daily life and literatures. It's an important task to detect the metaphors evoked by texts. Thus, the metaphor shared task is aimed to extract metaphors from plain texts at word level. We propose to use a CNN-LSTM model for this task. Our model combines CNN and LSTM layers to utilize both local and long-range contextual information for identifying metaphorical information. In addition, we compare the performance of the softmax classifier and conditional random field (CRF) for sequential labeling in this task. We also incorporated some additional features such as part of speech (POS) tags and word cluster to improve the performance of model. Our best model achieved 65.06% F-score in the all POS testing subtask and 67.15% in the verbs testing subtask.
+Author{1}{Firstname}#=%=#Chuhan
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#wuch15@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University
+Author{2}{Firstname}#=%=#Fangzhao
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#wufangzhao@gmail.com
+Author{2}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University
+Author{3}{Firstname}#=%=#Yubo
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#ybch14@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University
+Author{4}{Firstname}#=%=#Sixing
+Author{4}{Lastname}#=%=#Wu
+Author{4}{Email}#=%=#wu-sx15@mails.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University
+Author{5}{Firstname}#=%=#Zhigang
+Author{5}{Lastname}#=%=#Yuan
+Author{5}{Email}#=%=#yuanzg14@mails.tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University
+Author{6}{Firstname}#=%=#Yongfeng
+Author{6}{Lastname}#=%=#Huang
+Author{6}{Email}#=%=#yfhuang@tsinghua.edu.cn
+Author{6}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University
+
+==========

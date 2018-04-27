@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Leveraging Syntactic Constructions for Metaphor Identification
+ShortPaperTitle#=%=#Leveraging Syntactic Constructions for Metaphor Identification
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kevin Stowe
+JobTitle#==#
+Organization#==#University of Colorado
+43 UCB
+Boulder, CO 80309
+Abstract#==#Identification of metaphoric language in text is critical for generating effective semantic representations for natural language understanding. Computational approaches to metaphor identification have largely relied on heuristic based models or feature-based machine learning, using hand-crafted lexical resources coupled with basic syntactic information. However, recent work has shown the predictive power of syntactic constructions in determining metaphoric source and target domains (Sullivan 2013). Our work intends to explore syntactic constructions and their relation to metaphoric language. We undertake a corpus-based analysis of predicate-argument constructions and their metaphoric properties, and attempt to effectively represent syntactic constructions as features for metaphor processing, both in identifying source and target domains and in distinguishing metaphoric words from non-metaphoric.
+Author{1}{Firstname}#=%=#Kevin
+Author{1}{Lastname}#=%=#Stowe
+Author{1}{Email}#=%=#kest1439@colorado.edu
+Author{1}{Affiliation}#=%=#University of Colorado, Boulder
+Author{2}{Firstname}#=%=#Martha
+Author{2}{Lastname}#=%=#Palmer
+Author{2}{Email}#=%=#martha.palmer@colorado.edu
+Author{2}{Affiliation}#=%=#University of Colorado, Boulder
+
+==========

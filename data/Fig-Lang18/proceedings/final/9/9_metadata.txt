@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Phrase-Level Metaphor Identification Using Distributed Representations of Word Meaning
+ShortPaperTitle#=%=#Phrase-Level Metaphor Identification Using Distributed Representations of Word Meaning
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Omnia Zayed
+JobTitle#==#PhD Student
+Organization#==#Insight Centre for Data Analytics
+Data Science Institute
+National University of Ireland Galway
+Abstract#==#Metaphor is an essential element of human cognition which is often used to express ideas and emotions that might be difficult to express using literal language. Processing metaphoric language is a challenging task for a wide range of applications ranging from text simplification to psychotherapy. Despite the variety of approaches that are trying to process metaphor, there is still a need for better models that mimic the human cognition while exploiting fewer resources. In this paper, we present an approach based on distributional semantics to identify metaphors on the phrase-level. We investigated the use of different word embeddings models to identify verb-noun pairs where the verb is used metaphorically. Several experiments are conducted to show the performance of the proposed approach on benchmark datasets.
+Author{1}{Firstname}#=%=#Omnia
+Author{1}{Lastname}#=%=#Zayed
+Author{1}{Email}#=%=#omnia.zayed@insight-centre.org
+Author{1}{Affiliation}#=%=#Insight Centre for Data Analytics, National University of Ireland Galway
+Author{2}{Firstname}#=%=#John Philip
+Author{2}{Lastname}#=%=#McCrae
+Author{2}{Email}#=%=#john@mccr.ae
+Author{2}{Affiliation}#=%=#Insight Centre for Data Analytics, National University of Ireland Galway
+Author{3}{Firstname}#=%=#Paul
+Author{3}{Lastname}#=%=#Buitelaar
+Author{3}{Email}#=%=#paul.buitelaar@insight-centre.org
+Author{3}{Affiliation}#=%=#Insight Centre for Data Analytics, National University of Ireland Galway
+
+==========

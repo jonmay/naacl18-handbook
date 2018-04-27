@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Predicting Human Metaphor Paraphrase Judgments with Deep Neural Networks
+ShortPaperTitle#=%=#Predicting Human Metaphor Paraphrase Judgments with Deep Neural Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuri Bizzoni
+JobTitle#==#
+Organization#==#CLASP, FloV, Göteborg University, Dicksonsgatan 4
+Abstract#==#We propose a new annotated corpus for metaphor interpretation by paraphrase, and a novel DNN model for performing this task. Our corpus consists of 200 sets of 5 sentences, with each set containing one reference metaphorical sentence, and four ranked candidate paraphrases. Our model is trained for a binary classification of paraphrase candidates, and then used to predict graded paraphrase acceptability. It reaches an encouraging 75\% accuracy on the binary classification task, and high Pearson (.75) and Spearman (.68) correlations on the gradient judgment prediction task.
+Author{1}{Firstname}#=%=#Yuri
+Author{1}{Lastname}#=%=#Bizzoni
+Author{1}{Email}#=%=#yuri.bizzoni@gu.se
+Author{1}{Affiliation}#=%=#University of Gothenburg
+Author{2}{Firstname}#=%=#Shalom
+Author{2}{Lastname}#=%=#Lappin
+Author{2}{Email}#=%=#shalom.lappin@kcl.ac.uk
+Author{2}{Affiliation}#=%=#King's College London
+
+==========

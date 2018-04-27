@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Linguistic Features of Sarcasm and Metaphor Production Quality
+ShortPaperTitle#=%=#Linguistic Features of Sarcasm and Metaphor Production Quality
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Stephen Skalicky
+JobTitle#==#
+Organization#==#Georgia State University
+Department of Applied Linguistics
+25 Park Place, 15th Floor
+Atlanta, GA, 30303
+USA
+Abstract#==#Using linguistic features to detect figurative language has provided a deeper in-sight into figurative language. The purpose of this study is to assess whether linguistic features can help explain differences in quality of figurative language. In this study a large corpus of metaphors and sarcastic responses are collected from human subjects and rated for figurative language quality based on theoretical components of metaphor, sarcasm, and creativity. Using natural language processing tools, specific linguistic features related to lexical sophistication and semantic cohesion were used to predict the human ratings of figurative language quality. Results demonstrate linguistic features were able to predict small amounts of variance in metaphor and sarcasm production quality.
+Author{1}{Firstname}#=%=#Stephen
+Author{1}{Lastname}#=%=#Skalicky
+Author{1}{Email}#=%=#scskalicky@gmail.com
+Author{1}{Affiliation}#=%=#Georgia State University
+Author{2}{Firstname}#=%=#Scott
+Author{2}{Lastname}#=%=#Crossley
+Author{2}{Email}#=%=#sacrossley@gmail.com
+Author{2}{Affiliation}#=%=#Georgia State University
+
+==========

@@ -26,4 +26,5 @@ data/tar
 *.tgz
 *.gz
 *._*
-.DS_Store.history
+.DS_Store
+.history

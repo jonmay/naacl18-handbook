@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#An LSTM-CRF Based Approach to Token-Level Metaphor Detection
+ShortPaperTitle#=%=#An LSTM-CRF Based Approach to Token-Level Metaphor Detection
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Malay Pramanick
+JobTitle#==#
+Organization#==#Dept. of Computer Science and Engineering,
+IIT Kharagpur,
+West Bengal,
+India,
+PIN-721302
+Abstract#==#Automatic processing of figurative languages is gaining popularity in NLP community for their ubiquitous nature and increasing volume. In this era of web 2.0, automatic analysis of sarcasm and metaphors is important for their extensive usage. Metaphors are a part of figurative language that compares different concepts, often on a cognitive level. Many approaches have been proposed for automatic detection of metaphors, even using sequential models or neural networks. In this paper, we propose a method for detection of metaphors at the token level using a hybrid model of Bidirectional-LSTM and CRF. We used fewer features, as compared to the previous state-of-the-art sequential model. On experimentation with VUAMC, our method obtained an F-score of 0.674.
+Author{1}{Firstname}#=%=#Malay
+Author{1}{Lastname}#=%=#Pramanick
+Author{1}{Email}#=%=#malaypramanick15@gmail.com
+Author{1}{Affiliation}#=%=#IIT Kharagpur
+Author{2}{Firstname}#=%=#Ashim
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Email}#=%=#ashimgupta95@gmail.com
+Author{2}{Affiliation}#=%=#IIT Kharagpur
+Author{3}{Firstname}#=%=#Pabitra
+Author{3}{Lastname}#=%=#Mitra
+Author{3}{Email}#=%=#pabitra@cse.iitkgp.ernet.in
+Author{3}{Affiliation}#=%=#IIT Kharagpur
+
+==========

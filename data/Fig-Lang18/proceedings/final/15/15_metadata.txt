@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Literal, Metphorical or Both? Detecting Metaphoricity in Isolated Adjective-Noun Phrases
+ShortPaperTitle#=%=#Literal, Metphorical or Both? Detecting Metaphoricity in Isolated Adjective-Noun Phrases
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Agnieszka Mykowiecka
+JobTitle#==#
+Organization#==#Institute of Computer Science Polish Academy of Sciences
+Abstract#==#The paper addresses the classification of isolated Polish  adjective-noun phrases according to their metaphoricity. We tested neural networks to predict if a phrase has a literal or metaphorical sense or can have both senses depending on usage. The input to the neural network consists of word embeddings, but we also tested the impact of information about the  domain of the adjective and about the abstractness of the noun.  We applied our solution to English data available on the Internet and compared it to  results published in papers. We found that the solution based on word embeddings only can achieve results comparable with complex solutions requiring additional information.
+Author{1}{Firstname}#=%=#Agnieszka
+Author{1}{Lastname}#=%=#Mykowiecka
+Author{1}{Email}#=%=#agn@ipipan.waw.pl
+Author{1}{Affiliation}#=%=#Institute of Computer Science, Polish Academy of Sciences
+Author{2}{Firstname}#=%=#Malgorzata
+Author{2}{Lastname}#=%=#Marciniak
+Author{2}{Email}#=%=#mm@ipipan.waw.pl
+Author{2}{Affiliation}#=%=#Institute of Computer Science, Polish Academy of Sciences
+Author{3}{Firstname}#=%=#Aleksander
+Author{3}{Lastname}#=%=#Wawer
+Author{3}{Email}#=%=#axw@ipipan.waw.pl
+Author{3}{Affiliation}#=%=#Institute of Computer Science, Polish Academy of Sciences
+
+==========

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Unsupervised Detection of Metaphorical Adjective-Noun Pairs
+ShortPaperTitle#=%=#Unsupervised Detection of Metaphorical Adjective-Noun Pairs
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Malay Pramanick
+JobTitle#==#
+Organization#==#Dept. of Computer Science and Engineering,
+IIT Kharagpur,
+West Bengal,
+India,
+PIN-721302
+Abstract#==#Metaphor is a popular figure of speech. Popularity of metaphors calls for their automatic identification and interpretation. Most of the unsupervised methods directed at detection of metaphors use some hand-coded knowledge. We propose an unsupervised framework for metaphor detection that does not require any hand-coded knowledge. We applied clustering on features derived from Adjective-Noun pairs for classifying them into two disjoint classes. We experimented with adjective-noun pairs of a popular dataset annotated for metaphors and obtained an accuracy of 72.87% with k-means clustering algorithm.
+Author{1}{Firstname}#=%=#Malay
+Author{1}{Lastname}#=%=#Pramanick
+Author{1}{Email}#=%=#malaypramanick15@gmail.com
+Author{1}{Affiliation}#=%=#IIT Kharagpur
+Author{2}{Firstname}#=%=#Pabitra
+Author{2}{Lastname}#=%=#Mitra
+Author{2}{Email}#=%=#pabitra@cse.iitkgp.ernet.in
+Author{2}{Affiliation}#=%=#IIT Kharagpur
+
+==========

@@ -1,0 +1,29 @@
+* Friday, June 6, 2018
++ 9:00--9:10 Opening remarks
++ 9:10--10:10 Invited Talk: Tony Veale “When You Come To A Fork In The Road, Take It:  Complementary Approaches to Metaphor Generation”
+=
+7 10:10--10:30 # Challenges in Finding Metaphorical Connections
++ 10:30--11:00 Coffee break
+=
+8 11:00--11:20 # Linguistic Features of Sarcasm and Metaphor Production Quality
+17 11:20--11:40 # Leveraging Syntactic Constructions for Metaphor Identification
+15 11:40--12:00 # Literal, Metphorical or Both? Detecting Metaphoricity in Isolated Adjective-Noun Phrases
+11 12:00--12:20 # Catching Idiomatic Expressions in EFL Essays
++ 12:20--14:00 Lunch
+=
+6 14:00--14:20 # Predicting Human Metaphor Paraphrase Judgments with Deep Neural Networks
+29 14:20--14:40 # A Report on the 2018 VUA Metaphor Detection Shared Task
+= 14:40--15:40 Poster Session
+1   # An LSTM-CRF Based Approach to Token-Level Metaphor Detection
+2   # Unsupervised Detection of Metaphorical Adjective-Noun Pairs
+9   # Phrase-Level Metaphor Identification Using Distributed Representations of Word Meaning
+10   # Bigrams and BiLSTMs Two Neural Networks for Sequential Metaphor Detection
+14   # Computationally Constructed Concepts: A Machine Learning Approach to Metaphor Interpretation Using Usage-Based Construction Grammatical Cues
+23   # Neural Metaphor Detecting with CNN-LSTM Model
+24   # Di-LSTM Contrast : A Deep Neural Network for Metaphor Detection
+25   # Conditional Random Fields for Metaphor Detection
+26   # Detecting Figurative Word Occurrences Using Recurrent Neural Networks
+27   # Multi-Module Recurrent Neural Networks with Transfer Learning
+28   # Using Language Learner Data for Metaphor Detection
++ 15:40--16:00 Coffee break
++ 16:00--17:00 Invited Talk: Marilyn Walker on Sarcasm Detection

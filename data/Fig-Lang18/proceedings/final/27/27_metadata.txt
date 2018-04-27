@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Multi-Module Recurrent Neural Networks with Transfer Learning
+ShortPaperTitle#=%=#Detecting Metaphors Using Recurrent Neural Networks with Transfer Learning
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Aleksander Wawer
+JobTitle#==#
+Organization#==#Samsung R\&D Institute Poland
+pl. Europejski 1
+00-844 Warszawa
+Poland
+Abstract#==#This paper describes multiple solutions designed and tested for the problem of word-level metaphor detection. The proposed systems are all based on variants of recurrent neural network architectures. Specifically, we explore multiple sources of information: pre-trained word embeddings (Glove), a dictionary of language concreteness and a transfer learning scenario based on the states of an encoder network from neural network machine translation system. One of the architectures is based on combining all three systems: (1) Neural CRF (Conditional Random Fields), trained directly on the metaphor data set; (2) Neural Machine Translation encoder of a transfer learning scenario; (3) a neural network used to predict final labels, trained directly on the metaphor data set. Our results vary between test sets: Neural CRF standalone is the best one on submission data, while combined system scores the highest on a test subset randomly selected from training data.
+Author{1}{Firstname}#=%=#Filip
+Author{1}{Lastname}#=%=#Skurniak
+Author{1}{Email}#=%=#f.skurniak@samsung.com
+Author{1}{Affiliation}#=%=#Samsung R&D Poland
+Author{2}{Firstname}#=%=#Maria
+Author{2}{Lastname}#=%=#Janicka
+Author{2}{Email}#=%=#m.janicka@samsung.com
+Author{2}{Affiliation}#=%=#Samsung R&D Poland
+Author{3}{Firstname}#=%=#Aleksander
+Author{3}{Lastname}#=%=#Wawer
+Author{3}{Email}#=%=#a.wawer@samsung.com
+Author{3}{Affiliation}#=%=#Samsung R&D Poland
+
+==========
