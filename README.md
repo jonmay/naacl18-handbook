@@ -20,8 +20,8 @@ NAACL 2018 handbook can be compiled:
 - gc msg
 - pc msg
 - itc msg
-- committee list
-- ac list
+- ~~committee list~~
+- ~~ac list~~
 - meal info
 - room assignments
 - tutorial schedule
