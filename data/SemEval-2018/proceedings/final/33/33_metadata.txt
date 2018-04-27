@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#GHH at SemEval-2018 Task 10: Discovering Discriminative Attributes in Distributional Semantics
+ShortPaperTitle#=%=#GHH at SemEval-2018 Task 10: Discovering Discriminative Attributes in Distributional Semantics
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mohammed Attia
+JobTitle#==#
+Organization#==#Google. Inc. New York City, NY, 10011
+Abstract#==#This paper describes our system submission to the SemEval 2018 Task 10 on
+Capturing Discriminative Attributes. Given two concepts and an attribute, the
+task is to determine whether the attribute is semantically related to one
+concept and not the other. In this work we assume that discriminative
+attributes can be detected by discovering the association (or lack of
+association) between a pair of words. The hypothesis we test in this
+contribution is whether the semantic difference between two pairs of concepts
+can be treated in terms of measuring the distance between words in a vector
+space, or can simply be obtained as a by-product of word co-occurrence counts.
+Author{1}{Firstname}#=%=#Mohammed
+Author{1}{Lastname}#=%=#Attia
+Author{1}{Email}#=%=#attia@google.com
+Author{1}{Affiliation}#=%=#Google Inc.
+Author{2}{Firstname}#=%=#Younes
+Author{2}{Lastname}#=%=#Samih
+Author{2}{Email}#=%=#samih@phil.hhu.de
+Author{2}{Affiliation}#=%=#University of Düsseldorf
+Author{3}{Firstname}#=%=#Manaal
+Author{3}{Lastname}#=%=#Faruqui
+Author{3}{Email}#=%=#mfaruqui@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Wolfgang
+Author{4}{Lastname}#=%=#Maier
+Author{4}{Email}#=%=#wolfgang.maier@gmail.com
+Author{4}{Affiliation}#=%=#Independent Researcher
+
+==========

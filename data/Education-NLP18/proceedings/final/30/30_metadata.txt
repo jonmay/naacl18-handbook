@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Towards Single Word Lexical Complexity Prediction
+ShortPaperTitle#=%=#Towards Single Word Lexical Complexity Prediction
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#David Alfter
+JobTitle#==#
+Organization#==#Språkbanken
+Göteborgs universitet
+Box 200, 405 30 Göteborg 
+Sweden
+Abstract#==#In this paper we present work-in-progress where we investigate the usefulness of previously created word lists to the task of single-word lexical complexity analysis and prediction of the complexity level for learners of Swedish as a second language. The word lists used map each word to a single CEFR level, and the task consists of predicting CEFR levels for unseen words. In contrast to previous work on word-level lexical complexity, we experiment with topics as additional features and show that linking words to topics significantly increases accuracy of classification.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Alfter
+Author{1}{Email}#=%=#david.alfter@svenska.gu.se
+Author{1}{Affiliation}#=%=#University of Gothenburg
+Author{2}{Firstname}#=%=#Elena
+Author{2}{Lastname}#=%=#Volodina
+Author{2}{Email}#=%=#elena.volodina@svenska.gu.se
+Author{2}{Affiliation}#=%=#University of Gothenburg
+
+==========

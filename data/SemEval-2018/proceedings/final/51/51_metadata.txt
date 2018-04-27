@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#51
+FinalPaperTitle#=%=#The UWNLP system at SemEval-2018 Task 7: Neural Relation Extraction Model with Selectively Incorporated Concept Embeddings
+ShortPaperTitle#=%=#Neural Relation Extraction Model with Selectively Incorporated Concept Embeddings
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yi Luan
+JobTitle#==#
+Organization#==#University of Washington
+Abstract#==#This paper describes our submission for
+SemEval 2018
+Task 7 shared task on semantic relation extraction and classification in
+scientific papers. Our
+model is based on the end-to-end relation extraction model of
+\cite{miwa2016end}  with several enhancements such as
+character-level encoding attention mechanism on selecting pretrained concept
+candidate embeddings. Our official
+submission ranked the second in relation classification task (Subtask 1.1 and
+Subtask 2 Senerio 2),
+and the first in the relation extraction task (Subtask 2 Scenario 1).
+Author{1}{Firstname}#=%=#Yi
+Author{1}{Lastname}#=%=#Luan
+Author{1}{Email}#=%=#luanyi@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Mari
+Author{2}{Lastname}#=%=#Ostendorf
+Author{2}{Email}#=%=#ostendor@u.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Hannaneh
+Author{3}{Lastname}#=%=#Hajishirzi
+Author{3}{Email}#=%=#hannaneh@washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

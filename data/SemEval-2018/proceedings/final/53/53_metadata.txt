@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#53
+FinalPaperTitle#=%=#ITNLP-ARC at SemEval-2018 Task 12: Argument Reasoning Comprehension with Attention
+ShortPaperTitle#=%=#ITNLP-ARC at SemEval-2018 Task 12: Argument Reasoning Comprehension with Attention
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Liu wenjie
+JobTitle#==#
+Organization#==#School of Computer Science and Technology
+Harbin Institute of Technology
+No. 92, West Da-zhi Street, Harbin, China 150001
+Abstract#==#Reasoning is a very important topic and has many important applications in the field of natural language processing. Semantic Evaluation (SemEval) 2018 Task 12 ``The Argument Reasoning Comprehension'' committed to research natural language reasoning. In this task, we proposed a novel argument reasoning comprehension system, ITNLP-ARC, which use Neural Networks technology to solve this problem. In our system, the LSTM model is involved to encode both the premise sentences and the warrant sentences. The attention model is used to merge the two premise sentence vectors. Through comparing the similarity between the attention vector and each of the two warrant vectors, we choose the one with higher similarity as our system's final answer.
+Author{1}{Firstname}#=%=#Wenjie
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#wjliu@insun.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology of China
+Author{2}{Firstname}#=%=#Chengjie
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Email}#=%=#cjsun@insun.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology of China
+Author{3}{Firstname}#=%=#Lei
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Email}#=%=#linl@insun.hit.edu.cn
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology of China
+Author{4}{Firstname}#=%=#Bingquan
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#liubq@insun.hit.edu.cn
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology of China
+
+==========

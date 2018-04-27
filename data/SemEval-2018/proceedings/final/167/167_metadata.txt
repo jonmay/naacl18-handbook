@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#167
+FinalPaperTitle#=%=#Villani at SemEval-2018 Task 8: Semantic Extraction from Cybersecurity Reports using Representation Learning
+ShortPaperTitle#=%=#Semantic Extraction from Cybersecurity Reports using Representation Learning
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Pablo Loyola
+JobTitle#==#
+Organization#==#IBM Research Japan
+Abstract#==#In this paper, we describe our proposal for 
+the task of Semantic Extraction from
+Cybersecurity Reports. The goal 
+is to explore if natural language processing methods 
+can provide relevant and actionable
+knowledge to contribute to better understand
+malicious behavior. Our method consists of an 
+attention-based Bi-LSTM which achieved competitive 
+performance of 0.57 for the Subtask 1. In the 
+due process we also present ablation studies 
+across multiple embeddings and their level of representation
+and also report the strategies we used to mitigate the extreme
+imbalance between classes.
+Author{1}{Firstname}#=%=#Pablo
+Author{1}{Lastname}#=%=#Loyola
+Author{1}{Email}#=%=#pablo.loyola.h@gmail.com
+Author{1}{Affiliation}#=%=#IBM  Research
+Author{2}{Firstname}#=%=#Kugamoorthy
+Author{2}{Lastname}#=%=#Gajananan
+Author{2}{Email}#=%=#gajan@jp.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research Tokyo
+Author{3}{Firstname}#=%=#Yuji
+Author{3}{Lastname}#=%=#Watanabe
+Author{3}{Email}#=%=#meuw@jp.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research Tokyo
+Author{4}{Firstname}#=%=#Fumiko
+Author{4}{Lastname}#=%=#Satoh
+Author{4}{Email}#=%=#sfumiko@jp.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research Tokyo
+
+==========

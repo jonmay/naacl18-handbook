@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#193
+FinalPaperTitle#=%=#Digital Operatives at SemEval-2018 Task 8: Using dependency features for malware NLP
+ShortPaperTitle#=%=#Digital Operatives at SemEval-2018 Task 8: Using dependency features for malware NLP
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Christopher Brew
+JobTitle#==#Computational Research Scientist
+Organization#==#Digital Operatives, Dunn Loring, Virginia 22027
+Abstract#==#The four sub-tasks of SecureNLP build towards a capability for
+quickly highlighting critical information from malware reports, 
+such as the specific actions taken by a  malware sample.  
+Digital Operatives (DO)
+submitted to sub-tasks 1 and 2, using standard text analysis technology 
+(text classification for sub-task 1, and a CRF for sub-task 2). Performance
+is broadly competitive with other submitted systems on sub-task 1 and 
+weak on sub-task 2.
+
+The annotation guidelines for the intermediate sub-tasks
+create a linkage to the final task, which is both an annotation challenge and a potentially useful feature of the task. 
+The methods that DO chose do not attempt to
+make use of this linkage, which may be a missed opportunity.
+This motivates a post-hoc error analysis. It appears that the
+annotation task is very hard, and that in some cases both deep conceptual
+knowledge and substantial surrounding context are needed in order to correctly
+classify sentences.
+Author{1}{Firstname}#=%=#Chris
+Author{1}{Lastname}#=%=#Brew
+Author{1}{Email}#=%=#christopher.brew@gmail.com
+Author{1}{Affiliation}#=%=#Digital Operatives
+
+==========

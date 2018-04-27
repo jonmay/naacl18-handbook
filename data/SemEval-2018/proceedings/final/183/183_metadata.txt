@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#183
+FinalPaperTitle#=%=#Lyb3b at SemEval-2018 Task 11: Machine Comprehension Task using Deep Learning Models
+ShortPaperTitle#=%=#Machine Comprehension Task using Deep Learning Models
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yongbin Li
+JobTitle#==#
+Organization#==#Yunnan University, Yunnan, P.R. China
+Abstract#==#Machine Comprehension of text is a typical Natural Language Processing task which remains an elusive challenge. This paper is to solve the task 11 of SemEval-2018, Machine Comprehension using Commonsense Knowledge task. We use deep learning model to solve the problem. We build distributed word embedding of text, question and answering respectively instead of manually extracting features by linguistic tools. Meanwhile, we use a series of frameworks such as CNN model, LSTM model, LSTM with attention model and biLSTM with attention model for processing word vector. Experiments demonstrate the superior performance of biLSTM with attention framework compared to other models. We also delete high frequency words and combine word vector and data augmentation methods, achieved a certain effect. The approach we proposed rank 6th in official results, with accuracy rate of 0.7437 in test dataset.
+Author{1}{Firstname}#=%=#Yongbin
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#1957405@qq.com
+Author{1}{Affiliation}#=%=#Yunnan University, Kunming, Yunnan, P.R. China
+Author{2}{Firstname}#=%=#Xiaobing
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Email}#=%=#zhouxb.cn@gmail.com
+Author{2}{Affiliation}#=%=#Yunnan University, Kunming, Yunnan, P.R. China
+
+==========

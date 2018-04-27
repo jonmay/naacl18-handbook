@@ -1,0 +1,214 @@
+* 5 June 2018
++ 09:00--09:15 Welcome / Opening Remarks
+! 09:15--10:30 Invited Talk: Why should we care about linguistics? %by Ellie Pavlick
++ 10:30--11:00 Coffee
+= 11:00--12:30 Tasks 1, 2 and 3 # %room TBD
+206 11:00--11:15  # SemEval-2018 Task 1: Affect in Tweets
+198 11:15--11:30  # SeerNet at SemEval-2018 Task 1: Domain Adaptation for Affect in Tweets
+209 11:30--11:45  # SemEval 2018 Task 2: Multilingual Emoji Prediction
+13 11:45--12:00  # T__bingen-Oslo at SemEval-2018 Task 2: SVMs perform better than RNNs in Emoji Prediction
+205 12:00--12:15  # SemEval-2018 Task 3: Irony Detection in English Tweets
+74 12:15--12:30  # THU_NGN at SemEval-2018 Task 3: Tweet Irony Detection with Densely connected LSTM and Multi-task Learning
++ 12:30--14:00 Lunch
+= 14:00--15:30 Tasks 4, 5 and 6 # %room TBD
+1 14:00--14:15  # SemEval 2018 Task 4: Character Identification on Multiparty Dialogues
+84 14:15--14:30  # AMORE-UPF at SemEval-2018 Task 4: BiLSTM with Entity Library
+9 14:30--14:45  # SemEval-2018 Task 5: Counting Events and Participants in the Long Tail
+111 14:45--15:00  # KOI at SemEval-2018 Task 5: Building Knowledge Graph of Incidents
+207 15:00--15:15  # SemEval 2018 Task 6: Parsing Time Normalizations
+40 15:15--15:30  # Chrono at SemEval-2018 Task 6: A System for Normalizing Temporal Expressions
++ 15:30--16:00 Coffee
++ 16:00--16:30 Discussion
+= 16:30--17:30 Poster Session # %room TBD
+14 16:30--17:30  # NEUROSENT-PDI at SemEval-2018 Task 1: Leveraging a Multi-Domain Sentiment Model for Inferring Polarity in Micro-blog Text
+15 16:30--17:30  # FOI DSS at SemEval-2018 Task 1: Combining LSTM States, Embeddings, and Lexical Features for Affect Analysis
+21 16:30--17:30  # NLPZZX at SemEval-2018 Task 1: Using Ensemble Method for Emotion and Sentiment Intensity Determination
+22 16:30--17:30  # LT3 at SemEval-2018 Task 1: A classifier chain to detect emotions in tweets
+25 16:30--17:30  # SINAI at SemEval-2018 Task 1: Emotion Recognition in Tweets
+26 16:30--17:30  # UWB at SemEval-2018 Task 1: Emotion Intensity Detection in Tweets
+30 16:30--17:30  # AttnConvnet at SemEval-2018 Task 1: Attention-based Convolutional Neural Networks for Multi-label Emotion Classification
+32 16:30--17:30  # INGEOTEC at SemEval-2018 Task 1: EvoMSA and __TC for Sentiment Analysis
+34 16:30--17:30  # Epita at SemEval-2018 Task 1: Sentiment Analysis Using Transfer Learning Approach
+41 16:30--17:30  # KDE-AFFECT at SemEval-2018 Task 1: Estimation of Affects in Tweet by Using Convolutional Neural Network for n-gram
+45 16:30--17:30  # RNN for Affects at SemEval-2018 Task 1: Formulating Affect Identification as a Binary Classification Problem
+46 16:30--17:30  # Tw-StAR at SemEval-2018 Task 1: Preprocessing Impact on Multi-label Emotion Classification
+55 16:30--17:30  # DL Team at SemEval-2018 Task 1: Tweet Affect Detection using Sentiment Lexicons and Embeddings
+62 16:30--17:30  # EmoIntens Tracker at SemEval-2018 Task 1: Emotional Intensity Levels in #Tweets
+65 16:30--17:30  # uOttawa at SemEval-2018 Task 1: Self-Attentive Hybrid GRU-Based Network
+75 16:30--17:30  # THU_NGN at SemEval-2018 Task 1: Fine-grained Tweet Sentiment Intensity Analysis with Attention CNN-LSTM
+83 16:30--17:30  # EiTAKA at SemEval-2018 Task 1: An Ensemble of N-Channels ConvNet and XGboost Regressors for Emotion Analysis of Tweets
+87 16:30--17:30  # CENTEMENT at SemEval-2018 Task 1: Classification of Tweets using Multiple Thresholds with Self-correction and Weighted Conditional Probabilities
+94 16:30--17:30  # Yuan at SemEval-2018 Task 1: Tweets Emotion Intensity Prediction using Ensemble Recurrent Neural Network
+97 16:30--17:30  # AffecThor at SemEval-2018 Task 1: A cross-linguistic approach to sentiment intensity quantification in tweets
+98 16:30--17:30  # Amobee at SemEval-2018 Task 1: GRU Neural Network with a CNN Attention Mechanism for Sentiment Classification
+100 16:30--17:30  # deepSA2018 at SemEval-2018 Task 1: Multi-task Learning of Different Label for Affect in Tweets
+101 16:30--17:30  # ECNU at SemEval-2018 Task 1: Emotion Intensity Prediction Using Effective Features and Machine Learning Models
+106 16:30--17:30  # EMA at SemEval-2018 Task 1: Emotion Mining for Arabic
+112 16:30--17:30  # NTUA-SLP at SemEval-2018 Task 1: Predicting Affective Content in Tweets with Deep Attentive RNNs and Transfer Learning
+116 16:30--17:30  # CrystalFeel at SemEval-2018 Task 1: Understanding and Detecting Emotion Intensity using Affective Lexicons
+118 16:30--17:30  # PlusEmo2Vec at SemEval-2018 Task 1: Exploiting emotion knowledge from emoji and #hashtags
+122 16:30--17:30  # YNU-HPCC at SemEval-2018 Task 1: BiLSTM with Attention based Sentiment Analysis for Affect in Tweets
+126 16:30--17:30  # UG18 at SemEval-2018 Task 1: Generating Additional Training Data for Predicting Emotion Intensity in Spanish
+128 16:30--17:30  # ISCLAB at SemEval-2018 Task 1: UIR-Miner for Affect in Tweets
+129 16:30--17:30  # TCS Research at SemEval-2018 Task 1: Learning Robust Representations using Multi-Attention Architecture
+133 16:30--17:30  # DMCB at SemEval-2018 Task 1: Transfer Learning of Sentiment Classification Using Group LSTM for Emotion Intensity prediction
+136 16:30--17:30  # DeepMiner at SemEval-2018 Task 1: Emotion Intensity Recognition Using Deep Representation Learning
+148 16:30--17:30  # Zewen at SemEval-2018 Task 1: An Ensemble Model for Affect Prediction in Tweets
+152 16:30--17:30  # Amrita_student at SemEval-2018 Task 1: Distributed Representation of Social Media Text for Affects in Tweets
+156 16:30--17:30  # SSN MLRG1 at SemEval-2018 Task 1: Emotion and Sentiment Intensity Detection Using Rule Based Feature Selection
+161 16:30--17:30  # CENNLP at SemEval-2018 Task 1: Constrained Vector Space Model in Affects in Tweets
+163 16:30--17:30  # TeamCEN at SemEval-2018 Task 1: Global Vectors Representation in Emotion Detection
+164 16:30--17:30  # IIT Delhi at SemEval-2018 Task 1 : Emotion Intensity Prediction
+172 16:30--17:30  # Mutux at SemEval-2018 Task 1: Exploring Impacts of Context Information On Emotion Detection
+178 16:30--17:30  # TeamUNCC at SemEval-2018 Task 1: Emotion Detection in English and Arabic Tweets using Deep Learning
+179 16:30--17:30  # RIDDL at SemEval-2018 Task 1: Rage Intensity Detection with Deep Learning
+181 16:30--17:30  # ARB-SEN at SemEval-2018 Task1: A New Set of Features for Enhancing the Sentiment Intensity Prediction in Arabic Tweets
+187 16:30--17:30  # psyML at SemEval-2018 Task 1: Transfer Learning for Sentiment and Emotion Analysis
+191 16:30--17:30  # UIUC at SemEval-2018 Task 1: Recognizing Affect with Ensemble Models
+197 16:30--17:30  # KU-MTL at SemEval-2018 Task 1: Multi-task Identification of Affect in Tweets
+11 16:30--17:30  # EmoNLP at SemEval-2018 Task 2: English Emoji Prediction with Gradient Boosting Regression Tree Method and Bidirectional LSTM
+12 16:30--17:30  # UMDSub at SemEval-2018 Task 2: Multilingual Emoji Prediction Multi-channel Convolutional Neural Network on Subword Embedding
+19 16:30--17:30  # UMDuluth-CS8761 at SemEval-2018 Task 2: Emojis: Too many Choices?
+61 16:30--17:30  # The Dabblers at SemEval-2018 Task 2: Multilingual Emoji Prediction
+66 16:30--17:30  # THU_NGN at SemEval-2018 Task 2: Residual CNN-LSTM Network with Attention for English Emoji Prediction
+72 16:30--17:30  # #TeamINF at SemEval-2018 Task 2: Emoji Prediction in Tweets
+81 16:30--17:30  # EICA Team at SemEval-2018 Task 2: Semantic and Metadata-based Features for Multilingual Emoji Prediction
+99 16:30--17:30  # EmojiIt at SemEval-2018 Task 2: An Effective Attention-Based Recurrent Neural Network Model for Emoji Prediction with Characters Gated Words
+103 16:30--17:30  # Peperomia at SemEval-2018 Task 2: Vector Similarity Based Approach for Emoji Prediction
+104 16:30--17:30  # ECNU at SemEval-2018 Task 2: Leverage Traditional NLP Features and Neural Networks Methods to Address Twitter Emoji Prediction Task
+113 16:30--17:30  # NTUA-SLP at SemEval-2018 Task 2: Predicting Emojis using RNNs with Context-aware Attention
+114 16:30--17:30  # Hatching Chick at SemEval-2018 Task 2: Multilingual Emoji Prediction
+120 16:30--17:30  # EPUTION at SemEval-2018 Task 2: Emoji Prediction with User Adaption
+138 16:30--17:30  # PickleTeam! at SemEval-2018 Task 2: English and Spanish Emoji Prediction from Tweets
+142 16:30--17:30  # YNU-HPCC at SemEval-2018 Task 2: Multi-ensemble Bi-GRU Model with Attention Mechanism for Multilingual Emoji Prediction
+144 16:30--17:30  # DUTH at SemEval-2018 Task 2: Emoji Prediction in Tweets
+155 16:30--17:30  # TAJJEB at SemEval-2018 Task 2: Traditional Approaches Just Do the Job with Emoji Prediction
+157 16:30--17:30  # SyntNN at SemEval-2018 Task 2: is Syntax Useful for Emoji Prediction? Embedding Syntactic Trees in Multi Layer Perceptrons
+158 16:30--17:30  # Duluth UROP at SemEval-2018 Task 2: Multilingual Emoji Prediction with Ensemble Learning and Oversampling
+159 16:30--17:30  # CENNLP at SemEval-2018 Task 2: Enhanced Distributed Representation of Text using Target Classes for Emoji Prediction Representation
+174 16:30--17:30  # Manchester Metropolitan at SemEval-2018 Task 2: Random Forest with an Ensemble of Features for Predicting Emoji in Tweets
+175 16:30--17:30  # Tweety at SemEval-2018 Task 2: Predicting Emojis using Hierarchical Attention Neural Networks and Support Vector Machine
+196 16:30--17:30  # LIS at SemEval-2018 Task 2: Mixing Word Embeddings and Bag of Features for Multilingual Emoji Prediction
+7 16:30--17:30  # ALANIS at SemEval-2018 Task 3: A Feature Engineering Approach to Irony Detection in English Tweets
+16 16:30--17:30  # NEUROSENT-PDI at SemEval-2018 Task 3: Understanding Irony in Social Networks Through a Multi-Domain Sentiment Model
+23 16:30--17:30  # UWB at SemEval-2018 Task 3: Irony detection in English tweets
+28 16:30--17:30  # NIHRIO at SemEval-2018 Task 3: A Simple and Accurate Neural Network Model for Irony Detection in Twitter
+36 16:30--17:30  # LDR at SemEval-2018 Task 3: A Low Dimensional Text Representation for Irony Detection
+39 16:30--17:30  # IIIDYT at SemEval-2018 Task 3: Irony detection in English tweets
+42 16:30--17:30  # PunFields at SemEval-2018 Task 3: Detecting Irony by Tools of Humor Analysis
+43 16:30--17:30  # HashCount at SemEval-2018 Task 3: Concatenative Featurization of Tweet and Hashtags for Irony Detection
+47 16:30--17:30  # WLV at SemEval-2018 Task 3: Dissecting Tweets in Search of Irony
+49 16:30--17:30  # Random Decision Syntax Trees at SemEval-2018 Task 3: LSTMs and Sentiment Scores for Irony Detection
+56 16:30--17:30  # ELiRF-UPV at SemEval-2018 Tasks 1 and 3: Affect and Irony Detection in Tweets
+63 16:30--17:30  # IronyMagnet at SemEval-2018 Task 3: A Siamese network for Irony detection in Social media
+64 16:30--17:30  # CTSys at SemEval-2018 Task 3: Irony in Tweets
+71 16:30--17:30  # Irony Detector at SemEval-2018 Task 3: Irony Detection in English Tweets using Word Graph
+77 16:30--17:30  # Lancaster at SemEval-2018 Task 3: Investigating Ironic Features in English Tweets
+88 16:30--17:30  # INAOE-UPV at SemEval-2018 Task 3: An Ensemble Approach for Irony Detection in Twitter
+93 16:30--17:30  # ECNU at SemEval-2018 Task 3: Exploration on Irony Detection from Tweets via Machine Learning and Deep Learning Methods
+95 16:30--17:30  # KLUEnicorn at SemEval-2018 Task 3: A Naive Approach to Irony Detection
+110 16:30--17:30  # NTUA-SLP at SemEval-2018 Task 3: Tracking Ironic Tweets using Ensembles of Word and Character Level Attentive RNNs
+124 16:30--17:30  # YNU-HPCC at SemEval-2018 Task 3: Ensemble Neural Network Models for Irony Detection on Twitter
+145 16:30--17:30  # Binarizer at SemEval-2018 Task 3: Parsing dependency and deep learning for irony detection
+154 16:30--17:30  # SSN MLRG1 at SemEval-2018 Task 3: Irony Detection in English Tweets Using MultiLayer Perceptron
+160 16:30--17:30  # NLPRL-IITBHU at SemEval-2018 Task 3: Combining Linguistic Features and Emoji pre-trained CNN for Irony Detection in Tweets
+170 16:30--17:30  # ValenTO at SemEval-2018 Task 3: Exploring the Role of Affective Content for Detecting Irony in English Tweets
+185 16:30--17:30  # #NonDicevoSulSerio at SemEval-2018 Task 3: Exploiting Emojis and Affective Content for Irony Detection in English Tweets
+44 16:30--17:30  # KNU CI System at SemEval-2018 Task4: Character Identification by Solving Sequence-Labeling Problem
+20 16:30--17:30  # NewsReader at SemEval-2018 Task 5: Counting events by reasoning over event-centric-knowledge-graphs
+115 16:30--17:30  # FEUP at SemEval-2018 Task 5: An Experimental Study of a Question Answering System
+188 16:30--17:30  # NAI-SEA at SemEval-2018 Task 5: An Event Search System
+* 6 June 2018
++ 09:00--09:30 SemEval 2019 Tasks
++ 09:30--10:30 State of SemEval Discussion
++ 10:30--11:00 Coffee
+= 11:00--12:30 Tasks 7, 8 and 9 # %room TBD
+204 11:00--11:15  # SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
+60 11:15--11:30  # ETH-DS3Lab at SemEval-2018 Task 7: Effectively Combining Recurrent and Convolutional Neural Networks for Relation Classification and Extraction
+210 11:30--11:45  # SemEval-2018 Task 8: Semantic Extraction from CybersecUrity REports using Natural Language Processing (SecureNLP)
+146 11:45--12:00  # DM_NLP at SemEval-2018 Task 8: neural sequence labeling with linguistic features
+208 12:00--12:15  # SemEval-2018 Task 9: Hypernym Discovery
+80 12:15--12:30  # CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery
++ 12:30--14:00 Lunch
+= 14:00--15:30 Tasks 10, 11 and 12 # %room TBD
+211 14:00--14:15  # SemEval-2018 Task 10: Capturing Discriminative Attributes
+37 14:15--14:30  # SUNNYNLP at SemEval-2018 Task 10: A Support-Vector-Machine-Based Method for Detecting Semantic Difference using Taxonomy and Word Embedding Features
+202 14:30--14:45  # SemEval-2018 Task 11: Machine Comprehension Using Commonsense Knowledge
+8 14:45--15:00  # Yuanfudao at SemEval-2018 Task 11: Three-way Attention and Relational Knowledge for Commonsense Machine Comprehension
+203 15:00--15:15  # SemEval-2018 Task 12: The Argument Reasoning Comprehension Task
+139 15:15--15:30  # GIST at SemEval-2018 Task 12: A network transferring inference knowledge to Argument Reasoning Comprehension task
++ 15:30--16:00 Coffee
++ 16:00--16:30 Discussion
+= 16:30--17:30 Poster Session # %room TBD
+24 16:30--17:30  # LightRel at SemEval-2018 Task 7: Lightweight and Fast Relation Classification
+38 16:30--17:30  # OhioState at SemEval-2018 Task 7: Exploiting Data Augmentation for Relation Classification in Scientific Papers Using Piecewise Convolutional Neural Networks
+51 16:30--17:30  # The UWNLP system at SemEval-2018 Task 7: Neural Relation Extraction Model with Selectively Incorporated Concept Embeddings
+52 16:30--17:30  # UC3M-NII Team at SemEval-2018 Task 7: Semantic Relation Classification in Scientific Papers via Convolutional Neural Network
+67 16:30--17:30  # MIT-MEDG at SemEval-2018 Task 7: Semantic Relation Classification via Convolution Neural Network
+69 16:30--17:30  # SIRIUS-LTG-UiO at SemEval-2018 Task 7: Convolutional Neural Networks with Shortest Dependency Paths for Semantic Relation Extraction and Classification in Scientific Papers
+70 16:30--17:30  # IRCMS at SemEval-2018 Task 7 : Evaluating a basic CNN Method and Traditional Pipeline Method for Relation Classification
+78 16:30--17:30  # Bf3R at SemEval-2018 Task 7: Evaluating Two Relation Extraction Tools for Finding Semantic Relations in Biomedical Abstracts
+82 16:30--17:30  # Texterra at SemEval-2018 Task 7: Exploiting Syntactic Information for Relation Extraction and Classification in Scientific Papers
+132 16:30--17:30  # UniMa at SemEval-2018 Task 7: Semantic Relation Extraction and Classification from Scientific Publications
+147 16:30--17:30  # GU IRLAB at SemEval-2018 Task 7: Tree-LSTMs for Scientific Relation Classification
+150 16:30--17:30  # ClaiRE at SemEval-2018 Task 7: Classification of Relations using Embeddings
+168 16:30--17:30  # TakeLab at SemEval-2018 Task 7: Combining Sparse and Dense Features for Relation Classification in Scientific Texts
+173 16:30--17:30  # NEUROSENT-PDI at SemEval-2018 Task 7: Discovering Textual Relations With a Neural Network Model
+177 16:30--17:30  # SciREL at SemEval-2018 Task 7: A System for Semantic Relation Extraction and Classification
+186 16:30--17:30  # NTNU at SemEval-2018 Task 7: Classifier Ensembling for Semantic Relation Identification and Classification in Scientific Papers
+189 16:30--17:30  # Talla at SemEval-2018 Task 7: Hybrid Loss Optimization for Relation Classification using Convolutional Neural Networks
+90 16:30--17:30  # TeamDL at SemEval-2018 Task 8: Cybersecurity Text Analysis using Convolutional Neural Network and Conditional Random Fields
+130 16:30--17:30  # HCCL at SemEval-2018 Task 8: An End-to-End System for Sequence Labeling from Cybersecurity Reports
+162 16:30--17:30  # UMBC at SemEval-2018 Task 8: Understanding Text about Malware
+167 16:30--17:30  # Villani at SemEval-2018 Task 8: Semantic Extraction from Cybersecurity Reports using Representation Learning
+176 16:30--17:30  # Flytxt_NTNU at SemEval-2018 Task 8: Identifying and Classifying Malware Text Using Conditional Random Fields and Na__ve Bayes Classifiers
+193 16:30--17:30  # Digital Operatives at SemEval-2018 Task 8: Using dependency features for malware NLP
+4 16:30--17:30  # Apollo at SemEval-2018 Task 9: Detecting Hypernymy Relations Using Syntactic Dependencies
+79 16:30--17:30  # SJTU-NLP at SemEval-2018 Task 9: Neural Hypernym Discovery with Term Embeddings
+140 16:30--17:30  # NLP_HZ at SemEval-2018 Task 9: a Nearest Neighbor Approach
+143 16:30--17:30  # UMDuluth-CS8761 at SemEval-2018 Task9: Hypernym Discovery using Hearst Patterns, Co-occurrence frequencies and Word Embeddings
+171 16:30--17:30  # EXPR at SemEval-2018 Task 9: A Combined Approach for Hypernym Discovery
+194 16:30--17:30  # ADAPT at SemEval-2018 Task 9: Skip-Gram Word Embeddings for Unsupervised Hypernym Discovery in Specialised Corpora
+199 16:30--17:30  # 300-sparsans at SemEval-2018 Task 9: Hypernymy as interaction of sparse attributes
+27 16:30--17:30  # UWB at SemEval-2018 Task 10: Capturing Discriminative Attributes from Word Distributions
+29 16:30--17:30  # Meaning_space at SemEval-2018 Task 10: Combining explicitly encoded knowledge with information extracted from word embeddings
+33 16:30--17:30  # GHH at SemEval-2018 Task 10: Discovering Discriminative Attributes in Distributional Semantics
+35 16:30--17:30  # CitiusNLP at SemEval-2018 Task 10: The Use of Transparent Distributional Models and Salient Contexts to Discriminate Word Attributes
+48 16:30--17:30  # THU_NGN at SemEval-2018 Task 10: Capturing Discriminative Attributes with MLP-CNN model
+54 16:30--17:30  # ALB at SemEval-2018 Task 10: A System for Capturing Discriminative Attributes
+57 16:30--17:30  # ELiRF-UPV at SemEval-2018 Task 10: Capturing Discriminative Attributes with Knowledge Graphs and Wikipedia
+59 16:30--17:30  # Wolves at SemEval-2018 Task 10: Semantic Discrimination based on Knowledge and Association
+68 16:30--17:30  # UNAM at SemEval-2018 Task 10: Unsupervised Semantic Discriminative Attribute Identification in Neural Word Embedding Cones
+86 16:30--17:30  # Luminoso at SemEval-2018 Task 10: Distinguishing Attributes Using Text Corpora and Relational Knowledge
+91 16:30--17:30  # BomJi at SemEval-2018 Task 10: Combining Vector-, Pattern- and Graph-based Information to Identify Discriminative Attributes
+96 16:30--17:30  # Igevorse at SemEval-2018 Task 10: Exploring an Impact of Word Embeddings Concatenation for Capturing Discriminative Attributes
+121 16:30--17:30  # ECNU at SemEval-2018 Task 10: Evaluating Simple but Effective Features on Machine Learning Methods for Semantic Difference Detection
+127 16:30--17:30  # AmritaNLP at SemEval-2018 Task 10: Capturing discriminative attributes using convolution neural network over global vector representation.
+151 16:30--17:30  # Discriminator at SemEval-2018 Task 10: Minimally Supervised Discrimination
+153 16:30--17:30  # UNBNLP at SemEval-2018 Task 10: Evaluating unsupervised approaches to capturing discriminative attributes
+165 16:30--17:30  # ABDN at SemEval-2018 Task 10: Recognising Discriminative Attributes using Context Embeddings and WordNet
+180 16:30--17:30  # UMD at SemEval-2018 Task 10: Can Word Embeddings Capture Discriminative Attributes?
+195 16:30--17:30  # NTU NLP Lab System at SemEval-2018 Task 10: Verifying Semantic Differences by Integrating Distributional Information and Expert Knowledge
+58 16:30--17:30  # ELiRF-UPV at SemEval-2018 Task 11: Machine Comprehension using Commonsense Knowledge
+89 16:30--17:30  # YNU_AI1799 at SemEval-2018 Task 11: Machine Comprehension using Commonsense Knowledge of Different model ensemble
+92 16:30--17:30  # YNU_Deep at SemEval-2018 Task 11: An Ensemble of Attention-based BiLSTM Models for Machine Comprehension
+102 16:30--17:30  # ECNU at SemEval-2018 Task 11: Using Deep Learning Method to Address Machine Comprehension Task
+109 16:30--17:30  # CSReader at SemEval-2018 Task 11: Multiple Choice Question Answering as Textual Entailment
+123 16:30--17:30  # YNU-HPCC at Semeval-2018 Task 11: Using an Attention-based CNN-LSTM for Machine Comprehension using Commonsense Knowledge
+149 16:30--17:30  # Jiangnan at SemEval-2018 Task 11: Deep Neural Network with Attention Method for Machine Comprehension Task
+166 16:30--17:30  # IUCM at SemEval-2018 Task 11: Similar-Topic Texts as a Comprehension Knowledge Source
+183 16:30--17:30  # Lyb3b at SemEval-2018 Task 11: Machine Comprehension Task using Deep Learning Models
+192 16:30--17:30  # MITRE at SemEval-2018 Task 11: Commonsense Reasoning without Commonsense Knowledge
+50 16:30--17:30  # SNU_IDS at SemEval-2018 Task 12: Sentence Encoder with Contextualized Vectors for Argument Reasoning Comprehension
+53 16:30--17:30  # ITNLP-ARC at SemEval-2018 Task 12: Argument Reasoning Comprehension with Attention
+105 16:30--17:30  # ECNU at SemEval-2018 Task 12: An End-to-End Attention-based Neural Network for the Argument Reasoning Comprehension Task
+117 16:30--17:30  # NLITrans at SemEval-2018 Task 12: Transfer of Semantic Knowledge for Argument Comprehension
+119 16:30--17:30  # BLCU_NLP at SemEval-2018 Task 12: An Ensemble Model for Argument Reasoning Based on Hierarchical Attention
+125 16:30--17:30  # YNU-HPCC at SemEval-2018 Task 12: The Argument Reasoning Comprehension Task Using a Bi-directional LSTM with Attention Model
+131 16:30--17:30  # HHU at SemEval-2018 Task 12: Analyzing an Ensemble-based Deep Learning Approach for the Argument Mining Task of Choosing the Correct Warrant
+134 16:30--17:30  # YNU Deep at SemEval-2018 Task 12: A BiLSTM Model with Neural Attention for Argument Reasoning Comprehension
+135 16:30--17:30  # UniMelb at SemEval-2018 Task 12: Generative Implication using LSTMs, Siamese Networks and Semantic Representations with Synonym Fuzzing
+137 16:30--17:30  # Joker at SemEval-2018 Task 12: The Argument Reasoning Comprehension with Neural Attention
+141 16:30--17:30  # TakeLab at SemEval-2018 Task12: Argument Reasoning Comprehension with Skip-Thought Vectors
+184 16:30--17:30  # Lyb3b at SemEval-2018 Task 12: Ensemble-based Deep Learning Models for Argument Reasoning Comprehension Task
+190 16:30--17:30  # TRANSRW at SemEval-2018 Task 12: Transforming Semantic Representations for Argument Reasoning Comprehension

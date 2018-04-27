@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#AttnConvnet at SemEval-2018 Task 1: Attention-based Convolutional Neural Networks for Multi-label Emotion Classification
+ShortPaperTitle#=%=#Attention-based Convolutional Neural Networks for Multi-label Emotion Classification
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yanghoon Kim
+JobTitle#==#
+Organization#==#Seoul National University, Seoul, Korea
+Abstract#==#In this paper, we propose an attention-based classifier that predicts multiple emotions of a given sentence. Our model imitates human’s two-step procedure of sentence understanding and it can effectively represent and classify sentences. With emoji-to-meaning preprocessing and extra lexicon utilization, we further improve the model performance. We train and evaluate our model with data provided by SemEval-2018 task 1-5, each sentence of which has several labels among 11 given emotions. Our model achieves 5th/1st rank in English/Spanish respectively.
+Author{1}{Firstname}#=%=#Yanghoon
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Email}#=%=#ad26kr@snu.ac.kr
+Author{1}{Affiliation}#=%=#Seoul National University
+Author{2}{Firstname}#=%=#Hwanhee
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#hwanhee@milab.snu.ac.kr
+Author{2}{Affiliation}#=%=#Seoul National University
+Author{3}{Firstname}#=%=#Kyomin
+Author{3}{Lastname}#=%=#Jung
+Author{3}{Email}#=%=#kjung@snu.ac.kr
+Author{3}{Affiliation}#=%=#Seoul National University
+
+==========

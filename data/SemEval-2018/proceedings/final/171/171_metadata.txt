@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#171
+FinalPaperTitle#=%=#EXPR at SemEval-2018 Task 9: A Combined Approach for Hypernym Discovery
+ShortPaperTitle#=%=#EXPR at SemEval-2018 Task 9: A Combined Approach for Hypernym Discovery
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ahmad Issa Alaa Aldine
+JobTitle#==#
+Organization#==#Bretagne Sud University
+Abstract#==#In this paper, we present our proposed system (EXPR) to participate in the hypernym discovery task of SemEval 2018. The task addresses the challenge of discovering hypernym relations from a text corpus. Our proposal is a combined approach of path-based technique and distributional technique. We use dependency parser on a corpus to extract candidate hypernyms and represent their dependency paths as a feature vector. The feature vector is concatenated with a feature vector obtained using Wikipedia pre-trained term embedding model. The concatenated feature vector fits a supervised machine learning method to learn a classifier model. This model is able to classify new candidate hypernyms as hypernym or not. Our system performs well to discover new hypernyms not defined in gold hypernyms.
+Author{1}{Firstname}#=%=#Ahmad
+Author{1}{Lastname}#=%=#Issa Alaa Aldine
+Author{1}{Email}#=%=#ahmad_alaa_eddein@hotmail.com
+Author{1}{Affiliation}#=%=#Bretagne Sud University
+Author{2}{Firstname}#=%=#Mounira
+Author{2}{Lastname}#=%=#Harzallah
+Author{2}{Email}#=%=#mounira.harzallah@univ-nantes.fr
+Author{2}{Affiliation}#=%=#LINA - University of Nantes, France
+Author{3}{Firstname}#=%=#Giuseppe
+Author{3}{Lastname}#=%=#Berio
+Author{3}{Email}#=%=#giuseppe.berio@univ-ubs.fr
+Author{3}{Affiliation}#=%=#IRISA - University Bretagne Sud, France
+Author{4}{Firstname}#=%=#Nicolas
+Author{4}{Lastname}#=%=#Béchet
+Author{4}{Email}#=%=#nicolas.bechet@irisa.fr
+Author{4}{Affiliation}#=%=#IRISA - University Bretagne Sud, France
+Author{5}{Firstname}#=%=#Ahmad
+Author{5}{Lastname}#=%=#Faour
+Author{5}{Email}#=%=#ahmad.faour@ul.edu.lb
+Author{5}{Affiliation}#=%=#Lebanese University, Lebanon
+
+==========

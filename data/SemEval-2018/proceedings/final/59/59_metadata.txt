@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#59
+FinalPaperTitle#=%=#Wolves at SemEval-2018 Task 10: Semantic Discrimination based on Knowledge and Association
+ShortPaperTitle#=%=#Wolves at SemEval-2018 Task 10: Semantic Discrimination based on Knowledge and Association
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Shiva Taslimipoor
+JobTitle#==#
+Organization#==#Research Group in Computational Linguistics, University of Wolverhampton, UK
+Abstract#==#This paper describes the system submitted to SemEval 2018 shared task 10
+‘Capturing Dicriminative  Attributes’.   We  use  a  combination  of 
+knowledge-based  and  co-occurrence features to capture the semantic difference
+between two words in relation to an attribute. We define scores based on
+association measures, ngram counts,  word similarity,  and ConceptNet
+relations.  The system is ranked 4th (joint) on the official leaderboard of the
+task.
+Author{1}{Firstname}#=%=#Shiva
+Author{1}{Lastname}#=%=#Taslimipoor
+Author{1}{Email}#=%=#shiva.taslimi@wlv.ac.uk
+Author{1}{Affiliation}#=%=#Research Group in Computational Linguistics, Wolverhampton University
+Author{2}{Firstname}#=%=#Omid
+Author{2}{Lastname}#=%=#Rohanian
+Author{2}{Email}#=%=#omid.rohanian@wlv.ac.uk
+Author{2}{Affiliation}#=%=#University of Wolverhampton
+Author{3}{Firstname}#=%=#Le An
+Author{3}{Lastname}#=%=#Ha
+Author{3}{Email}#=%=#l.a.ha@wlv.ac.uk
+Author{3}{Affiliation}#=%=#RGCL, RIILP, University of Wolverhampton
+Author{4}{Firstname}#=%=#Gloria
+Author{4}{Lastname}#=%=#Corpas Pastor
+Author{4}{Email}#=%=#gcorpas@uma.es
+Author{4}{Affiliation}#=%=#Universidad de Málaga
+Author{5}{Firstname}#=%=#Ruslan
+Author{5}{Lastname}#=%=#Mitkov
+Author{5}{Email}#=%=#r.mitkov@wlv.ac.uk
+Author{5}{Affiliation}#=%=#University of Wolverhampton
+
+==========

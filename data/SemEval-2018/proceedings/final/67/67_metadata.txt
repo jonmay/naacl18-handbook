@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#67
+FinalPaperTitle#=%=#MIT-MEDG at SemEval-2018 Task 7: Semantic Relation Classification via Convolution Neural Network
+ShortPaperTitle#=%=#MIT-MEDG at SemEval-2018 Task 7: Semantic Relation Classification via Convolution Neural Network
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Di Jin
+JobTitle#==#Graduate
+Organization#==#Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA, 02139, USA
+Abstract#==#SemEval 2018 Task 7 tasked participants to build a system to classify two entities within a sentence into one of the 6 possible relation types. We tested 3 classes of models: Linear classifiers, Long Short-Term Memory (LSTM) models, and Convolutional Neural Network (CNN) models. Ultimately, the CNN model class proved most performant, so we specialized to this model for our final submissions.
+
+We improved performance beyond a vanilla CNN by including a variant of negative sampling, using custom word embeddings learned over a corpus of ACL articles, training over corpora of both tasks 1.1 and 1.2, using reversed feature, using part of context words beyond the entity pairs and using ensemble methods to improve our final predictions. We also tested attention based pooling, up-sampling, and data augmentation, but none improved performance. Our model achieved rank~6  out of~28 (macro-averaged F1-score: 72.7) in subtask 1.1, and rank~4 out of~20 (macro F1: 80.6) in subtask 1.2.
+Author{1}{Firstname}#=%=#Di
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Email}#=%=#jindi15@mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Franck
+Author{2}{Lastname}#=%=#Dernoncourt
+Author{2}{Email}#=%=#franck.dernoncourt@adobe.com
+Author{2}{Affiliation}#=%=#Adobe Research
+Author{3}{Firstname}#=%=#Elena
+Author{3}{Lastname}#=%=#Sergeeva
+Author{3}{Email}#=%=#elenaser@mit.edu
+Author{3}{Affiliation}#=%=#MIT CSAIL
+Author{4}{Firstname}#=%=#Matthew
+Author{4}{Lastname}#=%=#McDermott
+Author{4}{Email}#=%=#mmd@mit.edu
+Author{4}{Affiliation}#=%=#MIT
+Author{5}{Firstname}#=%=#Geeticka
+Author{5}{Lastname}#=%=#Chauhan
+Author{5}{Email}#=%=#geeticka@mit.edu
+Author{5}{Affiliation}#=%=#Massachusetts Institute of Technology
+
+==========

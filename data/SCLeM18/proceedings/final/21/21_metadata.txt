@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#A Multi-Context Character Prediction Model for a Brain-Computer Interface
+ShortPaperTitle#=%=#A Multi-Context Character Prediction Model for a Brain-Computer Interface
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Shiran Dudy
+JobTitle#==#
+Organization#==#Center for Spoken Language Understanding
+Oregon Health & Science University
+3181 S.W. Sam Jackson Park Rd.
+Portland, Oregon 97239-3098
+Abstract#==#Brain-computer interfaces and other augmentative and alternative communication devices introduce language-modeing challenges distinct from other character-entry methods.  In particular, the acquired signal of the EEG (electroencephalogram) signal is noisier, which, in turn, makes the user intent harder to decipher. In order to adapt to this condition, we propose to maintain ambiguous history for every time step, and to employ, apart from the character language model, word information to produce a more robust prediction system. We present preliminary results that compare this proposed Online-Context Language Model (OCLM) to current algorithms that are used in this type of setting. Evaluation on both perplexity and predictive accuracy demonstrates promising results when dealing with ambiguous histories in order to provide to the front end a distribution of the next character the user might type.
+Author{1}{Firstname}#=%=#Shiran
+Author{1}{Lastname}#=%=#Dudy
+Author{1}{Email}#=%=#dudy@ohsu.edu
+Author{1}{Affiliation}#=%=#Oregon Health & Science University
+Author{2}{Firstname}#=%=#Shaobin
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#shaobinx@ccs.neu.edu
+Author{2}{Affiliation}#=%=#Northeastern University
+Author{3}{Firstname}#=%=#Steven
+Author{3}{Lastname}#=%=#Bedrick
+Author{3}{Email}#=%=#bedricks@ohsu.edu
+Author{3}{Affiliation}#=%=#Oregon Health & Science University
+Author{4}{Firstname}#=%=#David
+Author{4}{Lastname}#=%=#Smith
+Author{4}{Email}#=%=#dasmith@ccs.neu.edu
+Author{4}{Affiliation}#=%=#Northeastern University
+
+==========

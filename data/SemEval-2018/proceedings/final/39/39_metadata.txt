@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#IIIDYT at SemEval-2018 Task 3: Irony detection in English tweets
+ShortPaperTitle#=%=#IIIDYT at SemEval-2018 Task 3: Irony detection in English tweets
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Edison Marrese-Taylor
+JobTitle#==#
+Organization#==#The University of Tokyo
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8654, Japan
+Abstract#==#In this paper we introduce our system for the task of Irony detection in English tweets, a part of SemEval 2018. We propose representation learning approach that relies on a multi-layered bidirectional LSTM, without using external features that provide additional semantic information. Although our model is able to outperform the baseline in the validation set, our results show limited generalization power over the test set. Given the limited size of the dataset, we think the usage of more pre-training schemes would greatly improve the obtained results.
+Author{1}{Firstname}#=%=#Edison
+Author{1}{Lastname}#=%=#Marrese-Taylor
+Author{1}{Email}#=%=#edison_marrese@hotmail.com
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Suzana
+Author{2}{Lastname}#=%=#Ilic
+Author{2}{Email}#=%=#suzana.ilic.tokyo@gmail.com
+Author{2}{Affiliation}#=%=#PhD student (University of Innsbruck)
+Author{3}{Firstname}#=%=#Jorge
+Author{3}{Lastname}#=%=#Balazs
+Author{3}{Email}#=%=#jorge@weblab.t.u-tokyo.ac.jp
+Author{3}{Affiliation}#=%=#University of Tokyo
+Author{4}{Firstname}#=%=#Helmut
+Author{4}{Lastname}#=%=#Prendinger
+Author{4}{Email}#=%=#helmut@nii.ac.jp
+Author{4}{Affiliation}#=%=#National Institute of Informatics, Tokyo, Japan
+Author{5}{Firstname}#=%=#Yutaka
+Author{5}{Lastname}#=%=#Matsuo
+Author{5}{Email}#=%=#matsuo@weblab.t.u-tokyo.ac.jp
+Author{5}{Affiliation}#=%=#University of Tokyo
+
+==========

@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Robust Word Vectors: Embeddings for Noisy Texts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We suggest a new language-independent architecture of robust word vectors (RoVe). It is designed to alleviate the issue of typos, which are common in almost any user-generated content, and hinder automatic text processing.
+  We present the results on a number of Natural Language Processing (NLP) tasks and languages for the variety of related architectures and show that proposed architecture is typo-proof.
+Author{1}{Firstname}#=%=#Valentin
+Author{1}{Lastname}#=%=#Malykh
+Author{1}{Email}#=%=#valentin.malykh@phystech.edu
+Author{1}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#111
+FinalPaperTitle#=%=#KOI at SemEval-2018 Task 5: Building Knowledge Graph of Incidents
+ShortPaperTitle#=%=#KOI at SemEval-2018 Task 5: Building Knowledge Graph of Incidents
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Paramita Mirza
+JobTitle#==#
+Organization#==#Max Planck Institute for Informatics
+Abstract#==#We present KOI (Knowledge of Incidents), a system that given news articles as input, builds a knowledge graph (KOI-KG) of incidental events.
+KOI-KG can then be used to efficiently answer questions such "How many killing incidents happened in 2017 that involve Sean?" The required steps in building the KG include:
+(i) document preprocessing involving word sense disambiguation, named-entity recognition, temporal expression recognition and normalization, and semantic role labeling;
+(ii) incidental event extraction and coreference resolution via document clustering; and 
+(iii) KG construction and population.
+Author{1}{Firstname}#=%=#Paramita
+Author{1}{Lastname}#=%=#Mirza
+Author{1}{Email}#=%=#paramita135@gmail.com
+Author{1}{Affiliation}#=%=#Max Planck Institute for Informatics
+Author{2}{Firstname}#=%=#Fariz
+Author{2}{Lastname}#=%=#Darari
+Author{2}{Email}#=%=#fariz@cs.ui.ac.id
+Author{2}{Affiliation}#=%=#Faculty of Computer Science, Universitas Indonesia
+Author{3}{Firstname}#=%=#Rahmad
+Author{3}{Lastname}#=%=#Mahendra
+Author{3}{Email}#=%=#rahmad.mahendra@cs.ui.ac.id
+Author{3}{Affiliation}#=%=#Faculty of Computer Science, Universitas Indonesia
+
+==========

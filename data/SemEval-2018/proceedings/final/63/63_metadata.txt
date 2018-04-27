@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#63
+FinalPaperTitle#=%=#IronyMagnet at SemEval-2018 Task 3: A Siamese network for Irony detection in Social media
+ShortPaperTitle#=%=#IronyMagnet at SemEval-2018 Task 3: A Siamese network for Irony detection in Social media
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Aniruddha Ghosh
+JobTitle#==#
+Organization#==#University College Dublin, Belfield Dublin 4, Ireland.
+Abstract#==#This paper describes our system, entitled
+IronyMagnet, for the 3rd Task of the SemEval
+2018 workshop, “Irony Detection in English
+Tweets”. In Task 1, irony classification task
+has been considered as a binary classification
+task. Now for the first time, finer categories of
+irony are considered as part of a shared task.
+In task 2, three types of irony are considered;
+“Irony by contrast” - ironic instances where
+evaluative expression portrays inverse polar-
+ity (positive, negative) of the literal propo-
+sition; “Situational irony” - ironic instances
+where output of a situation do not comply
+with its expectation; “Other verbal irony” - in-
+stances where ironic intent does not rely on
+polarity contrast or unexpected outcome. We
+proposed a Siamese neural network for irony
+detection, which is consisted of two subnet-
+works, each containing a long short term mem-
+ory layer(LSTM) and an embedding layer ini-
+tialized with vectors from Glove word embed-
+ding 1 . The system achieved a f-score of 0.72,
+and 0.50 in task 1, and task 2 respectively.
+Author{1}{Firstname}#=%=#Aniruddha
+Author{1}{Lastname}#=%=#Ghosh
+Author{1}{Email}#=%=#arghyaonline@gmail.com
+Author{1}{Affiliation}#=%=#University College Dublin
+Author{2}{Firstname}#=%=#Tony
+Author{2}{Lastname}#=%=#Veale
+Author{2}{Email}#=%=#tony.veale@gmail.com
+Author{2}{Affiliation}#=%=#University College Dublin
+
+==========

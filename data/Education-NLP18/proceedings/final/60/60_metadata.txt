@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#60
+FinalPaperTitle#=%=#Second Language Acquisition Modeling: An Ensemble Approach
+ShortPaperTitle#=%=#Second Language Acquisition Modeling: An Ensemble Approach
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Anton Osika
+JobTitle#==#Research Engineer
+Organization#==#Sana Labs, Nybrogatan 8, 114 34 Stockholm, Sweden
+Abstract#==#Accurate prediction of students’ knowledge is a fundamental building block of personalized learning systems. Here, we propose an ensemble model to predict student knowledge gaps. Applying our approach to student trace data from the online educational platform Duolingo we achieved highest score on all three datasets in the 2018 Shared Task on Second Language Acquisition Modeling. We describe our model and discuss relevance of the task compared to how it would be setup in a production environment for personalized education.
+Author{1}{Firstname}#=%=#Anton
+Author{1}{Lastname}#=%=#Osika
+Author{1}{Email}#=%=#anton@sanalabs.com
+Author{1}{Affiliation}#=%=#Sana Labs AB
+Author{2}{Firstname}#=%=#Susanna
+Author{2}{Lastname}#=%=#Nilsson
+Author{2}{Email}#=%=#susanna@sanalabs.com
+Author{2}{Affiliation}#=%=#Sana Labs AB
+Author{3}{Firstname}#=%=#Andrii
+Author{3}{Lastname}#=%=#Sydorchuk
+Author{3}{Email}#=%=#andrii@sanalabs.com
+Author{3}{Affiliation}#=%=#Sana Labs AB
+Author{4}{Firstname}#=%=#Faruk
+Author{4}{Lastname}#=%=#Sahin
+Author{4}{Email}#=%=#faruk@sanalabs.com
+Author{4}{Affiliation}#=%=#Sana Labs AB
+Author{5}{Firstname}#=%=#Anders
+Author{5}{Lastname}#=%=#Huss
+Author{5}{Email}#=%=#anders@sanalabs.com
+Author{5}{Affiliation}#=%=#Sana Labs AB
+
+==========

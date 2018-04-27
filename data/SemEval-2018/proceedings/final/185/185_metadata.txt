@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#185
+FinalPaperTitle#=%=##NonDicevoSulSerio at SemEval-2018 Task 3: Exploiting Emojis and Affective Content for Irony Detection in English Tweets
+ShortPaperTitle#=%=##NonDicevoSulSerio at SemEval-2018 Task 3
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Endang Wahyu Pamungkas
+JobTitle#==#
+Organization#==#Dipartimento di Informatica, University of Turin, Corso Svizzera, 185 - 10149 Torino
+Abstract#==#This paper describes the participation of the #NonDicevoSulSerio team at SemEval2018-Task3, which focused on Irony Detection in English Tweets and was articulated in two tasks addressing the identification of irony at different levels of granularity. We participated in both tasks proposed: Task A is a classical binary classification task to determine whether a tweet is ironic or not, while Task B is a multiclass classification task devoted to distinguish different types of irony, where systems have to predict one out of four labels describing verbal irony by clash, other verbal irony, situational
+irony, and non-irony. We addressed both tasks by proposing a model built upon a well-engineered features set involving both syntactic and lexical features, and a wide range of affective-based features, covering different facets of sentiment and emotions. The use of new features for taking advantage of the affective information conveyed by emojis has been analyzed. On this line, we also tried to exploit the possible incongruity between sentiment expressed in the text and in the emojis included in a tweet. We used a Support Vector Machine classifier, and obtained promising results. We also carried on experiments in an unconstrained setting.
+Author{1}{Firstname}#=%=#Endang Wahyu
+Author{1}{Lastname}#=%=#Pamungkas
+Author{1}{Email}#=%=#pamungka@di.unito.it
+Author{1}{Affiliation}#=%=#University of Turin, Dipartimento di Informatica
+Author{2}{Firstname}#=%=#Viviana
+Author{2}{Lastname}#=%=#Patti
+Author{2}{Email}#=%=#patti@di.unito.it
+Author{2}{Affiliation}#=%=#University of Turin, Dipartimento di Informatica
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#NT2Lex: A CEFR-Graded Lexical Resource for Dutch as a Foreign Language Linked to Open Dutch WordNet
+ShortPaperTitle#=%=#NT2Lex: A CEFR-Graded Lexical Resource for Dutch as a Foreign Language Linked to Open Dutch WordNet
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Anaïs Tack
+JobTitle#==#
+Organization#==#CENTAL
+Université catholique de Louvain
+Place Blaise Pascal, 1
+1348 Louvain-la-Neuve
+Belgium
+Abstract#==#In this paper, we introduce NT2Lex, a novel lexical resource for Dutch as a foreign language (NT2) which includes frequency distributions of 17,743 words and expressions attested in expert-written textbook texts and readers graded along the scale of the Common European Framework of Reference (CEFR). In essence, the lexicon informs us about what kind of vocabulary should be understood when reading Dutch as a non-native reader at a particular proficiency level.
+The main novelty of the resource with respect to the previously developed CEFR-graded lexicons concerns the introduction of corpus-based evidence for L2 word sense complexity through the linkage to Open Dutch WordNet (Postma et al., 2016). The resource thus contains, on top of the lemmatised and part-of-speech tagged lexical entries, a total of 11,999 unique word senses and 8,934 distinct synsets.
+Author{1}{Firstname}#=%=#Anaïs
+Author{1}{Lastname}#=%=#Tack
+Author{1}{Email}#=%=#anais.tack@uclouvain.be
+Author{1}{Affiliation}#=%=#Catholic University of Louvain
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#François
+Author{2}{Email}#=%=#thomas.francois@uclouvain.be
+Author{2}{Affiliation}#=%=#Catholic University of Louvain
+Author{3}{Firstname}#=%=#Piet
+Author{3}{Lastname}#=%=#Desmet
+Author{3}{Email}#=%=#piet.desmet@kuleuven.be
+Author{3}{Affiliation}#=%=#KU Leuven
+Author{4}{Firstname}#=%=#Cédrick
+Author{4}{Lastname}#=%=#Fairon
+Author{4}{Email}#=%=#cedrick.fairon@uclouvain.be
+Author{4}{Affiliation}#=%=#Catholic University of Louvain
+
+==========

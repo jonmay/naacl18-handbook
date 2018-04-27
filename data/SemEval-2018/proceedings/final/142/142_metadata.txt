@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#142
+FinalPaperTitle#=%=#YNU-HPCC at SemEval-2018 Task 2: Multi-ensemble Bi-GRU Model with Attention Mechanism for Multilingual Emoji Prediction
+ShortPaperTitle#=%=#Multi-ensemble Bi-GRU Model with Attention Mechanism for Multilingual Emoji Prediction
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nan Wang
+JobTitle#==#
+Organization#==#Yunnan University, China
+Abstract#==#This paper describes our approach to SemEval-2018 Task 2, which aims to predict the most likely associated emoji, given a tweet in English or Spanish. We normalized text-based tweets during pre-processing, following which we utilized a bi-directional gated recurrent unit with an attention mechanism to build our base model. Multi-models with or without class weights were trained for the ensemble methods. We boosted models without class weights, and only strong boost classifiers were identified. In our system, not only was a boosting method used, but we also took advantage of the voting ensemble method to enhance our final system result. Our method demonstrated an obvious improvement of approximately 3% of the macro F1 score in English and 2% in Spanish.
+Author{1}{Firstname}#=%=#Nan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#sherlock_1412@126.com
+Author{1}{Affiliation}#=%=#Yunnan University
+Author{2}{Firstname}#=%=#Jin
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#wangjin@ynu.edu.cn
+Author{2}{Affiliation}#=%=#Yunnan University
+Author{3}{Firstname}#=%=#Xuejie
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#xjzhang@ynu.edu.cn
+Author{3}{Affiliation}#=%=#Yunnan University
+
+==========

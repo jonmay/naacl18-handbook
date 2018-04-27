@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#177
+FinalPaperTitle#=%=#SciREL at SemEval-2018 Task 7: A System for Semantic Relation Extraction and Classification
+ShortPaperTitle#=%=#SciREL at SemEval-2018 Task 7: A System for Semantic Relation Extraction and Classification
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#DARSHINI MAHENDRAN
+JobTitle#==#
+Organization#==#Virginia Commonwealth University
+Engineering East Hall, Room E4255, Richmond, VA, United-States
+Abstract#==#This paper describes our system, SciREL (Scientific abstract RELation extraction system), developed for the SemEval 2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers. We present a feature-vector based system to extract explicit semantic relation and classify them. Our system is trained in the ACL corpus (BIrd et al., 2008) that contains annotated abstracts given by the task organizers. When an abstract with annotated entities is given as the input into our system, it extracts the semantic relations through a set of defined features and classifies them into one of the given six categories of relations through feature engineering and a learned model. For the best combination of features, our system SciREL obtained an F-measure of 20.03 on the official test corpus which includes 150 abstracts in the relation classification Subtask 1.1. In this paper, we provide an in-depth error analysis of our results to prevent duplication of research efforts in the development of future systems
+Author{1}{Firstname}#=%=#Darshini
+Author{1}{Lastname}#=%=#Mahendran
+Author{1}{Email}#=%=#mahendrand@vcu.edu
+Author{1}{Affiliation}#=%=#Virginia Commonwealth University
+Author{2}{Firstname}#=%=#Chathurika
+Author{2}{Lastname}#=%=#Brahmana
+Author{2}{Email}#=%=#brahmanacsw@vcu.edu
+Author{2}{Affiliation}#=%=#Virginia Commonwealth University
+Author{3}{Firstname}#=%=#Bridget
+Author{3}{Lastname}#=%=#McInnes
+Author{3}{Email}#=%=#btmcinnes@vcu.edu
+Author{3}{Affiliation}#=%=#Virginia Commonwealth University
+
+==========

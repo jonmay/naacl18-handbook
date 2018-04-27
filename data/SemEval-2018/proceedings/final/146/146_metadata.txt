@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#146
+FinalPaperTitle#=%=#DM_NLP at SemEval-2018 Task 8: neural sequence labeling with linguistic features
+ShortPaperTitle#=%=#DM_NLP at SemEval-2018 Task 8: neural sequence labeling with linguistic features
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Pengjun Xie
+JobTitle#==#
+Organization#==#Alibaba Group, China
+Abstract#==#This paper describes our submissions for SemEval-2018 Task 8: Semantic Extraction from CybersecUrity REports using NLP. The DM\_NLP participated in two subtasks: SubTask 1 classifies if a sentence is useful for inferring malware actions and capabilities, and SubTask 2 predicts token labels ("Action", "Entity", "Modifier" and "Others") for a given malware-related sentence. Since we leverage results of Subtask 2 directly to infer the result of Subtask 1, the paper focus on the system solving Subtask 2. By taking Subtask 2 as a sequence labeling task, our system relies on a recurrent neural network named BiLSTM-CNN-CRF with rich linguistic features, such as POS tags, dependency parsing labels, chunking labels, NER labels, Brown clustering. Our system achieved the highest F1 score in both token level and phrase level.
+Author{1}{Firstname}#=%=#Chunping
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Email}#=%=#chunping.mcp@alibaba-inc.com
+Author{1}{Affiliation}#=%=#Alibaba
+Author{2}{Firstname}#=%=#Huafei
+Author{2}{Lastname}#=%=#Zheng
+Author{2}{Email}#=%=#huafei.zhf@alibaba-inc.com
+Author{2}{Affiliation}#=%=#Alibaba
+Author{3}{Firstname}#=%=#Pengjun
+Author{3}{Lastname}#=%=#Xie
+Author{3}{Email}#=%=#chengchen.xpj@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba
+Author{4}{Firstname}#=%=#Chen
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#puji.lc@alibaba-inc.com
+Author{4}{Affiliation}#=%=#Alibaba
+Author{5}{Firstname}#=%=#Linlin
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#linyan.lll@alibaba-inc.com
+Author{5}{Affiliation}#=%=#Alibaba
+Author{6}{Firstname}#=%=#Luo
+Author{6}{Lastname}#=%=#Si
+Author{6}{Email}#=%=#luo.si@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba
+
+==========

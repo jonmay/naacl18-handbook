@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#3023
+FinalPaperTitle#=%=#Cross-language Article Linking using Cross-Encyclopedia Entity Embedding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Cross-language article linking (CLAL) is the task of finding corresponding article pairs of different languages across encyclopedias. This task is a difficult disambiguation problem that one article must be selected among several candidate articles with similar titles and contents. Existing works focus on engineering text-based or link-based features for this task, which is time-consuming job and some are only applicable within the same encyclopedia. In this paper, we address these problems by proposing cross-encyclopedia entity embedding. Unlike other works, the proposed method does not rely on known cross-language pairs. We apply the proposed method to CLAL between English Wikipedia and Chinese Baidu Baike. Our features improve performance relative to the baseline by 29.62%. Tested 30 times, our system achieved an average improvement of 2.76% over the current best system (26.86% over baseline), a statistically significant result.
+Author{1}{Firstname}#=%=#Chun-Kai
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#s106062851@m106.nthu.edu.tw
+Author{1}{Affiliation}#=%=#Department of Computer Science, National Tsing Hua University.
+Author{2}{Firstname}#=%=#Richard Tzong-Han
+Author{2}{Lastname}#=%=#Tsai
+Author{2}{Email}#=%=#thtsai@csie.ncu.edu.tw
+Author{2}{Affiliation}#=%=#National Central University
+
+==========

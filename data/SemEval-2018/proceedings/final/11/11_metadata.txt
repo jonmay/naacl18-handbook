@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#EmoNLP at SemEval-2018 Task 2: English Emoji Prediction with Gradient Boosting Regression Tree Method and Bidirectional LSTM
+ShortPaperTitle#=%=#English Emoji Prediction with Gradient Boosting Regression Tree Method and Bidirectional LSTM
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Liu Man
+JobTitle#==#
+Organization#==#NA
+Abstract#==#This paper describes our system used in the English Emoji Prediction Task 2 at
+the SemEval-2018. Our system is based on two supervised machine learning
+algorithms: Gradient Boosting Regression Tree Method (GBM) and Bidirectional
+Long Short-term Memory Network (BLSTM). Besides the common features, we extract
+various lexicon and syntactic features from external resources. After comparing
+the results of two algorithms, GBM is chosen for the final evaluation.
+Author{1}{Firstname}#=%=#Man
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liumanlalala@gmail.com
+Author{1}{Affiliation}#=%=#Independent Researcher
+
+==========

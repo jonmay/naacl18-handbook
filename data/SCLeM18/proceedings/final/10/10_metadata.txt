@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Morphological Word Embeddings for Arabic Neural Machine Translation in Low-Resource Settings
+ShortPaperTitle#=%=#Morphological Word Embeddings for Arabic Neural Machine Translation in Low-Resource Settings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Pamela Shapiro
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N. Charles Street
+Baltimore, MD 21218
+Abstract#==#Neural machine translation has achieved impressive results in the last few years, but its success has been limited to settings with large amounts of parallel data. One way to improve NMT for lower-resource settings is to initialize a word-based NMT model with pretrained word embeddings. However, rare words still suffer from lower quality word embeddings when trained with standard word-level objectives. We introduce word embeddings that utilize morphological resources, and compare to purely unsupervised alternatives. We work with Arabic, a morphologically rich language with available linguistic resources, and perform Ar-to-En MT experiments on a small corpus of TED subtitles. We find that word embeddings utilizing subword information consistently outperform standard word embeddings on a word similarity task and as initialization of the source word embeddings in a low-resource NMT system.
+Author{1}{Firstname}#=%=#Pamela
+Author{1}{Lastname}#=%=#Shapiro
+Author{1}{Email}#=%=#pshapiro@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Duh
+Author{2}{Email}#=%=#kevinduh@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+
+==========

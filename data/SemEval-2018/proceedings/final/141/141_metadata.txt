@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#141
+FinalPaperTitle#=%=#TakeLab at SemEval-2018 Task12: Argument Reasoning Comprehension with Skip-Thought Vectors
+ShortPaperTitle#=%=#TakeLab at SemEval-2018 Task12: Argument Reasoning Comprehension with Skip-Thought Vectors
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Jan Šnajder
+JobTitle#==#
+Organization#==#University of Zagreb Faculty of Electrical Engineering and Computing
+Unska 3, 10000 Zagreb, Croatia
+Abstract#==#This paper describes our system for the
+SemEval-2018 Task 12: Argument Reasoning
+Comprehension Task. We utilize skip-thought
+vectors, sentence-level distributional vectors
+inspired by the popular word embeddings and
+the skip-gram model. We encode preprocessed
+sentences from the dataset into vectors, then
+perform a binary supervised classification of
+the warrant that justifies the use of the reason
+as support for the claim. We explore a few variations
+of the model, reaching 54.1% accuracy
+on the test set, which placed us 16th out of 22
+teams participating in the task.
+Author{1}{Firstname}#=%=#Ana
+Author{1}{Lastname}#=%=#Brassard
+Author{1}{Email}#=%=#ana.brassard@fer.hr
+Author{1}{Affiliation}#=%=#University of Zagreb, Faculty of Electrical Engineering and Computing, Unska 3, 10000 Zagreb
+Author{2}{Firstname}#=%=#Tin
+Author{2}{Lastname}#=%=#Kuculo
+Author{2}{Email}#=%=#tin.kuculo@fer.hr
+Author{2}{Affiliation}#=%=#University of Zagreb, Faculty of Electrical Engineering and Computing, Unska 3, 10000 Zagreb
+Author{3}{Firstname}#=%=#Filip
+Author{3}{Lastname}#=%=#Boltuzic
+Author{3}{Email}#=%=#filipbolt@gmail.com
+Author{3}{Affiliation}#=%=#
+Author{4}{Firstname}#=%=#Jan
+Author{4}{Lastname}#=%=#Šnajder
+Author{4}{Email}#=%=#jan.snajder@fer.hr
+Author{4}{Affiliation}#=%=#University of Zagreb, Faculty of Electrical Engineering and Computing, Unska 3, 10000 Zagreb
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Detecting Sarcasm is Extremely Easy ;-)
+ShortPaperTitle#=%=#Detecting Sarcasm is Extremely Easy ;-)
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Natalie Parde
+JobTitle#==#
+Organization#==#University of North Texas
+1155 Union Circle
+Denton, TX 76203
+Abstract#==#Detecting sarcasm in text is a particularly challenging problem in computational semantics, and its solution may vary across different types of text.  We analyze the performance of a domain-general sarcasm detection system on datasets from two very different domains: Twitter, and Amazon product reviews.  We categorize the errors that we identify with each, and make recommendations for addressing these issues in NLP systems in the future.
+Author{1}{Firstname}#=%=#Natalie
+Author{1}{Lastname}#=%=#Parde
+Author{1}{Email}#=%=#natalieparde@my.unt.edu
+Author{1}{Affiliation}#=%=#University of North Texas
+Author{2}{Firstname}#=%=#Rodney
+Author{2}{Lastname}#=%=#Nielsen
+Author{2}{Email}#=%=#rodney.nielsen@unt.edu
+Author{2}{Affiliation}#=%=#University of North Texas ; University of Colorado
+
+==========

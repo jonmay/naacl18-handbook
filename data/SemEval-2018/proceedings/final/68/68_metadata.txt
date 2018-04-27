@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#68
+FinalPaperTitle#=%=#UNAM at SemEval-2018 Task 10: Unsupervised Semantic Discriminative Attribute Identification in Neural Word Embedding Cones
+ShortPaperTitle#=%=#Unsupervised Semantic Discriminative Attribute Identification in Neural Word Embedding Cones
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Ignacio Arroyo-Fernández
+JobTitle#==#PhD Student
+Organization#==#Ciudad Universitaria, Delegación Coyoacán, México, CDMX., C.P. 04510
+Abstract#==#In this paper we report an unsupervised method aimed to identify whether an attribute is discriminative for two words (which are treated as concepts, in our particular case). To this end, we use geometrically inspired vector operations underlying unsupervised decision functions. These decision functions operate on state-of-the-art neural word embeddings of the attribute and the concepts. The main idea can be described as follows: if attribute $q$ discriminates concept $a$ from concept $b$, then $q$ is excluded from the feature set shared by these two concepts: the intersection. That is, the membership $q\in (a\cap b)$ does not hold. As $a,b,q$ are represented with neural word embeddings, we tested vector operations allowing us to measure membership, i.e. fuzzy set operations (t-norm, for fuzzy intersection, and t-conorm, for fuzzy union) and the similarity between $q$ and the convex cone described by $a$ and $b$.
+Author{1}{Firstname}#=%=#Ignacio
+Author{1}{Lastname}#=%=#Arroyo-Fernández
+Author{1}{Email}#=%=#iaf@ciencias.unam.mx
+Author{1}{Affiliation}#=%=#Universidad Nacional Autónoma de México
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Meza
+Author{2}{Email}#=%=#ivanvladimir@turing.iimas.unam.mx
+Author{2}{Affiliation}#=%=#IIMAS - UNAM
+Author{3}{Firstname}#=%=#Carlos-Francisco
+Author{3}{Lastname}#=%=#Meéndez-Cruz
+Author{3}{Email}#=%=#cmendezc@ccg.unam.mx
+Author{3}{Affiliation}#=%=#Centro de Ciencias Genómicas - UNAM
+
+==========

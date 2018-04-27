@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#64
+FinalPaperTitle#=%=#Feature Engineering for Second Language Acquisition Modeling
+ShortPaperTitle#=%=#Feature Engineering for Second Language Acquisition Modeling
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Guanliang Chen
+JobTitle#==#
+Organization#==#Delft University of Technology
+Delft, The Netherlands
+Abstract#==#Knowledge tracing serves as a keystone in delivering personalized education. However, few works attempted to model students' knowledge state in the setting of Second Language Acquisition. The Duolingo Shared Task on Second Language Acquisition Modeling provides students' trace data that we extensively analyze and engineer features from for the task of predicting whether a student will correctly solve a vocabulary exercise. Our analyses of students' learning traces reveal that factors like exercise format and engagement impact their exercise performance to a large extent. Overall, we extracted 23 different features as input to a Gradient Tree Boosting framework, which resulted in an AUC score of between 0.80 and 0.82 on the official test set.
+Author{1}{Firstname}#=%=#Guanliang
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#guanliang.chen@tudelft.nl
+Author{1}{Affiliation}#=%=#Delft University of Technology
+Author{2}{Firstname}#=%=#Claudia
+Author{2}{Lastname}#=%=#Hauff
+Author{2}{Email}#=%=#c.hauff@tudelft.nl
+Author{2}{Affiliation}#=%=#Delft University of Technology
+Author{3}{Firstname}#=%=#Geert-Jan
+Author{3}{Lastname}#=%=#Houben
+Author{3}{Email}#=%=#g.j.p.m.houben@tudelft.nl
+Author{3}{Affiliation}#=%=#Delft University of Technology
+
+==========

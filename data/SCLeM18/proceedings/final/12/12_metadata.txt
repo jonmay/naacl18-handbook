@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#A Comparison of Character Neural Language Model and Bootstrapping for Language Identification in Multilingual Noisy Texts
+ShortPaperTitle#=%=#Character Neural Language Model for Language Identification in Multilingual Noisy Texts
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Wafia Adouane
+JobTitle#==#
+Organization#==#CLASP, Gothenburg University
+Abstract#==#This paper seeks to examine the effect of including background knowledge in the form of character pre-trained neural language model (LM), and data bootstrapping to overcome the problem of unbalanced limited resources. As a test, we explore the task of language identification in mixed-language short non-edited texts with an under-resourced language, namely the case of Algerian Arabic for which both labelled and unlabelled data are limited. We compare the performance of two traditional machine learning methods and a deep neural networks (DNNs) model.
+The results show that overall DNNs perform better on labelled data for the majority categories and struggle with the minority ones. While the effect of the untokenised and unlabelled data encoded as LM differs for each category, bootstrapping, however, improves the performance of all systems and all categories. These methods are language independent and could be generalised to other under-resourced languages for which a small labelled data and a larger unlabelled data are available.
+Author{1}{Firstname}#=%=#Wafia
+Author{1}{Lastname}#=%=#Adouane
+Author{1}{Email}#=%=#wafia.gu@gmail.com
+Author{1}{Affiliation}#=%=#Department of Philosophy, Linguistics and Theory of Science- Gothenburg University
+Author{2}{Firstname}#=%=#Simon
+Author{2}{Lastname}#=%=#Dobnik
+Author{2}{Email}#=%=#simon.dobnik@gu.se
+Author{2}{Affiliation}#=%=#University of Gothenburg
+Author{3}{Firstname}#=%=#Jean-Philippe
+Author{3}{Lastname}#=%=#Bernardy
+Author{3}{Email}#=%=#jean-philippe.bernardy@gu.se
+Author{3}{Affiliation}#=%=#University of Gothenburg
+Author{4}{Firstname}#=%=#Nasredine
+Author{4}{Lastname}#=%=#Semmar
+Author{4}{Email}#=%=#nasredine.semmar@cea.fr
+Author{4}{Affiliation}#=%=#CEA LIST
+
+==========

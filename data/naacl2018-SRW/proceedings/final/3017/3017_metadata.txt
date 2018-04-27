@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3017
+FinalPaperTitle#=%=#Metric for Automatic Machine Translation Evaluation based on Universal Sentence Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Sentence representations can capture a wide range of information that cannot be captured by local features based on character N-gram or word N-gram.
+This paper examines the usefulness of universal sentence representations for evaluating the quality of machine translation.
+Although it is difficult to train sentence representations using small-scale translation datasets with manual evaluation, sentence representations trained from large-scale data in other tasks can improve the automatic evaluation of machine translation.
+Experimental results of the WMT-2016 dataset show that the proposed method achieves state-of-the-art performance with sentence representation features only.
+Author{1}{Firstname}#=%=#Hiroki
+Author{1}{Lastname}#=%=#Shimanaka
+Author{1}{Email}#=%=#shimanaka-hiroki@ed.tmu.ac.jp
+Author{1}{Affiliation}#=%=#Tokyo Metropolitan University
+Author{2}{Firstname}#=%=#Tomoyuki
+Author{2}{Lastname}#=%=#Kajiwara
+Author{2}{Email}#=%=#kajiwara-tomoyuki@ed.tmu.ac.jp
+Author{2}{Affiliation}#=%=#Tokyo Metropolitan University
+Author{3}{Firstname}#=%=#Mamoru
+Author{3}{Lastname}#=%=#Komachi
+Author{3}{Email}#=%=#komachi@tmu.ac.jp
+Author{3}{Affiliation}#=%=#Tokyo Metropolitan University
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#COAST - Customizable Online Syllable Enhancement in Texts.  A flexible framework for automatically enhancing reading materials
+ShortPaperTitle#=%=#COAST - Customizable Online Syllable Enhancement in Texts.
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Heiko Holz
+JobTitle#==#
+Organization#==#LEAD Graduate School & Research Network
+University of Tuebingen
+Gartenstraße 29
+DE 72074 Tübingen
+GERMANY
+Abstract#==#This paper presents COAST, a web-based application to easily and automatically enhance syllable structure, word stress, and spacing in texts, that was designed in close collaboration with learning therapists to ensure its practical relevance. Such syllable-enhanced texts are commonly used in learning therapy or private tuition to promote the recognition of syllables in order to improve reading and writing skills.
+
+In a state of the art solutions for automatic syllable enhancement, we put special emphasis on syllable stress and support specific marking of the primary syllable stress in words.  Core features of our tool are i) a highly customizable text enhancement and template functionality, and ii) a novel crowd-sourcing mechanism that we employ to address the issue of data sparsity in language resources. We successfully tested COAST with real-life practitioners in a series of user tests validating the concept of our framework.
+Author{1}{Firstname}#=%=#Heiko
+Author{1}{Lastname}#=%=#Holz
+Author{1}{Email}#=%=#heiko.holz@uni-tuebingen.de
+Author{1}{Affiliation}#=%=#LEAD Graduate School & Research Network
+Author{2}{Firstname}#=%=#Zarah
+Author{2}{Lastname}#=%=#Weiss
+Author{2}{Email}#=%=#zweiss@sfs.uni-tuebingen.de
+Author{2}{Affiliation}#=%=#ICALL Research Group. Department of Linguistics. University of Tübingen.
+Author{3}{Firstname}#=%=#Oliver
+Author{3}{Lastname}#=%=#Brehm
+Author{3}{Email}#=%=#olibrehm@googlemail.com
+Author{3}{Affiliation}#=%=#Department of Computer Science. University of Tübingen.
+Author{4}{Firstname}#=%=#Detmar
+Author{4}{Lastname}#=%=#Meurers
+Author{4}{Email}#=%=#dm@sfs.uni-tuebingen.de
+Author{4}{Affiliation}#=%=#ICALL Research Group, University of Tuebingen
+
+==========

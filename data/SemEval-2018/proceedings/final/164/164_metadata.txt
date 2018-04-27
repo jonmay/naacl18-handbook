@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#164
+FinalPaperTitle#=%=#IIT Delhi at SemEval-2018 Task 1 : Emotion Intensity Prediction
+ShortPaperTitle#=%=#IIT Delhi at SemEval-2018 Task 1
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#BHASKAR
+JobTitle#==#
+Organization#==#Bhaskar Kotakonda, IIT Delhi
+Abstract#==#This paper discusses the experiments performed
+for predicting the emotion intensity in
+tweets using a generalized supervised learning
+approach. We extract 3 kind of features from
+each of the tweets - one denoting the sentiment
+and emotion metrics obtained from different
+sentiment lexicons, one denoting the semantic
+representation of the word using dense
+representations like Glove, Word2vec and finally the syntactic information through POS
+N-grams, Word clusters, etc. We provide
+a comparative analysis of the significance of
+each of these features individually and in combination
+tested over standard regressors avaliable
+in scikit-learn. We apply an ensemble of
+these models to choose the best combination
+over cross validation.
+Author{1}{Firstname}#=%=#Bhaskar
+Author{1}{Lastname}#=%=#Kotakonda
+Author{1}{Email}#=%=#bhaskar.sai12@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology
+Author{2}{Firstname}#=%=#Prashanth
+Author{2}{Lastname}#=%=#M
+Author{2}{Email}#=%=#ee1140470@ee.iitd.ac.in
+Author{2}{Affiliation}#=%=#Indian Institute of Technology Delhi
+Author{3}{Firstname}#=%=#Brejesh
+Author{3}{Lastname}#=%=#Lall
+Author{3}{Email}#=%=#brejesh@ee.iitd.ac.in
+Author{3}{Affiliation}#=%=#Indian Institute of Technology Delhi
+
+==========

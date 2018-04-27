@@ -1,0 +1,60 @@
+SubmissionNumber#=%=#159
+FinalPaperTitle#=%=#CENNLP at SemEval-2018 Task 2: Enhanced Distributed Representation of Text using Target Classes for Emoji Prediction Representation
+ShortPaperTitle#=%=#Enhanced Distributed Representation of Text using Target Classes for Emoji Prediction Representation
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Naveen J R
+JobTitle#==#
+Organization#==#Amrita Vishwa Vidyapeetham
+Coimbatore Campus
+Amritanagar
+Coimbatore - 641 112
+Tamilnadu, India
+Abstract#==#Emoji is one of the ”fastest growing language
+” in pop-culture, especially in social media and
+it is very unlikely for its usage to decrease.
+These are generally used to bring an extra level
+of meaning to the texts, posted on social media
+platforms. Providing such an added info,
+gives more insights to the plain text, arising to
+hidden interpretation within the text. This paper
+explains our analysis on Task 2, ” Multilingual
+Emoji Prediction” sharedtask conducted
+by Semeval-2018. In the task, a predicted
+emoji based on a piece of Twitter text are labelled
+under 20 different classes (most commonly
+used emojis) where these classes are
+learnt and further predicted are made for unseen
+Twitter text. In this work, we have experimented
+and analysed emojis predicted based
+on Twitter text, as a classification problem
+where the entailing emoji is considered as a label
+for every individual text data. We have implemented
+this using distributed representation
+of text through fastText. Also, we have made
+an effort to demonstrate how fastText framework
+can be useful in case of emoji prediction.
+This task is divide into two subtask, they
+are based on dataset presented in two different
+languages English and Spanish.
+Author{1}{Firstname}#=%=#Naveen
+Author{1}{Lastname}#=%=#J R
+Author{1}{Email}#=%=#naveenaksharam@gmail.com
+Author{1}{Affiliation}#=%=#Amrita Vishwa Vidyapeetham
+Author{2}{Firstname}#=%=#Hariharan
+Author{2}{Lastname}#=%=#V
+Author{2}{Email}#=%=#Hari03@live.in
+Author{2}{Affiliation}#=%=#Amrita Vishwa Vidyapeetham
+Author{3}{Firstname}#=%=#Barathi
+Author{3}{Lastname}#=%=#Ganesh H. B.
+Author{3}{Email}#=%=#barathiganesh.hb@gmail.com
+Author{3}{Affiliation}#=%=#Amrita Vishwa Vidyapeetham
+Author{4}{Firstname}#=%=#Anand
+Author{4}{Lastname}#=%=#Kumar M
+Author{4}{Email}#=%=#m_anandkumar@cb.amrita.edu
+Author{4}{Affiliation}#=%=#Amrita Vishwa Vidyapeetham
+Author{5}{Firstname}#=%=#Soman
+Author{5}{Lastname}#=%=#K P
+Author{5}{Email}#=%=#kp_soman@amrita.edu
+Author{5}{Affiliation}#=%=#Amrita Vishwa Vidyapeetham
+
+==========

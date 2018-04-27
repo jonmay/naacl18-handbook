@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Cross-Lingual Content Scoring
+ShortPaperTitle#=%=#Cross-Lingual Content Scoring
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Andrea Horbach
+JobTitle#==#
+Organization#==#University Duisburg-Essen
+47057 Duisburg
+Germany
+Abstract#==#We investigate the feasibility of cross-lingual content scoring, a scenario where training and test data in an automatic scoring task are from two different languages.
+Cross-lingual scoring can contribute to educational equality by allowing answers in multiple languages.
+Training a model in one language and applying it to another language might also help to overcome data sparsity issues by re-using trained models from other languages.
+As there is no suitable dataset available for this new task, we create a comparable bi-lingual corpus by extending the English ASAP dataset with German answers.
+Our experiments with cross-lingual scoring based on machine-translating either training or test data show a considerable drop in scoring quality.
+Author{1}{Firstname}#=%=#Andrea
+Author{1}{Lastname}#=%=#Horbach
+Author{1}{Email}#=%=#andrea.horbach@uni-duisburg-essen.de
+Author{1}{Affiliation}#=%=#University of Duisburg-Essen
+Author{2}{Firstname}#=%=#Sebastian
+Author{2}{Lastname}#=%=#Stennmanns
+Author{2}{Email}#=%=#sebastian.stennmanns@stud.uni-due.de
+Author{2}{Affiliation}#=%=#University of Duisburg-Essen
+Author{3}{Firstname}#=%=#Torsten
+Author{3}{Lastname}#=%=#Zesch
+Author{3}{Email}#=%=#torsten.zesch@uni-due.de
+Author{3}{Affiliation}#=%=#Language Technology Lab, University of Duisburg-Essen
+
+==========

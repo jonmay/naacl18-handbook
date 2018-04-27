@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Understanding the Effect of Gender and Stance in Opinion Expression in Debates on "Abortion"
+ShortPaperTitle#=%=#Understanding the Effect of Gender and Stance in Opinion Expression in Debates on "Abortion"
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Esin Durmus
+JobTitle#==#
+Organization#==#Cornell University, Ithaca, NY 14850.
+Abstract#==#In this paper, we focus on understanding linguistic differences across groups with different self-identified gender and stance in expressing opinions about ABORTION. We provide a new dataset consisting of users’ gender, stance on ABORTION as well as the debates in ABOR- TION drawn from debate.org. We use the gender and stance information to identify significant linguistic differences across individuals with different gender and stance. We show the importance of considering the stance information along with the gender since we observe significant linguistic differences across individuals with different stance even within the same gender group.
+Author{1}{Firstname}#=%=#Esin
+Author{1}{Lastname}#=%=#Durmus
+Author{1}{Email}#=%=#ed459@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Claire
+Author{2}{Lastname}#=%=#Cardie
+Author{2}{Email}#=%=#cardie@cs.cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#SemEval-2018 Task 5: Counting Events and Participants in the Long Tail
+ShortPaperTitle#=%=#SemEval-2018 Task 5: Counting Events and Participants in the Long Tail
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Filip Ilievski
+JobTitle#==#
+Organization#==#Vrije Universiteit Amsterdam
+De Boelelaan 1105 
+1081HV Amsterdam, The Netherlands
+Abstract#==#This paper discusses SemEval-2018 Task 5: a referential quantification task of
+counting events and participants in local, long-tail news documents with high
+ambiguity. The complexity of this task challenges systems to establish the
+meaning, reference and identity across documents. The task consists of three
+subtasks and spans across three domains. We detail the design of this
+referential quantification task, describe the participating systems, and
+present additional analysis to gain deeper insight into their performance.
+Author{1}{Firstname}#=%=#Marten
+Author{1}{Lastname}#=%=#Postma
+Author{1}{Email}#=%=#m.c.postma@vu.nl
+Author{1}{Affiliation}#=%=#Vrije Universiteit Amsterdam
+Author{2}{Firstname}#=%=#Filip
+Author{2}{Lastname}#=%=#Ilievski
+Author{2}{Email}#=%=#f.ilievski@vu.nl
+Author{2}{Affiliation}#=%=#VU Amsterdam
+Author{3}{Firstname}#=%=#Piek
+Author{3}{Lastname}#=%=#Vossen
+Author{3}{Email}#=%=#piek.vossen@vu.nl
+Author{3}{Affiliation}#=%=#VU University Amsterdam
+
+==========

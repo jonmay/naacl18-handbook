@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#150
+FinalPaperTitle#=%=#ClaiRE at SemEval-2018 Task 7: Classification of Relations using Embeddings
+ShortPaperTitle#=%=#ClaiRE at SemEval-2018 Task 7: Classification of Relations using Embeddings
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lena Hettinger
+JobTitle#==#
+Organization#==#University of Würzburg
+Am Hubland
+97074 Würzburg
+Abstract#==#In this paper we describe our system for
+SemEval-2018 Task 7 on classification of semantic relations in scientific literature for
+clean (subtask 1.1) and noisy data (subtask
+1.2). We compare two models for classification, a C-LSTM which utilizes only word embeddings and an SVM that also takes handcrafted features into account. To adapt to the
+domain of science we train word embeddings
+on scientific papers collected from arXiv.org.
+The hand-crafted features consist of lexical
+features to model the semantic relations as
+well as the entities between which the relation holds. Classification of Relations using
+Embeddings (ClaiRE) achieved an F1 score of
+74.89% for the first subtask and 78.39% for
+the second.
+Author{1}{Firstname}#=%=#Lena
+Author{1}{Lastname}#=%=#Hettinger
+Author{1}{Email}#=%=#lena.hettinger@uni-wuerzburg.de
+Author{1}{Affiliation}#=%=#University of Würzburg
+Author{2}{Firstname}#=%=#Alexander
+Author{2}{Lastname}#=%=#Dallmann
+Author{2}{Email}#=%=#dallmann@informatik.uni-wuerzburg.de
+Author{2}{Affiliation}#=%=#Universität Würzburg
+Author{3}{Firstname}#=%=#Albin
+Author{3}{Lastname}#=%=#Zehe
+Author{3}{Email}#=%=#zehe@informatik.uni-wuerzburg.de
+Author{3}{Affiliation}#=%=#University of Würzburg
+Author{4}{Firstname}#=%=#Thomas
+Author{4}{Lastname}#=%=#Niebler
+Author{4}{Email}#=%=#thomas@thomas-niebler.de
+Author{4}{Affiliation}#=%=#University of Würzburg
+Author{5}{Firstname}#=%=#Andreas
+Author{5}{Lastname}#=%=#Hotho
+Author{5}{Email}#=%=#hotho@informatik.uni-wuerzburg.de
+Author{5}{Affiliation}#=%=#University of Würzburg
+
+==========

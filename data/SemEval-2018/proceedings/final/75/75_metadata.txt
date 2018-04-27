@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#75
+FinalPaperTitle#=%=#THU_NGN at SemEval-2018 Task 1: Fine-grained Tweet Sentiment Intensity Analysis with Attention CNN-LSTM
+ShortPaperTitle#=%=#Fine-grained Tweet Sentiment Intensity Analysis with Attention CNN-LSTM
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Chuhan Wu
+JobTitle#==#
+Organization#==#Department of Electronic Engineering, Tsinghua University, China.
+Abstract#==#Traditional sentiment analysis approaches mainly focus on classifying the
+sentiment polarities or emotion categories of texts. However, they can't
+exploit the sentiment intensity information. Therefore, the SemEval-2018 Task 1 is aimed to automatically determine the intensity of emotions or sentiment of tweets to mine fine-grained sentiment information. In order to address this
+task, we propose a system based on an attention CNN-LSTM model. In our model,
+LSTM is used to extract the long-term contextual information from texts. We
+apply attention techniques to selecting this information. A CNN layer with
+different size of kernels is used to extract local features. The dense layers
+take the pooled CNN feature maps and predict the intensity scores. Our system
+reaches average Pearson correlation score of 0.722 (ranked 12/48) in emotion
+intensity regression task, and 0.810 in valence regression task (ranked 15/38). It indicates that our system can be further extended.
+Author{1}{Firstname}#=%=#Chuhan
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#wuch15@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+Author{2}{Firstname}#=%=#Fangzhao
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#wufangzhao@gmail.com
+Author{2}{Affiliation}#=%=#Tsinghua Univeristy
+Author{3}{Firstname}#=%=#Junxin
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#ljx16@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+Author{4}{Firstname}#=%=#Zhigang
+Author{4}{Lastname}#=%=#Yuan
+Author{4}{Email}#=%=#yuanzg14@mails.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+Author{5}{Firstname}#=%=#Sixing
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Email}#=%=#wu-sx15@mails.tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+Author{6}{Firstname}#=%=#Yongfeng
+Author{6}{Lastname}#=%=#Huang
+Author{6}{Email}#=%=#yfhuang@tsinghua.edu.cn
+Author{6}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+
+==========

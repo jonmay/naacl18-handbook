@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#140
+FinalPaperTitle#=%=#NLP_HZ at SemEval-2018 Task 9: a Nearest Neighbor Approach
+ShortPaperTitle#=%=#A Nearest Neighbor Approach for Hypernym Discovery
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Wei Qiu, Mosha Chen
+JobTitle#==#Senior Algorithm Engineer
+Organization#==#Name: Alibaba Group
+Address: 
+969 West Wen Yi Road
+Yu Hang District
+Hangzhou 311121
+China
+Abstract#==#Hypernym discovery aims to discover the hypernym word sets given a hyponym word and proper corpus. This paper proposes a simple but effective method for the discovery of hypernym sets based on word embedding, which can be used to measure the contextual similarities between words. Given a test hyponym  word, we get its hypernym lists by computing the similarities between the hyponym word and words in the training data, and fill the test word's  hypernym lists with the hypernym list in the training set of the nearest similarity distance to the test word. In SemEval 2018 task9, our results, achieve 1st on Spanish, 2nd on Italian, 6th on English in the metric of MAP.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Qiu
+Author{1}{Email}#=%=#wei@qiu.es
+Author{1}{Affiliation}#=%=#idst
+Author{2}{Firstname}#=%=#Mosha
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#chenmosha.cms@alibaba-inc.com
+Author{2}{Affiliation}#=%=#Alibaba Group
+Author{3}{Firstname}#=%=#Linlin
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#linyan.lll@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Luo
+Author{4}{Lastname}#=%=#Si
+Author{4}{Email}#=%=#luo.si@alibaba-inc.com
+Author{4}{Affiliation}#=%=#Alibaba Group
+
+==========

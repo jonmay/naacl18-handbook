@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#58
+FinalPaperTitle#=%=#ELiRF-UPV at SemEval-2018 Task 11: Machine Comprehension using Commonsense Knowledge
+ShortPaperTitle#=%=#ELiRF-UPV at SemEval-2018 Task 11: Machine Comprehension using Commonsense Knowledge
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Lluís F. Hurtado
+JobTitle#==#
+Organization#==#Universitat Politècnica de València
+Cami de Vera, sn
+40022 València
+Abstract#==#This paper describes the participation of ELiRF-UPV team at task 11, Machine
+Comprehension using Commonsense Knowledge, of SemEval-2018. Our approach is
+based on the use of word embeddings, NumberBatch Embeddings, and a Deep
+Learning architecture to find the best answer for the multiple-choice questions
+based on the narrative text. The results obtained are in line with those
+obtained by the other participants and they encourage us to continue working on
+this problem.
+Author{1}{Firstname}#=%=#José-Ángel
+Author{1}{Lastname}#=%=#González
+Author{1}{Email}#=%=#jogonba2@dsic.upv.es
+Author{1}{Affiliation}#=%=#Universitat Politècnica de València
+Author{2}{Firstname}#=%=#Lluís-F.
+Author{2}{Lastname}#=%=#Hurtado
+Author{2}{Email}#=%=#lhurtado@dsic.upv.es
+Author{2}{Affiliation}#=%=#Universitat Politècnica de València
+Author{3}{Firstname}#=%=#Encarna
+Author{3}{Lastname}#=%=#Segarra
+Author{3}{Email}#=%=#esegarra@dsic.upv.es
+Author{3}{Affiliation}#=%=#Universitat Politècnica de València
+Author{4}{Firstname}#=%=#Ferran
+Author{4}{Lastname}#=%=#Pla
+Author{4}{Email}#=%=#fpla@dsic.upv.es
+Author{4}{Affiliation}#=%=#Universitat Politècnica de València
+
+==========

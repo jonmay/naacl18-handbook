@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Using Paraphrasing and Memory-Augmented Models to Combat Data Sparsity in Question Interpretation with a Virtual Patient Dialogue System
+ShortPaperTitle#=%=#Using Paraphrasing and Memory Models to Combat Data Sparsity in Question Interpretation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lifeng Jin
+JobTitle#==#
+Organization#==#The Ohio State University
+Oxley Hall
+1712 Neil Avenue
+Columbus OH, 43210
+Abstract#==#When interpreting questions in a virtual patient dialogue system one must inevitably tackle the challenge of a long tail of relatively infrequently asked questions.  To make progress on this challenge, we investigate the use of paraphrasing for data augmentation and neural memory-based classification, finding that the two methods work best in combination. In particular, we find that the neural memory-based approach not only outperforms a straight CNN classifier on low frequency questions, but also takes better advantage of the augmented data created by paraphrasing, together yielding a nearly 10\% absolute improvement in accuracy on the least frequently asked questions.
+Author{1}{Firstname}#=%=#Lifeng
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Email}#=%=#jin.544@osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#King
+Author{2}{Email}#=%=#king.david.lee@gmail.com
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#Amad
+Author{3}{Lastname}#=%=#Hussein
+Author{3}{Email}#=%=#hussain.97@buckeyemail.osu.edu
+Author{3}{Affiliation}#=%=#The Ohio State University
+Author{4}{Firstname}#=%=#Michael
+Author{4}{Lastname}#=%=#White
+Author{4}{Email}#=%=#mwhite@ling.osu.edu
+Author{4}{Affiliation}#=%=#The Ohio State University
+Author{5}{Firstname}#=%=#Douglas
+Author{5}{Lastname}#=%=#Danforth
+Author{5}{Email}#=%=#Doug.Danforth@osumc.edu
+Author{5}{Affiliation}#=%=#The Ohio State University
+
+==========

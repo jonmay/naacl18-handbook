@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#3030
+FinalPaperTitle#=%=#A Generalized Knowledge Hunting Framework for the Winograd Schema Challenge
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We  introduce  an  automatic  system  that performs well on two common-sense rea-
+soning tasks, the Winograd Schema Challenge (WSC) and the Choice of Plausible
+Alternatives  (COPA).  Problem  instances from  these  tasks  require  diverse,   complex  forms  of  inference  and  knowledge to solve.  Our method uses a knowledge-hunting  module  to  gather  text  from  the web,  which  serves  as  evidence  for  candidate problem resolutions.  Given an input  problem,  our  system  generates  relevant  queries  to  send  to  a  search  engine. It extracts and classifies knowledge from the returned results and weighs it to make a  resolution.   Our  approach  improves  F1 performance on the WSC by 0.16 over the previous best and is competitive with the state-of-the-art  on  COPA,  demonstrating its general applicability.
+Author{1}{Firstname}#=%=#Ali
+Author{1}{Lastname}#=%=#Emami
+Author{1}{Email}#=%=#ali.emami@mail.mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#Adam
+Author{2}{Lastname}#=%=#Trischler
+Author{2}{Email}#=%=#adam.trischler@microsoft.com
+Author{2}{Affiliation}#=%=#Maluuba - Microsoft
+Author{3}{Firstname}#=%=#Kaheer
+Author{3}{Lastname}#=%=#Suleman
+Author{3}{Email}#=%=#kasulema@microsoft.com
+Author{3}{Affiliation}#=%=#Maluuba - Microsoft
+Author{4}{Firstname}#=%=#Jackie Chi Kit
+Author{4}{Lastname}#=%=#Cheung
+Author{4}{Email}#=%=#jcheung@cs.mcgill.ca
+Author{4}{Affiliation}#=%=#McGill University
+
+==========

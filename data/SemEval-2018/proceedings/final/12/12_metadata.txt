@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#UMDSub at SemEval-2018 Task 2: Multilingual Emoji Prediction Multi-channel Convolutional Neural Network on Subword Embedding
+ShortPaperTitle#=%=#UMDSub at SemEval-2018 Task 2: Multi-channel Convolutional Neural Network on Subword Embedding
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ted Pedersen
+JobTitle#==#
+Organization#==#University of Minnesota
+1114 Kirby Drive
+Duluth, MN 55812
+USA
+Abstract#==#This paper describes the UMDSub system that participated in Task 2 of SemEval-2018. We developed a system that predicts an emoji given the raw text in a English tweet. The system is a Multi-channel Convolutional Neural Network based on subword embeddings for the representation of tweets. This model improves on character or word based methods by about 2%. Our system placed 21st of 48 participating systems in the official evaluation.
+Author{1}{Firstname}#=%=#Zhenduo
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#zhd_wang@yahoo.com
+Author{1}{Affiliation}#=%=#University of Minnesota Duluth
+Author{2}{Firstname}#=%=#Ted
+Author{2}{Lastname}#=%=#Pedersen
+Author{2}{Email}#=%=#tpederse@d.umn.edu
+Author{2}{Affiliation}#=%=#University of Minnesota, Duluth
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#104
+FinalPaperTitle#=%=#ECNU at SemEval-2018 Task 2: Leverage Traditional NLP Features and Neural Networks Methods to Address Twitter Emoji Prediction Task
+ShortPaperTitle#=%=#Leverage Traditional NLP Features and Neural Networks to Address Twitter Emoji Prediction Task
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Xingwu Lu
+JobTitle#==#
+Organization#==#East China Normal University
+3663 N. Zhongshan Rd., Shanghai
+Abstract#==#This paper describes our submissions to Task 2 in SemEval 2018, i.e., Multilingual
+Emoji Prediction. We first investigate several traditional Natural Language Processing
+(NLP) features, and then design several deep learning models. For subtask 1: Emoji
+Prediction in English, we combine two different methods to represent tweet, i.e.,
+supervised model using traditional features and deep learning model. For subtask 2:
+Emoji Prediction in Spanish, we only use deep learning model.
+Author{1}{Firstname}#=%=#Xingwu
+Author{1}{Lastname}#=%=#Lu
+Author{1}{Email}#=%=#51174506023@stu.ecnu.edu.cn
+Author{1}{Affiliation}#=%=#East China Normal University
+Author{2}{Firstname}#=%=#Xin
+Author{2}{Lastname}#=%=#Mao
+Author{2}{Email}#=%=#10131530334@stu.ecnu.edu.cn
+Author{2}{Affiliation}#=%=#East China Normal University
+Author{3}{Firstname}#=%=#Man
+Author{3}{Lastname}#=%=#Lan
+Author{3}{Email}#=%=#mlan@cs.ecnu.edu.cn
+Author{3}{Affiliation}#=%=#East China Normal University
+Author{4}{Firstname}#=%=#Yuanbin
+Author{4}{Lastname}#=%=#Wu
+Author{4}{Email}#=%=#ybwu@cs.ecnu.edu.cn
+Author{4}{Affiliation}#=%=#East China Normal University
+
+==========

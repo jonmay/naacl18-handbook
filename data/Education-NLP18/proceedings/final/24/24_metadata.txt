@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#UnibucKernel: A kernel-based learning method for complex word identification
+ShortPaperTitle#=%=#UnibucKernel: A kernel-based learning method for complex word identification
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Radu Tudor Ionescu
+JobTitle#==#
+Organization#==#University of Bucharest, 14 Academiei Street, Bucharest, Romania
+Abstract#==#In this paper, we present a kernel-based learning approach for the 2018 Complex Word Identification (CWI) Shared Task. Our approach is based on combining multiple low-level features, such as character n-grams, with high-level semantic features that are either automatically learned using word embeddings or extracted from a lexical knowledge base, namely WordNet. After feature extraction, we employ a kernel method for the learning phase. The feature matrix is first transformed into a normalized kernel matrix. For the binary classification task (simple versus complex), we employ Support Vector Machines. For the regression task, in which we have to predict the complexity level of a word (a word is more complex if it is labeled as complex by more annotators), we employ v-Support Vector Regression. We applied our approach only on the three English data sets containing documents from Wikipedia, WikiNews and News domains. Our best result during the competition was the third place on the English Wikipedia data set. However, in this paper, we also report better post-competition results.
+Author{1}{Firstname}#=%=#Andrei
+Author{1}{Lastname}#=%=#Butnaru
+Author{1}{Email}#=%=#butnaruandreimadalin@gmail.com
+Author{1}{Affiliation}#=%=#University of Bucharest
+Author{2}{Firstname}#=%=#Radu Tudor
+Author{2}{Lastname}#=%=#Ionescu
+Author{2}{Email}#=%=#raducu.ionescu@gmail.com
+Author{2}{Affiliation}#=%=#University of Bucharest
+
+==========

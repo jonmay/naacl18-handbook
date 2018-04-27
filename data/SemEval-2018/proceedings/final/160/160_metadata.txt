@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#160
+FinalPaperTitle#=%=#NLPRL-IITBHU at SemEval-2018 Task 3: Combining Linguistic Features and Emoji pre-trained CNN for Irony Detection in Tweets
+ShortPaperTitle#=%=#Combining Linguistic Features and Emoji pre-trained CNN for Irony Detection in Tweets
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Harsh
+JobTitle#==#
+Organization#==#Indian Institute of Technology (Banaras Hindu University) Varanasi, India
+Abstract#==#This paper describes our participation in SemEval 2018 Task 3 on Irony Detection in Tweets. We combine linguistic features with pre-trained activations of a neural network. The CNN is trained on the emoji prediction task. We combine the two feature sets and feed them into an XGBoost Classifier for classification. Subtask-A involves classification of tweets into ironic and non-ironic instances whereas Subtask-B involves classification of the tweet into - non-ironic, verbal irony, situational irony or other verbal irony. It is observed that combining features from these two different feature spaces improves our system results. We leverage the SMOTE algorithm to handle the problem of class imbalance in Subtask-B. Our final model achieves an F1-score of 0.65 and 0.47 on Subtask-A and Subtask-B respectively. Our system ranks  4th  on both tasks respectively, outperforming the baseline by 6% on Subtask-A and 14% on Subtask-B.
+Author{1}{Firstname}#=%=#Harsh
+Author{1}{Lastname}#=%=#Rangwani
+Author{1}{Email}#=%=#harsh.rangwani.cse15@itbhu.ac.in
+Author{1}{Affiliation}#=%=#Indian Institute Of Technology (BHU) Varanasi
+Author{2}{Firstname}#=%=#Devang
+Author{2}{Lastname}#=%=#Kulshreshtha
+Author{2}{Email}#=%=#devang.kulshreshtha.cse14@iitbhu.ac.in
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Varanasi
+Author{3}{Firstname}#=%=#Anil
+Author{3}{Lastname}#=%=#Kumar Singh
+Author{3}{Email}#=%=#nlprnd@gmail.com
+Author{3}{Affiliation}#=%=#IIT (BHU), Varanasi
+
+==========

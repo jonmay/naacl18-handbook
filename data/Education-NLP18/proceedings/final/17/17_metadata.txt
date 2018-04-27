@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Distractor Generation for Multiple Choice Questions Using Learning to Rank
+ShortPaperTitle#=%=#Distractor Generation for Multiple Choice Questions Using Learning to Rank
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Chen Liang
+JobTitle#==#
+Organization#==#Pennsylvania State University
+Old Main, State College, PA 16801
+Abstract#==#We investigate how machine learning models, specifically ranking models, can be used to select useful distractors for multiple choice questions. Our proposed models can learn to select distractors that resemble those in actual exam questions, which is different from most existing unsupervised ontology-based and similarity-based methods. We empirically study feature-based and neural net (NN) based ranking models with experiments on the recently released SciQ dataset and our MCQL dataset. Experimental results show that feature-based ensemble learning methods (random forest and LambdaMART) outperform both the NN-based method and unsupervised baselines. These two datasets can also be used as benchmarks for distractor generation.
+Author{1}{Firstname}#=%=#Chen
+Author{1}{Lastname}#=%=#Liang
+Author{1}{Email}#=%=#cul226@ist.psu.edu
+Author{1}{Affiliation}#=%=#The Pennsylvania State University
+Author{2}{Firstname}#=%=#Xiao
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#xuy111@psu.edu
+Author{2}{Affiliation}#=%=#The Pennsylvania State University
+Author{3}{Firstname}#=%=#Neisarg
+Author{3}{Lastname}#=%=#Dave
+Author{3}{Email}#=%=#nud83@psu.edu
+Author{3}{Affiliation}#=%=#The Pennsylvania State University
+Author{4}{Firstname}#=%=#Drew
+Author{4}{Lastname}#=%=#Wham
+Author{4}{Email}#=%=#fcw5014@psu.edu
+Author{4}{Affiliation}#=%=#The Pennsylvania State University
+Author{5}{Firstname}#=%=#Bart
+Author{5}{Lastname}#=%=#Pursel
+Author{5}{Email}#=%=#bkp10@psu.edu
+Author{5}{Affiliation}#=%=#The Pennsylvania State University
+Author{6}{Firstname}#=%=#C Lee
+Author{6}{Lastname}#=%=#Giles
+Author{6}{Email}#=%=#giles@ist.psu.edu
+Author{6}{Affiliation}#=%=#Pennsylvania State University
+
+==========

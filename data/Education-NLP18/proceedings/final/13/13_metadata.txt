@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Toward Automatically Measuring Learner Ability from Human-Machine Dialog Interactions using Novel Psychometric Models
+ShortPaperTitle#=%=#Toward Measuring Learner Ability from Dialog Interactions
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Vikram Ramanarayanan
+JobTitle#==#
+Organization#==#Educational Testing Service R&D
+Abstract#==#While dialog systems have been widely deployed for computer-assisted language learning (CALL) and formative assessment systems in recent years, relatively limited work has been done with respect to the psychometrics and validity of these technologies in evaluating and providing feedback regarding student learning and conversational ability. This paper formulates a Markov decision process based measurement model, and applies it to text chat data collected from crowdsourced native and non-native English language speakers interacting with an automated dialog agent. We investigate how well the model measures speaker conversational ability, and find that it effectively captures the differences in how native and non-native speakers of English accomplish the dialog task. Such models could have important implications for CALL systems of the future that effectively combine dialog management with measurement of learner conversational ability in real-time.
+Author{1}{Firstname}#=%=#Vikram
+Author{1}{Lastname}#=%=#Ramanarayanan
+Author{1}{Email}#=%=#vramanarayanan@ets.org
+Author{1}{Affiliation}#=%=#Educational Testing Service R&D
+Author{2}{Firstname}#=%=#Michelle
+Author{2}{Lastname}#=%=#LaMar
+Author{2}{Email}#=%=#mlamar@ets.org
+Author{2}{Affiliation}#=%=#Educational Testing Service
+
+==========

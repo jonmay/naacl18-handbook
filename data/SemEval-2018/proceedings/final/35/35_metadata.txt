@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#CitiusNLP at SemEval-2018 Task 10: The Use of Transparent Distributional Models and Salient Contexts to Discriminate Word Attributes
+ShortPaperTitle#=%=#CitiusNLP at SemEval-2018 Task 10: The Use of Transparent Distributional Models and Salient Contexts to Discriminate Word Attributes
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Pablo Gamallo
+JobTitle#==#
+Organization#==#Centro Singular de Investigación en Tecnoloxías da Información (CiTIUS)
+Campus Vida
+Universidade de Santiago de Compostela
+15782 Santiago de Compostela
+Abstract#==#This article describes the unsupervised strategy submitted by the CitiusNLP
+team to the SemEval 2018 Task 10, a task which consists of predict whether a
+word is a discriminative attribute between two other words. Our strategy relies
+on the correspondence between discriminative attributes and relevant contexts
+of a word. More precisely, the method uses transparent distributional models to
+extract salient contexts of words which are identified as discriminative
+attributes. The system performance reaches about 70% accuracy when it is
+applied on the development dataset, but its accuracy goes down (63%) on the
+official test dataset.
+Author{1}{Firstname}#=%=#Pablo
+Author{1}{Lastname}#=%=#Gamallo
+Author{1}{Email}#=%=#pablo.gamallo@usc.es
+Author{1}{Affiliation}#=%=#CITIUS, University of Santiago de Compostela
+
+==========

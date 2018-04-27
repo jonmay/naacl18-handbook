@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#61
+FinalPaperTitle#=%=#A Memory-Sensitive Classification Model of Errors in Early Second Language Learning
+ShortPaperTitle#=%=#A Memory-Sensitive Classification Model of Errors in Early Second Language Learning
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Brendan Tomoschuk
+JobTitle#==#
+Organization#==#UC San Diego
+9500 Gilman Dr.
+La Jolla, CA 92092
+Abstract#==#In this paper, we explore a variety of lin- guistic and cognitive features to better un- derstand second language acquisition in early users of the language learning app Duolingo. With these features, we trained a random forest classifier to predict errors in early learners of French, Spanish, and English. Of particular note was our finding that mean and variance in error for each user and token can be a memory efficient replacement for their respective dummy- encoded categorical variables. At test, the- se models improved over the baseline model with AUROC values of 0.803 for English, 0.823 for French, and 0.829 for Spanish.
+Author{1}{Firstname}#=%=#Brendan
+Author{1}{Lastname}#=%=#Tomoschuk
+Author{1}{Email}#=%=#btomoschuk@gmail.com
+Author{1}{Affiliation}#=%=#UC San Diego
+Author{2}{Firstname}#=%=#Jarrett
+Author{2}{Lastname}#=%=#Lovelett
+Author{2}{Email}#=%=#jlovelet@ucsd.edu
+Author{2}{Affiliation}#=%=#UC San Diego
+
+==========

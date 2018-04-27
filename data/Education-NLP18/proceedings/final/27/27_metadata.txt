@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#OneStopEnglish corpus: A new corpus for automatic readability assessment and text simplification
+ShortPaperTitle#=%=#OneStopEnglish corpus: A new corpus for automatic readability assessment and text simplification
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Sowmya Vajjala
+JobTitle#==#
+Organization#==#Iowa State University
+Ames, 50010
+Iowa
+USA
+Abstract#==#This paper describes the collection and compilation of the OneStopEnglish corpus of texts written at three reading levels, and demonstrates its usefulness for through two applications - automatic readability assessment and automatic text simplification. The corpus consists of 189 texts, each in three versions (567 in total). The corpus is now freely available under a CC by-SA 4.0 license and we hope that it would foster further research on the topics of readability assessment and text simplification.
+Author{1}{Firstname}#=%=#Sowmya
+Author{1}{Lastname}#=%=#Vajjala
+Author{1}{Email}#=%=#svajjala@sfs.uni-tuebingen.de
+Author{1}{Affiliation}#=%=#Iowa State University
+Author{2}{Firstname}#=%=#Ivana
+Author{2}{Lastname}#=%=#Lucic
+Author{2}{Email}#=%=#ilucic@iastate.edu
+Author{2}{Affiliation}#=%=#Iowa State University
+
+==========

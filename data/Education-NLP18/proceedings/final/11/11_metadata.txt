@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#The Effect of Adding Authorship Knowledge in Automated Text Scoring
+ShortPaperTitle#=%=#The Effect of Adding Authorship Knowledge in Automated Text Scoring
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#MENG ZHANG
+JobTitle#==#
+Organization#==#University of Cambridge
+Abstract#==#Some language exams have multiple writing tasks. When a learner writes multiple texts in a language exam, it is not surprising that the quality of these texts tends to be similar, and the existing automated text scoring (ATS) systems do not explicitly model this similarity. In this paper, we suggest that it could be useful to include the other texts written by this learner in the same exam as extra references in an ATS system. We propose various approaches of fusing information from multiple tasks and pass this authorship knowledge into our ATS model on six different datasets. We show that this can positively affect the model performance at a global level.
+Author{1}{Firstname}#=%=#Meng
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#Meng.Zhang@cl.cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Xie
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#xc257@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Ronan
+Author{3}{Lastname}#=%=#Cummins
+Author{3}{Email}#=%=#ron.cummins@gmail.com
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Øistein E.
+Author{4}{Lastname}#=%=#Andersen
+Author{4}{Email}#=%=#and@ilexir.co.uk
+Author{4}{Affiliation}#=%=#iLexIR
+Author{5}{Firstname}#=%=#Ted
+Author{5}{Lastname}#=%=#Briscoe
+Author{5}{Email}#=%=#ejb@cl.cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+
+==========

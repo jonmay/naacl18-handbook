@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Using Hedge Detection to Improve Committed Belief Tagging
+ShortPaperTitle#=%=#Using Hedge Detection to Improve Committed Belief Tagging
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Morgan Ulinski
+JobTitle#==#
+Organization#==#Columbia University
+New York, NY 10027
+Abstract#==#We describe a novel method for identifying
+hedge terms using a set of manually constructed
+rules. We present experiments adding
+hedge features to a committed belief system
+to improve classification. We compare performance
+of this system (a) without hedging features,
+(b) with dictionary-based features, and
+(c) with rule-based features. We find that using
+hedge features improves performance of the
+committed belief system, particularly in identifying
+instances of non-committed belief and
+reported belief.
+Author{1}{Firstname}#=%=#Morgan
+Author{1}{Lastname}#=%=#Ulinski
+Author{1}{Email}#=%=#mulinski@cs.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Seth
+Author{2}{Lastname}#=%=#Benjamin
+Author{2}{Email}#=%=#sjb2190@columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Firstname}#=%=#Julia
+Author{3}{Lastname}#=%=#Hirschberg
+Author{3}{Email}#=%=#julia@cs.columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+
+==========

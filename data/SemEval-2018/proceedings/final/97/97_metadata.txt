@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#97
+FinalPaperTitle#=%=#AffecThor at SemEval-2018 Task 1: A cross-linguistic approach to sentiment intensity quantification in tweets
+ShortPaperTitle#=%=#A cross-linguistic approach to sentiment intensity quantification in tweets
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Mostafa Abdou
+JobTitle#==#Student
+Organization#==#University of Groningen
+Abstract#==#In this paper we describe our submission to
+SemEval-2018 Task 1: Affects in Tweets. The
+model which we present is an ensemble of various
+neural architectures and gradient boosted
+trees, and employs three different types of vectorial
+tweet representations. Furthermore, our
+system is language-independent and ranked
+first in 5 out of the 12 subtasks in which we
+participated, while achieving competitive results
+in the remaining ones. Comparatively remarkable
+performance is observed on both the
+Arabic and Spanish languages.
+Author{1}{Firstname}#=%=#Mostafa
+Author{1}{Lastname}#=%=#Abdou
+Author{1}{Email}#=%=#Mostafahany56@gmail.com
+Author{1}{Affiliation}#=%=#University of Groningen
+Author{2}{Firstname}#=%=#Artur
+Author{2}{Lastname}#=%=#Kulmizev
+Author{2}{Email}#=%=#a.kulmizev@student.rug.nl
+Author{2}{Affiliation}#=%=#University of Groningen
+Author{3}{Firstname}#=%=#Joan
+Author{3}{Lastname}#=%=#Ginés i Ametllé
+Author{3}{Email}#=%=#ginesiametlle@protonmail.com
+Author{3}{Affiliation}#=%=#University of Groningen
+
+==========

@@ -1,0 +1,16 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#The Potential of the Computational Linguistic Analysis of Social Media for Population Studies
+ShortPaperTitle#=%=#The Potential of the Computational Linguistic Analysis of Social Media for Population Studies
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Letizia Mencarini
+JobTitle#==#
+Organization#==#Bocconi University
+Dondena Centre for Research on Social Dynamics and Public Policy
+via Roentgen 1, 20136 Milan, Italy
+Abstract#==#The paper provides an outline of the scope for synergy between computational linguistic analysis and population stud-ies. It first reviews where population studies stand in terms of using social media data. Demographers are entering the realm of big data in force. But, this paper argues, population studies have much to gain from computational linguis-tic analysis, especially in terms of ex-plaining the drivers behind population processes. The paper gives two examples of how the method can be applied, and concludes with a fundamental caveat. Yes, computational linguistic analysis provides a possible key for integrating micro theory into any demographic analysis of social media data. But results may be of little value in as much as knowledge about fundamental sample characteristics are unknown.
+Author{1}{Firstname}#=%=#Letizia
+Author{1}{Lastname}#=%=#Mencarini
+Author{1}{Email}#=%=#letizia.mencarini@unibocconi.it
+Author{1}{Affiliation}#=%=#Bocconi University, Dondena research center
+
+==========

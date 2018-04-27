@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#83
+FinalPaperTitle#=%=#EiTAKA at SemEval-2018 Task 1: An Ensemble of N-Channels ConvNet and XGboost Regressors for Emotion Analysis of Tweets
+ShortPaperTitle#=%=#An Ensemble of N-Channels ConvNet and XGboost Regressors for Emotion Analysis of Tweets
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Mohammed Jabreel
+JobTitle#==#
+Organization#==#Universitat Rovira i Virgili, Spain
+Abstract#==#This paper describes our system that has been used in Task1 Affect in Tweets. We combine two different approaches. The first one called N-Stream ConvNets, which is a deep learning approach where the second one is XGboost regressor based on a set of embedding and lexicons based features. Our system was evaluated on the testing sets of the tasks outperforming all other approaches for the Arabic version of valence intensity regression task and valence ordinal classification task.
+Author{1}{Firstname}#=%=#Mohammed
+Author{1}{Lastname}#=%=#Jabreel
+Author{1}{Email}#=%=#mhjabreel@gmail.com
+Author{1}{Affiliation}#=%=#ITAKA, URV
+Author{2}{Firstname}#=%=#Antonio
+Author{2}{Lastname}#=%=#Moreno
+Author{2}{Email}#=%=#antonio.moreno@urv.cat
+Author{2}{Affiliation}#=%=#ITAKA. URV, Spain
+
+==========

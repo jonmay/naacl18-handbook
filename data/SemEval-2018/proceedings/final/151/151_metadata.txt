@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#151
+FinalPaperTitle#=%=#Discriminator at SemEval-2018 Task 10: Minimally Supervised Discrimination
+ShortPaperTitle#=%=#Discriminator at SemEval-2018 Task 10: Minimally Supervised Discrimination
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Mostafa Abdou
+JobTitle#==#Student
+Organization#==#University of Groningen
+Abstract#==#We participated to the SemEval-2018 shared task on capturing discriminative attributes (Task~10) with a simple system that ranked 8th amongst the 26 teams that took part in the evaluation. Our final score was 0.67, which is competitive with the winning score of 0.75, particularly given that our system is a zero-shot system that requires no training and minimal parameter optimisation. In addition to describing the submitted system, and discussing the implications of the relative success of such a system on this task, we also report on other, more complex models we experimented with.
+Author{1}{Firstname}#=%=#Artur
+Author{1}{Lastname}#=%=#Kulmizev
+Author{1}{Email}#=%=#a.kulmizev@student.rug.nl
+Author{1}{Affiliation}#=%=#University of Groningen
+Author{2}{Firstname}#=%=#Mostafa
+Author{2}{Lastname}#=%=#Abdou
+Author{2}{Email}#=%=#Mostafahany56@gmail.com
+Author{2}{Affiliation}#=%=#University of Groningen
+Author{3}{Firstname}#=%=#Vinit
+Author{3}{Lastname}#=%=#Ravishankar
+Author{3}{Email}#=%=#vinit.ravishankar@gmail.com
+Author{3}{Affiliation}#=%=#University of Malta
+Author{4}{Firstname}#=%=#Malvina
+Author{4}{Lastname}#=%=#Nissim
+Author{4}{Email}#=%=#m.nissim@rug.nl
+Author{4}{Affiliation}#=%=#University of Groningen
+
+==========

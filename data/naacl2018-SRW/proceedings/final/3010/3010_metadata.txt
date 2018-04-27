@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#3010
+FinalPaperTitle#=%=#Generating Image Captions in Arabic using Root-Word Based Recurrent Neural Networks and Deep Neural Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Image caption generation has gathered widespread interest in the artificial
+intelligence community. Automatic generation of an image description requires
+both computer vision and natural language processing techniques.  While, there
+has been advanced research in the English caption generation,  research on
+generating Arabic descriptions of an image is extremely limited.  Semitic
+languages like Arabic are heavily influenced by root-words.  We leverage this
+critical dependency of Arabic to generate captions of an image directly in
+Arabic using  root-word based Recurrent Neural Network and Deep Neural
+Networks.  Experimental results on dataset from various Middle Eastern
+newspaper websites allow us to report the first BLEU score for direct Arabic
+caption generation.
+We also compare the results of our approach with BLEU score captions generated
+in English and translated in Arabic. Experimental results confirm that
+generating image captions using root-words directly in Arabic significantly
+outperforms the English-Arabic translated captions using state-of-the-art
+methods.
+Author{1}{Firstname}#=%=#Vasu
+Author{1}{Lastname}#=%=#Jindal
+Author{1}{Email}#=%=#vasu.jindal@utdallas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Dallas
+
+==========
