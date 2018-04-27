@@ -12,7 +12,7 @@ for name in $(cat input/conferences.txt); do
       echo "$name" >> newcon.txt
       continue
   fi
-  remotemd5=$(curl -I $url | grep ETag | awk '{print $2}')
+  remotemd5=$(curl -s -I $url | grep ETag | awk '{print $2}')
   if [[ -d $datadir ]] && [[ -e $data/dir/etag ]] && [[ $remotemd5 == $(cat $data/dir/etag) ]]; then
       echo "No change to $x; skipping";
       echo "$name" >> newcon.txt
@@ -25,6 +25,7 @@ for name in $(cat input/conferences.txt); do
   fi
   # echo $x $url $md5 $archive
   [[ ! -d "data/$x" ]] && mkdir -p data/$x
+  echo "getting $x"
   cd data/$x
   rm -rf $archive etag
   wget -q -N --no-check-certificate $url -O $archive
@@ -60,10 +61,10 @@ for name in $(cat input/conferences.txt); do
   tar --exclude '*.pdf' --exclude '*gz' --exclude '*zip' -xzf final.tgz
   rm final.tgz
 
-#  wget -N --no-check-certificate $url -O $archive
-#  lastfile=$(ls -r1 *.tgz | tail -n1)
-#  tar --exclude '*.pdf' --exclude '*gz' --exclude '*zip' -xzvf $lastfile proceedings/order proceedings/final.tgz 
-#  tar --exclude '*.pdf' --exclude '*gz' --exclude '*zip' -xzvf proceedings/final.tgz
+  #  wget -N --no-check-certificate $url -O $archive
+  #  lastfile=$(ls -r1 *.tgz | tail -n1)
+  #  tar --exclude '*.pdf' --exclude '*gz' --exclude '*zip' -xzvf $lastfile proceedings/order proceedings/final.tgz 
+  #  tar --exclude '*.pdf' --exclude '*gz' --exclude '*zip' -xzvf proceedings/final.tgz
   cd $basefolder
   echo "$x|$url|$remotemd5" >> newcon.txt
 done

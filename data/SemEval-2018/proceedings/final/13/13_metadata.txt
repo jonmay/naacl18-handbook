@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Tübingen-Oslo at SemEval-2018 Task 2: SVMs perform better than RNNs in Emoji Prediction
+ShortPaperTitle#=%=#Tübingen-Oslo at SemEval-2018 Task 2: SVMs perform better than RNNs in Emoji Prediction
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Çağrı Çöltekin
+JobTitle#==#
+Organization#==#University of Tübigen
+Abstract#==#This paper describes our participation in the SemEval-2018 task Multilingual
+Emoji Prediction. We participated in both English and Spanish subtasks,
+experimenting with support vector machines (SVMs) and recurrent neural
+networks.  Our SVM classifier obtained the top rank in both subtasks with
+macro-averaged F1-measures of 35.99% for English and 22.36% for Spanish data
+sets.  Similar to a few earlier attempts, the results with neural networks were
+not on par with linear SVMs.
+Author{1}{Firstname}#=%=#Çağrı
+Author{1}{Lastname}#=%=#Çöltekin
+Author{1}{Email}#=%=#ccoltekin@sfs.uni-tuebingen.de
+Author{1}{Affiliation}#=%=#University of Tübingen
+Author{2}{Firstname}#=%=#Taraka
+Author{2}{Lastname}#=%=#Rama
+Author{2}{Email}#=%=#tarakark@ifi.uio.no
+Author{2}{Affiliation}#=%=#University of Oslo
+
+==========

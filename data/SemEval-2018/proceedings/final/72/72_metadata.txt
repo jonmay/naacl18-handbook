@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#72
+FinalPaperTitle#=%=##TeamINF at SemEval-2018 Task 2: Emoji Prediction in Tweets
+ShortPaperTitle#=%=##TeamINF at SemEval-2018 Task 2: Emoji Prediction in Tweets
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Alison Ribeiro
+JobTitle#==#
+Organization#==#Universidade Federal de Goiás, Goiânia, Brazil
+Abstract#==#In this paper, we describe a methodology to predict emoji in tweets. Our approach is based on the classic bag-of-words model in conjunction with word embeddings. The used classification algorithm was Logistic Regression. This architecture was used and evaluated in the context of the SemEval 2018 challenge (task 2, subtask 1).
+Author{1}{Firstname}#=%=#Alison
+Author{1}{Lastname}#=%=#Ribeiro
+Author{1}{Email}#=%=#alisonrib17@gmail.com
+Author{1}{Affiliation}#=%=#Universidade Federal de Goiás
+Author{2}{Firstname}#=%=#Nádia
+Author{2}{Lastname}#=%=#Silva
+Author{2}{Email}#=%=#nadia.felix@gmail.com
+Author{2}{Affiliation}#=%=#University of São Paulo
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#69
+FinalPaperTitle#=%=#SIRIUS-LTG-UiO at SemEval-2018 Task 7: Convolutional Neural Networks with Shortest Dependency Paths for Semantic Relation Extraction and Classification in Scientific Papers
+ShortPaperTitle#=%=#CNN with Shortest Dependency Paths for Semantic Relation Extraction and Classification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Farhad Nooralahzadeh
+JobTitle#==#
+Organization#==#Department of Informatics, University of Oslo, Norway
+Abstract#==#This article presents the SIRIUS-LTG-UiO system for the SemEval 2018 Task 7 on
+Semantic Relation Extraction and Classification in Scientific Papers. First we
+extract the shortest dependency path (sdp) between two entities, then we
+introduce a convolutional neural network (CNN) which takes the shortest
+dependency path embeddings as input and performs relation classification with
+differing objectives for each subtask of the shared task. This approach
+achieved overall F1 scores of 76.7 and 83.2 for relation classification on
+clean and noisy data, respectively. Furthermore, for combined relation
+extraction and classification on clean data, it obtained F1 scores of 37.4 and
+33.6 for each phase. Our system ranks 3rd in all three sub-tasks of the shared task.
+Author{1}{Firstname}#=%=#Farhad
+Author{1}{Lastname}#=%=#Nooralahzadeh
+Author{1}{Email}#=%=#farhadno@ifi.uio.no
+Author{1}{Affiliation}#=%=#University of Oslo
+Author{2}{Firstname}#=%=#Lilja
+Author{2}{Lastname}#=%=#Øvrelid
+Author{2}{Email}#=%=#liljao@ifi.uio.no
+Author{2}{Affiliation}#=%=#Dept of Informatics, University of Oslo
+Author{3}{Firstname}#=%=#Jan Tore
+Author{3}{Lastname}#=%=#Lønning
+Author{3}{Email}#=%=#jtl@ifi.uio.no
+Author{3}{Affiliation}#=%=#University of Oslo
+
+==========

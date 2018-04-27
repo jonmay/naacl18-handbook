@@ -1,21 +1,61 @@
-# TODOs for final ACL 2017 handbook
+
+# TODOs for final NAACL 2018 handbook
 
 The following list contains the remaining steps until the final
-ACL 2017 handbook can be compiled:
+NAACL 2018 handbook can be compiled:
 
-- ~~Update CoNLL order~~
-- ~~Update BUCC order~~
-- ~~Update RoboNLP order (or provide placeholder data)~~
-- ~~Create WiNLP papers.bib~~
-- ~~Finalize missing locations~~
-- ~~Validate times are in 24h format (or normalize to 12h am/pm)~~
-- ~~Add page for social event~~
-- ~~Add childcare to conference information~~
-- ~~Drop W$x$ from workshop names in TOC~~
-- ~~Verify meal info correctness~~
-- ~~Add image to welcome reception page?~~
+- ~~ Download Christian's code~~
+- Add more things
 
+- All workshops
+- Workshop schedules
+- workshop locations
+- Main schedules
+- Main Papers
+- tacl papers
+- Industry papers
+- Tutorials
+- Invited Speaker pages
+- cover art
+- gc msg
+- pc msg
+- itc msg
+- committee list
+- ac list
+- meal info
+- room assignments
+- tutorial schedule
+- tutorial abstract and bios
+- anti harrassment verify ok
+- Add page for social event
+- Add childcare to conference information
+- Add image to welcome reception page?
 
+# current proceedings pull report
+```
+tacl not yet uploaded; skipping
+papers not yet uploaded; skipping
+getting naacl-2018-industrial-track
+naacl2018-SRW not yet uploaded; skipping
+tutorials not yet uploaded; skipping
+naacl2018-demos not yet uploaded; skipping
+winlp18 not yet uploaded; skipping
+getting SemEval-2018
+starsem2018 not yet uploaded; skipping
+getting Gen-Deep18
+getting Education-NLP18
+Ethics-NLP18 not yet uploaded; skipping
+getting CLPsych18 -- ERROR IN TAR
+getting SemBEaR18
+Style-Var18 not yet uploaded; skipping
+getting Story-NLP18
+getting SCLeM18
+getting TextGraphs-12
+Fig-Lang18 not yet uploaded; skipping
+getting PEOPLES18
+CRAC18 not yet uploaded; skipping
+SpLU18 not yet uploaded; skipping
+```
 
 # Old README.md content
 

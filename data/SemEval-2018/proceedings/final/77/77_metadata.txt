@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#77
+FinalPaperTitle#=%=#Lancaster at SemEval-2018 Task 3: Investigating Ironic Features in English Tweets
+ShortPaperTitle#=%=#Lancaster at SemEval-2018 Task 3: Investigating Ironic Features in English Tweets
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Edward Dearden
+JobTitle#==#
+Organization#==#School of Computing and Communications,
+Lancaster University,
+Lancaster, UK, LA1 4WA
+Abstract#==#This paper describes the system we submitted to SemEval-2018 Task 3. The aim of the system is to distinguish between irony and non-irony in English tweets. We create a targeted feature set and analyse how different features are useful in the task of irony detection, achieving an F1-score of 0.5914. The analysis of individual features provides insight that may be useful in future attempts at detecting irony in tweets.
+Author{1}{Firstname}#=%=#Edward
+Author{1}{Lastname}#=%=#Dearden
+Author{1}{Email}#=%=#e.dearden@lancaster.ac.uk
+Author{1}{Affiliation}#=%=#Lancaster University
+Author{2}{Firstname}#=%=#Alistair
+Author{2}{Lastname}#=%=#Baron
+Author{2}{Email}#=%=#a.baron@lancaster.ac.uk
+Author{2}{Affiliation}#=%=#Lancaster University
+
+==========

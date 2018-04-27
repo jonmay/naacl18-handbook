@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#168
+FinalPaperTitle#=%=#TakeLab at SemEval-2018 Task 7: Combining Sparse and Dense Features for Relation Classification in Scientific Texts
+ShortPaperTitle#=%=#TakeLab at SemEval-2018 Task 7: Combining Sparse and Dense Features for Relation Classification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Martin Gluhak
+JobTitle#==#
+Organization#==#Faculty of Electrical Engineering and Computing, University of Zagreb
+Unska 3, 10000 Zagreb, Croatia
+Abstract#==#We describe two systems for semantic relation classification with which we participated in the SemEval 2018 Task 7, subtask 1 on semantic relation classification: an SVM model and a CNN model. Both models combine dense pretrained word2vec features and hancrafted sparse features. For training the models, we combine the two datasets provided for the subtasks in order to balance the under-represented classes. The SVM model performed better than CNN, achieving a F1-macro score of 69.98% on subtask 1.1 and 75.69% on subtask 1.2. The system ranked 7th on among 28 submissions on subtask 1.1 and 7th among 20 submissions on subtask 1.2.
+Author{1}{Firstname}#=%=#Martin
+Author{1}{Lastname}#=%=#Gluhak
+Author{1}{Email}#=%=#mr.gluhak@gmail.com
+Author{1}{Affiliation}#=%=#Faculty of Electrical Engineering and Computing, University of Zagreb
+Author{2}{Firstname}#=%=#Maria Pia
+Author{2}{Lastname}#=%=#di Buono
+Author{2}{Email}#=%=#mariapiadib@gmail.com
+Author{2}{Affiliation}#=%=#University of Zagreb
+Author{3}{Firstname}#=%=#Abbas
+Author{3}{Lastname}#=%=#Akkasi
+Author{3}{Email}#=%=#abbas.akkasi@fer.hr
+Author{3}{Affiliation}#=%=#Postdoc Researcher at Takelab
+Author{4}{Firstname}#=%=#Jan
+Author{4}{Lastname}#=%=#Šnajder
+Author{4}{Email}#=%=#jan.snajder@fer.hr
+Author{4}{Affiliation}#=%=#University of Zagreb, Faculty of Electrical Engineering and Computing, Unska 3, 10000 Zagreb
+
+==========

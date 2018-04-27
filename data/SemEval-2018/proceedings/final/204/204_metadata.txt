@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#204
+FinalPaperTitle#=%=#SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
+ShortPaperTitle#=%=#SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kata Gabor
+JobTitle#==#
+Organization#==#LIPN Université Paris 13
+99 Avenue Jean Baptiste Clément, 93430 Villetaneuse
+FRANCE
+Abstract#==#This paper describes the first task on semantic relation extraction and classification in scientific paper abstracts at SemEval 2018. The challenge focuses on domain-specific semantic relations and includes three different subtasks. The subtasks were designed so as to compare and quantify the effect of different pre-processing steps on the relation classification results. We expect the task to be relevant for a broad range of researchers working on extracting specialized knowledge from domain corpora, for example but not limited to scientific or bio-medical information extraction. The task attracted a total of 32 participants, with 158 submissions across different scenarios.
+Author{1}{Firstname}#=%=#Kata
+Author{1}{Lastname}#=%=#Gábor
+Author{1}{Email}#=%=#katagood@gmail.com
+Author{1}{Affiliation}#=%=#LIPN Université Paris13
+Author{2}{Firstname}#=%=#Davide
+Author{2}{Lastname}#=%=#Buscaldi
+Author{2}{Email}#=%=#davide.buscaldi@lipn.univ-paris13.fr
+Author{2}{Affiliation}#=%=#LIPN, Université Paris 13
+Author{3}{Firstname}#=%=#Anne-Kathrin
+Author{3}{Lastname}#=%=#Schumann
+Author{3}{Email}#=%=#ak47schumann@gmail.com
+Author{3}{Affiliation}#=%=#ProTechnology GmbH, Dresden
+Author{4}{Firstname}#=%=#Behrang
+Author{4}{Lastname}#=%=#QasemiZadeh
+Author{4}{Email}#=%=#zadeh@phil.hhu.de
+Author{4}{Affiliation}#=%=#Computational Linguistics Department, University of Düsseldorf
+Author{5}{Firstname}#=%=#Haifa
+Author{5}{Lastname}#=%=#Zargayouna
+Author{5}{Email}#=%=#haifa.zargayouna@lipn.univ-paris13.fr
+Author{5}{Affiliation}#=%=#LIPN, UMR CNRS 7030,  Paris 13 University, Sorbonne Paris Cité
+Author{6}{Firstname}#=%=#Thierry
+Author{6}{Lastname}#=%=#Charnois
+Author{6}{Email}#=%=#thierry.charnois@lipn.univ-paris13.fr
+Author{6}{Affiliation}#=%=#LIPN - CNRS University Paris 13
+
+==========

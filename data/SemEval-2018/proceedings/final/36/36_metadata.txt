@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#36
+FinalPaperTitle#=%=#LDR at SemEval-2018 Task 3: A Low Dimensional Text Representation for Irony Detection
+ShortPaperTitle#=%=#LDR at SemEval-2018 Task 3: A Low Dimensional Text Representation for Irony Detection
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Bilal Ghanem
+JobTitle#==#
+Organization#==#Universitat Politècnica de València, Spain
+Abstract#==#In this paper we describe our participation in the SemEval-2018 task 3 Shared
+Task on Irony Detection. We have approached the task with our low
+dimensionality representation method (LDR), which exploits low dimensional
+features extracted from text on the basis of the occurrence probability of the
+words depending on each class. Our intuition is that words in ironic texts have
+different probability
+of occurrence than in non-ironic ones. Our approach obtained acceptable results
+in both subtasks A and B. We have performed an error analysis that shows the
+difference on correct and incorrect classified tweets.
+Author{1}{Firstname}#=%=#Bilal
+Author{1}{Lastname}#=%=#Ghanem
+Author{1}{Email}#=%=#bigha@doctor.upv.es
+Author{1}{Affiliation}#=%=#Universitat Politècnica de València
+Author{2}{Firstname}#=%=#Francisco
+Author{2}{Lastname}#=%=#Rangel
+Author{2}{Email}#=%=#francisco.rangel@autoritas.es
+Author{2}{Affiliation}#=%=#Universitat Politècnica de València
+Author{3}{Firstname}#=%=#Paolo
+Author{3}{Lastname}#=%=#Rosso
+Author{3}{Email}#=%=#prosso@dsic.upv.es
+Author{3}{Affiliation}#=%=#Universitat Politècnica de València
+
+==========

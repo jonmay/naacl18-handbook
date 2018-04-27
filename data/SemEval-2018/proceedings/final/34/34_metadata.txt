@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#34
+FinalPaperTitle#=%=#Epita at SemEval-2018 Task 1: Sentiment Analysis Using Transfer Learning Approach
+ShortPaperTitle#=%=#Sentiment Analysis Using Transfer Learning Approach
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Bouchekif
+JobTitle#==#
+Organization#==#Graduate school of computer science, EPITA
+14-16 Rue Voltaire, 94270 
+Le Kremlin-Bicêtre
+Abstract#==#In this paper we present our system for detecting valence task. The major issue was to apply a state-of-the-art system despite the small dataset provided: the system would quickly overfit. The main idea of our proposal is to use transfer learning, which allows to avoid learning from scratch. 
+Indeed, we start to train a first model to predict if a tweet is positive, negative or neutral. For this we use an external dataset which is larger and similar to the target dataset. Then, the pre-trained model is re-used as the starting point to train a new model that classifies a tweet into one of the seven various levels of sentiment intensity.
+
+Our system, trained using transfer learning, achieves 0.776 and 0.763 respectively for Pearson correlation coefficient and weighted quadratic kappa metrics on the subtask evaluation dataset.
+Author{1}{Firstname}#=%=#Guillaume
+Author{1}{Lastname}#=%=#Daval-Frerot
+Author{1}{Email}#=%=#guillaume.daval-frerot@epita.fr
+Author{1}{Affiliation}#=%=#EPITA
+Author{2}{Firstname}#=%=#Abdesselam
+Author{2}{Lastname}#=%=#Bouchekif
+Author{2}{Email}#=%=#abdessalam.bouchekif@gmail.com
+Author{2}{Affiliation}#=%=#EPITA
+Author{3}{Firstname}#=%=#Anatole
+Author{3}{Lastname}#=%=#Moreau
+Author{3}{Email}#=%=#anatole.moreau@epita.fr
+Author{3}{Affiliation}#=%=#Epita
+
+==========

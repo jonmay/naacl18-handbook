@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#170
+FinalPaperTitle#=%=#ValenTO at SemEval-2018 Task 3: Exploring the Role of Affective Content for Detecting Irony in English Tweets
+ShortPaperTitle#=%=#ValenTO at SemEval-2018 Task 3: Exploring the Role of Affective Content for Detecting Irony
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#DELIA IRAZU HERNANDEZ FARIAS
+JobTitle#==#POSTDOC
+Organization#==#INAOE
+Abstract#==#In this paper we describe the system used by the ValenTO team in the shared task on Irony Detection in English Tweets at SemEval 2018. The system takes as starting point emotIDM, an irony detection model that explores the use of affective features based on a wide range of lexical resources available for English, reflecting different facets of affect. We experimented with different settings, by exploiting different classifiers and features, and participated both to the binary irony detection task and to the task devoted to distinguish among different types of irony. We report on the results obtained by our system both in a constrained setting and unconstrained setting, where we explored the impact of using additional data in the training phase, such as corpora annotated for the presence of irony or sarcasm from the state of the art. Overall, the performance of our system seems to validate the important role that affective information has for identifying ironic content in Twitter.
+Author{1}{Firstname}#=%=#Delia Irazú
+Author{1}{Lastname}#=%=#Hernández Farías
+Author{1}{Email}#=%=#dirazuherfa@hotmail.com
+Author{1}{Affiliation}#=%=#Instituto Nacional de Astrofísica, Óptica y Electrónica
+Author{2}{Firstname}#=%=#Viviana
+Author{2}{Lastname}#=%=#Patti
+Author{2}{Email}#=%=#patti@di.unito.it
+Author{2}{Affiliation}#=%=#University of Turin, Dipartimento di Informatica
+Author{3}{Firstname}#=%=#Paolo
+Author{3}{Lastname}#=%=#Rosso
+Author{3}{Email}#=%=#prosso@dsic.upv.es
+Author{3}{Affiliation}#=%=#Universitat Politècnica de València
+
+==========

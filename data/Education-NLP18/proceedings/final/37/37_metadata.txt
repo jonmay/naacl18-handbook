@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#37
+FinalPaperTitle#=%=#Co-Attention Based Neural Network for Source-Dependent Essay Scoring
+ShortPaperTitle#=%=#Co-Attention Based Neural Network for Source-Dependent Essay Scoring
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Haoran Zhang
+JobTitle#==#
+Organization#==#University of Pittsburgh
+4200 Fifth Avenue
+Pittsburgh, PA 15260
+Abstract#==#This paper presents an investigation of using a co-attention based neural network for source-dependent essay scoring. We use a co-attention mechanism to help the model learn the importance of each part of the essay more accurately. Also, this paper shows that the co-attention based neural network model provides reliable score prediction of source-dependent responses. We evaluate our model on two source-dependent response corpora. Results show that our model outperforms the baseline on both corpora. We also show that the attention of the model is similar to the expert opinions with examples.
+Author{1}{Firstname}#=%=#Haoran
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#colinzhang@cs.pitt.edu
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Diane
+Author{2}{Lastname}#=%=#Litman
+Author{2}{Email}#=%=#litman@cs.pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+
+==========

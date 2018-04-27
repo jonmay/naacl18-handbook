@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#102
+FinalPaperTitle#=%=#ECNU at SemEval-2018 Task 11: Using Deep Learning Method to Address Machine Comprehension Task
+ShortPaperTitle#=%=#Using Deep Learning Method to Address Machine Comprehension Task
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yixuan Sheng
+JobTitle#==#
+Organization#==#East China Normal University
+3663 N. Zhongshan Rd., Shanghai
+Abstract#==#This paper describes the system we submitted to the Task 11 in SemEval 2018, i.e., Machine Comprehension using Commonsense Knowledge. Given a passage and some questions that each have two candidate answers, this task requires the participate system to select out one answer meet the meaning of original text or commonsense knowledge from the candidate answers. For this task, we use a deep learning method to obtain final predict answer by calculating relevance of choices representations and question-aware document representation.
+Author{1}{Firstname}#=%=#Yixuan
+Author{1}{Lastname}#=%=#Sheng
+Author{1}{Email}#=%=#51164500026@stu.ecnu.edu.cn
+Author{1}{Affiliation}#=%=#East China Normal University
+Author{2}{Firstname}#=%=#Man
+Author{2}{Lastname}#=%=#Lan
+Author{2}{Email}#=%=#mlan@cs.ecnu.edu.cn
+Author{2}{Affiliation}#=%=#East China Normal University
+Author{3}{Firstname}#=%=#Yuanbin
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#ybwu@cs.ecnu.edu.cn
+Author{3}{Affiliation}#=%=#East China Normal University
+
+==========

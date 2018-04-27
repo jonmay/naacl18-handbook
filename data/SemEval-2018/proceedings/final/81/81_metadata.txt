@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#81
+FinalPaperTitle#=%=#EICA Team at SemEval-2018 Task 2: Semantic and Metadata-based Features for Multilingual Emoji Prediction
+ShortPaperTitle#=%=#Semantic and Metadata-based Features for Multilingual Emoji Prediction
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#xieyufei
+JobTitle#==#
+Organization#==#East China Normal University
+Abstract#==#The advent of social media has brought along a novel way of communication where meaning is composed by combining short text messages and visual enhancements, the so-called emojis. We describe our system for participating in SemEval-2018 Task 2 on Multilingual Emoji Prediction. Our approach relies on combining a rich set of various types of features: semantic and metadata. The most important types turned out to be the metadata feature. In subtask 1: Emoji Prediction in English, our primary submission obtain a MAP of 16.45, Precision of 31.557, Recall of 16.771 and Accuracy of 30.992.
+Author{1}{Firstname}#=%=#Yufei
+Author{1}{Lastname}#=%=#Xie
+Author{1}{Email}#=%=#yufeixie@ica.stc.sh.cn
+Author{1}{Affiliation}#=%=#East China Normal University
+Author{2}{Firstname}#=%=#Qingqing
+Author{2}{Lastname}#=%=#Song
+Author{2}{Email}#=%=#whasdsqq@163.com
+Author{2}{Affiliation}#=%=#East China Normal University
+
+==========

@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Large-scale spectral clustering using diffusion coordinates on landmark-based bipartite graphs
+ShortPaperTitle#=%=#Large-scale spectral clustering using diffusion coordinates on landmark-based bipartite graphs
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Guangliang Chen
+JobTitle#==#
+Organization#==#San Jose State University, Department of Mathematics and Statistics, One Washington Square, San Jose, CA 95192, United States
+Abstract#==#Spectral clustering has received a lot of attention due to its ability to separate nonconvex, non-intersecting manifolds, but its high computational complexity has significantly limited its applicability. Motivated by the document-term co-clustering framework by Dhillon (2001), we propose a landmark-based scalable spectral clustering approach in which we first use the selected landmark set and the given data to form a bipartite graph and then run a diffusion process on it to obtain a family of diffusion coordinates for clustering. We show that our proposed algorithm can be implemented based on very efficient operations on the affinity matrix between the given data and selected landmarks, thus capable of handling large data. Finally, we demonstrate the excellent performance of our method by comparing with the state-of-the-art scalable algorithms on several benchmark data sets.
+Author{1}{Firstname}#=%=#Khiem
+Author{1}{Lastname}#=%=#Pham
+Author{1}{Email}#=%=#khiem.pham@sjsu.edu
+Author{1}{Affiliation}#=%=#San Jose State University
+Author{2}{Firstname}#=%=#Guangliang
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#guangliang.chen@sjsu.edu
+Author{2}{Affiliation}#=%=#San Jose State University
+
+==========

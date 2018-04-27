@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#190
+FinalPaperTitle#=%=#TRANSRW at SemEval-2018 Task 12: Transforming Semantic Representations for Argument Reasoning Comprehension
+ShortPaperTitle#=%=#Transforming Semantic Representations for Argument Reasoning Comprehension
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Zhimin Chen
+JobTitle#==#
+Organization#==#Capital Normal University, 56 West Third Ring Road North, Haidian District, Beijing, 100048 China
+Abstract#==#This paper describes our system in SemEval-2018 task 12: Argument Reasoning Comprehension. The task is to select the correct warrant that explains reasoning of a particular argument consisting of a claim and a reason. The main idea of our methods is based on the assumption that the semantic composition of the reason and the warrant should be close to the semantic representation of the corresponding claim. We propose two neural network models. The first one considers two warrant candidates simultaneously, while the second one processes each candidate separately and then chooses the best one. We also incorporate sentiment polarity by assuming that there are kinds of sentiment associations between the reason, the warrant and the claim. The experiments show that the first framework is more effective and sentiment polarity is useful.
+Author{1}{Firstname}#=%=#Zhimin
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#zmchen@cnu.edu.cn
+Author{1}{Affiliation}#=%=#Capital Normal University
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Song
+Author{2}{Email}#=%=#wsong@cnu.edu.cn
+Author{2}{Affiliation}#=%=#Capital Normal University
+Author{3}{Firstname}#=%=#Lizhen
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#liz_liu7480@cnu.edu.cn
+Author{3}{Affiliation}#=%=#Capital Normal University
+
+==========

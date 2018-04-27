@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#54
+FinalPaperTitle#=%=#The Whole is Greater than the Sum of its Parts: Towards the Effectiveness of Voting Ensemble Classifiers for Complex Word Identification
+ShortPaperTitle#=%=#Towards the Effectiveness of Voting Ensemble Classifiers for Complex Word Identification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nikhil Wani
+JobTitle#==#
+Organization#==#Indian Institute of Technology Bombay. Main Gate Road, Powai, Mumbai, Maharashtra 400076
+Abstract#==#In this paper, we present an effective system using voting ensemble classifiers to detect contextually complex words for non-native English speakers. To make the final decision, we channel a set of eight calibrated classifiers based on lexical, size and vocabulary features and train our model with annotated datasets collected from a mixture of native and non-native speakers. Thereafter, we test our system on three datasets namely News, WikiNews, and Wikipedia and report competitive results with an F1-Score ranging between 0.777 to 0.855 for each of the datasets. Our system outperforms multiple other models and falls within 0.042 to 0.026 percent of the best-performing model’s score in the shared task.
+Author{1}{Firstname}#=%=#Nikhil
+Author{1}{Lastname}#=%=#Wani
+Author{1}{Email}#=%=#nick.nikhilwani@gmail.com
+Author{1}{Affiliation}#=%=#IIT Bombay
+Author{2}{Firstname}#=%=#Sandeep
+Author{2}{Lastname}#=%=#Mathias
+Author{2}{Email}#=%=#mathiassandeep@gmail.com
+Author{2}{Affiliation}#=%=#IIT Bombay
+Author{3}{Firstname}#=%=#Jayashree Aanand
+Author{3}{Lastname}#=%=#Gajjam
+Author{3}{Email}#=%=#jayashree1aanand@gmail.com
+Author{3}{Affiliation}#=%=#IIT Bombay
+Author{4}{Firstname}#=%=#Pushpak
+Author{4}{Lastname}#=%=#Bhattacharyya
+Author{4}{Email}#=%=#pushpakbh@gmail.com
+Author{4}{Affiliation}#=%=#CSE Department, IIT Bombay
+
+==========

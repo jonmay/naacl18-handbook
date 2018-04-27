@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#106
+FinalPaperTitle#=%=#EMA at SemEval-2018 Task 1: Emotion Mining for Arabic
+ShortPaperTitle#=%=#EMA at SemEval-2018 Task 1: Emotion Mining for Arabic
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Gilbert Badaro
+JobTitle#==#
+Organization#==#American University of Beirut, Beirut, Lebanon
+Abstract#==#While significant progress has been achieved for Opinion Mining in Arabic
+(OMA), very limited efforts have been put towards the task of Emotion mining in Arabic. In fact, businesses are interested in learning a fine-grained representation of how users are feeling towards their products or services. In this work, we describe the methods used by the team Emotion Mining in Arabic (EMA), as part of the SemEval-2018 Task 1 for Affect Mining for Arabic tweets. EMA participated in all 5 subtasks. For the five tasks, several preprocessing steps were evaluated and eventually the best system included diacritics removal, elongation adjustment, replacement of emojis by the corresponding
+Arabic word, character normalization and light stemming. Moreover, several features were evaluated along with different classification and regression techniques. For the 5 subtasks, word embeddings feature turned out to perform best along with Ensemble technique. EMA achieved the 1st place in subtask 5, and 3rd place in subtasks 1 and 3.
+Author{1}{Firstname}#=%=#Gilbert
+Author{1}{Lastname}#=%=#Badaro
+Author{1}{Email}#=%=#ggb05@aub.edu.lb
+Author{1}{Affiliation}#=%=#American University of Beirut
+Author{2}{Firstname}#=%=#Obeida
+Author{2}{Lastname}#=%=#El Jundi
+Author{2}{Email}#=%=#oae15@aub.edu.lb
+Author{2}{Affiliation}#=%=#American University of Beirut
+Author{3}{Firstname}#=%=#Alaa
+Author{3}{Lastname}#=%=#Khaddaj
+Author{3}{Email}#=%=#awk11@aub.edu.lb
+Author{3}{Affiliation}#=%=#American University of Beirut
+Author{4}{Firstname}#=%=#Alaa
+Author{4}{Lastname}#=%=#Maarouf
+Author{4}{Email}#=%=#aim20@aub.edu.lb
+Author{4}{Affiliation}#=%=#American University of Beirut
+Author{5}{Firstname}#=%=#Raslan
+Author{5}{Lastname}#=%=#Kain
+Author{5}{Email}#=%=#rhk44@aub.edu.lb
+Author{5}{Affiliation}#=%=#American University of Beirut
+Author{6}{Firstname}#=%=#Hazem
+Author{6}{Lastname}#=%=#Hajj
+Author{6}{Email}#=%=#hh63@aub.edu.lb
+Author{6}{Affiliation}#=%=#American University of Beirut
+Author{7}{Firstname}#=%=#Wassim
+Author{7}{Lastname}#=%=#El-Hajj
+Author{7}{Email}#=%=#we07@aub.edu.lb
+Author{7}{Affiliation}#=%=#American University of Beirut
+
+==========

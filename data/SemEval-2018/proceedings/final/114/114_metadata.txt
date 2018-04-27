@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#114
+FinalPaperTitle#=%=#Hatching Chick at SemEval-2018 Task 2: Multilingual Emoji Prediction
+ShortPaperTitle#=%=#Hatching Chick at SemEval-2018 Task 2: Multilingual Emoji Prediction
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Joël Coster
+JobTitle#==#
+Organization#==#University of Groningen, Department of Information Science
+Abstract#==#As part of a SemEval 2018 shared task an attempt was made to build a system capable of predicting the occurence of a language's most frequently used emoji in Tweets. Specifically, models for English and Spanish data were created and trained on 500.000 and 100.000 tweets respectively. In order to create these models, first a logistic regressor, a sequential LSTM, a random forest regressor and a SVM were tested. The latter was found to perform best and therefore optimized individually for both languages. During developmet f1-scores of 61 and 82 were obtained for English and Spanish data respectively, in comparison, f1-scores on the official evaluation data were 21 and 18. The significant decrease in performance during evaluation might be explained by overfitting during development and might therefore have partially be prevented by using cross-validation. Over all, emoji which occur in a very specific context such as a Christmas tree were found to be most predictable.
+Author{1}{Firstname}#=%=#Joël
+Author{1}{Lastname}#=%=#Coster
+Author{1}{Email}#=%=#j.coster.2@student.rug.nl
+Author{1}{Affiliation}#=%=#University of Groningen
+Author{2}{Firstname}#=%=#Reinder Gerard
+Author{2}{Lastname}#=%=#van Dalen
+Author{2}{Email}#=%=#r.g.van.dalen@student.rug.nl
+Author{2}{Affiliation}#=%=#University of Groningen
+Author{3}{Firstname}#=%=#Nathalie Adriënne Jacqueline
+Author{3}{Lastname}#=%=#Stierman
+Author{3}{Email}#=%=#n.a.j.stierman@student.rug.nl
+Author{3}{Affiliation}#=%=#University of Groningen
+
+==========

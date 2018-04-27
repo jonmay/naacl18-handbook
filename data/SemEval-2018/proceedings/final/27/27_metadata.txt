@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#UWB at SemEval-2018 Task 10: Capturing Discriminative Attributes from Word Distributions
+ShortPaperTitle#=%=#UWB at SemEval-2018 Task 10: Capturing Discriminative Attributes from Word Distributions
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Tomas Brychcin
+JobTitle#==#
+Organization#==#University of West Bohemia
+Abstract#==#We present our UWB system for the task of capturing discriminative attributes
+at SemEval 2018. Given two words and an attribute, the system decides, whether
+this attribute is discriminative between the words or not. Assuming
+Distributional Hypothesis, i.e., a word meaning is related to the distribution
+across contexts, we introduce several approaches to compare word contextual
+information.
+
+We experiment with state-of-the-art semantic spaces and with simple
+co-occurrence statistics. We show the word distribution in the corpus has
+potential for detecting discriminative attributes. Our system achieves F1 score
+72.1% and is ranked #4 among 26 submitted systems.
+Author{1}{Firstname}#=%=#Tomáš
+Author{1}{Lastname}#=%=#Brychcín
+Author{1}{Email}#=%=#brychcin@kiv.zcu.cz
+Author{1}{Affiliation}#=%=#Department of Computer Science and Engineering, Faculty of Applied Sciences, University of West Bohemia
+Author{2}{Firstname}#=%=#Tomáš
+Author{2}{Lastname}#=%=#Hercig
+Author{2}{Email}#=%=#tigi@kiv.zcu.cz
+Author{2}{Affiliation}#=%=#University of West Bohemia
+Author{3}{Firstname}#=%=#Josef
+Author{3}{Lastname}#=%=#Steinberger
+Author{3}{Email}#=%=#jstein@kiv.zcu.cz
+Author{3}{Affiliation}#=%=#University of West Bohemia
+Author{4}{Firstname}#=%=#Michal
+Author{4}{Lastname}#=%=#Konkol
+Author{4}{Email}#=%=#konkol@kiv.zcu.cz
+Author{4}{Affiliation}#=%=#University of West Bohemia
+
+==========

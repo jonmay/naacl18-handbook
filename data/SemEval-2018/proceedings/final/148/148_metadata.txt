@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#148
+FinalPaperTitle#=%=#Zewen at SemEval-2018 Task 1: An Ensemble Model for Affect Prediction in Tweets
+ShortPaperTitle#=%=#Zewen at SemEval-2018 Task 1: An Ensemble Model for Affect Prediction in Tweets
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zewen Chi
+JobTitle#==#
+Organization#==#Beijing Institute of Technology 
+Address: 5 South Zhongguancun Street, Haidian District, Beijing
+Abstract#==#This paper presents a method for Affect in Tweets, which is the task to automatically determine the intensity of emotions and intensity of sentiment of tweets. The term affect refers to emotion-related categories such as anger, fear, etc. Intensity of emo-tions need to be quantified into a real valued score in [0, 1]. We propose an en-semble system including four different deep learning methods which are CNN, Bidirectional LSTM (BLSTM), LSTM-CNN and a CNN-based Attention model (CA). Our system gets an average Pearson correlation score of 0.682 in the subtask EI-reg and an average Pearson correlation score of 0.784 in subtask V-reg, which ranks 17th among 48 systems in EI-reg and 19th among 38 systems in V-reg.
+Author{1}{Firstname}#=%=#Zewen
+Author{1}{Lastname}#=%=#Chi
+Author{1}{Email}#=%=#czwin32768@gmail.com
+Author{1}{Affiliation}#=%=#Beijing Institute of Technology
+Author{2}{Firstname}#=%=#Heyan
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#hhy63@bit.edu.cn
+Author{2}{Affiliation}#=%=#Beijing Institute of Technology
+Author{3}{Firstname}#=%=#Jiangui
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#chenjiangui@outlook.com
+Author{3}{Affiliation}#=%=#Beijing Institute of Technology
+Author{4}{Firstname}#=%=#Hao
+Author{4}{Lastname}#=%=#Wu
+Author{4}{Email}#=%=#wuhao123@bit.edu.cn
+Author{4}{Affiliation}#=%=#Beijing Institute of Technology
+Author{5}{Firstname}#=%=#Ran
+Author{5}{Lastname}#=%=#Wei
+Author{5}{Email}#=%=#weiranbit@163.com
+Author{5}{Affiliation}#=%=#Beijing Institute of Technology
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Chengyu Cloze Test
+ShortPaperTitle#=%=#Chengyu Cloze Test
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Zhiying Jiang
+JobTitle#==#
+Organization#==#Rensselaer Polytechnic Institute
+110 8th Street, Troy, New York, 12180
+Abstract#==#We present a neural recommendation model for Chengyu, which is a special type of Chinese idiom. Given a query, which is a sentence with an empty slot where the Chengyu is taken out, our model will recommend the best Chengyu candidate that best fits the slot context. The main challenge lies in that the literal meaning of a Chengyu is usually very different from it's figurative meaning. We propose a new neural approach to leverage the definition of each Chengyu and incorporate it as background knowledge. Experiments on both Chengyu cloze test and coherence checking in college entrance exams show that our system achieves 89.5% accuracy on cloze test and outperforms human subjects who attended competitive universities in China. We will make all of our data sets and resources publicly available as a new benchmark for research purposes.
+Author{1}{Firstname}#=%=#Zhiying
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Email}#=%=#jiangz6@rpi.edu
+Author{1}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{2}{Firstname}#=%=#Boliang
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#boliangzhang85@gmail.com
+Author{2}{Affiliation}#=%=#Rensselaer Polytechnic Institue
+Author{3}{Firstname}#=%=#Lifu
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Email}#=%=#warrior.fu@gmail.com
+Author{3}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{4}{Firstname}#=%=#Heng
+Author{4}{Lastname}#=%=#Ji
+Author{4}{Email}#=%=#jih@rpi.edu
+Author{4}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+
+==========

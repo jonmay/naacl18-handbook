@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#NIHRIO at SemEval-2018 Task 3: A Simple and Accurate Neural Network Model for Irony Detection in Twitter
+ShortPaperTitle#=%=#NIHRIO at SemEval-2018 Task 3: A Simple and Accurate Neural Network Model for Irony Detection in Twitter
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Thanh Vu
+JobTitle#==#
+Organization#==#NIHRIO, Newcastle University
+4th Floor, Time Central, 32 Gallowgate, Newcastle upon Tyne NE1 4BF, UK
+Abstract#==#This paper describes our NIHRIO system for SemEval-2018 Task 3 “Irony
+detection in English tweets.” We propose to use a simple neural network
+architecture of Multilayer Perceptron with various types of input features
+including: lexical, syntactic, semantic and polarity features. Our system
+achieves very high performance in both subtasks of binary and multi-class irony
+detection in tweets. In particular, we rank at least fourth using the accuracy
+metric and sixth using the F1 metric. Our code is available at:
+https://github.com/NIHRIO/IronyDetectionInTwitter
+Author{1}{Firstname}#=%=#Thanh
+Author{1}{Lastname}#=%=#Vu
+Author{1}{Email}#=%=#thanh.vu@io.nihr.ac.uk
+Author{1}{Affiliation}#=%=#NIHRIO, Newcastle University
+Author{2}{Firstname}#=%=#Dat Quoc
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Email}#=%=#dqnguyen@unimelb.edu.au
+Author{2}{Affiliation}#=%=#The University of Melbourne
+Author{3}{Firstname}#=%=#Xuan-Son
+Author{3}{Lastname}#=%=#Vu
+Author{3}{Email}#=%=#sonvx@cs.umu.se
+Author{3}{Affiliation}#=%=#Umeå University
+Author{4}{Firstname}#=%=#Dai Quoc
+Author{4}{Lastname}#=%=#Nguyen
+Author{4}{Email}#=%=#dai.nguyen@deakin.edu.au
+Author{4}{Affiliation}#=%=#Deakin University
+Author{5}{Firstname}#=%=#Michael
+Author{5}{Lastname}#=%=#Catt
+Author{5}{Email}#=%=#michael.catt@io.nihr.ac.uk
+Author{5}{Affiliation}#=%=#NIHRIO, Newcastle University
+Author{6}{Firstname}#=%=#Michael
+Author{6}{Lastname}#=%=#Trenell
+Author{6}{Email}#=%=#michael.trenell@io.nihr.ac.uk
+Author{6}{Affiliation}#=%=#NIHRIO, Newcastle University
+
+==========

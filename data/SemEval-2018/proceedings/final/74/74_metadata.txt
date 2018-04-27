@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#74
+FinalPaperTitle#=%=#THU_NGN at SemEval-2018 Task 3: Tweet Irony Detection with Densely connected LSTM and Multi-task Learning
+ShortPaperTitle#=%=#Tweet Irony Detection with Densely connected LSTM and Multi-task Learning
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chuhan Wu
+JobTitle#==#
+Organization#==#Department of Electronic Engineering, Tsinghua University, China.
+Abstract#==#Detecting irony is an important task to mine fine-grained information from social web messages. Therefore, the Semeval-2018 task 3 is aimed to detect the ironic tweets (subtask A) and their ironic types (subtask B). In order to address this task, we propose a system based on a densely connected LSTM network with multi-task learning strategy. In our dense LSTM model, each layer will take all outputs from previous layers as input. The last LSTM layer will output the hidden representations of texts, and they will be used in three classification task. In addition, we incorporate several types of features to improve the model performance. Our model achieved an F-score of 70.54 (ranked 2/43) in the subtask A and 49.47 (ranked 3/29) in the subtask B. The experimental results validate the effectiveness of our system.
+Author{1}{Firstname}#=%=#Chuhan
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#wuch15@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+Author{2}{Firstname}#=%=#Fangzhao
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#wufangzhao@gmail.com
+Author{2}{Affiliation}#=%=#Tsinghua Univeristy
+Author{3}{Firstname}#=%=#Sixing
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#wu-sx15@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+Author{4}{Firstname}#=%=#Junxin
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#ljx16@mails.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+Author{5}{Firstname}#=%=#Zhigang
+Author{5}{Lastname}#=%=#Yuan
+Author{5}{Email}#=%=#yuanzg14@mails.tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+Author{6}{Firstname}#=%=#Yongfeng
+Author{6}{Lastname}#=%=#Huang
+Author{6}{Email}#=%=#yfhuang@tsinghua.edu.cn
+Author{6}{Affiliation}#=%=#Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+
+==========

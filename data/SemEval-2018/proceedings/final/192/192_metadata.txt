@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#192
+FinalPaperTitle#=%=#MITRE at SemEval-2018 Task 11: Commonsense Reasoning without Commonsense Knowledge
+ShortPaperTitle#=%=#MITRE at SemEval-2018 Task 11: Commonsense Reasoning without Commonsense Knowledge
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#The MITRE Corporation
+  202 Burlington Road
+  Bedford, MA 01730-1420, USA
+Abstract#==#This paper describes MITRE's participation in SemEval-2018 Task 11: Machine Comprehension using Commonsense Knowledge. The techniques explored range from simple bag-of-ngrams classifiers to neural architectures with varied attention and alignment mechanisms. Logistic regression ties the systems together into an ensemble submitted for evaluation. The resulting system answers reading comprehension questions with 82.27% accuracy.
+Author{1}{Firstname}#=%=#Elizabeth
+Author{1}{Lastname}#=%=#Merkhofer
+Author{1}{Email}#=%=#emmerkhofer@gmail.com
+Author{1}{Affiliation}#=%=#MITRE
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Henderson
+Author{2}{Email}#=%=#jhndrsn@mitre.org
+Author{2}{Affiliation}#=%=#MITRE
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Bloom
+Author{3}{Email}#=%=#dtbloom@mitre.org
+Author{3}{Affiliation}#=%=#MITRE
+Author{4}{Firstname}#=%=#Laura
+Author{4}{Lastname}#=%=#Strickhart
+Author{4}{Email}#=%=#lstrickhart@mitre.org
+Author{4}{Affiliation}#=%=#MITRE
+Author{5}{Firstname}#=%=#Guido
+Author{5}{Lastname}#=%=#Zarrella
+Author{5}{Email}#=%=#jzarrella@mitre.org
+Author{5}{Affiliation}#=%=#MITRE
+
+==========

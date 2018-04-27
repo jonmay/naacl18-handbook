@@ -1,0 +1,16 @@
+SubmissionNumber#=%=#66
+FinalPaperTitle#=%=#Predicting Second Language Learner Successes and Mistakes by Means of Conjunctive Features
+ShortPaperTitle#=%=#Predicting L2 Mistakes by Means of Conjunctive Features
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yves Bestgen
+JobTitle#==#
+Organization#==#Université catholique of Louvain
+Place de l'Université, 1
+B-1348 Louvain-la-Neuve Belgium
+Abstract#==#This paper describes the system developed by the Centre for English Corpus Linguistics for the 2018 Duolingo SLAM challenge. It aimed at predicting the successes and mistakes of second language learners on each of the words that compose the exercises they answered. Its main characteristic is to include conjunctive features, built by combining word ngrams with metadata about the user and the exercise. It achieved a relatively good performance, ranking fifth out of 15 systems. Complementary analyses carried out to gauge the contribution of the different sets of features to the performance confirmed the usefulness of the conjunctive features for the SLAM task.
+Author{1}{Firstname}#=%=#Yves
+Author{1}{Lastname}#=%=#Bestgen
+Author{1}{Email}#=%=#yves.bestgen@uclouvain.be
+Author{1}{Affiliation}#=%=#Université catholique de Louvain
+
+==========

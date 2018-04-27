@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#103
+FinalPaperTitle#=%=#Peperomia at SemEval-2018 Task 2: Vector Similarity Based Approach for Emoji Prediction
+ShortPaperTitle#=%=#Peperomia at SemEval-2018 Task 2: Vector Similarity Based Approach for Emoji Prediction
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jing Chen
+JobTitle#==#
+Organization#==#Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University, Beijing, 100871, China
+Abstract#==#This paper describes our participation in Se- mEval 2018 Task 2: Multilingual Emoji Pre- diction, in which participants are asked to pre- dict a tweet’s most associated emoji from 20 emojis. Instead of regarding it as a 20-class classification problem we regard it as a text similarity problem. We propose a vector sim- ilarity based approach for this task. First the distributed representation (tweet vector) for each tweet is generated, then the similarity be- tween this tweet vector and each emoji’s em- bedding is evaluated. The most similar emoji is chosen as the predicted label. Experimental results show that our approach performs com- parably with the classification approach and shows its advantage in classifying emojis with similar semantic meaning.
+Author{1}{Firstname}#=%=#Jing
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#chenjing.amy@pku.edu.cn
+Author{1}{Affiliation}#=%=#Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University, Beijing, 100871, China
+Author{2}{Firstname}#=%=#Dechuan
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#yangdechuan@pku.edu.cn
+Author{2}{Affiliation}#=%=#Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University, Beijing, 100871, China
+Author{3}{Firstname}#=%=#Xilian
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#xilianli@pku.edu.cn
+Author{3}{Affiliation}#=%=#Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University, Beijing, 100871, China
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#pekingchenwei@pku.edu.cn
+Author{4}{Affiliation}#=%=#Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University, Beijing, 100871, China
+Author{5}{Firstname}#=%=#Tengjiao
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Email}#=%=#tjwang@pku.edu.cn
+Author{5}{Affiliation}#=%=#Key Lab of High Confidence Software Technologies (MOE), School of EECS, Peking University, Beijing, 100871, China
+
+==========

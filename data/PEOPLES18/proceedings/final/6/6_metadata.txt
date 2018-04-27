@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Reddit: A Gold Mine for Personality Prediction
+ShortPaperTitle#=%=#Reddit: A Gold Mine for Personality Prediction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jan Šnajder
+JobTitle#==#
+Organization#==#University of Zagreb Faculty of Electrical Engineering and Computing
+Abstract#==#Automated personality prediction from social media is gaining increasing attention in natural language processing and social sciences communities. However, due to high labeling costs and privacy issues, the few publicly available datasets are of limited size and low topic diversity. We address this problem by introducing a large-scale dataset derived from Reddit, a source so far overlooked for personality prediction. The dataset is labeled with Myers-Briggs Type Indicators (MBTI) and comes with a rich set of features for more than 9k users. We carry out a preliminary feature analysis, revealing marked differences between the MBTI dimensions and poles. Furthermore, we use the dataset to train and evaluate benchmark personality prediction models, achieving macro F1-scores between 67% and 82% on the individual dimensions and 82% accuracy for exact or one-off accurate type prediction. These results are encouraging and comparable with the reliability of standardized tests.
+Author{1}{Firstname}#=%=#Matej
+Author{1}{Lastname}#=%=#Gjurković
+Author{1}{Email}#=%=#matej.gjurkovic@fer.hr
+Author{1}{Affiliation}#=%=#TakeLab, Faculty of Electrical Engineering and Computing, University of Zagreb
+Author{2}{Firstname}#=%=#Jan
+Author{2}{Lastname}#=%=#Šnajder
+Author{2}{Email}#=%=#jan.snajder@fer.hr
+Author{2}{Affiliation}#=%=#University of Zagreb, Faculty of Electrical Engineering and Computing, Unska 3, 10000 Zagreb
+
+==========

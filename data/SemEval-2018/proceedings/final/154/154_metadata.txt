@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#154
+FinalPaperTitle#=%=#SSN MLRG1 at SemEval-2018 Task 3: Irony Detection in English Tweets Using MultiLayer Perceptron
+ShortPaperTitle#=%=#SSN MLRG1 at SemEval-2018 Task 3: Irony Detection in English Tweets Using MultiLayer Perceptron
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#S.Rajalakshmi
+JobTitle#==#
+Organization#==#SSN College of Engineering, Chennai, Tamil Nadu, India - 603110
+Abstract#==#Sentiment analysis plays an important role in E-commerce. Identifying ironic and sarcastic content in text plays a vital role in inferring the actual intention of the user, and is necessary to increase the accuracy of sentiment analysis. This paper describes the work on identifying the irony level in twitter texts. The system developed by the SSN MLRG1 team in SemEval-2018 for task 3 (irony detection) uses rule based approach for feature selection and MultiLayer Perceptron (MLP) technique to build the model for multiclass irony classification subtask, which classifies the given text into one of the four class labels.
+Author{1}{Firstname}#=%=#Rajalakshmi
+Author{1}{Lastname}#=%=#S
+Author{1}{Email}#=%=#rajalakshmis@ssn.edu.in
+Author{1}{Affiliation}#=%=#SSN College of Engineering
+Author{2}{Firstname}#=%=#Angel Deborah
+Author{2}{Lastname}#=%=#S
+Author{2}{Email}#=%=#angeldeborahs@ssn.edu.in
+Author{2}{Affiliation}#=%=#SSN College of Engineering
+Author{3}{Firstname}#=%=#S Milton
+Author{3}{Lastname}#=%=#Rajendram
+Author{3}{Email}#=%=#miltonrs@ssn.edu.in
+Author{3}{Affiliation}#=%=#SSN College of Engineering
+Author{4}{Firstname}#=%=#Mirnalinee
+Author{4}{Lastname}#=%=#T T
+Author{4}{Email}#=%=#mirnalineett@ssn.edu.in
+Author{4}{Affiliation}#=%=#SSN College of Engineering
+
+==========

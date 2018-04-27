@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#130
+FinalPaperTitle#=%=#HCCL at SemEval-2018 Task 8: An End-to-End System for Sequence Labeling from Cybersecurity Reports
+ShortPaperTitle#=%=#HCCL at SemEval-2018 Task 8: An End-to-End System for Sequence Labeling from Cybersecurity Reports
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Mingming Fu
+JobTitle#==#
+Organization#==#The Key Laboratory of Speech Acoustics and Content Understanding, Institute of Acoustics, Chinese Academy of Sciences
+No. 21 North 4th Ring Road, Haidian District, 100190 Beijing, China
+Abstract#==#This paper describes HCCL team systems that participated in SemEval 2018 Task 8: SecureNLP (Semantic Extraction from cybersecurity reports using NLP). To solve the problem, our team applied a neural network architecture that benefits from both word and character level representaions automatically, by using combination of Bi-directional LSTM, CNN and CRF (Ma and Hovy, 2016). Our system is truly end-to-end, requiring no feature engineering or data preprocessing, and we ranked 4th in the subtask 1, 7th in the subtask2 and 3rd in the SubTask2-relaxed.
+Author{1}{Firstname}#=%=#Mingming
+Author{1}{Lastname}#=%=#Fu
+Author{1}{Email}#=%=#fumingming@hccl.ioa.ac.cn
+Author{1}{Affiliation}#=%=#The Key Laboratory of Speech Acoustics and Content Understanding, Institute of Acoustics, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Xuemin
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Email}#=%=#zhaoxuemin@hccl.ioa.ac.cn
+Author{2}{Affiliation}#=%=#The Key Laboratory of Speech Acoustics and Content Understanding, Institute of Acoustics, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Yonghong
+Author{3}{Lastname}#=%=#Yan
+Author{3}{Email}#=%=#yanyonghong@hccl.ioa.ac.cn
+Author{3}{Affiliation}#=%=#The Key Laboratory of Speech Acoustics and Content Understanding Institute of Acoustics, Chinese Academy of Sciences
+
+==========

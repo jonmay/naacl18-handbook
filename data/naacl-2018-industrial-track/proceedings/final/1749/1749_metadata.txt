@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1749
+FinalPaperTitle#=%=#Scalable Wide and Deep Learning for Computer Assisted Coding
+ShortPaperTitle#=%=#Scalable Wide and Deep Learning for Computer Assisted Coding
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Frank Diehl
+JobTitle#==#
+Organization#==#Nuance Communications 
+1 Wayside Road
+Burlington, MA 01803
+USA
+Abstract#==#In recent years the use of electronic medical records has accelerated resulting in large volumes of medical data when a patient visits a healthcare facility. As a first step towards reimbursement healthcare institutions need to associate ICD-10 billing codes to these documents. This is done by trained clinical coders who may use a computer assisted solution for shortlisting of codes. In this work, we present our work to build a machine learning based scalable system for predicting ICD-10 codes from electronic medical records. We address data imbalance issues by implementing two system architectures using convolutional neural networks and logistic regression models.  We illustrate the pros and cons of those system designs and show that the best performance can be achieved by leveraging the advantages of both using a system combination approach.
+Author{1}{Firstname}#=%=#Marilisa
+Author{1}{Lastname}#=%=#Amoia
+Author{1}{Email}#=%=#Marilisa.Amoia@nuance.com
+Author{1}{Affiliation}#=%=#Nuance Communications
+Author{2}{Firstname}#=%=#Frank
+Author{2}{Lastname}#=%=#Diehl
+Author{2}{Email}#=%=#frank.diehl@nuance.com
+Author{2}{Affiliation}#=%=#Nuance Communications
+Author{3}{Firstname}#=%=#Jesus
+Author{3}{Lastname}#=%=#Gimenez
+Author{3}{Email}#=%=#Jesus.Gimenez@nuance.com
+Author{3}{Affiliation}#=%=#Nuance Communications
+Author{4}{Firstname}#=%=#Joel
+Author{4}{Lastname}#=%=#Pinto
+Author{4}{Email}#=%=#Joel.Pinto@nuance.com
+Author{4}{Affiliation}#=%=#Nuance Communications
+Author{5}{Firstname}#=%=#Raphael
+Author{5}{Lastname}#=%=#Schumann
+Author{5}{Email}#=%=#rschuman@cl.uni-heidelberg.de
+Author{5}{Affiliation}#=%=#Institute for Computational Linguistics, Heidelberg University
+Author{6}{Firstname}#=%=#Fabian
+Author{6}{Lastname}#=%=#Stemmer
+Author{6}{Email}#=%=#Fabian.Stemmer@nuance.com
+Author{6}{Affiliation}#=%=#Nuance Communications
+Author{7}{Firstname}#=%=#Paul
+Author{7}{Lastname}#=%=#Vozila
+Author{7}{Email}#=%=#Paul.Vozila@nuance.com
+Author{7}{Affiliation}#=%=#Nuance Communications
+Author{8}{Firstname}#=%=#Yi
+Author{8}{Lastname}#=%=#Zhang
+Author{8}{Email}#=%=#yi.zhang@nuance.com
+Author{8}{Affiliation}#=%=#Nuance Communications
+
+==========

@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#188
+FinalPaperTitle#=%=#NAI-SEA at SemEval-2018 Task 5: An Event Search System
+ShortPaperTitle#=%=#NAI-SEA at SemEval-2018 Task 5: An Event Search System
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yingchi Liu
+JobTitle#==#
+Organization#==#Alibaba Group, Inc
+Bellevue, WA 98004, USA
+Abstract#==#In this paper, we describe Alibaba's participating system in the semEval-2018 Task5: Counting Events and Participants in the Long Tail. We designed and implemented a pipeline system that consists of components to extract question properties and document features, document event category classifications, document retrieval and document clustering. To retrieve the majority of the relevant documents, we carefully designed our system to extract key information from each question and document pair. After retrieval, we perform further document clustering to count the number of events. The task contains 3 subtasks, on which we achieved F1 score of 78.33, 50.52, 63.59 , respectively, for document level retrieval. Our system ranks first in all the three subtasks on document level retrieval, and it also ranks first in incident-level evaluation by RSME measure in subtask 3.
+Author{1}{Firstname}#=%=#Yingchi
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#yingchi.liu@alibaba-inc.com
+Author{1}{Affiliation}#=%=#Alibaba Group, Inc
+Author{2}{Firstname}#=%=#Quanzhi
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#quanzhi.li@alibaba-inc.com
+Author{2}{Affiliation}#=%=#Alibaba Group
+Author{3}{Firstname}#=%=#Luo
+Author{3}{Lastname}#=%=#Si
+Author{3}{Email}#=%=#luo.si@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+
+==========

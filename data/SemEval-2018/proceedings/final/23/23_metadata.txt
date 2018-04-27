@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#UWB at SemEval-2018 Task 3: Irony detection in English tweets
+ShortPaperTitle#=%=#UWB at SemEval-2018 Task 3: Irony detection in English tweets
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Tomas Hercig
+JobTitle#==#
+Organization#==#University of West Bohemia
+Univerzitni 8, Pilsen 30100, Czech Republic
+Abstract#==#This paper describes our system created for the SemEval-2018 Task 3:  Irony
+detection in English tweets.
+
+Our strongly constrained system uses only the provided training data without
+any additional external resources.
+Our system is based on Maximum Entropy classifier and various features using
+parse tree, POS tags, and morphological features.
+Even without additional lexicons and word embeddings we achieved fourth place
+in Subtask A and seventh in Subtask B in terms of accuracy.
+Author{1}{Firstname}#=%=#Tomáš
+Author{1}{Lastname}#=%=#Hercig
+Author{1}{Email}#=%=#tigi@kiv.zcu.cz
+Author{1}{Affiliation}#=%=#University of West Bohemia
+
+==========

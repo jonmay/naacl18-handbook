@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#198
+FinalPaperTitle#=%=#SeerNet at SemEval-2018 Task 1: Domain Adaptation for Affect in Tweets
+ShortPaperTitle#=%=#SeerNet at SemEval-2018 Task 1: Domain Adaptation for Affect in Tweets
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Venkatesh Duppada
+JobTitle#==#
+Organization#==#Seernet Technologies, LLC,
+203 Granite Ct Milpitas, CA 95035.
+Abstract#==#The paper describes the best performing system for the SemEval-2018 Affect in Tweets(English) sub-tasks. The system focuses on the ordinal classification and regression sub-tasks for valence and emotion.   For ordinal classification valence is classified into 7  different classes ranging from -3 to 3 whereas emotion is classified into 4 different classes 0 to 3 separately for each emotion namely anger,  fear, joy and sadness.  The regression sub-tasks estimate the intensity of valence and each emotion.  The system performs domain adaptation of  4  different models and creates an ensemble to give the final prediction.  The proposed system achieved 1stposition out of 75 teams which participated in the fore-mentioned sub-tasks.   We outperform the baseline model by margins ranging from 49.2% to 76.4 %, thus, pushing the state-of-the-art significantly.
+Author{1}{Firstname}#=%=#Venkatesh
+Author{1}{Lastname}#=%=#Duppada
+Author{1}{Email}#=%=#venkateshduppada9@gmail.com
+Author{1}{Affiliation}#=%=#Seernet Technologies, LLC
+Author{2}{Firstname}#=%=#Royal
+Author{2}{Lastname}#=%=#Jain
+Author{2}{Email}#=%=#royal.jain@seernet.io
+Author{2}{Affiliation}#=%=#Seernet Technologies, LLC
+Author{3}{Firstname}#=%=#Sushant
+Author{3}{Lastname}#=%=#Hiray
+Author{3}{Email}#=%=#hiraysushant@gmail.com
+Author{3}{Affiliation}#=%=#Seernet Technologies, LLC
+
+==========

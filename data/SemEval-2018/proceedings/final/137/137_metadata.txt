@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#137
+FinalPaperTitle#=%=#Joker at SemEval-2018 Task 12: The Argument Reasoning Comprehension with Neural Attention
+ShortPaperTitle#=%=#Joker at SemEval-2018 Task 12: The Argument Reasoning Comprehension with Neural Attention
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Guobin Sui
+JobTitle#==#
+Organization#==#Beihang University
+Abstract#==#This paper describes a classification system that participated in the SemEval-2018 Task 12: The Argument Reasoning Comprehension Task. Briefly the task can be described as that a natural language “argument” is what we have, with reason, claim, and correct and incorrect warrants, and we need to choose the correct warrant. In order to make fully understand of the semantic information of the sentences, we proposed a neural network architecture with attention mechanism to achieve this goal. Besides we try to introduce keywords into the model to improve accuracy. Finally the proposed system achieved 5th place among 22 participating systems
+Author{1}{Firstname}#=%=#Sui
+Author{1}{Lastname}#=%=#Guobin
+Author{1}{Email}#=%=#1148484072@qq.com
+Author{1}{Affiliation}#=%=#+8618810937071
+Author{2}{Firstname}#=%=#Chao
+Author{2}{Lastname}#=%=#Wenhan
+Author{2}{Email}#=%=#chaowenhan@buaa.edu.cn
+Author{2}{Affiliation}#=%=#+8613699223750
+Author{3}{Firstname}#=%=#Luo
+Author{3}{Lastname}#=%=#Zhunchen
+Author{3}{Email}#=%=#zhunchenluo@gmail.com
+Author{3}{Affiliation}#=%=#+8618500984620
+
+==========

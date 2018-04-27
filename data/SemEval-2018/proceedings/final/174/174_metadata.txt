@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#174
+FinalPaperTitle#=%=#Manchester Metropolitan at SemEval-2018 Task 2: Random Forest with an Ensemble of Features for Predicting Emoji in Tweets
+ShortPaperTitle#=%=#MMU at SemEval-2018 Task 2: RF with an Ensemble of Features
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Matthew Shardlow
+JobTitle#==#Lecturer
+Organization#==#Manchester Metropolitan University, 
+John Dalton Building, 
+Manchester, 
+M15 6BH
+Abstract#==#We present our submission to the Semeval 2018 task on emoji prediction. We used a random forest, with an ensemble of bag-of- words, sentiment and psycholinguistic fea- tures. Although we performed well on the trial dataset (attaining a macro f-score of 63.185 for English and 81.381 for Spanish), our approach did not perform as well on the test data. We describe our features and classi cation protocol, as well as initial ex- periments, concluding with a discussion of the discrepancy between our trial and test results.
+Author{1}{Firstname}#=%=#Luciano
+Author{1}{Lastname}#=%=#Gerber
+Author{1}{Email}#=%=#l.gerber@mmu.ac.uk
+Author{1}{Affiliation}#=%=#Manchester Metropolitan University
+Author{2}{Firstname}#=%=#Matthew
+Author{2}{Lastname}#=%=#Shardlow
+Author{2}{Email}#=%=#mattshardlow@gmail.com
+Author{2}{Affiliation}#=%=#Manchester Metropolitan University
+
+==========

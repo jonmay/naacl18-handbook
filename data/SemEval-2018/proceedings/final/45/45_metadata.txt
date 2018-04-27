@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#45
+FinalPaperTitle#=%=#RNN for Affects at SemEval-2018 Task 1: Formulating Affect Identification as a Binary Classification Problem
+ShortPaperTitle#=%=#Formulating Affect Identification as a Binary Classification Problem
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Aysu Can
+JobTitle#==#
+Organization#==#SAS
+Abstract#==#Written communication lacks the multimodal features such as posture, gesture
+and gaze that make it easy to model affective states. Especially in social
+media such as Twitter, due to the space constraints, the sources of informa-
+tion that can be mined are even more limited due to character limitations.
+These limitations constitute a challenge for understanding short social media
+posts.
+
+In this paper, we present an approach that utilizes multiple binary classifiers
+that represent different affective categories to model Twit- ter posts (e.g.,
+tweets). We train domain- independent recurrent neural network models without
+any outside information such as affect lexicons. We then use these domain
+independent binary ranking models to eval- uate the applicability of such deep
+learning models on the affect identification task. This approach allows
+different model architectures and parameter settings for each affect category
+instead of building one single multi-label classifier. The contributions of
+this paper are two-folds: we show that modeling tweets with a small training
+set is possible with the use of RNNs and we also prove that formulating affect
+identification as a binary classification task is highly effective.
+Author{1}{Firstname}#=%=#Aysu
+Author{1}{Lastname}#=%=#Ezen-Can
+Author{1}{Email}#=%=#aezenca@gmail.com
+Author{1}{Affiliation}#=%=#SAS
+Author{2}{Firstname}#=%=#Ethem F.
+Author{2}{Lastname}#=%=#Can
+Author{2}{Email}#=%=#ethfcan@gmail.com
+Author{2}{Affiliation}#=%=#SAS
+
+==========

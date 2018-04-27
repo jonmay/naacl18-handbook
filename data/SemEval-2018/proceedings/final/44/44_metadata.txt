@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#KNU CI System at SemEval-2018 Task4: Character Identification by Solving Sequence-Labeling Problem
+ShortPaperTitle#=%=#KNU CI System at SemEval-2018 Task4
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Cheoneum
+JobTitle#==#
+Organization#==#Kangwon National University
+302, Hanbit-kwan, 1, Gangwondaehak-gil Chuncheon-si Gangwon-do South Korea
+Abstract#==#Character identification is an entity-linking task that finds words referring
+to the same person among the nouns mentioned in a conversation and turns them
+into one entity. In this paper, we define a sequence-labeling problem to solve
+character identification, and propose an attention-based recurrent neural
+network (RNN) encoder–decoder model. The in-put document for character
+identification on multiparty dialogues consists of several conversations, which
+increase the length of the input sequence. The RNN encoder–decoder model
+suffers from poor performance when the length of the input sequence is long. To
+solve this problem, we propose applying position encoding and the self-matching
+network to the RNN encoder–decoder model. Our experimental results
+demonstrate that of the four models proposed, Model 2 showed an F1 score of
+86.00% and a label accuracy of 85.10% at the scene-level.
+Author{1}{Firstname}#=%=#Cheoneum
+Author{1}{Lastname}#=%=#Park
+Author{1}{Email}#=%=#parkce3@gmail.com
+Author{1}{Affiliation}#=%=#Kangwon National University
+Author{2}{Firstname}#=%=#Heejun
+Author{2}{Lastname}#=%=#Song
+Author{2}{Email}#=%=#heejun7.song@samsung.com
+Author{2}{Affiliation}#=%=#Samsung Research, Samsung Electonics Co., Ltd.
+Author{3}{Firstname}#=%=#Changki
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Email}#=%=#leeck@kangwon.ac.kr
+Author{3}{Affiliation}#=%=#Kangwon National University
+
+==========

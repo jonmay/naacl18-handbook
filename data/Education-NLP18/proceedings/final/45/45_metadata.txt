@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#45
+FinalPaperTitle#=%=#Automated Content Analysis: A Case Study of Computer Science Student Summaries
+ShortPaperTitle#=%=#Automated Content Analysis: A Case Study of Computer Science Student Summaries
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Yanjun Gao
+JobTitle#==#
+Organization#==#Department of Computer Science and Engineering, Penn State University, Westgate Building, University Park, PA, USA.
+Abstract#==#Technology is transforming Higher Education learning and teaching. This paper reports on a project to examine how and why automated content analysis could be used to assess precis writing by university students. We examine the case of one hundred and twenty-two summaries written by computer science freshmen. The texts, which had been hand scored using a teacher-designed rubric, were autoscored using the Natural Language Processing software, PyrEval. Pearson’s correlation coefficient and Spearman rank correlation were used to analyze the relationship between the teacher score and the PyrEval score for each summary. Three content models automatically constructed by PyrEval from different sets of human reference summaries led to consistent correlations, showing that the approach is reliable. Also observed was that, in cases where the focus of student assessment centers on formative feedback, categorizing the PyrEval scores by examining the average and standard deviations could lead to novel interpretations of their relationships. It is suggested that this project has implications for the ways in which automated content analysis could be used to help university students improve their summarization skills.
+Author{1}{Firstname}#=%=#Yanjun
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Email}#=%=#yug125@cse.psu.edu
+Author{1}{Affiliation}#=%=#Pennsylvania State University
+Author{2}{Firstname}#=%=#Patricia
+Author{2}{Lastname}#=%=#M.Davies
+Author{2}{Email}#=%=#patricia.davies@wlv.ac.uk
+Author{2}{Affiliation}#=%=#University of Wolverhampton
+Author{3}{Firstname}#=%=#Rebecca
+Author{3}{Lastname}#=%=#J. Passonneau
+Author{3}{Email}#=%=#rjp49@cse.psu.edu
+Author{3}{Affiliation}#=%=#Penn State University
+
+==========

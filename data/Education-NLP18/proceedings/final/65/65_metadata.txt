@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#65
+FinalPaperTitle#=%=#Modeling Second-Language Learning from a Psychological Perspective
+ShortPaperTitle#=%=#Modeling Second-Language Learning from a Psychological Perspective
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Alexander Rich
+JobTitle#==#
+Organization#==#New York University
+6 Washington Place
+New York, NY 10003
+Abstract#==#Psychological research on learning and memory has tended to emphasize small-scale laboratory studies.  However, large datasets of people using educational software provide opportunities to explore these issues from a new perspective.  In this paper we describe our approach to the Duolingo Second Language Acquisition Modeling (SLAM) competition which was run in early 2018.  We used a well-known class of algorithms (gradient boosted decision trees), with features partially informed by theories from the psychological literature. After detailing our modeling approach and a number of supplementary simulations, we reflect on the degree to which psychological theory aided the model, and the potential for cognitive science and predictive modeling competitions to gain from each other.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Rich
+Author{1}{Email}#=%=#asr443@nyu.edu
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Pamela
+Author{2}{Lastname}#=%=#Osborn Popp
+Author{2}{Email}#=%=#pamop@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Halpern
+Author{3}{Email}#=%=#david.halpern@nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+Author{4}{Firstname}#=%=#Anselm
+Author{4}{Lastname}#=%=#Rothe
+Author{4}{Email}#=%=#anselm@nyu.edu
+Author{4}{Affiliation}#=%=#New York University
+Author{5}{Firstname}#=%=#Todd
+Author{5}{Lastname}#=%=#Gureckis
+Author{5}{Email}#=%=#todd.gureckis@nyu.edu
+Author{5}{Affiliation}#=%=#New York University
+
+==========

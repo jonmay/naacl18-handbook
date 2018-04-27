@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Discovering Phonesthemes with Sparse Regularization
+ShortPaperTitle#=%=#Discovering Phonesthemes with Sparse Regularization
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nelson F. Liu
+JobTitle#==#
+Organization#==#Paul G. Allen School of Computer Science & Engineering
+University of Washington
+Paul G. Allen Center for Computer Science & Engineering, Room AC 101
+Box 352350
+185 E Stevens Way NE
+Seattle WA 98195-2350
+Abstract#==#We introduce a simple method for extracting non-arbitrary form-meaning representations from a collection of semantic vectors. We treat the problem as one of feature selection for a model trained to predict word vectors from subword features. We apply this model to the problem of automatically discovering phonesthemes, which are submorphemic sound clusters that appear in words with similar meaning. Many of our model-predicted phonesthemes overlap with those proposed in the linguistics literature, and we validate our approach with human judgments.
+Author{1}{Firstname}#=%=#Nelson F.
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#nfliu@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Gina-Anne
+Author{2}{Lastname}#=%=#Levow
+Author{2}{Email}#=%=#levow@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Noah A.
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#nasmith@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

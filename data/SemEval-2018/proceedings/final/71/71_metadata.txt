@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#71
+FinalPaperTitle#=%=#Irony Detector at SemEval-2018 Task 3: Irony Detection in English Tweets using Word Graph
+ShortPaperTitle#=%=#Irony Detector at SemEval-2018 Task 3: Irony Detection in English Tweets using Word Graph
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Usman Ahmed
+JobTitle#==#
+Organization#==#Parallel Computing Network,
+Department of Computer Science,
+Capital University of Science and Technology,
+Islamabad, Pakistan.
+Abstract#==#This paper describes the Irony detection system that participates in SemEval-2018 Task 3: Irony detection in English tweets. The system participated in the subtasks A and B. This paper discusses the results of our system in the development, evaluation and post evaluation. Each class in the dataset is represented as directed unweighted graphs. Then, the comparison is carried out with each class graph which results in a vector. This vector is used as features by machine learning algorithm. The model is evaluated on a hold on strategy. The organizers randomly split 80% (3,833 instances) training set (provided to the participant in training their system) and testing set 20%(958 instances). The test set is reserved to evaluate the performance of participants systems. During the evaluation, our system ranked 23 in the Coda Lab result of the subtask A (binary class problem). The binary class system achieves accuracy 0.6135, precision 0.5091, recall 0.7170 and F measure 0.5955. The subtask B (multi-class problem) system is ranked 22 in Coda Lab results. The multiclass model achieves the accuracy 0.4158, precision 0.4055, recall 0.3526 and f measure 0.3101.
+Author{1}{Firstname}#=%=#Usman
+Author{1}{Lastname}#=%=#Ahmed
+Author{1}{Email}#=%=#usmanahmed189@gmail.com
+Author{1}{Affiliation}#=%=#Capital University of Science and Technology, Islamabad, Pakistan.
+Author{2}{Firstname}#=%=#Lubna
+Author{2}{Lastname}#=%=#Zafar
+Author{2}{Email}#=%=#lubbnaa@gmail.com
+Author{2}{Affiliation}#=%=#Department of Computer Science, Capital University of Science and Technology, Islamabad, Pakistan
+Author{3}{Firstname}#=%=#Faiza
+Author{3}{Lastname}#=%=#Qayyum
+Author{3}{Email}#=%=#faizaqayyum@cust.edu.pk
+Author{3}{Affiliation}#=%=#Department of Computer Science, Capital University of Science and Technology, Islamabad, Pakistan
+Author{4}{Firstname}#=%=#Muhammad
+Author{4}{Lastname}#=%=#Arshad Islam
+Author{4}{Email}#=%=#arshad.islam@cust.edu.pk
+Author{4}{Affiliation}#=%=#Department of Computer Science, Capital University of Science and Technology, Islamabad, Pakistan
+
+==========

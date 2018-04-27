@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Commonsense mining as knowledge base completion? A study on the impact of novelty
+ShortPaperTitle#=%=#Commonsense mining as knowledge base completion? A study on the impact of novelty
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Stanisław Jastrzębski
+JobTitle#==#
+Organization#==#Jagiellonian University
+Abstract#==#Commonsense knowledge bases such as ConceptNet represent knowledge in the form of relational triples. Inspired by recent work by Li et al., we analyse if knowledge base completion models can be used to mine commonsense knowledge from raw text. We propose novelty of predicted triples with respect to the training set as an important factor in interpreting results. We critically analyse the difficulty of mining novel commonsense knowledge, and show that a simple baseline method that outperforms the previous state of the art on predicting more novel triples.
+Author{1}{Firstname}#=%=#Stanislaw
+Author{1}{Lastname}#=%=#Jastrzebski
+Author{1}{Email}#=%=#staszek.jastrzebski@gmail.com
+Author{1}{Affiliation}#=%=#Jagiellonian University
+Author{2}{Firstname}#=%=#Dzmitry
+Author{2}{Lastname}#=%=#Bahdanau
+Author{2}{Email}#=%=#dimabgv@gmail.com
+Author{2}{Affiliation}#=%=#University of Montreal
+Author{3}{Firstname}#=%=#Seyedarian
+Author{3}{Lastname}#=%=#Hosseini
+Author{3}{Email}#=%=#arianhosseini9@gmail.com
+Author{3}{Affiliation}#=%=#University of Montreal
+Author{4}{Firstname}#=%=#Michael
+Author{4}{Lastname}#=%=#Noukhovitch
+Author{4}{Email}#=%=#mnoukhov@gmail.com
+Author{4}{Affiliation}#=%=#University of Montreal
+Author{5}{Firstname}#=%=#Yoshua
+Author{5}{Lastname}#=%=#Bengio
+Author{5}{Email}#=%=#yoshua.umontreal@gmail.com
+Author{5}{Affiliation}#=%=#University of Montreal
+Author{6}{Firstname}#=%=#Jackie
+Author{6}{Lastname}#=%=#Cheung
+Author{6}{Email}#=%=#jcheung@cs.mcgill.ca
+Author{6}{Affiliation}#=%=#McGill University
+
+==========

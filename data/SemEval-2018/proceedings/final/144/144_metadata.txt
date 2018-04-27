@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#144
+FinalPaperTitle#=%=#DUTH at SemEval-2018 Task 2: Emoji Prediction in Tweets
+ShortPaperTitle#=%=#DUTH at SemEval-2018 Task 2: Emoji Prediction in Tweets
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Symeon Symeonidis
+JobTitle#==#
+Organization#==#Democritus University of Thrace, Kimmeria Campus, Xanthi, Greece
+Abstract#==#This paper describes the approach that was developed for SemEval
+2018 Task 2 (Multilingual Emoji Prediction) by the DUTH Team. 
+First, we employed a combination of pre-processing techniques to reduce the noise of tweets and produce a number of features.
+Then, we built several N-grams, to represent the combination of word and emojis. Finally, we trained our system with a tuned LinearSVC classifier.
+Our approach in the leaderboard ranked 18th amongst 48 teams.
+Author{1}{Firstname}#=%=#Dimitrios
+Author{1}{Lastname}#=%=#Effrosynidis
+Author{1}{Email}#=%=#deffrosy@ee.duth.gr
+Author{1}{Affiliation}#=%=#Democritus University of Thrace
+Author{2}{Firstname}#=%=#Georgios
+Author{2}{Lastname}#=%=#Peikos
+Author{2}{Email}#=%=#georpeik@ee.duth.gr
+Author{2}{Affiliation}#=%=#Democritus University of Thrace
+Author{3}{Firstname}#=%=#Symeon
+Author{3}{Lastname}#=%=#Symeonidis
+Author{3}{Email}#=%=#ssymeoni@ee.duth.gr
+Author{3}{Affiliation}#=%=#Democritus Univesity of Thrace
+Author{4}{Firstname}#=%=#Avi
+Author{4}{Lastname}#=%=#Arampatzis
+Author{4}{Email}#=%=#avi@ee.duth.gr
+Author{4}{Affiliation}#=%=#Democritus University of Thrace
+
+==========

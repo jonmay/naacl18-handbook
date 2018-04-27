@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#120
+FinalPaperTitle#=%=#EPUTION at SemEval-2018 Task 2: Emoji Prediction with User Adaption
+ShortPaperTitle#=%=#EPUTION at SemEval-2018 Task 2: Emoji Prediction with User Adaption
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Liyuan Zhou
+JobTitle#==#
+Organization#==#the Australian National University, Canberra
+Abstract#==#This paper describes our approach, called
+EPUTION, for the open trial of the SemEval-
+2018 Task 2, Multilingual Emoji Prediction.
+The task relates to using social media — more
+precisely, Twitter — with its aim to predict
+the most likely associated emoji of a tweet.
+Our solution for this text classification prob-
+lem explores the idea of transfer learning for
+adapting the classifier based on users’ tweet-
+ing history. Our experiments show that our
+user-adaption method improves classification
+results by more than 6 per cent on the macro-
+averaged F1. Thus, our paper provides evi-
+dence for the rationality of enriching the orig-
+inal corpus longitudinally with user behaviors
+and transferring the lessons learned from cor-
+responding users to specific instances.
+Author{1}{Firstname}#=%=#Liyuan
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#joe.zhou@data61.csiro.au
+Author{1}{Affiliation}#=%=#ANU
+Author{2}{Firstname}#=%=#Qiongkai
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#xuqiongkai@gmail.com
+Author{2}{Affiliation}#=%=#The Australian National University and Data61
+Author{3}{Firstname}#=%=#Hanna
+Author{3}{Lastname}#=%=#Suominen
+Author{3}{Email}#=%=#hanna.suominen@nicta.com.au
+Author{3}{Affiliation}#=%=#NICTA, The Australian National University, and University of Canberra
+Author{4}{Firstname}#=%=#Tom
+Author{4}{Lastname}#=%=#Gedeon
+Author{4}{Email}#=%=#tom@cs.anu.edu.au
+Author{4}{Affiliation}#=%=#Australian National University
+
+==========

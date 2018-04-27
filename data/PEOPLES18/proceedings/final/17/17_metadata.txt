@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Building an annotated dataset of app store reviews with Appraisal features in English and Spanish
+ShortPaperTitle#=%=#Building an annotated dataset of app store reviews with Appraisal features in English and Spanish
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Natalia Mora and Julia Lavid
+JobTitle#==#
+Organization#==#Complutense University of Madrid
+Abstract#==#This paper describes the creation and annotation of a dataset consisting of 250 English and Spanish app store reviews from Google’s Play Store with Appraisal features. This is one of the most influential linguistic frameworks for the analysis of evaluation and opinion in discourse due to its insightful descriptive features. However, it has not been extensively applied in NLP in spite of its potential for the classification of the subjective content of these reviews. We describe the dataset, the annotation scheme and guidelines, the agreement studies, the annotation results and their impact on the characterisation of this genre.
+Author{1}{Firstname}#=%=#Natalia
+Author{1}{Lastname}#=%=#Mora
+Author{1}{Email}#=%=#nataliamora@ucm.es
+Author{1}{Affiliation}#=%=#Complutense University of Madrid
+Author{2}{Firstname}#=%=#Julia
+Author{2}{Lastname}#=%=#Lavid-López
+Author{2}{Email}#=%=#julavid@filol.ucm.es
+Author{2}{Affiliation}#=%=#Universidad Complutense de Madrid
+
+==========

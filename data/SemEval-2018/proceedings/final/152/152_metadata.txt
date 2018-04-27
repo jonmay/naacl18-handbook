@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#152
+FinalPaperTitle#=%=#Amrita_student at SemEval-2018 Task 1: Distributed Representation of Social Media Text for Affects in Tweets
+ShortPaperTitle#=%=#Amrita_student@SemEval-18: Distributed Representation of Social Media Text for Affects in Tweets
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Nidhin A
+JobTitle#==#
+Organization#==#Center for Computational Engineering and Networking (CEN)
+Amrita School of Engineering, Coimbatore
+Amrita Vishwa Vidyapeetham, India
+Abstract#==#In this paper we did an analysis of ”Affects in Tweets” which was one of the task conducted by semeval 2018. Task was to build a model which is able to do regression and classification of different emotions from the given tweets data set. We developed a base model for all the subtasks using distributed representation (Doc2Vec) and applied machine learning techniques for classification and regression. Distributed representation is an unsupervised algorithm which is capable of learning fixed length feature representation from variable length texts. Machine learning techniques used for regression is ’Linear Regression’ while ’Random Forest Tree’ is used for classification purpose. Empirical results obtained for all the subtasks by our model are shown in this paper.
+Author{1}{Firstname}#=%=#Nidhin A
+Author{1}{Lastname}#=%=#Unnithan
+Author{1}{Email}#=%=#nidhinkittu5470@gmail.com
+Author{1}{Affiliation}#=%=#Amrita Vishwa Vidyapeetham
+Author{2}{Firstname}#=%=#Shalini
+Author{2}{Lastname}#=%=#K
+Author{2}{Email}#=%=#shalinikholla@gmail.com
+Author{2}{Affiliation}#=%=#Amrita Vishwa Vidyapeetham
+Author{3}{Firstname}#=%=#Barathi
+Author{3}{Lastname}#=%=#Ganesh H. B.
+Author{3}{Email}#=%=#barathiganesh.hb@gmail.com
+Author{3}{Affiliation}#=%=#Amrita Vishwa Vidyapeetham
+Author{4}{Firstname}#=%=#Anand
+Author{4}{Lastname}#=%=#Kumar M
+Author{4}{Email}#=%=#m_anandkumar@cb.amrita.edu
+Author{4}{Affiliation}#=%=#Amrita Vishwa Vidyapeetha
+Author{5}{Firstname}#=%=#Soman
+Author{5}{Lastname}#=%=#K P
+Author{5}{Email}#=%=#kp_soman@amrita.edu
+Author{5}{Affiliation}#=%=#Amrita Vishwa Vidyapeetham
+
+==========

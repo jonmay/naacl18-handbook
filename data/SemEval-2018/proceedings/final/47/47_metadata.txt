@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#47
+FinalPaperTitle#=%=#WLV at SemEval-2018 Task 3: Dissecting Tweets in Search of Irony
+ShortPaperTitle#=%=#WLV at SemEval-2018 Task 3: Dissecting Tweets in Search of Irony
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Omid Rohanian
+JobTitle#==#
+Organization#==#Research Group in Computationa Linguistics, University of Wolverhampton, Wolverhampton, UK
+Abstract#==#This paper describes the systems submitted to SemEval 2018 Task 3 "Irony
+detection in English tweets" for both subtasks A and B. The first system
+leveraging a combination of sentiment, distributional semantic,  and text
+surface features is ranked third among 44 teams according to the official
+leaderboard of the subtask A. The second system with slightly different
+representation of the features ranked ninth in subtask B. We present a method
+that entails decomposing tweets into separate parts. Searching for contrast
+within the constituents of a tweet is an integral part of our system. We
+embrace an extensive definition of contrast which leads to a vast coverage in
+detecting ironic content.
+Author{1}{Firstname}#=%=#Omid
+Author{1}{Lastname}#=%=#Rohanian
+Author{1}{Email}#=%=#omid.rohanian@wlv.ac.uk
+Author{1}{Affiliation}#=%=#University of Wolverhampton
+Author{2}{Firstname}#=%=#Shiva
+Author{2}{Lastname}#=%=#Taslimipoor
+Author{2}{Email}#=%=#shiva.taslimi@wlv.ac.uk
+Author{2}{Affiliation}#=%=#Research Group in Computational Linguistics, Wolverhampton University
+Author{3}{Firstname}#=%=#Richard
+Author{3}{Lastname}#=%=#Evans
+Author{3}{Email}#=%=#r.j.evans@wlv.ac.uk
+Author{3}{Affiliation}#=%=#University of Wolverhampton
+Author{4}{Firstname}#=%=#Ruslan
+Author{4}{Lastname}#=%=#Mitkov
+Author{4}{Email}#=%=#r.mitkov@wlv.ac.uk
+Author{4}{Affiliation}#=%=#University of Wolverhampton
+
+==========

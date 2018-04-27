@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Fast Query Expansion on an Accounting Corpus using Sub-Word Embeddings
+ShortPaperTitle#=%=#Query Expansion with Sub-Word Embeddings
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Hrishikesh V. Ganu
+JobTitle#==#
+Organization#==#Intuit Inc.
+Abstract#==#We present early results from a system under development which uses sub-word embeddings  for query expansion in presence of mis-spelled words and other aberrations. We work for a company which creates accounting software and the end goal is to improve customer experience when they search for help on our "Customer Care" portal. Our customers use colloquial language, non-standard acronyms and sometimes mis-spell words when they use our Search portal or interact over other channels. However, our Knowledge Base has curated content which leverages technical terms and is in language which is quite formal. This results in the answer not being  retrieved even though the answer might actually be present in the documentation (as assessed by a human). We address this problem by creating equivalence classes of words with similar meanings (with the additional property that the mappings to these equivalence classes are robust to mis-spellings) using sub-word embeddings and then use them to fine tune an Elasticsearch index  to improve recall.  We demonstrate through an end-end system that using sub-word embeddings leads to a significant lift in correct answers retrieved for an accounting corpus available in the public domain.
+Author{1}{Firstname}#=%=#Hrishikesh
+Author{1}{Lastname}#=%=#Ganu
+Author{1}{Email}#=%=#hrishikeshvganu@gmail.com
+Author{1}{Affiliation}#=%=#Intuit.com
+Author{2}{Firstname}#=%=#Viswa Datha
+Author{2}{Lastname}#=%=#P
+Author{2}{Email}#=%=#mail@vishwa.be
+Author{2}{Affiliation}#=%=#Independent Consultant
+
+==========

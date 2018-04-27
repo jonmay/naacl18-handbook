@@ -1,0 +1,211 @@
+%
+% File naaclhlt2018.tex
+%
+%% Based on the style files for NAACL-HLT 2018, which were
+%% Based on the style files for ACL-2015, with some improvements
+%%  taken from the NAACL-2016 style
+%% Based on the style files for ACL-2014, which were, in turn,
+%% based on ACL-2013, ACL-2012, ACL-2011, ACL-2010, ACL-IJCNLP-2009,
+%% EACL-2009, IJCNLP-2008...
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{naaclhlt2018}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{paralist}
+\usepackage{url}
+\usepackage{subcaption}
+\usepackage{booktabs}
+\aclfinalcopy % Uncomment this line for the final submission
+%\def\aclpaperid{***} %  Enter the acl Paper ID here
+
+%\setlength\titlebox{5cm}
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+\newcommand\BibTeX{B{\sc ib}\TeX}
+
+\title{OneStopEnglish corpus: A new corpus for automatic readability assessment and text simplification}
+
+\author{Sowmya Vajjala \\
+ Iowa State University, USA \\
+  {\tt sowmya@iastate.edu} \\
+  \And
+  Ivana Lu\v{c}i\'c  \\
+ Iowa State University, USA \\
+  {\tt ilucic@iastate.edu} \\
+  }
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+This paper describes the collection and compilation of the OneStopEnglish corpus of texts written at three reading levels, and demonstrates its usefulness for through two applications - automatic readability assessment and automatic text simplification. The corpus consists of 189 texts, each in three versions (567 in total). The corpus is made freely available with the paper and we hope that it would foster further research on the topics of readability assessment and text simplification. 
+\end{abstract}
+
+\section{Introduction}
+\label{sec:intro}
+Automatic Readability Assessment (ARA), the task of assessing the reading difficulty of a text, is a well-studied problem in computational linguistics \cite[cf.][]{Collins-Thompson-14}. A related problem is Automatic Text Simplification \cite[cf.][]{Siddharthan-14} which aims to generate simplified texts from complex versions. While most of the research on these problems focused on feature engineering and modeling, there is very little reported work about the creation of open access corpora that supports this research. 
+
+Corpora used in ARA were primarily derived from textbooks or news articles written for different target audiences. In most of the cases, the texts at different levels in these corpora are not comparable versions of each other, which would not help us develop fine-grained readability models which can identify what parts of texts are difficult compared to others, instead of having a single score for the whole text. Corpora of parallel texts simplified for different target reading levels can solve this problem, and support better ARA models. On the other hand, ATS systems by default need parallel corpora, and primarily relied on parallel sentence pairs from Wikipedia-Simple Wikipedia for training and evaluating the simplification models. While the availability and suitability of this corpus is definitely a positive aspect, the lack of additional corpora makes an evaluation of the generalizability of simplification approaches difficult. 
+
+In this background, we created a corpus aligned at text and sentence level, across three reading levels (beginner, intermediate, advanced), targeting English as Second Language (ESL) learners. To our knowledge, this is the first such free corpus in any language for readability assessment research. While a sentence aligned corpus from the same source was discussed in previous research, the current corpus is larger, and cleaner. In addition to describing the corpus, we demonstrate the usefulness of this corpus for automatic readability classification and text simplification. The corpus is made freely available with this paper\footnote{\url{https://github.com/nishkalavallabhi/OneStopEnglishCorpus}} Its creation and relevance are described in the sections that follow: Section~\ref{sec:relw} describes other relevant corpus creation projects. Section~\ref{sec:corpus} describes our corpus creation. Section~\ref{sec:expts} describes some preliminary experiments with readability assessment and text simplification using this corpus. Section~\ref{sec:concl} concludes the paper with pointers to future work. 
+
+\section{Related Work}
+\label{sec:relw}
+
+\citet{Washburne.Vogel-26} and \citet{Vogel.Washburne-28} can be considered one of the early works on corpora creation for readability research, where they collected a corpus of 700 books annotated by children in terms of reading difficulty. While there are other such efforts in the past century, corpora from those early projects are not available for current use. Contemporary approaches to readability assessment typically rely on compiling large corpora from the Web. The WeeklyReader magazine was used as a source for graded news texts in past ARA research \cite{Petersen-07,Feng-10}. \citet{Petersen.Ostendorf-09} describe a corpus of articles from Encyclopedia Britannica, where each article had a comparable "Elementary Version", which, however, is not freely available as far as we know. \citet{Vajjala.Meurers-12} compiled WeeBit corpus, combining WeeklyReader with BBC BiteSize, and this corpus was used in several ARA approaches in the past few years. \cite{Vajjala.Meurers-13} described a large corpus of age specific TV program transcripts from BBC, and \cite{Napoles.Dredze-10} used a corpus of Wikipedia-Simple Wikipedia articles. \cite{Hancke.Vajjala.Meurers-12,DellOrletta.Montemagni.ea-11,Gonzalez-Dios.Aranzabe.ea-14b}, describe such web-based corpus compilation efforts for German, Italian and Basque respectively. 
+
+Textbooks from school curricula were also used as training corpora for readability assessment models in the past (e.g., \citet{Heilman.Collins-Thompson.ea-08} for English, \citet{Berendes.ea-17} for German, \cite{Islam.Mehler.ea-12} for Bangla). In all these cases, the grade level of the text is decided based on the target reader group (according to the website/textbook) which was decided by either publishers or authors. Another of creating such corpora is through human annotations. DeLite corpus \citet{VorderBruck.Helbig.ea-08} for German legal texts, and \citet{Oosten.Hoste-11, Clercq.Hoste.ea-14} for Dutch texts describe crowd annotated resources whereas the common core standards corpus described in \citet{Nelson.Perfetti.ea-12} is annotated by experts according to the common core guidelines on text complexity. Corpora created with such human annotations are expensive to obtain and hence, are generally smaller in size. Hence, such corpora may not be sufficient to build new models, although they can serve as good evaluation datasets. 
+
+Primary concern with all these corpora is that the articles in different reading levels are not comparable versions of each other (except Encyclopedia Britannica). The only other publicly and/or freely accessible readability corpus that potentially has parallel and comparable texts in multiple reading levels is the NewsEla\footnote{\url{https://newsela.com/}} corpus which is a corpus of manually simplified news texts. While the corpus is available for research under some license restrictions, it also addresses a different target audience, young L1 English learners. In this background, we release a openly accessible corpus of texts with text and sentence level mapping across three reading levels, targeting L2 learners of English. 
+
+In terms of sentence aligned corpora for text simplification, different versions of aligned of Wiki-Simple Wikipedia sentences have been used in NLP research \cite{Zhu.Bernhard.ea-10,Coster.Kauchak-11,Hwang.Hajishirzi.ea-15}. Different supervised and unsupervised approaches were proposed to construct such corpora \cite{Bott.Saggion-11,Klerke.Soegaard-12,Klaper.Ebling.ea-13,Brunato.Cimino.ea-16}. Our corpus adds a new resource for the English text simplification task. 
+
+\section{Corpus}
+\label{sec:corpus}
+
+\begin{table*}
+\label{tab:textexample}
+\begin{tabular}{|l|p{12cm}|}
+\hline \textbf{Reading Level} & \textbf{Example}\\
+\hline Advanced & \textit{Amsterdam still looks liberal to tourists, who were recently assured by the Labour Mayor that the city's marijuana-selling coffee shops would stay open despite a new national law tackling drug tourism. But the Dutch capital may lose its reputation for tolerance over plans to dispatch nuisance neighbours to scum villages made from shipping containers.}\\
+\hline Intermediate & \textit{To tourists, Amsterdam still seems very liberal. Recently the city's Mayor assured them that the city's marijuana-selling coffee shops would stay open despite a new national law to prevent drug tourism. But the Dutch capitals plans to send nuisance neighbours to scum villages made from shipping containers may damage its reputation for tolerance.} \\
+\hline Elementary & \textit{To tourists, Amsterdam still seems very liberal. Recently the city's Mayor told them that the coffee shops that sell marijuana would stay open, although there is a new national law to stop drug tourism. But the Dutch capital has a plan to send antisocial neighbours to scum villages made from shipping containers, and so maybe now people wont think it is a liberal city any more.}\\
+\hline \end{tabular}
+\label{tab:example}
+\caption{Example sentences for three reading levels}
+\end{table*}
+
+Our corpus was compiled from onestopenglish.com over the period 2013--2016. onestopenglish.com is a English language learning resources website run by MacMillan Education, with over 700,000 users across 100 countries. One of the features of the website is a weekly news lessons section, which contains articles sourced from The Guardian newspaper, and rewritten by teachers to suit three levels of adult English as Second Language (ESL) learners (elementary, intermediate, and advanced). That is, Content from the same original article is rewritten in three versions, to suit three reading levels. The advanced version is close to the original article, although not with exact same content. Texts from this source were previously used for training sentence level readability models \cite{Vajjala.Meurers-16,Ambati.Reddy.ea-16,Howcroft.Demberg-17}, for performing corpus analysis about the characteristics of simplified text \cite{Allen-09}, and in user studies about the relationship between text complexity and reading comprehension \cite{Crossley.Yang.ea-14,Vajjala.Meurers.ea-16}, although the corpus was not publicly available in the past.
+
+Original articles from the website consisted of pdf files containing the article text, some pre/post test questions, and other additional material. So, the first step in the corpus creation process involved removing the irrelevant content. We first explored off-the-shelf pdf to text converters, and while they worked, they did not always result in a clean text, sometimes missing entire pages of content. While this may not be a significant issue for doing text level classification, it becomes important when we try to align sentences or use this corpus for any qualitatiokave analyses. Hence, one of the authors manually went through the all the files, comparing with the pdf version, to ensure there are no missing pages/content, resulting in a clean corpus\footnote{We acquired permission both from Onestopenglish.com and The Guardian to release this plain-text version of the corpus.}. An example of the simplification performed is shown in Table 1:
+
+Table~\ref{tab:desc} contains some descriptive statistics about the final corpus. As expected, advanced texts are much longer than elementary texts. However, the standard deviation for each level is also high, indicating that text length may not be the deciding factor in terms of reading level. 
+
+\begin{center}
+\begin{table}[h!]
+\begin{tabular}{|l|l|l|}
+\hline Reading level & Avg. Num. Words & Std. Dev \\
+\hline  Elementary & 533.17 & 103.79 \\
+\hline Intermediate & 676.59& 117.15 \\
+\hline Advanced&820.49&162.52\\ \hline
+\end{tabular}
+\caption{Descriptive Statistics about the corpus}
+\label{tab:desc}
+\end{table}
+\end{center}
+
+We performed some preliminary corpus analysis of the three reading levels in terms of some common features used in readability literature. Table 3 shows the summary of these results, using traditionally used features such as Flesch-Kincaid Grade Level (FKGL) \cite{Kincaid.Fishburne.ea-75} and Type-token ratio (TTR), and occurrences of different phrases, as given by Stanford Parser \cite{Chen.Manning-14}. In general, all feature values decrease from ADV to ELE, which is expected, if we assume all these features to be indicative of reading level of text. 
+\begin{table}[h!]
+\begin{tabular}{| l| l|l | l|}
+\hline
+\textbf{Feature}&\textbf{ADV}&\textbf{INT}& \textbf{ELE}\\ \hline
+FKGL & 9.5 & 8.2 & 6.4 \\
+TTR & 0.56 & 0.432 & 0.42 \\
+avg num. NP&6.08&5.52&4.92\\
+avg num. VP&4.49&4.03&3.49\\
+avg num. PP&2.72&2.30&1.82\\ \hline
+\end{tabular}
+\label{tab:desc2}
+\caption{Some of the features across reading levels}
+\end{table}
+
+\paragraph{Sentence Alignment:} A sentence aligned version was created using cosine similarity, taking one pair of reading levels at a time and performing a one-to-all comparison of sentences in both texts. We chose a similarity range of [0.7-0.95] for pairing sentences, after experimenting with several thresholds. The reason for choosing 0.95 instead of 1 is that there were some sentences with only a change of punctuation, which we did not want in our sentence aligned data. The final sentence aligned corpus had 1674 pairs for ELE-INT, 2166 pairs for ELE-ADV and 3154 pairs for INT-ADV.  On an average, INT-ADV sentence pairs had a higher degree of similarity (0.9) than ELE-ADV (0.77) or ELE-INT (0.85). 
+
+\section{Experiments}
+\label{sec:expts}
+We demonstrate the usefulness of this corpus for two applications: readability assessment and text simplification. 
+\subsection{Readability Assessment}
+We modeled this as a classification problem  using both generic text classification features such as word ngrams as well as features typically used in readability classification research\footnote{full feature file is provided in the supplementary material.}.  Generic text classification features include:
+\begin{enumerate}
+\item Word n-grams: Uni, Bi, Trigram features
+\item POS n-grams: Bi and Trigrams of POS tags from Stanford tagger \cite{Toutanova.Klein.ea-03}
+\item Character n-grams: 2--5 character n-grams, considering word boundaries
+\item Syntactic production rules: phrase structure production rules from Stanford parser \cite{Klein.Manning-03}
+\item Dependency relations: Dependency relation triplets of the form (relation, head, word) from Stanford dependency parser \cite{Chen.Manning-14}
+\end{enumerate}
+All n-gram features and grammar rules/relations that occurred at least 5 times in the entire corpus were retained for the final feature set. All these features were extracted using LightSide text mining workbench \cite{Mayfield.Rose-13}. Table~\ref{tab:araresults} shows the classification results with these features, using Sequential Minimal Optimization (SMO) classifier with linear kernel (with a random baseline of 33\% as all classes are represented equally in the data).
+
+\begin{table}[h!]
+\begin{tabular}{|l|l|}
+\hline Features & Accuracy \\
+\hline Word n-grams & 61.38\% \\ %Uni--Tri
+\hline POS n-grams & 67.37\% \\ %Bi,Tri
+\hline \textbf{Char n-grams} & \textbf{77.25}\%\\ %2--5
+\hline Syntactic Production Rules & 54.67\% \\
+\hline Dependency Relations & 27.16\% \\
+\hline
+\end{tabular}
+\caption{Text Classification Results with generic features}
+\label{tab:araresults}
+\end{table}
+Character ngrams seem to be the best performing group of generic features, achieving 77\% accuracy. Data-driven features that rely on deeper linguistic representations seem to perform poorly compared to these simple features. Particularly, dependency relations perform worser than the random baseline. Since we are working with parallel texts, there will be a lot of word level overlap across reading levels, and hence, it is not entirely surprising to see word n-grams not doing well. However, despite this, character n-grams seems to do well. We speculate they capture sub-word simplified text information such as usage of certain suffixes or prefixes, which has to be further explored in future. 
+
+In addition to the generic features, we also trained classifiers with features that are typically used in ARA research. These are:
+\begin{enumerate}
+\item Traditional features and formulae, that have been used in all the ARA models in the past 
+\item lexical variation, type token ratio, and POS tag ratio based features
+\item Features based on psycholinguistic databases
+\item Features based on constituent parse trees 
+\item Discourse features include:
+\begin{itemize} 
+\item overlap measures among sentences in a document as used in Coh-Metrix \cite{Graesser.McNamara.ea-14}
+\item usage of different kinds of connectives obtained from the discourse connectives tagger \cite{Pitler.Nenkova-09} 
+\item coreference chains in the text from Stanford CoreNLP
+\end{itemize}
+\end{enumerate}
+Table~\ref{tab:araresults2} summarizes the results from these experiments\footnote{Code for feature extraction is available at: \url{https://bitbucket.org/nishkalavallabhi/complexity-features}}.
+
+\begin{table}[h!]
+\begin{tabular}{|l|l|l|}
+\hline Feature Group & Num. Feats. & Accuracy \\
+\hline Traditional & 10& 58.5\%\\
+\hline Word  & 10 & 67.19\&\\
+\hline Psycholinguistic & 11 & 52.02\% \\
+\hline LexVar, POS & 29 & 72.48\%\\
+\hline Syntactic Features & 28 & 73.89\%\\
+\hline Discourse Features & 67 &63.66\%\\
+\hline \textbf {Total} & \textbf {155}&\textbf {78.13}\% \\
+\hline
+\end{tabular}
+\caption{Text Classification Results with specific linguistic complexity features}
+\label{tab:araresults2}
+\end{table}
+Highest classification accuracy is achieved when all the features are put together, as shown in Table~\ref{tab:araresults2}. However, this only results in a less than 1\% improvement over character n-grams. Character n-grams as features for readability assessment were not explored in the past, and these results would lead us to explore that in future. In terms of comparison with existing work on ARA, highest accuracies reported are close to 90\% on WeeBit dataset \cite{Vajjala.Meurers-12}. However, considering that we are comparing texts on the same topic, differing primarily in terms of style rather than content, this is perhaps a difficult dataset to model, compared to other existing readability datasets. 
+
+Since we now have a corpus with parallel versions of sentences and paragraphs at different reading levels, one idea to explore further is to model readability assessment as a sentence and paragraph level pair-wise ranking problem, and then use those "local" readability assessments to infer "global" text level readability (e.g., Chapter 5.5, \citet{Vajjala-15}). Previous research also \cite{Ma.Fosler-Lussier.ea-12} showed that pair-wise ranking resulted in better readability models than classification. A combination of both these approaches would be an interesting dimension to explore in future. 
+
+\subsection{Text Simplification}
+\label{sec:ATS}
+Automatic Text Simplification (ATS) has been commonly modeled as a Phrase Based Machine Translation (PBMT) problem in the literature. To demonstrate the usefulness of this corpus for ATS experiments, we used the \textit{adv-ele} sentence aligned version of the OSE corpus and treated it as a phrase based machine translation problem. We split the dataset with 2166 sentence pairs into -1000 sentence pairs for training, 500 for development, and the remaining 666 pairs for testing. We did not explore a neural model, due to the size of the dataset considered.  We used Moses \cite{Hoang.Birch.ea-07} to train the model, and evaluated the model performance on test data in terms of various evaluation metrics used in MT research, comparing machine generated and human translations. 
+
+This model resulted in a BLEU \cite{Papineni.Roukos.ea-01} score of 54.45 and METEOR \cite{Denkowski.Lavie-14} score of 46. While the scores are not interpretable by themselves, general guidelines by \citet{Lavie-11} suggest that BLEU and METEOR scores above 50 indicate understandable translations. Comparing with existing results on ATS, \citet{Zhang.Lapata-17} trained a neural network based MT model with 300K sentence pairs as training data, and reported a much higher BLEU score of 88.85. The results on current dataset (with 1000 sentence training data and PBMT) cannot be compared with this result though, especially considering the size of the dataset. However, previous research showed that a high BLEU score with one corpus did not generalize when the test set came from another source \cite[Chapter 6 in][]{Vajjala-15}. While our dataset may not be sufficient to build robust text simplification models, it can be used to test the generalizability of such state of the art text simplification approaches, or to be combined with a larger dataset while training a simplification model. 
+
+\section{Conclusion}
+\label{sec:concl}
+In this paper, we described the creation of a new corpus for readability assessment and text simplification research and demonstrated its usefulness for readability assessment and text simplification research. The corpus is released with this paper, and we hope it will foster further research into readability assessment and text simplification systems aimed at English as Second Language learners. 
+
+Beyond researchers interested in computational modeling, this corpus is also useful for other groups such as: a) researchers interested in conducting user studies about the relationship between text simplification and reader comprehension, or between expert annotated readability labels and target reader comprehension of texts (e.g., \citet{Vajjala.Meurers.ea-16}) and b) researchers interested in doing corpus studies with simplified and unsimplified texts, which can give insights into creating both manual and automatically simplified texts (e.g., \cite{Allen-09}).  
+
+\section*{Acknowledgements:} We thank the onestopenglish.com team, and The Guardian, for allowing us to release the corpus for research use, and the anonymous reviewers for their useful comments. We also thank Detmar Meurers, University of T\"ubingen, for supporting the corpus creation at early stages. 
+
+\bibliographystyle{acl_natbib}      % basic style, author-year citations
+%\bibliographystyle{spmpsci}      % mathematics and physical sciences
+%\bibliographystyle{spphys}       % APS-like style for physics
+\bibliography{bea2018}   % name your BibTeX data base
+
+\appendix
+
+\section{Supplemental Material}
+\label{sec:supplemental}
+The corpus, and some processed output files are available at: \url{https://github.com/nishkalavallabhi/OneStopEnglishCorpus}.  An example is shown below:
+
+\end{document}     

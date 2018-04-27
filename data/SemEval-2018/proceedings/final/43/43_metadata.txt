@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#43
+FinalPaperTitle#=%=#HashCount at SemEval-2018 Task 3: Concatenative Featurization of Tweet and Hashtags for Irony Detection
+ShortPaperTitle#=%=#HashCount for Irony Detection
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Won Ik Cho
+JobTitle#==#
+Organization#==#Department of Electrical and Computer Engineering and INMC, 
+Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea
+Abstract#==#This paper proposes a novel feature extraction process for SemEval task 3: Irony detection in English tweets. The proposed system incorporates a concatenative featurization of tweet and hashtags, which helps distinguishing between the irony-related and the other components. The system embeds tweets into a vector sequence with widely used pretrained word vectors, partially using a character embedding for the words that are out of vocabulary. Identification was performed with BiLSTM and CNN classifiers, achieving F1 score of 0.5939 (23/42) and 0.3925 (10/28) each for the binary and the multi-class case, respectively. The reliability of the proposed scheme was verified by analyzing the Gold test data, which demonstrates how hashtags can be taken into account when identifying various types of irony.
+Author{1}{Firstname}#=%=#Won Ik
+Author{1}{Lastname}#=%=#Cho
+Author{1}{Email}#=%=#wicho@hi.snu.ac.kr
+Author{1}{Affiliation}#=%=#Department of Electrical and Computer Engineering and INMC, Seoul National University
+Author{2}{Firstname}#=%=#Woo Hyun
+Author{2}{Lastname}#=%=#Kang
+Author{2}{Email}#=%=#whkang@hi.snu.ac.kr
+Author{2}{Affiliation}#=%=#Department of Electrical and Computer Engineering and INMC, Seoul National University
+Author{3}{Firstname}#=%=#Nam Soo
+Author{3}{Lastname}#=%=#Kim
+Author{3}{Email}#=%=#nkim@snu.ac.kr
+Author{3}{Affiliation}#=%=#Seoul National University
+
+==========

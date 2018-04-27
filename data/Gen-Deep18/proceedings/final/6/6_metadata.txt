@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#The Fine Line between Linguistic Generalization and Failure in Seq2Seq-Attention Models
+ShortPaperTitle#=%=#The Fine Line between Linguistic Generalization and Failure
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Noah Weber
+JobTitle#==#
+Organization#==#Stony Brook University, Stony Brook, NY
+Abstract#==#Seq2Seq based neural architectures have become the go-to architecture to apply to 
+sequence to sequence language tasks. Despite their excellent performance on these tasks, recent work has noted that these models typically do not fully capture the linguistic structure required to generalize beyond the dense sections of the data distribution \cite{ettinger2017towards}, and as such, are likely to fail on examples from the tail end of the distribution (such as inputs that are noisy \citep{belkinovnmtbreak}, or of different length \citep{bentivoglinmtlength}).
+
+In this paper we look at a model's ability to generalize on a simple symbol rewriting task with a clearly defined structure. We find that the model's ability to generalize this structure beyond the training distribution depends greatly on the chosen random seed, even when performance on the test set remains the same.
+This finding suggests that model's ability to capture generalizable structure is highly sensitive, and more so, this sensitivity may not be apparent when evaluating the model on standard test sets.
+Author{1}{Firstname}#=%=#Noah
+Author{1}{Lastname}#=%=#Weber
+Author{1}{Email}#=%=#nwweber@cs.stonybrook.edu
+Author{1}{Affiliation}#=%=#Stony Brook University
+Author{2}{Firstname}#=%=#Leena
+Author{2}{Lastname}#=%=#Shekhar
+Author{2}{Email}#=%=#lshekhar@cs.stonybrook.edu
+Author{2}{Affiliation}#=%=#Stony Brook University, NY
+Author{3}{Firstname}#=%=#Niranjan
+Author{3}{Lastname}#=%=#Balasubramanian
+Author{3}{Email}#=%=#niranjan@cs.stonybrook.edu
+Author{3}{Affiliation}#=%=#Stony Brook University
+
+==========

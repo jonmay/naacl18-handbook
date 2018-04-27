@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Predicting Twitter User Demographics from Names Alone
+ShortPaperTitle#=%=#Predicting Twitter User Demographics from Names Alone
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Zach Wood-Doughty
+JobTitle#==#
+Organization#==#Johns Hopkins University, 3400 N Charles St, Baltimore, MD 21218
+Abstract#==#Social media analysis frequently requires tools
+that can automatically infer demographics to
+contextualize trends. These tools often require
+hundreds of user-authored messages for each
+user, which may be prohibitive to obtain when
+analyzing millions of users. We explore
+character-level neural models that learn a
+representation of a user’s name and screen
+name to predict gender and ethnicity, allowing
+for demographic inference with minimal
+data. We release trained models1 which may
+enable new demographic analyses that would
+otherwise require enormous amounts of data
+collection
+Author{1}{Firstname}#=%=#Zach
+Author{1}{Lastname}#=%=#Wood-Doughty
+Author{1}{Email}#=%=#zach@cs.jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Nicholas
+Author{2}{Lastname}#=%=#Andrews
+Author{2}{Email}#=%=#noa@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Rebecca
+Author{3}{Lastname}#=%=#Marvin
+Author{3}{Email}#=%=#becky@jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Mark
+Author{4}{Lastname}#=%=#Dredze
+Author{4}{Email}#=%=#mdredze@cs.jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+
+==========

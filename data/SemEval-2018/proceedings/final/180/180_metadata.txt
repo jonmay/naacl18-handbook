@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#180
+FinalPaperTitle#=%=#UMD at SemEval-2018 Task 10: Can Word Embeddings Capture Discriminative Attributes?
+ShortPaperTitle#=%=#UMD at SemEval-2018 Task 10: Can Word Embeddings Capture Discriminative Attributes?
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Marine Carpuat
+JobTitle#==#
+Organization#==#University of Maryland
+College Park, MD 20742, USA
+Abstract#==#We describe the University of Maryland's submission to SemEval-018 Task 10, "Capturing Discriminative Attributes": given word triples (w1, w2, d), the goal is to determine whether d is a discriminating attribute belonging to w1 but not w2. Our study aims to determine whether word embeddings can address this challenging task. Our submission casts this problem as supervised binary classification using only word embedding features. Using a gaussian SVM model trained only on validation data results in an F-score of 60%. We also show that cosine similarity features are more effective, both in unsupervised systems (F-score of 65%) and supervised systems (F-score of 67%).
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#alzhang96@gmail.com
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Marine
+Author{2}{Lastname}#=%=#Carpuat
+Author{2}{Email}#=%=#marine@cs.umd.edu
+Author{2}{Affiliation}#=%=#University of Maryland
+
+==========

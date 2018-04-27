@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#48
+FinalPaperTitle#=%=#NILC at CWI 2018: Exploring Feature Engineering and Feature Learning
+ShortPaperTitle#=%=#Exploring Feature Engineering and Feature Learning
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#NATHAN SIEGLE HARTMANN
+JobTitle#==#
+Organization#==#University of Sao Paulo, Sao Carlos, Brazil
+Abstract#==#This paper describes the results of NILC team at CWI 2018. We developed solutions following three approaches: (i) a feature engineering method using lexical, n-gram and psycholinguistic features, (ii) a shallow neural network method using only word embeddings, and (iii) a Long Short-Term Memory (LSTM) language model, which is pre-trained on a large text corpus to produce a contextualized word vector. The feature engineering method obtained our best results for the classification task and the LSTM model achieved the best results for the probabilistic classification task. Our results show that deep neural networks are able to perform as well as traditional machine learning methods using manually engineered features for the task of complex word identification in English.
+Author{1}{Firstname}#=%=#Nathan
+Author{1}{Lastname}#=%=#Hartmann
+Author{1}{Email}#=%=#nathanshartmann@gmail.com
+Author{1}{Affiliation}#=%=#Institute of Mathematics and Computer Science - University of São Paulo (USP)
+Author{2}{Firstname}#=%=#Leandro Borges
+Author{2}{Lastname}#=%=#dos Santos
+Author{2}{Email}#=%=#leandrobs@usp.br
+Author{2}{Affiliation}#=%=#Institute of Mathematics and Computer Science - University of São Paulo (USP)
+
+==========

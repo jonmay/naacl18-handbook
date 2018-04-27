@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#131
+FinalPaperTitle#=%=#HHU at SemEval-2018 Task 12: Analyzing an Ensemble-based Deep Learning Approach for the Argument Mining Task of Choosing the Correct Warrant
+ShortPaperTitle#=%=#HHU at SemEval-2018 Task 12: Analyzing an Ensemble-based Deep Learning Approach for the Argument Mining Task of Choosing the Correct Warrant
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Matthias Liebeck
+JobTitle#==#
+Organization#==#Heinrich Heine University
+Institut für Informatik
+Datenbanken und Informationssysteme
+Universitätsstr. 1
+D-40225 Düsseldorf, Germany
+Abstract#==#This paper describes our participation in the SemEval-2018 Task 12 Argument Reasoning Comprehension Task which calls to develop systems that, given a reason and a claim, predict the correct warrant from two opposing options. We decided to use a deep learning architecture and combined 623 models with different hyperparameters into an ensemble. Our extensive analysis of our architecture and ensemble reveals that the decision to use an ensemble was suboptimal. Additionally, we benchmark a support vector machine as a baseline. Furthermore, we experimented with an alternative data split and achieved more stable results.
+Author{1}{Firstname}#=%=#Matthias
+Author{1}{Lastname}#=%=#Liebeck
+Author{1}{Email}#=%=#liebeck@cs.uni-duesseldorf.de
+Author{1}{Affiliation}#=%=#Heinrich Heine University Düsseldorf
+Author{2}{Firstname}#=%=#Andreas
+Author{2}{Lastname}#=%=#Funke
+Author{2}{Email}#=%=#andreas.funke@hhu.de
+Author{2}{Affiliation}#=%=#Heinrich Heine University Düsseldorf
+Author{3}{Firstname}#=%=#Stefan
+Author{3}{Lastname}#=%=#Conrad
+Author{3}{Email}#=%=#conrad@cs.uni-duesseldorf.de
+Author{3}{Affiliation}#=%=#Heinrich Heine University Düsseldorf
+
+==========

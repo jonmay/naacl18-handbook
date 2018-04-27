@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#58
+FinalPaperTitle#=%=#CLUF: a Neural Model for Second Language Acquisition Modeling
+ShortPaperTitle#=%=#CLUF
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Shuyao Xu
+JobTitle#==#
+Organization#==#Singsound Inc., Beijing
+Abstract#==#Second Language Acquisition Modeling is the task to predict whether a second language learner would respond correctly in future exercises based on their learning history. In
+this paper, we propose a neural network based system to utilize rich contextual, linguistic
+and user information. Our neural model consists of a Context encoder, a Linguistic feature
+encoder, a User information encoder and a Format information encoder (CLUF). Furthermore,
+a decoder is introduced to combine such encoded features and make final predictions. Our system ranked in first place in the English track and second place in the Spanish and French track with an AUROC score of 0.861, 0.835 and 0.854 respectively.
+Author{1}{Firstname}#=%=#Shuyao
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#seanxu1015@gmail.com
+Author{1}{Affiliation}#=%=#Singsound Inc.
+Author{2}{Firstname}#=%=#Jin
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#chenjin@singsound.com
+Author{2}{Affiliation}#=%=#Singsound Inc.
+Author{3}{Firstname}#=%=#Long
+Author{3}{Lastname}#=%=#Qin
+Author{3}{Email}#=%=#qinlong@singsound.com
+Author{3}{Affiliation}#=%=#Singsound Inc.
+
+==========

@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#NLPZZX at SemEval-2018 Task 1: Using Ensemble Method for Emotion and Sentiment Intensity Determination
+ShortPaperTitle#=%=#NLPZZX at SemEval-2018 Task 1: Using Ensemble Method for Emotion and Sentiment Intensity Determination
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Zhengxin Zhang
+JobTitle#==#
+Organization#==#Yunnan University Chenggong Campus, Kunming, P.R. China
+Abstract#==#In this paper, we put forward a system that competed at SemEval-2018 Task 1: “Affect in Tweets”. Our system uses a simple yet effective ensemble method which combines several neural network components. We participate in two subtasks for English tweets: EI-reg and V-reg. For two subtasks, different combinations of neural components are examined. For EI-reg, our system achieves an accuracy of
+0.727 in Pearson Correlation Coefficient (all instances) and an accuracy of 0.555 in Pearson Correlation Coefficient (0.5-1). For V-reg, the achieved accuracy scores are respectively 0.835 and 0.670
+Author{1}{Firstname}#=%=#Zhengxin
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zzxynu@gmail.com
+Author{1}{Affiliation}#=%=#University of Yunnan at China
+Author{2}{Firstname}#=%=#Qimin
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Email}#=%=#zqmynu@gmail.com
+Author{2}{Affiliation}#=%=#University of Yunnan at China
+Author{3}{Firstname}#=%=#Hao
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#haowu@ynu.edu.cn
+Author{3}{Affiliation}#=%=#University of Yunnan at China
+
+==========

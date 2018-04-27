@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Entropy-Based Subword Mining with an Application to Word Embeddings
+ShortPaperTitle#=%=#Entropy-Based Subword Mining with an Application to Word Embeddings
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ahmed EL-Kishky
+JobTitle#==#
+Organization#==#Department of Computer Science, University of Illinois at Urbana Champaign, 201 N Goodwin Ave, Urbana, IL 61801
+Abstract#==#Recent literature has shown a wide variety of benefits to mapping traditional one-hot representations of words and phrases to lower-dimensional real-valued vectors known as word embeddings. Traditionally, most word embedding algorithms
+treat each word as the finest meaningful semantic granularity and perform
+embedding by learning distinct embedding vectors for each word. Contrary to
+this line of thought, technical domains such as scientific and medical literature compose words from subword structures such as prefixes, suffixes, and root-words as well as compound words. Treating individual words as the finest-granularity unit discards meaningful shared semantic structure between
+words sharing substructures. This not only leads to poor embeddings for text corpora that have long-tail distributions, but also heuristic methods for handling out-of-vocabulary words. In this paper we propose SubwordMine, an entropy-based subword mining algorithm that is fast, unsupervised, and fully data-driven. We show that
+this allows for great cross-domain performance in
+identifying semantically meaningful subwords. We then investigate utilizing the mined subwords within the FastText embedding model and compare performance of the learned representations in a downstream language modeling task.
+Author{1}{Firstname}#=%=#Ahmed
+Author{1}{Lastname}#=%=#El-Kishky
+Author{1}{Email}#=%=#elkishk2@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana Champaign
+Author{2}{Firstname}#=%=#Frank
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#frankxu@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Aston
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#astonz@acm.org
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Stephen
+Author{4}{Lastname}#=%=#Macke
+Author{4}{Email}#=%=#smacke@illinois.edu
+Author{4}{Affiliation}#=%=#University of Illinois at Urbana Champaign
+Author{5}{Firstname}#=%=#Jiawei
+Author{5}{Lastname}#=%=#Han
+Author{5}{Email}#=%=#hanj@cs.illinois.edu
+Author{5}{Affiliation}#=%=#Univerisity of Illinois at Urbana Champaign
+
+==========

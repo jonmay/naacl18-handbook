@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#109
+FinalPaperTitle#=%=#CSReader at SemEval-2018 Task 11: Multiple Choice Question Answering as Textual Entailment
+ShortPaperTitle#=%=#CSReader at SemEval-2018 Task 11: Multiple Choice Question Answering as Textual Entailment
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Zhengping Jiang
+JobTitle#==#Student
+Organization#==#No.5 Yiheyuan Rd. Beijing, China
+Abstract#==#In this document we present an end-to-end machine reading comprehension system that solves multiple choice questions with a textual entailment perspective. Since some of the knowledge required is not explicitly mentioned in the text, we try to exploit commonsense knowledge by using pretrained word embeddings during contextual embeddings and by dynamically generating a weighted representation of related script knowledge. In the model two kinds of prediction structure are ensembled, and the final accuracy of our system is 10 percent higher than the naiive baseline.
+Author{1}{Firstname}#=%=#Zhengping
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Email}#=%=#tony.jiang.zhengping@gmail.com
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Qi
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Email}#=%=#1500012709@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+
+==========

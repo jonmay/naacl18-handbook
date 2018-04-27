@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#Random Decision Syntax Trees at SemEval-2018 Task 3: LSTMs and Sentiment Scores for Irony Detection
+ShortPaperTitle#=%=#Random Decision Syntax Trees at SemEval-2018 Task 3: LSTMs and Sentiment Scores for Irony Detection
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Aidan San
+JobTitle#==#
+Organization#==#University of Illinois at Urbana-Champaign
+201 N Goodwin Ave, Urbana, IL 61801
+Abstract#==#We propose a Long Short Term Memory Neural Network model for irony detection in tweets in this paper. Our model is trained using word embeddings and emoji embeddings. We show that adding sentiment scores to our model improves the F1 score of our baseline LSTM by approximately .012, and therefore show that high-level features can be used to improve word embeddings in certain Natural Language Processing applications. Our model ranks 24/43 for binary classification and 5/31 for multiclass classification. We make our model easily accessible to the research community.
+Author{1}{Firstname}#=%=#Aidan
+Author{1}{Lastname}#=%=#San
+Author{1}{Email}#=%=#asan2@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+
+==========

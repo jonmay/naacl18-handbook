@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#86
+FinalPaperTitle#=%=#Luminoso at SemEval-2018 Task 10: Distinguishing Attributes Using Text Corpora and Relational Knowledge
+ShortPaperTitle#=%=#Luminoso at SemEval-2018 Task 10: Distinguishing Attributes Using Text and Relational Knowledge
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Robert Speer
+JobTitle#==#
+Organization#==#Luminoso Technologies, Inc.
+675 Massachusetts Avenue
+Cambridge, MA 02139
+Abstract#==#Luminoso participated in the SemEval 2018 task on "Capturing Discriminative Attributes" with a system based on ConceptNet, an open knowledge graph focused on general knowledge. In this paper, we describe how we trained a linear classifier on a small number of semantically-informed features to achieve an
+F1 score of 0.7368 on the task, close to the task’s high score of 0.75.
+Author{1}{Firstname}#=%=#Robert
+Author{1}{Lastname}#=%=#Speer
+Author{1}{Email}#=%=#rspeer@luminoso.com
+Author{1}{Affiliation}#=%=#Luminoso Technologies, Inc.
+Author{2}{Firstname}#=%=#Joanna
+Author{2}{Lastname}#=%=#Lowry-Duda
+Author{2}{Email}#=%=#jlowry-duda@luminoso.com
+Author{2}{Affiliation}#=%=#Luminoso Technologies, Inc.
+
+==========

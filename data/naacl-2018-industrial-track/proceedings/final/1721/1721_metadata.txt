@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1721
+FinalPaperTitle#=%=#Practical Application of Domain Dependent Confidence Measurement for Spoken Language Understanding Systems
+ShortPaperTitle#=%=#Domain Dependent Confidence Measure for SLU Systems
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Mahnoosh Mehrabani
+JobTitle#==#
+Organization#==#Interactions LLC
+41 Spring Street, Murray Hill, NJ, USA
+Abstract#==#Spoken Language Understanding (SLU), which extracts semantic information from speech, is not flawless, specially in practical applications. The reliability of the output of an SLU system can be evaluated using a semantic confidence measure. Confidence measures are a solution to improve the quality of spoken dialogue systems, by rejecting low-confidence SLU results. In this study we
+discuss real-world applications of confidence scoring in a customer service scenario. We build confidence models for three major types of dialogue states that are considered as different domains: how may I help you, number capture, and confirmation. Practical challenges to train domain-dependent confidence models, including data limitations, are discussed, and it is shown that feature
+engineering plays an important role to improve performance.  We explore a wide variety of predictor features based on speech recognition, intent classification, and high-level domain knowledge, and find the combined feature set with the best rejection performance for each application.
+Author{1}{Firstname}#=%=#Mahnoosh
+Author{1}{Lastname}#=%=#Mehrabani
+Author{1}{Email}#=%=#mahnoosh@interactions.com
+Author{1}{Affiliation}#=%=#Interactions LLC
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Thomson
+Author{2}{Email}#=%=#dthomson@interactions.com
+Author{2}{Affiliation}#=%=#Interactions LLC
+Author{3}{Firstname}#=%=#Benjamin
+Author{3}{Lastname}#=%=#Stern
+Author{3}{Email}#=%=#bstern@interactions.com
+Author{3}{Affiliation}#=%=#Interactions LLC
+
+==========

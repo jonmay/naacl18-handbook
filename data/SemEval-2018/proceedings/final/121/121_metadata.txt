@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#121
+FinalPaperTitle#=%=#ECNU at SemEval-2018 Task 10: Evaluating Simple but Effective Features on Machine Learning Methods for Semantic Difference Detection
+ShortPaperTitle#=%=#Semantic Difference Detection Using Simple but Effective Features on Machine Learning Methods
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Yunxiao Zhou
+JobTitle#==#
+Organization#==#East China Normal University
+3663 N. Zhongshan Rd., Shanghai
+Abstract#==#This paper describes the system we submitted to Task 10 (Capturing Discriminative Attributes) in SemEval 2018. Given a triple (word1, word2, attribute), this task is to predict whether it exemplifies a semantic difference or not. We design and investigate several word embedding features, PMI features and WordNet features together with supervised machine learning methods to address this task. Officially released results show that our system ranks above average.
+Author{1}{Firstname}#=%=#Yunxiao
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#51164500061@stu.ecnu.edu.cn
+Author{1}{Affiliation}#=%=#East China Normal University
+Author{2}{Firstname}#=%=#Man
+Author{2}{Lastname}#=%=#Lan
+Author{2}{Email}#=%=#mlan@cs.ecnu.edu.cn
+Author{2}{Affiliation}#=%=#East China Normal University
+Author{3}{Firstname}#=%=#Yuanbin
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#ybwu@cs.ecnu.edu.cn
+Author{3}{Affiliation}#=%=#East China Normal University
+
+==========

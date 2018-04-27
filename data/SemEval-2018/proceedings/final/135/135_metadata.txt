@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#135
+FinalPaperTitle#=%=#UniMelb at SemEval-2018 Task 12: Generative Implication using LSTMs, Siamese Networks and Semantic Representations with Synonym Fuzzing
+ShortPaperTitle#=%=#UniMelb at SemEval-2018 Task 12: Generative Implication
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Anirudh Joshi
+JobTitle#==#
+Organization#==#The University of Melbourne, Grattan Street, Parkville, Victoria, 3010
+Abstract#==#This paper describes a warrant classification system for SemEval 2018  Task 12,  that attempts to learn semantic representations of reasons, claims and warrants. The system consists of 3 stacked LSTMs: one for the reason, one for the claim, and one shared Siamese Network for the 2 candidate warrants. Our main contribution is to force the embeddings into a shared feature space using vector operations, semantic similarity classification, Siamese networks, and multi-task learning. In doing so, we learn a form of generative implication, in encoding implication interrelationships between reasons, claims, and the associated correct and incorrect warrants. We augment the limited data in the task further by utilizing WordNet synonym ``fuzzing''. When applied to SemEval 2018 Task 12, our system performs well on the development data, and officially ranked 8th among 21 teams.
+Author{1}{Firstname}#=%=#Anirudh
+Author{1}{Lastname}#=%=#Joshi
+Author{1}{Email}#=%=#anirudhj@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#The University of Melbourne
+Author{2}{Firstname}#=%=#Tim
+Author{2}{Lastname}#=%=#Baldwin
+Author{2}{Email}#=%=#tb@ldwin.net
+Author{2}{Affiliation}#=%=#The University of Melbourne
+Author{3}{Firstname}#=%=#Richard O.
+Author{3}{Lastname}#=%=#Sinnott
+Author{3}{Email}#=%=#rsinnott@unimelb.edu.au
+Author{3}{Affiliation}#=%=#The University of Melbourne
+Author{4}{Firstname}#=%=#Cecile
+Author{4}{Lastname}#=%=#Paris
+Author{4}{Email}#=%=#cecile.paris@data61.csiro.au
+Author{4}{Affiliation}#=%=#CSIRO Data61
+
+==========
