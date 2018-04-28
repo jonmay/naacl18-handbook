@@ -4,7 +4,7 @@
 The following list contains the remaining steps until the final
 NAACL 2018 handbook can be compiled:
 
-- ~~ Download Christian's code~~
+- ~~Download Christian's code~~
 - Add more things
 
 - All workshops
