@@ -61,7 +61,7 @@ for file in args.order_files:
     for line in open(file):
         line = line.rstrip()
 
-        #print "LINE", line
+        print "LINE", line
 
         if line.startswith('*'):
             # This sets the day
@@ -79,6 +79,7 @@ for file in args.order_files:
             # This names an event that takes place at a certain time
             timerange, title = line[2:].split(' ', 1)
 
+            # jm this is wrong but won't matter
             if "poster" in title.lower() or "demo" in title.lower() or "best paper session" in title.lower():
                 session_name = title
                 sessions[session_name] = Session(line, (day, date, year))
@@ -135,7 +136,7 @@ for date in dates:
         
         parallel_sessions = filter(lambda x: isinstance(x, Session) and not x.poster, events)
         poster_sessions = filter(lambda x: isinstance(x, Session) and x.poster, events)
-        
+        print("{} parallel sessions
         # PARALLEL SESSIONS
 
         # Print the Session overview (single-page at-a-glance grid)
