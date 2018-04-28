@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Building and Learning Structures in a Situated Blocks World Through Deep Language Understanding
+ShortPaperTitle#=%=#Building and Learning Structures in a Situated Blocks World Through Deep Language Understanding
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Ian Perera
+JobTitle#==#
+Organization#==#Florida Institute for Human and Machine Cognition, 40 South Alcaniz St., Pensacola, FL 32502 USA
+Abstract#==#We demonstrate a system for understanding natural language utterances for structure description and placement in a situated blocks world context. By relying on a rich, domain-specific adaptation of a generic ontology and a logical form structure produced by a semantic parser, we obviate the need for an intermediate, domain-specific representation and can produce a reasoner that grounds and reasons over concepts and constraints with real-valued data. This linguistic base enables more flexibility in interpreting natural language expressions invoking intrinsic concepts and features of structures and space. We demonstrate some of the capabilities of a system grounded in deep language understanding and present initial results in a structure learning task.
+Author{1}{Firstname}#=%=#Ian
+Author{1}{Lastname}#=%=#Perera
+Author{1}{Email}#=%=#iperera@ihmc.us
+Author{1}{Affiliation}#=%=#Institute for Human and Machine Cognition
+Author{2}{Firstname}#=%=#James
+Author{2}{Lastname}#=%=#Allen
+Author{2}{Email}#=%=#james@cs.rochester.edu
+Author{2}{Affiliation}#=%=#University of Rochester
+Author{3}{Firstname}#=%=#Choh Man
+Author{3}{Lastname}#=%=#Teng
+Author{3}{Email}#=%=#cmteng@ihmc.us
+Author{3}{Affiliation}#=%=#Institute for Human and Machine Cognition
+Author{4}{Firstname}#=%=#Lucian
+Author{4}{Lastname}#=%=#Galescu
+Author{4}{Email}#=%=#lgalescu@ihmc.us
+Author{4}{Affiliation}#=%=#IHMC
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Learning to Listen: Critically Considering the Role of AI in Human Storytelling and Character Creation
+ShortPaperTitle#=%=#Learning to Listen: AI and Storytelling
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Anna Kasunic
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA, USA 15213
+Abstract#==#In this opinion piece, we argue that there is a need for alternative design directions to complement existing AI efforts in narrative and character generation and algorithm development. To make our argument, we a) outline the predominant roles and goals of AI research in storytelling; b) present existing discourse on the benefits and harms of narratives; and c) highlight the pain points in character creation revealed by semi-structured interviews we conducted with 14 individuals deeply involved in some form of character creation. We conclude by proffering several specific design avenues that we believe can seed fruitful research collaborations. In our vision, AI collaborates with humans during creative processes and narrative generation, helps amplify voices and perspectives that are currently marginalized or misrepresented, and engenders experiences of narrative that support spectatorship and listening roles.
+Author{1}{Firstname}#=%=#Anna
+Author{1}{Lastname}#=%=#Kasunic
+Author{1}{Email}#=%=#akasunic@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Geoff
+Author{2}{Lastname}#=%=#Kaufman
+Author{2}{Email}#=%=#gfk@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

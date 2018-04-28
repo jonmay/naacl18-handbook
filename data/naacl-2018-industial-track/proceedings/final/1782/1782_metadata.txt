@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1782
+FinalPaperTitle#=%=#Personalized neural language models for real-world query auto completion
+ShortPaperTitle#=%=#Personalized neural language models for real-world query auto completion
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, 8600 Rockville Pike, Bethesda MD 20894
+Abstract#==#Query auto completion (QAC) systems are a standard part of search engines in
+industry, helping users formulate their query. Such systems update their
+suggestions after the user types each character, predicting the user's intent
+using various signals – one of the most common being popularity. Recently,
+deep learning approaches have been proposed for the QAC task, to specifically
+address the main limitation of previous popularity-based methods: the inability
+to predict unseen queries. In this work we improve previous methods based on
+neural language modeling, with the goal of building an end-to-end system. We
+particularly focus on using real-world data by integrating user information for
+personalized suggestions when possible. We also make use of time information
+and study how to increase diversity in the suggestions while studying the
+impact on scalability. Our empirical results demonstrate a marked improvement
+on two separate datasets over previous best methods in both accuracy and
+scalability, making a step towards neural query auto-completion in production
+search engines.
+Author{1}{Firstname}#=%=#Nicolas
+Author{1}{Lastname}#=%=#Fiorini
+Author{1}{Email}#=%=#nicolas.fiorini@nih.gov
+Author{1}{Affiliation}#=%=#NCBI/NLM/NIH
+Author{2}{Firstname}#=%=#Zhiyong
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Email}#=%=#zhiyong.lu@nih.gov
+Author{2}{Affiliation}#=%=#NCBI/NLM/NIH
+
+==========

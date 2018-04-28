@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#127
+FinalPaperTitle#=%=#Can adult mental health be predicted by childhood future-self narratives? Insights from the CLPsych 2018 Shared Task
+ShortPaperTitle#=%=#Can adult mental health be predicted by childhood future-self narratives?
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kate Loveys
+JobTitle#==#CLPsych Organizer
+Organization#==#CLPsych
+Abstract#==#The CLPsych 2018 Shared Task B explores how childhood essays can predict psychological distress throughout the author’s life. Our main aim was to build tools to help our psychologists understand the data, propose features and interpret predictions.
+
+We submitted two linear regression models: ModelA uses simple demographic and word- count features, while ModelB uses linguistic, entity, typographic, expert-gazetteer, and readability features. Our models perform best at younger prediction ages, with our best unofficial score at 23 of 0.426 disattenuated Pearson correlation. This task is challenging and although predictive performance is limited, we propose that tight integration of expertise across computational linguistics and clinical psychology is a productive direction.
+Author{1}{Firstname}#=%=#Kylie
+Author{1}{Lastname}#=%=#Radford
+Author{1}{Email}#=%=#k.radford@neura.edu.au
+Author{1}{Affiliation}#=%=#Neuroscience Research Australia
+Author{2}{Firstname}#=%=#Louise
+Author{2}{Lastname}#=%=#Lavrencic
+Author{2}{Email}#=%=#l.lavrencic@neura.edu.au
+Author{2}{Affiliation}#=%=#Neuroscience Research Australia
+Author{3}{Firstname}#=%=#Ruth
+Author{3}{Lastname}#=%=#Peters
+Author{3}{Email}#=%=#r.peters@neura.edu.au
+Author{3}{Affiliation}#=%=#Neuroscience Research Australia
+Author{4}{Firstname}#=%=#Kim
+Author{4}{Lastname}#=%=#Kiely
+Author{4}{Email}#=%=#k.kiely@neura.edu.au
+Author{4}{Affiliation}#=%=#Neuroscience Research Australia
+Author{5}{Firstname}#=%=#Ben
+Author{5}{Lastname}#=%=#Hachey
+Author{5}{Email}#=%=#ben.hachey@gmail.com
+Author{5}{Affiliation}#=%=#Red Marker, University of Sydney
+Author{6}{Firstname}#=%=#Scott
+Author{6}{Lastname}#=%=#Nowson
+Author{6}{Email}#=%=#nowson@gmail.com
+Author{6}{Affiliation}#=%=#Accenture The Dock
+Author{7}{Firstname}#=%=#Will
+Author{7}{Lastname}#=%=#Radford
+Author{7}{Email}#=%=#wejradford@gmail.com
+Author{7}{Affiliation}#=%=#RedMarker and Edgedown
+
+==========

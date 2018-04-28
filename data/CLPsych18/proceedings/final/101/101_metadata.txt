@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#101
+FinalPaperTitle#=%=#Hierarchical neural model with attention mechanisms for the classification of social media text related to mental health
+ShortPaperTitle#=%=#Hierarchical neural model with attention for the classification of text related to mental health
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Ive
+JobTitle#==#
+Organization#==#King's College London, IoPPN, London, SE5 8AF, UK
+Abstract#==#Mental health problems represent a major public health challenge.  Automated analysis of text related to mental health is aimed to help medical decision-making, public health policies and to improve health care. Such analysis may involve text classification. Traditionally, automated classification has been performed mainly using machine learning methods involving costly feature engineering. Recently, the performance of those methods has been dramatically improved by neural methods. However, mainly Convolutional neural networks (CNNs) have been explored. In this paper, we apply a hierarchical Recurrent neural network (RNN) architecture with an attention mechanism on social media data related to mental health. We show that this architecture improves overall classification results as compared to previously reported results on the same data. Benefitting from the attention mechanism, it can also efficiently select text elements crucial for classification decisions, which can also be used for in-depth analysis.
+Author{1}{Firstname}#=%=#Julia
+Author{1}{Lastname}#=%=#Ive
+Author{1}{Email}#=%=#jive1@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#George
+Author{2}{Lastname}#=%=#Gkotsis
+Author{2}{Email}#=%=#gkotsis@gmail.com
+Author{2}{Affiliation}#=%=#King's College London
+Author{3}{Firstname}#=%=#Rina
+Author{3}{Lastname}#=%=#Dutta
+Author{3}{Email}#=%=#rina.dutta@kcl.ac.uk
+Author{3}{Affiliation}#=%=#King's College London
+Author{4}{Firstname}#=%=#Robert
+Author{4}{Lastname}#=%=#Stewart
+Author{4}{Email}#=%=#robert.stewart@kcl.ac.uk
+Author{4}{Affiliation}#=%=#King’s College London
+Author{5}{Firstname}#=%=#Sumithra
+Author{5}{Lastname}#=%=#Velupillai
+Author{5}{Email}#=%=#sumithra@kth.se
+Author{5}{Affiliation}#=%=#School of Computer Science and Communication, KTH, Stockholm
+
+==========

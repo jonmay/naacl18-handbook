@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#125
+FinalPaperTitle#=%=#Current and Future Psychological Health Prediction using Language and Socio-Demographics of Children for the CLPysch 2018 Shared Task
+ShortPaperTitle#=%=#Current and Future Psychological Health Prediction using Language and Socio-Demographics of Children
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Kate Loveys
+JobTitle#==#CLPsych Organizer
+Organization#==#CLPsych
+Abstract#==#This article is a system description and report on the submission of a team from the University of Pennsylvania in the 'CLPsych 2018' shared task. The goal of the shared task was to use childhood language as a marker for both current and future psychological health over individual lifetimes. Our system employs multiple textual features derived from the essays written and individuals' socio-demographic variables at the age of 11. We considered several word clustering approaches, and explore the use of linear regression based on different feature sets. Our approach showed best results for predicting distress at the age of 42 and for predicting current anxiety on Disattenuated Pearson Correlation, and ranked fourth in the future health prediction task. In addition to the subtasks presented, we attempted to provide insight into mental health aspects at different ages. Our findings indicate that misspellings, words with illegible letters and increased use of personal pronouns are correlated with poor mental health at age 11, while descriptions about future physical activity, family and friends are correlated with good mental health.
+Author{1}{Firstname}#=%=#Sharath Chandra
+Author{1}{Lastname}#=%=#Guntuku
+Author{1}{Email}#=%=#sharathg@sas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Salvatore
+Author{2}{Lastname}#=%=#Giorgi
+Author{2}{Email}#=%=#sal.giorgi@gmail.com
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Lyle
+Author{3}{Lastname}#=%=#Ungar
+Author{3}{Email}#=%=#ungar@cis.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+
+==========

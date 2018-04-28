@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Towards Controllable Story Generation
+ShortPaperTitle#=%=#Towards Controllable Story Generation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nanyun Peng
+JobTitle#==#
+Organization#==#Information Sciences Institute
+4676 Admiralty Way #1001, Marina Del Rey, CA 90292
+Abstract#==#We present a general framework of analyzing existing story corpora to generate controllable and creative new stories. The proposed framework needs little manual annotation to achieve controllable story generation. It creates a new interface for humans to interact with computers to generate personalized stories. We apply the framework to build recurrent neural network (RNN)-based generation models to control story ending valence and storyline. 
+Experiments show that our methods successfully achieve the control and enhance the coherence of stories through introducing storylines. with additional control factors, the generation model gets lower perplexity, and yields more coherent stories that are faithful to the control factors according to human evaluation.
+Author{1}{Firstname}#=%=#Nanyun
+Author{1}{Lastname}#=%=#Peng
+Author{1}{Email}#=%=#npeng@isi.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Marjan
+Author{2}{Lastname}#=%=#Ghazvininejad
+Author{2}{Email}#=%=#ghazvini@isi.edu
+Author{2}{Affiliation}#=%=#USC
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#May
+Author{3}{Email}#=%=#jonmay@gmail.com
+Author{3}{Affiliation}#=%=#USC Information Sciences Institute
+Author{4}{Firstname}#=%=#Kevin
+Author{4}{Lastname}#=%=#Knight
+Author{4}{Email}#=%=#knight@isi.edu
+Author{4}{Affiliation}#=%=#USC/ISI
+
+==========

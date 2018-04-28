@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#118
+FinalPaperTitle#=%=#Deep Learning for Depression Detection of Twitter Users
+ShortPaperTitle#=%=#Deep Learning for Depression Detection of Twitter Users
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ahmed Husseini Orabi
+JobTitle#==#Post-doctoral fellow
+Organization#==#School of Electrical Engineering and Computer Science, University of Ottawa, Ottawa, ON K1N 6N5 Canada
+Abstract#==#Mental illness detection in social media can be considered a complex task, mainly due to the complicated nature of mental disorders. In recent years, this research area has started to evolve with the continuous increase in popularity of social media platforms that became an integral part of people’s life. This close relationship between social media platforms and their users has made these platforms to reflect the users’ personal life with different limitations. In such an environment, researchers are presented with a wealth of information regarding one’s life. In addition to the level of complexity in identifying mental illnesses through social media platforms, adopting supervised machine learning approaches such as deep neural networks have not been widely accepted due to the difficulties in obtaining sufficient amounts of annotated training data. Due to these reasons, we try to identify the most effective deep neural network architecture among a few of selected architectures that were successfully used in natural language processing tasks. The chosen architectures are used to detect users with signs of mental illnesses (depression in our case) given limited unstructured text data extracted from the Twitter social media platform.
+Author{1}{Firstname}#=%=#Ahmed
+Author{1}{Lastname}#=%=#Husseini Orabi
+Author{1}{Email}#=%=#ahuss045@uottawa.ca
+Author{1}{Affiliation}#=%=#University of Ottawa
+Author{2}{Firstname}#=%=#Prasadith
+Author{2}{Lastname}#=%=#Buddhitha
+Author{2}{Email}#=%=#pkiri056@uottawa.ca
+Author{2}{Affiliation}#=%=#University of Ottawa
+Author{3}{Firstname}#=%=#Mahmoud
+Author{3}{Lastname}#=%=#Husseini Orabi
+Author{3}{Email}#=%=#mhuss092@uottawa.ca
+Author{3}{Affiliation}#=%=#University of Ottawa
+Author{4}{Firstname}#=%=#Diana
+Author{4}{Lastname}#=%=#Inkpen
+Author{4}{Email}#=%=#diana.inkpen@uottawa.ca
+Author{4}{Affiliation}#=%=#University of Ottawa
+
+==========

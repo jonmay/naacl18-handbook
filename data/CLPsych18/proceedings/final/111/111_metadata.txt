@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#111
+FinalPaperTitle#=%=#What type of happiness are you looking for? - A closer look at detecting mental health from language
+ShortPaperTitle#=%=#What type of happiness are you looking for? - A closer look at detecting mental health from language
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Alina Arseniev-Koehler
+JobTitle#==#
+Organization#==#University of California, Los Angeles
+Abstract#==#Computational models to detect mental illnesses from text and speech could enhance our understanding of mental health while offering opportunities for early detection and intervention. However, these models are often disconnected from the lived experience of depression and the larger diagnostic debates in mental health. This article investigates these disconnects, primarily focusing on the labels used to diagnose depression, how these labels are computationally represented, and the performance metrics used to evaluate computational models. We also consider how medical instruments used to measure depression, such as the Patient Health Questionnaire (PHQ), contribute to these disconnects. To illustrate our points, we incorporate mixed-methods analyses of 698 interviews on emotional health, which are coupled with self-report PHQ screens for depression. We propose possible strategies to bridge these gaps between modern psychiatric understandings of depression, lay experience of depression, and computational representation.
+Author{1}{Firstname}#=%=#Alina
+Author{1}{Lastname}#=%=#Arseniev-Koehler
+Author{1}{Email}#=%=#arsena@g.ucla.edu
+Author{1}{Affiliation}#=%=#University of California Los Angeles
+Author{2}{Firstname}#=%=#Sharon
+Author{2}{Lastname}#=%=#Mozgai
+Author{2}{Email}#=%=#smozgai@gmail.com
+Author{2}{Affiliation}#=%=#USC Institute for Creative Technologies
+Author{3}{Firstname}#=%=#Stefan
+Author{3}{Lastname}#=%=#Scherer
+Author{3}{Email}#=%=#scherer@ict.usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+
+==========

@@ -1,0 +1,16 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#On the Utility of Lay Summaries and AI Safety Disclosures: Toward Robust, Open Research Oversight
+ShortPaperTitle#=%=#On the Utility of Lay Summaries and AI Safety Disclosures: Toward Robust, Open Research Oversight
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Allen Schmaltz
+JobTitle#==#
+Organization#==#Harvard University, Cambridge, MA 02138
+Abstract#==#In this position paper, we propose that the community consider encouraging researchers to include two riders, a ''Lay Summary'' and an ''AI Safety Disclosure'', as part of future NLP papers published in ACL forums that present user-facing systems. The goal is to encourage researchers--via a relatively non-intrusive mechanism--to consider the societal implications of technologies carrying (un)known and/or (un)knowable long-term risks, to highlight failure cases, and to provide a mechanism by which the general public (and scientists in other disciplines) can more readily engage in the discussion in an informed manner.
+
+This simple proposal requires minimal additional up-front costs for researchers; the lay summary, at least, has significant precedence in the medical literature and other areas of science; and the proposal is aimed to supplement, rather than replace, existing approaches for encouraging researchers to consider the ethical implications of their work, such as those of the Collaborative Institutional Training Initiative (CITI) Program and institutional review boards (IRBs).
+Author{1}{Firstname}#=%=#Allen
+Author{1}{Lastname}#=%=#Schmaltz
+Author{1}{Email}#=%=#schmaltz@fas.harvard.edu
+Author{1}{Affiliation}#=%=#Harvard University
+
+==========

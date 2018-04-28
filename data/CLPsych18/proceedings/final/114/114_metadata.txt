@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#114
+FinalPaperTitle#=%=#Dynamics of an idiostyle of a Russian suicidal blogger
+ShortPaperTitle#=%=#Dynamics of an idiostyle of a Russian suicidal blogger
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tatiana Litvinova
+JobTitle#==#
+Organization#==#Voronezh State Pedagogical University
+86 Lenina ul., Voronezh, 394043, Russia
+Abstract#==#Over 800000 people die of suicide each year. It is es-timated that by the year 2020, this figure will have in-creased to 1.5 million. It is considered to be one of the major causes of mortality during adolescence. Thus there is a growing need for methods of identifying su-icidal individuals. Language analysis is known to be a valuable psychodiagnostic tool, however the material for such an analysis is not easy to obtain. Currently as the Internet communications are developing, there is an opportunity to study texts of suicidal individuals. Such an analysis can provide a useful insight into the peculiarities of suicidal thinking, which can be used to further develop methods for diagnosing the risk of suicidal behavior. The paper analyzes the dynamics of a number of linguistic parameters of an idiostyle of a Russian-language blogger who died by suicide. For the first time such an analysis has been conducted using the material of Russian online texts. For text processing, the LIWC program is used. A correlation analysis was performed to identify the relationship between LIWC variables and number of days prior to suicide. Data visualization, as well as comparison with the results of related studies was performed.
+Author{1}{Firstname}#=%=#Tatiana
+Author{1}{Lastname}#=%=#Litvinova
+Author{1}{Email}#=%=#centr_rus_yaz@mail.ru
+Author{1}{Affiliation}#=%=#Voronezh State Pedagogical University
+Author{2}{Firstname}#=%=#Olga
+Author{2}{Lastname}#=%=#Litvinova
+Author{2}{Email}#=%=#centr_rus_yaz@mail.ru
+Author{2}{Affiliation}#=%=#Voronezh State Pedagogical University
+Author{3}{Firstname}#=%=#Pavel
+Author{3}{Lastname}#=%=#Seredin
+Author{3}{Email}#=%=#paul@phys.vsu.ru
+Author{3}{Affiliation}#=%=#Voronezh State University
+
+==========

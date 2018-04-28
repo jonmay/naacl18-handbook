@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Exploring the Functional and Geometric Bias of Spatial Relations Using Neural Language Models
+ShortPaperTitle#=%=#Exploring the Functional and Geometric Bias of Spatial Relations Using Neural Language Models
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Simon Dobnik
+JobTitle#==#
+Organization#==#Department of Philosophy, Linguistics, Theory of Science
+Box 200
+SE - 405 30 Göteborg
+Sweden
+Abstract#==#The challenge for computational models of spatial descriptions for situated dialogue systems is the integration of information from different modalities. The semantics of spatial descriptions are grounded in at least two sources of information: (i) a geometric representation of space and (ii) the functional interaction of related objects that. We train several neural language models on descriptions of scenes from a dataset of image captions and examine whether the functional or geometric bias of spatial descriptions reported in the literature is reflected in the estimated perplexity of these models. The results of these experiments have implications for the creation of models of spatial lexical semantics for human-robot dialogue systems. Furthermore, they also provide an insight into the kinds of the semantic knowledge captured by neural language models trained on spatial descriptions, which has implications for image captioning systems.
+Author{1}{Firstname}#=%=#Simon
+Author{1}{Lastname}#=%=#Dobnik
+Author{1}{Email}#=%=#simon.dobnik@gu.se
+Author{1}{Affiliation}#=%=#University of Gothenburg
+Author{2}{Firstname}#=%=#Mehdi
+Author{2}{Lastname}#=%=#Ghanimifard
+Author{2}{Email}#=%=#mehdi.ghanimifard@gu.se
+Author{2}{Affiliation}#=%=#University of Gothenburg
+Author{3}{Firstname}#=%=#John
+Author{3}{Lastname}#=%=#Kelleher
+Author{3}{Email}#=%=#johndkelleher@gmail.com
+Author{3}{Affiliation}#=%=#Dublin Institute of Technology
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#113
+FinalPaperTitle#=%=#Cross-cultural differences in language markers of depression online
+ShortPaperTitle#=%=#Cross-cultural differences in language markers of depression online
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kate Loveys
+JobTitle#==#
+Organization#==#Qntfy,
+USA
+Abstract#==#Depression is a global mental health condition that affects all cultures. Despite this, the way depression is expressed varies by culture. Uptake of machine learning technology for diagnosing mental health conditions means that increasingly more depression classifiers are created from online language data. Yet, culture is rarely considered as a factor affecting online language in this literature. This study explores cultural differences in online language data of users with depression. Written language data from 1,593 users with self-reported depression from the online peer support community 7 Cups of Tea was analyzed using the Linguistic Inquiry and Word Count (LIWC), topic modeling, data visualization, and other techniques. We compared the language of users identifying as White, Black or African American, Hispanic or Latino, and Asian or Pacific Islander. Exploratory analyses revealed cross-cultural differences in depression expression in online language data, particularly in relation to emotion expression, cognition, and functioning. The results have important implications for avoiding depression misclassification from machine-driven assessments when used in a clinical setting, and for avoiding inadvertent cultural biases in this line of research more broadly.
+Author{1}{Firstname}#=%=#Kate
+Author{1}{Lastname}#=%=#Loveys
+Author{1}{Email}#=%=#kate@qntfy.com
+Author{1}{Affiliation}#=%=#Qntfy
+Author{2}{Firstname}#=%=#Jonathan
+Author{2}{Lastname}#=%=#Torrez
+Author{2}{Email}#=%=#jonathan.torrez@qntfy.com
+Author{2}{Affiliation}#=%=#Qntfy
+Author{3}{Firstname}#=%=#Alex
+Author{3}{Lastname}#=%=#Fine
+Author{3}{Email}#=%=#alex.fine@qntfy.com
+Author{3}{Affiliation}#=%=#Qntfy
+Author{4}{Firstname}#=%=#Glen
+Author{4}{Lastname}#=%=#Moriarty
+Author{4}{Email}#=%=#glen.moriarty@7cups.com
+Author{4}{Affiliation}#=%=#7 Cups of Tea
+Author{5}{Firstname}#=%=#Glen
+Author{5}{Lastname}#=%=#Coppersmith
+Author{5}{Email}#=%=#glen@qntfy.com
+Author{5}{Affiliation}#=%=#Qntfy
+
+==========

@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#110
+FinalPaperTitle#=%=#RSDD-Time: Temporal Annotation of Self-Reported Mental Health Diagnoses
+ShortPaperTitle#=%=#RSDD-Time: Temporal Annotation of Self-Reported Mental Health Diagnoses
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Bart Desmet
+JobTitle#==#
+Organization#==#Ghent University
+Sint-Pietersnieuwstraat 25
+9000 Gent
+Belgium
+Abstract#==#Self-reported diagnosis statements have been widely employed in studying language related to mental health in social media. However, existing research has largely ignored the temporality of mental health diagnoses. In this work, we introduce RSDD-Time: a new dataset of 598 manually annotated self-reported depression diagnosis posts from Reddit that include temporal information about the diagnosis. Annotations include whether a mental health con- dition is present and how recently the diagnosis happened. Furthermore, we include exact temporal spans that relate to the date of diagnosis. This information is valuable for various computational methods to examine mental health through social media because one’s mental health state is not static. We also test several baseline classification and extraction approaches, which suggest that extracting temporal information from self-reported diagnosis statements is challenging.
+Author{1}{Firstname}#=%=#Sean
+Author{1}{Lastname}#=%=#MacAvaney
+Author{1}{Email}#=%=#sean@ir.cs.georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Bart
+Author{2}{Lastname}#=%=#Desmet
+Author{2}{Email}#=%=#bart.desmet@ugent.be
+Author{2}{Affiliation}#=%=#LT3, Ghent University
+Author{3}{Firstname}#=%=#Arman
+Author{3}{Lastname}#=%=#Cohan
+Author{3}{Email}#=%=#arman@ir.cs.georgetown.edu
+Author{3}{Affiliation}#=%=#Georgetown University
+Author{4}{Firstname}#=%=#Luca
+Author{4}{Lastname}#=%=#Soldaini
+Author{4}{Email}#=%=#luca@ir.cs.georgetown.edu
+Author{4}{Affiliation}#=%=#Georgetown University
+Author{5}{Firstname}#=%=#Andrew
+Author{5}{Lastname}#=%=#Yates
+Author{5}{Email}#=%=#ayates@mpi-inf.mpg.de
+Author{5}{Affiliation}#=%=#Max Planck Institute for Informatics
+Author{6}{Firstname}#=%=#Ayah
+Author{6}{Lastname}#=%=#Zirikly
+Author{6}{Email}#=%=#ayah.zirikly@gmail.com
+Author{6}{Affiliation}#=%=#National Institutes of Health
+Author{7}{Firstname}#=%=#Nazli
+Author{7}{Lastname}#=%=#Goharian
+Author{7}{Email}#=%=#nazli@ir.cs.georgetown.edu
+Author{7}{Affiliation}#=%=#Georgetown University
+
+==========

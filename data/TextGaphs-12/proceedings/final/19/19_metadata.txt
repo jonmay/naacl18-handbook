@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Efficient Generation and Processing of Word Co-occurrence Networks Using corpus2graph
+ShortPaperTitle#=%=#Efficient Generation and Processing of Word Co-occurrence Networks Using corpus2graph
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Zheng Zhang
+JobTitle#==#
+Organization#==#Zheng Zhang
+LIMSI, CNRS, Université Paris-Saclay, Orsay, France
+LRI, Univ. Paris-Sud, CNRS, Université Paris-Saclay, Orsay, France
+Abstract#==#Corpus2graph is an open-source NLP-application-oriented tool that generates a word co-occurrence network from a large corpus. It not only contains different built-in methods to preprocess words, analyze sentences, extract word pairs and define edge weights, but also supports user-customized functions. By using parallelization techniques, it can generate a large word co-occurrence network of the whole English Wikipedia data within hours. And thanks to its nodes-edges-weight three-level progressive calculation design, rebuilding networks with different configurations is even faster as it does not need to start all over again. This tool also works with other graph libraries such as igraph, NetworkX and graph-tool as a front end providing data to boost network generation speed.
+Author{1}{Firstname}#=%=#Zheng
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zheng.zhang@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS
+Author{2}{Firstname}#=%=#Pierre
+Author{2}{Lastname}#=%=#Zweigenbaum
+Author{2}{Email}#=%=#pz@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI-CNRS
+Author{3}{Firstname}#=%=#Ruiqing
+Author{3}{Lastname}#=%=#Yin
+Author{3}{Email}#=%=#ruiqing.yin@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI, CNRS, Université Paris-Saclay
+
+==========

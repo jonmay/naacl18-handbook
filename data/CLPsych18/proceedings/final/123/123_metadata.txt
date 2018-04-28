@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#123
+FinalPaperTitle#=%=#Predicting Psychological Health from Childhood Essays with Convolutional Neural Networks for the CLPsych 2018 Shared Task (Team UKNLP)
+ShortPaperTitle#=%=#Predicting Psychological Health from Childhood Essays with Convolutional Neural Networks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kate Loveys
+JobTitle#==#CLPsych Organizer
+Organization#==#CLPsych
+Abstract#==#This paper describes the systems we developed for tasks A and B of the 2018 CLPsych shared task. The first task (task A) focuses on predicting behavioral health scores at age 11 using childhood essays. The second task (task B) asks participants to predict future psychological distress at ages 23, 33, 42, and 50 using the age 11 essays. We propose two convolutional neural network based methods that map each task to a regression problem. Among seven teams we ranked third on task A with disattenuated Pearson correlation (DPC) score of 0.5587. Likewise, we ranked third on task~B with an average DPC score of 0.3062.
+Author{1}{Firstname}#=%=#Anthony
+Author{1}{Lastname}#=%=#Rios
+Author{1}{Email}#=%=#anthony.rios1@uky.edu
+Author{1}{Affiliation}#=%=#University of Kentucky
+Author{2}{Firstname}#=%=#Tung
+Author{2}{Lastname}#=%=#Tran
+Author{2}{Email}#=%=#tung.tran@uky.edu
+Author{2}{Affiliation}#=%=#University of Kentucky
+Author{3}{Firstname}#=%=#Ramakanth
+Author{3}{Lastname}#=%=#Kavuluru
+Author{3}{Email}#=%=#rvkavu2@uky.edu
+Author{3}{Affiliation}#=%=#University of Kentucky
+
+==========

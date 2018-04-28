@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#A Pipeline for Creative Visual Storytelling
+ShortPaperTitle#=%=#A Pipeline for Creative Visual Storytelling
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#U.S. Army Research Laboratory
+Adelphi, MD 20783
+Abstract#==#Computational visual storytelling produces a textual description of events and interpretations depicted in a sequence of images. These texts are made possible by advances and cross-disciplinary approaches in natural language processing, generation, and computer vision. We define a computational creative visual storytelling as one with the ability to alter the telling of a story along three aspects: to speak about different environments, to produce variations based on narrative goals, and to adapt the narrative to the audience. These aspects of creative storytelling and their effect on the narrative have yet to be explored in visual storytelling. This paper presents a pipeline of task-modules, Object Identification, Single-Image Inferencing, and Multi-Image Narration, that serve as a preliminary design for building a creative visual storyteller. We have piloted this design for a sequence of images in an annotation task. We present and analyze the collected corpus and describe plans towards automation.
+Author{1}{Firstname}#=%=#Stephanie
+Author{1}{Lastname}#=%=#Lukin
+Author{1}{Email}#=%=#stephanie.m.lukin.civ@mail.mil
+Author{1}{Affiliation}#=%=#US Army Research Laboratory
+Author{2}{Firstname}#=%=#Reginald
+Author{2}{Lastname}#=%=#Hobbs
+Author{2}{Email}#=%=#reginald.l.hobbs2.civ@mail.mil
+Author{2}{Affiliation}#=%=#US Army Research Laboratory
+Author{3}{Firstname}#=%=#Clare
+Author{3}{Lastname}#=%=#Voss
+Author{3}{Email}#=%=#clare.r.voss.civ@mail.mil
+Author{3}{Affiliation}#=%=#US Army Research Laboratory
+
+==========

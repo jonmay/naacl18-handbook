@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=##MeToo Alexa: How Conversational Systems Respond to Sexual Harassment
+ShortPaperTitle#=%=##MeToo Alexa: How Conversational Systems Respond to Sexual Harassment
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Amanda Cercas Curry
+JobTitle#==#
+Organization#==#School of Mathematical and Computer Sciences, Heriot-Watt University, Edinburgh EH14 4AS
+Abstract#==#Conversational AI systems, such as Amazon’s Alexa, are rapidly developing from purely transactional systems to social chatbots, which can respond to a wide variety of user requests. In this article, we establish how current state-of-the-art conversational systems react to inappropriate requests, such as bullying and sexual harassment on the part of the user, by collecting and analysing the novel #MeTooAlexa corpus. Our results show that commercial systems mainly avoid answering, while rule-based chatbots show a variety of behaviours and often deflect. Data-driven systems, on the other hand, are often non-coherent, but also run the risk of being interpreted as flirtatious and sometimes react with counter-aggression. This includes our own system, trained on “clean” data, which suggests that inappropriate system behaviour is not caused by data bias.
+Author{1}{Firstname}#=%=#Amanda
+Author{1}{Lastname}#=%=#Cercas Curry
+Author{1}{Email}#=%=#ac293@hw.ac.uk
+Author{1}{Affiliation}#=%=#Heriot-Watt University
+Author{2}{Firstname}#=%=#Verena
+Author{2}{Lastname}#=%=#Rieser
+Author{2}{Email}#=%=#v.t.rieser@hw.ac.uk
+Author{2}{Affiliation}#=%=#Heriot-Watt University
+
+==========

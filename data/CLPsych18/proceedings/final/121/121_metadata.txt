@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#121
+FinalPaperTitle#=%=#Within and Between-Person Differences in Language Used Across Anxiety Support and Neutral Reddit Communities
+ShortPaperTitle#=%=#Within and Between-Person Differences in Language Used Across Anxiety Support and Neutral Forums
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Molly E. Ireland
+JobTitle#==#Assistant Professor
+Organization#==#Department of Psychological Sciences
+Texas Tech University
+Box 42051
+Lubbock, TX 79403
+Abstract#==#Although many studies have distinguished between the social media language use of people who do and do not have a mental health condition, within-person context-sensitive comparisons (for example, analyzing individuals' language use when seeking support or discussing neutral topics) are less common. Two dictionary-based analyses of Reddit communities compared (1) anxious individuals' comments in anxiety support communities (e.g., /r/PanicParty) with the same users' comments in neutral communities (e.g., /r/todayilearned), and, (2) within popular neutral communities, comments by members of anxiety subreddits with comments by other users. Each comparison yielded theory-consistent effects as well as unexpected results that suggest novel hypotheses to be tested in the future. Results have relevance for improving researchers' and practitioners' ability to unobtrusively assess anxiety symptoms in conversations that are not explicitly about mental health.
+Author{1}{Firstname}#=%=#Molly
+Author{1}{Lastname}#=%=#Ireland
+Author{1}{Email}#=%=#molly.ireland@gmail.com
+Author{1}{Affiliation}#=%=#Texas Tech University
+Author{2}{Firstname}#=%=#Micah
+Author{2}{Lastname}#=%=#Iserman
+Author{2}{Email}#=%=#micah.iserman@ttu.edu
+Author{2}{Affiliation}#=%=#Texas Tech University
+
+==========

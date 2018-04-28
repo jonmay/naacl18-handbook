@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#126
+FinalPaperTitle#=%=#Predicting Psychological Health from Childhood Essays. The UGent-IDLab CLPsych 2018 Shared Task System.
+ShortPaperTitle#=%=#Predicting Psychological Health from Childhood Essays (UGent-IDLab)
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Kate Loveys
+JobTitle#==#CLPsych Organizer
+Organization#==#CLPsych
+Abstract#==#This paper describes the IDLab system submitted to Task A of the CLPsych 2018 shared task. The goal of this task is predicting psychological health of children based on language used in hand-written essays and socio-demographic control variables. Our entry uses word- and character-based features as well as lexicon-based features and features derived from the essays such as the quality of the language. We apply linear models, gradient boosting as well as neural-network based regressors (feed-forward, CNNs and RNNs) to predict scores. We then make ensembles of our best performing models using a weighted average.
+Author{1}{Firstname}#=%=#Klim
+Author{1}{Lastname}#=%=#Zaporojets
+Author{1}{Email}#=%=#klim.zaporojets@ugent.be
+Author{1}{Affiliation}#=%=#University of Ghent
+Author{2}{Firstname}#=%=#Lucas
+Author{2}{Lastname}#=%=#Sterckx
+Author{2}{Email}#=%=#lucas.sterckx@ugent.be
+Author{2}{Affiliation}#=%=#Ghent University
+Author{3}{Firstname}#=%=#Johannes
+Author{3}{Lastname}#=%=#Deleu
+Author{3}{Email}#=%=#johannes.deleu@ugent.be
+Author{3}{Affiliation}#=%=#Ghent University
+Author{4}{Firstname}#=%=#Thomas
+Author{4}{Lastname}#=%=#Demeester
+Author{4}{Email}#=%=#thomas.demeester@ugent.be
+Author{4}{Affiliation}#=%=#Ghent University
+Author{5}{Firstname}#=%=#Chris
+Author{5}{Lastname}#=%=#Develder
+Author{5}{Email}#=%=#chris.develder@ugent.be
+Author{5}{Affiliation}#=%=#Ghent University
+
+==========

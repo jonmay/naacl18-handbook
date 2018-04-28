@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Lexical Conceptual Structure of Literal and Metaphorical Spatial Language: A Case Study of "Push"
+ShortPaperTitle#=%=#Lexical Conceptual Structure of Literal and Metaphorical Spatial Language: A Case Study of "Push"
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Bonnie J. Dorr
+JobTitle#==#
+Organization#==#Institute for Human and Machine Cognition, 15 SE Oseola Ave, Ocala, FL 34471
+Abstract#==#Prior methodologies for understanding spatial language have treated literal expressions such as "Mary pushed the car over the edge" differently from metaphorical extensions such as "Mary’s job pushed her over the edge".  We demonstrate a methodology for standardizing literal and metaphorical meanings, by building on work in Lexical Conceptual Structure (LCS), a general-purpose representational component used in machine translation.  We argue that spatial predicates naturally extend into other fields (e.g., circumstantial or temporal), and that LCS provides both a framework for distinguishing spatial from non-spatial, and a system for finding metaphorical meaning extensions. We start with MetaNet (MN), a large repository of conceptual metaphors, condensing 197 spatial entries into sixteen top-level categories of motion frames.  Using naturally occurring instances of English push , and expansions of MN frames, we demonstrate that literal and metaphorical extensions exhibit patterns predicted and represented by the LCS model.
+Author{1}{Firstname}#=%=#Bonnie
+Author{1}{Lastname}#=%=#Dorr
+Author{1}{Email}#=%=#bdorr@ihmc.us
+Author{1}{Affiliation}#=%=#Florida Institute for Human-Machine Cognition
+Author{2}{Firstname}#=%=#Mari
+Author{2}{Lastname}#=%=#Olsen
+Author{2}{Email}#=%=#mari.olsen@comcast.net
+Author{2}{Affiliation}#=%=#Microsoft
+
+==========

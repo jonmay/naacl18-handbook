@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1719
+FinalPaperTitle#=%=#Selecting Machine-Translated Data for Quick Bootstrapping of a Natural Language Understanding System
+ShortPaperTitle#=%=#Selecting Machine-Translated Data for Quick Bootstrapping of a Natural Language Understanding System
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#judith gaspers
+JobTitle#==#
+Organization#==#Amazon development center Germany GmbH
+Aureliusstr 2
+52064 Aachen
+Germany
+Abstract#==#This paper investigates the use of Machine Translation (MT) to bootstrap a
+Natural Language Understanding (NLU) system for a new language for the use case
+of a large-scale voice-controlled device. The goal is to decrease the cost and
+time needed to get an annotated corpus for the new language, while still having
+a large enough coverage of user requests. Different methods of filtering MT
+data in order to keep utterances that improve NLU performance and
+language-specific post-processing methods are investigated. These methods are
+tested in a large-scale NLU task with translating around 10 millions training
+utterances from English to German. The results show a large improvement for
+using MT data over a grammar-based and over an in-house data collection
+baseline, while reducing the manual effort greatly. Both filtering and
+post-processing approaches improve results further.
+Author{1}{Firstname}#=%=#Judith
+Author{1}{Lastname}#=%=#Gaspers
+Author{1}{Email}#=%=#gaspers@amazon.de
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Penny
+Author{2}{Lastname}#=%=#Karanasou
+Author{2}{Email}#=%=#pkarana@amazon.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Rajen
+Author{3}{Lastname}#=%=#Chatterjee
+Author{3}{Email}#=%=#rajen.k.chatterjee@gmail.com
+Author{3}{Affiliation}#=%=#University of Trento Trento
+
+==========

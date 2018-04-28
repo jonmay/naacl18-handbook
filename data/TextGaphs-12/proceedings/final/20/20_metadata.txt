@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Efficient Graph-based Word Sense Induction by Distributional Inclusion Vector Embeddings
+ShortPaperTitle#=%=#Efficient Graph-based Word Sense Induction by Distributional Inclusion Vector Embeddings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Haw-Shiuan Chang
+JobTitle#==#
+Organization#==#College of Information and Computer Sciences, University of Massachusetts, 140 Governors Dr., Amherst, MA 01003
+Abstract#==#Word sense induction (WSI), which addresses polysemy by unsupervised discovery of multiple word senses, resolves ambiguities for downstream NLP tasks and also makes word representations more interpretable. This paper proposes an accurate and efficient graph-based method for WSI that builds a global non-negative vector embedding basis (which are interpretable like topics) and clusters the basis indexes in the ego network of each polysemous word. By adopting distributional inclusion vector embeddings as our basis formation model, we avoid the expensive step of nearest neighbor search that plagues other graph-based methods without sacrificing the quality of sense clusters. Experiments on three datasets show that our proposed method produces similar or better sense clusters and embeddings compared with previous state-of-the-art methods while being significantly more efficient.
+Author{1}{Firstname}#=%=#Haw-Shiuan
+Author{1}{Lastname}#=%=#Chang
+Author{1}{Email}#=%=#hschang@cs.umass.edu
+Author{1}{Affiliation}#=%=#UMass Amherst
+Author{2}{Firstname}#=%=#Amol
+Author{2}{Lastname}#=%=#Agrawal
+Author{2}{Email}#=%=#amolagrawal@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts
+Author{3}{Firstname}#=%=#Ananya
+Author{3}{Lastname}#=%=#Ganesh
+Author{3}{Email}#=%=#aganesh@cs.umass.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts
+Author{4}{Firstname}#=%=#Anirudha
+Author{4}{Lastname}#=%=#Desai
+Author{4}{Email}#=%=#anirudhadesa@cs.umass.edu
+Author{4}{Affiliation}#=%=#University of Massachusetts
+Author{5}{Firstname}#=%=#Vinayak
+Author{5}{Lastname}#=%=#Mathur
+Author{5}{Email}#=%=#vinayak@cs.umass.edu
+Author{5}{Affiliation}#=%=#University of Masachusetts
+Author{6}{Firstname}#=%=#Alfred
+Author{6}{Lastname}#=%=#Hough
+Author{6}{Email}#=%=#al.hough@lexalytics.com
+Author{6}{Affiliation}#=%=#Lexalytics
+Author{7}{Firstname}#=%=#Andrew
+Author{7}{Lastname}#=%=#McCallum
+Author{7}{Email}#=%=#mccallum@cs.umass.edu
+Author{7}{Affiliation}#=%=#University of Massachusetts
+
+==========

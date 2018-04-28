@@ -1,0 +1,62 @@
+SubmissionNumber#=%=#105
+FinalPaperTitle#=%=#Oral-Motor and Lexical Diversity During Naturalistic Conversations in Adults with Autism Spectrum Disorder
+ShortPaperTitle#=%=#Oral-Motor and Lexical Diversity During Naturalistic Conversations in ASD
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Birkan Tunc
+JobTitle#==#
+Organization#==#Children’s Hospital of Philadelphia, Philadelphia PA, 19104, USA
+Abstract#==#Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by impaired social communication and  the presence of restricted, repetitive patterns of behaviors and interests. Prior research suggests that restricted patterns of behavior in ASD may be cross-domain phenomena that are evident in a variety of modalities. Computational studies of language in ASD provide support for the existence of an underlying dimension of restriction that emerges during a conversation. Similar evidence exists for restricted patterns of facial movement. Using tools from computational linguistics, computer vision, and information theory, this study tests whether cognitive-motor restriction can be detected across multiple behavioral domains in adults with ASD during a naturalistic conversation. Our methods identify restricted behavioral patterns, as measured by entropy in word use and mouth movement.  Results suggest that adults with ASD produce significantly less diverse mouth movements and words than neurotypical adults, with an increased reliance on repeated patterns in both domains. The diversity values of the two domains are not significantly correlated, suggesting that they provide complementary information.
+Author{1}{Firstname}#=%=#Julia
+Author{1}{Lastname}#=%=#Parish-Morris
+Author{1}{Email}#=%=#parishmorrisj@email.chop.edu
+Author{1}{Affiliation}#=%=#Children's Hospital of Philadelphia
+Author{2}{Firstname}#=%=#Evangelos
+Author{2}{Lastname}#=%=#Sariyanidi
+Author{2}{Email}#=%=#sariyanide@email.chop.edu
+Author{2}{Affiliation}#=%=#Children's Hospital of Philadelphia
+Author{3}{Firstname}#=%=#Casey
+Author{3}{Lastname}#=%=#Zampella
+Author{3}{Email}#=%=#zampellac@email.chop.edu
+Author{3}{Affiliation}#=%=#Children's Hospital of Philadelphia
+Author{4}{Firstname}#=%=#G. Keith
+Author{4}{Lastname}#=%=#Bartley
+Author{4}{Email}#=%=#bartleyg@email.chop.edu
+Author{4}{Affiliation}#=%=#Children's Hospital of Philadelphia
+Author{5}{Firstname}#=%=#Emily
+Author{5}{Lastname}#=%=#Ferguson
+Author{5}{Email}#=%=#fergusone1@email.chop.edu
+Author{5}{Affiliation}#=%=#Children's Hospital of Philadelphia
+Author{6}{Firstname}#=%=#Ashley A.
+Author{6}{Lastname}#=%=#Pallathra
+Author{6}{Email}#=%=#apallathra@gmail.com
+Author{6}{Affiliation}#=%=#The Catholic University of America
+Author{7}{Firstname}#=%=#Leila
+Author{7}{Lastname}#=%=#Bateman
+Author{7}{Email}#=%=#batemanl@email.chop.edu
+Author{7}{Affiliation}#=%=#Children's Hospital of Philadelphia
+Author{8}{Firstname}#=%=#Samantha
+Author{8}{Lastname}#=%=#Plate
+Author{8}{Email}#=%=#plates@email.chop.edu
+Author{8}{Affiliation}#=%=#Children's Hospital of Philadelphia
+Author{9}{Firstname}#=%=#Meredith
+Author{9}{Lastname}#=%=#Cola
+Author{9}{Email}#=%=#colam@email.chop.edu
+Author{9}{Affiliation}#=%=#Children's Hospital of Philadelphia
+Author{10}{Firstname}#=%=#Juhi
+Author{10}{Lastname}#=%=#Pandey
+Author{10}{Email}#=%=#pandeyj@email.chop.edu
+Author{10}{Affiliation}#=%=#Children's Hospital of Philadelphia
+Author{11}{Firstname}#=%=#Edward S.
+Author{11}{Lastname}#=%=#Brodkin
+Author{11}{Email}#=%=#ebrodkin@pennmedicine.upenn.edu
+Author{11}{Affiliation}#=%=#University of Pennsylvania
+Author{12}{Firstname}#=%=#Robert T.
+Author{12}{Lastname}#=%=#Schultz
+Author{12}{Email}#=%=#schultzrt@email.chop.edu
+Author{12}{Affiliation}#=%=#Children's Hospital of Philadelphia
+Author{13}{Firstname}#=%=#Birkan
+Author{13}{Lastname}#=%=#Tunc
+Author{13}{Email}#=%=#tuncb@email.chop.edu
+Author{13}{Affiliation}#=%=#Children's Hospital of Philadelphia
+
+==========

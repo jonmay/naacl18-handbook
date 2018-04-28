@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#130
+FinalPaperTitle#=%=#An Approach to the CLPsych 2018 Shared Task Using Top-Down Text Representation and Simple Bottom-Up Model Selection
+ShortPaperTitle#=%=#An Approach Using Top-Down Text Representation and Simple Bottom-Up Model Selection
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kate Loveys
+JobTitle#==#CLPsych Organizer
+Organization#==#CLPsych
+Abstract#==#The Computational Linguistics and Clinical Psychology (CLPsych) 2018 Shared Task asked teams to predict cross-sectional indices of anxiety and distress, and longitudinal indices of psychological distress from a subsample of the National Child Development Study, started in the United Kingdom in 1958. Teams aimed to predict mental health outcomes from essays written by 11-year-olds about what they believed their lives would be like at age 25. In the hopes of producing results that could be easily disseminated and applied, we used largely theory-based dictionaries to process the texts, and a simple data-driven approach to model selection. This approach yielded only modest results in terms of out-of-sample accuracy, but most of the category-level findings are interpretable and consistent with existing literature on psychological distress, anxiety, and depression.
+Author{1}{Firstname}#=%=#Micah
+Author{1}{Lastname}#=%=#Iserman
+Author{1}{Email}#=%=#micah.iserman@ttu.edu
+Author{1}{Affiliation}#=%=#Texas Tech University
+Author{2}{Firstname}#=%=#Molly
+Author{2}{Lastname}#=%=#Ireland
+Author{2}{Email}#=%=#molly.ireland@gmail.com
+Author{2}{Affiliation}#=%=#Texas Tech University
+Author{3}{Firstname}#=%=#Andrew
+Author{3}{Lastname}#=%=#Littlefield
+Author{3}{Email}#=%=#andrew.littlefield@ttu.edu
+Author{3}{Affiliation}#=%=#Texas Tech University
+Author{4}{Firstname}#=%=#Tyler
+Author{4}{Lastname}#=%=#Davis
+Author{4}{Email}#=%=#tyler.h.davis@ttu.edu
+Author{4}{Affiliation}#=%=#Texas Tech University
+Author{5}{Firstname}#=%=#Sage
+Author{5}{Lastname}#=%=#Maliepaard
+Author{5}{Email}#=%=#sage.maliepaard@ttu.edu
+Author{5}{Affiliation}#=%=#Texas Tech University
+
+==========

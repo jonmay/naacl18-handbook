@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Points, Paths, and Playscapes: Large-scale Spatial Language Understanding Tasks Set in the Real World
+ShortPaperTitle#=%=#Large-scale Spatial Language Understanding Tasks Set in the Real World
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jason Baldridge
+JobTitle#==#
+Organization#==#Google Inc.
+1600 Amphitheatre Parkway
+Mountain View, CA 94043
+Abstract#==#Spatial language understanding is important for practical applications and as a building block for better abstract language understanding. Much progress has been made through work on understanding spatial relations and values in images and texts as well as on giving and following navigation instructions in restricted domains. We argue that the next big advances in spatial language understanding can be best supported by creating large-scale datasets that focus on points and paths based in the real world, and then extending these to create online, persistent playscapes that mix human and bot players,  where the bot players must learn, evolve, and survive according to their depth of understanding of scenes, navigation, and interactions.
+Author{1}{Firstname}#=%=#Jason
+Author{1}{Lastname}#=%=#Baldridge
+Author{1}{Email}#=%=#jridge@google.com
+Author{1}{Affiliation}#=%=#google.com
+Author{2}{Firstname}#=%=#Tania
+Author{2}{Lastname}#=%=#Bedrax-Weiss
+Author{2}{Email}#=%=#tbedrax@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Daphne
+Author{3}{Lastname}#=%=#Luong
+Author{3}{Email}#=%=#daphnel@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Srini
+Author{4}{Lastname}#=%=#Narayanan
+Author{4}{Email}#=%=#snarayan@icsi.berkeley.edu
+Author{4}{Affiliation}#=%=#ICSI and UC Berkeley
+Author{5}{Firstname}#=%=#Bo
+Author{5}{Lastname}#=%=#Pang
+Author{5}{Email}#=%=#bopang42@gmail.com
+Author{5}{Affiliation}#=%=#Google
+Author{6}{Firstname}#=%=#Fernando
+Author{6}{Lastname}#=%=#Pereira
+Author{6}{Email}#=%=#pereira@google.com
+Author{6}{Affiliation}#=%=#Google
+Author{7}{Firstname}#=%=#Radu
+Author{7}{Lastname}#=%=#Soricut
+Author{7}{Email}#=%=#radu.soricut@gmail.com
+Author{7}{Affiliation}#=%=#Google Inc
+Author{8}{Firstname}#=%=#Michael
+Author{8}{Lastname}#=%=#Tseng
+Author{8}{Email}#=%=#michaeltseng@google.com
+Author{8}{Affiliation}#=%=#Google
+Author{9}{Firstname}#=%=#Yuan
+Author{9}{Lastname}#=%=#Zhang
+Author{9}{Email}#=%=#zhangyua@google.com
+Author{9}{Affiliation}#=%=#Google
+
+==========

@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#124
+FinalPaperTitle#=%=#A Psychologically Informed Approach to CLPsych Shared Task 2018
+ShortPaperTitle#=%=#A Psychologically Informed Approach to CLPsych Shared Task 2018
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kate Loveys
+JobTitle#==#CLPsych Organizer
+Organization#==#CLPsych
+Abstract#==#This paper describes our approach to the CLPsych 2018 Shared Task, in which we attempted to predict cross-sectional psychological health at age 11 and future psychological distress based on childhood essays. We attempted several modeling approaches and observed best cross-validated prediction accuracy with relatively simple models based on psychological theory. The models provided reasonable predictions in most outcomes. Notably, our model was especially successful in predicting out-of-sample psychological distress (across people and across time) at age 50.
+Author{1}{Firstname}#=%=#Almog
+Author{1}{Lastname}#=%=#Simchon
+Author{1}{Email}#=%=#almog.si@gmail.com
+Author{1}{Affiliation}#=%=#Ben-Gurion University of the Negev
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Gilead
+Author{2}{Email}#=%=#mgilead@bgu.ac.il
+Author{2}{Affiliation}#=%=#Ben-Gurion University of the Negev
+
+==========

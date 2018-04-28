@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Anaphora Resolution for Improving Spatial Relation Extraction from Text
+ShortPaperTitle#=%=#Anaphora Resolution for Improving Spatial Relation Extraction from Text
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Umar Manzoor
+JobTitle#==#
+Organization#==#Tulane University
+Abstract#==#Spatial relation extraction from generic text is a challenging problem due to the ambiguity of the prepositions spatial meaning as well as the nesting structure of the spatial descriptions. In this work, we highlight the difficulties that the anaphora can make in the extraction of spatial relations. We use external multi-modal (here visual) resources to find the most probable candidates for resolving the anaphoras that refer to the landmarks of the spatial relations. We then use global inference to decide jointly on resolving the anaphora and extraction of the spatial relations. Our preliminary results show that resolving anaphora  improves the state-of-the-art results on spatial relation extraction.
+Author{1}{Firstname}#=%=#Umar
+Author{1}{Lastname}#=%=#Manzoor
+Author{1}{Email}#=%=#umarmanzoor@gmail.com
+Author{1}{Affiliation}#=%=#Tulane University
+Author{2}{Firstname}#=%=#Parisa
+Author{2}{Lastname}#=%=#Kordjamshidi
+Author{2}{Email}#=%=#pkordjam@tulane.edu
+Author{2}{Affiliation}#=%=#Tulane
+
+==========

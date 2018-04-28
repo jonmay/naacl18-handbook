@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#104
+FinalPaperTitle#=%=#Automatic Detection of Incoherent Speech for Diagnosing Schizophrenia
+ShortPaperTitle#=%=#Automatic Detection of Incoherent Speech for Diagnosing Schizophrenia
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Dan Iter
+JobTitle#==#
+Organization#==#Stanford University, 450 Serra Mall, Stanford, CA 94305
+Abstract#==#Schizophrenia is a mental disorder which afflicts an estimated 0.7\% of adults world wide. It affects many areas of mental function, often evident from incoherent speech. Diagnosing schizophrenia relies on subjective judgments resulting in disagreements even among trained clinicians. Recent studies have proposed the use of natural language processing for diagnosis by drawing on automatically-extracted linguistic features like discourse coherence and lexicon. Here, we present the first benchmark comparison of previously proposed coherence models for detecting symptoms of schizophrenia and evaluate their performance on a new dataset of recorded interviews between subjects and clinicians. We also present two alternative coherence metrics based on modern sentence embedding techniques that outperform the previous methods on our dataset. Lastly, we propose a novel computational model for reference incoherence based on ambiguous pronoun usage and show that it is a highly predictive feature on our data. While the number of subjects is limited in this pilot study, our results suggest new directions for diagnosing common symptoms of schizophrenia.
+Author{1}{Firstname}#=%=#Dan
+Author{1}{Lastname}#=%=#Iter
+Author{1}{Email}#=%=#daniter@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Jong
+Author{2}{Lastname}#=%=#Yoon
+Author{2}{Email}#=%=#jhyoon1@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Jurafsky
+Author{3}{Email}#=%=#jurafsky@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+
+==========

@@ -1,0 +1,119 @@
+SubmissionNumber#=%=#1792
+FinalPaperTitle#=%=#Construction of the Literature Graph in Semantic Scholar
+ShortPaperTitle#=%=#Construction of the Literature Graph in Semantic Scholar
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Waleed Ammar
+JobTitle#==#
+Organization#==#Allen Institute for Artificial Intelligence
+Seattle, WA
+Abstract#==#We describe a deployed scalable system
+for organizing published scientific literature
+into a heterogeneous graph to facilitate
+algorithmic manipulation and discovery.
+The resulting literature graph consists
+of more than 280M nodes, representing papers,
+authors, entities and various interactions
+between them (e.g., authorships, citations,
+entity mentions). We reduce literature
+graph construction into familiar NLP
+tasks (e.g., entity extraction and linking),
+point out research challenges due to differences
+from standard formulations of these
+tasks, and report empirical results for each
+task. The methods described in this paper
+are used to enable semantic features in
+www.semanticscholar.org.
+Author{1}{Firstname}#=%=#Waleed
+Author{1}{Lastname}#=%=#Ammar
+Author{1}{Email}#=%=#waleed.ammar@gmail.com
+Author{1}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{2}{Firstname}#=%=#Dirk
+Author{2}{Lastname}#=%=#Groeneveld
+Author{2}{Email}#=%=#dirkg@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{3}{Firstname}#=%=#Chandra
+Author{3}{Lastname}#=%=#Bhagavatula
+Author{3}{Email}#=%=#chandrab@allenai.org
+Author{3}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{4}{Firstname}#=%=#Iz
+Author{4}{Lastname}#=%=#Beltagy
+Author{4}{Email}#=%=#beltagy@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{5}{Firstname}#=%=#Miles
+Author{5}{Lastname}#=%=#Crawford
+Author{5}{Email}#=%=#milesc@allenai.org
+Author{5}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{6}{Firstname}#=%=#Doug
+Author{6}{Lastname}#=%=#Downey
+Author{6}{Email}#=%=#ddowney@eecs.northwestern.edu
+Author{6}{Affiliation}#=%=#Northwestern University
+Author{7}{Firstname}#=%=#Jason
+Author{7}{Lastname}#=%=#Dunkelberger
+Author{7}{Email}#=%=#jasond@allenai.org
+Author{7}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{8}{Firstname}#=%=#Ahmed
+Author{8}{Lastname}#=%=#Elgohary
+Author{8}{Email}#=%=#elgohary@cs.umd.edu
+Author{8}{Affiliation}#=%=#University of Maryland, College Park
+Author{9}{Firstname}#=%=#Sergey
+Author{9}{Lastname}#=%=#Feldman
+Author{9}{Email}#=%=#sergeyfeldman@gmail.com
+Author{9}{Affiliation}#=%=#Data Cowboys
+Author{10}{Firstname}#=%=#Vu
+Author{10}{Lastname}#=%=#Ha
+Author{10}{Email}#=%=#vuh@allenai.org
+Author{10}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{11}{Firstname}#=%=#Rodney
+Author{11}{Lastname}#=%=#Kinney
+Author{11}{Email}#=%=#rodneyk@allenai.org
+Author{11}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{12}{Firstname}#=%=#Sebastian
+Author{12}{Lastname}#=%=#Kohlmeier
+Author{12}{Email}#=%=#sebastiank@allenai.org
+Author{12}{Affiliation}#=%=#Allen Institute for Artificial Intelligence (AI2)
+Author{13}{Firstname}#=%=#Kyle
+Author{13}{Lastname}#=%=#Lo
+Author{13}{Email}#=%=#kylel@allenai.org
+Author{13}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{14}{Firstname}#=%=#Tyler
+Author{14}{Lastname}#=%=#Murray
+Author{14}{Email}#=%=#tylerm@allenai.org
+Author{14}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{15}{Firstname}#=%=#Hsu-Han
+Author{15}{Lastname}#=%=#Ooi
+Author{15}{Email}#=%=#hsuo@allenai.org
+Author{15}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{16}{Firstname}#=%=#Matthew
+Author{16}{Lastname}#=%=#Peters
+Author{16}{Email}#=%=#matthewp@allenai.org
+Author{16}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{17}{Firstname}#=%=#Joanna
+Author{17}{Lastname}#=%=#Power
+Author{17}{Email}#=%=#joannap@allenai.org
+Author{17}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{18}{Firstname}#=%=#Sam
+Author{18}{Lastname}#=%=#Skjonsberg
+Author{18}{Email}#=%=#sams@allenai.org
+Author{18}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{19}{Firstname}#=%=#Lucy
+Author{19}{Lastname}#=%=#Wang
+Author{19}{Email}#=%=#lucylw@uw.edu
+Author{19}{Affiliation}#=%=#University of Washington
+Author{20}{Firstname}#=%=#Chris
+Author{20}{Lastname}#=%=#Willhelm
+Author{20}{Email}#=%=#chrisw@allenai.org
+Author{20}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{21}{Firstname}#=%=#Zheng
+Author{21}{Lastname}#=%=#Yuan
+Author{21}{Email}#=%=#zys133@eecs.northwestern.edu
+Author{21}{Affiliation}#=%=#Northwestern University
+Author{22}{Firstname}#=%=#Madeleine
+Author{22}{Lastname}#=%=#van Zuylen
+Author{22}{Email}#=%=#madeleinev@allenai.org
+Author{22}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{23}{Firstname}#=%=#oren
+Author{23}{Lastname}#=%=#etzioni
+Author{23}{Email}#=%=#orene@allenai.org
+Author{23}{Affiliation}#=%=#AI2
+
+==========

@@ -1,21 +1,33 @@
-100   # Using contextual information for automatic triage of posts in a peer-support forum
-101   # Hierarchical neural model with attention mechanisms for the classification of social media text related to mental health
-102   # A Linguistically-Informed Fusion Approach for Multimodal Depression Detection
-104   # Automatic Detection of Incoherent Speech for Diagnosing Schizophrenia
-105   # Oral-Motor and Lexical Diversity During Naturalistic Conversations in Adults with Autism Spectrum Disorder
-110   # RSDD-Time: Temporal Annotation of Self-Reported Mental Health Diagnoses
+* Tuesday June 5, 2018
+= 09:00--9:15 Opening Remarks # %chair1 Philip Resnik, Rebecca Resnik, Kate Niederhoffer, Kate Loveys, Emily Prud'hommeaux
+= 9:15--10:35 Workshop Session I: Presentations with Discussant Commentary
 111   # What type of happiness are you looking for? - A closer look at detecting mental health from language
-113   # Cross-cultural differences in language markers of depression online
-114   # Dynamics of an idiostyle of a Russian suicidal blogger
-115   # Helping or Hurting? Predicting Changes in Users' Risk of Self-Harm Through Online Community Interactions
-117   # Predicting Human Trustfulness from Facebook Language
-118   # Deep Learning for Depression Detection of Twitter Users
+102   # A Linguistically-Informed Fusion Approach for Multimodal Depression Detection
 119   # Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings
-121   # Within and Between-Person Differences in Language Used Across Anxiety Support and Neutral Reddit Communities
-123   # Predicting Psychological Health from Childhood Essays with Convolutional Neural Networks for the CLPsych 2018 Shared Task (Team UKNLP)
-124   # A Psychologically Informed Approach to CLPsych Shared Task 2018
-125   # Current and Future Psychological Health Prediction using Language and Socio-Demographics of Children for the CLPysch 2018 Shared Task
-126   # Predicting Psychological Health from Childhood Essays. The UGent-IDLab CLPsych 2018 Shared Task System.
-127   # Can adult mental health be predicted by childhood future-self narratives? Insights from the CLPsych 2018 Shared Task
+= 10:35--10:55 Break
+= 10:55--11:40 Plenary Session
+= 11:40--12:40 Workshop Session II: Shared Task Presentations with Discussant Commentary
 129   # CLPsych 2018 Shared Task: Predicting Current and Future Psychological Health from Childhood Essays
 130   # An Approach to the CLPsych 2018 Shared Task Using Top-Down Text Representation and Simple Bottom-Up Model Selection
+= 12:40--2:00 Lunch and Poster Session
+100   # Using contextual information for automatic triage of posts in a peer-support forum
+101   # Hierarchical neural model with attention mechanisms for the classification of social media text related to mental health
+113   # Cross-cultural differences in language markers of depression online
+118   # Deep Learning for Depression Detection of Twitter Users
+125   # Current and Future Psychological Health Prediction using Language and Socio-Demographics of Children for the CLPysch 2018 Shared Task
+123   # Predicting Psychological Health from Childhood Essays with Convolutional Neural Networks for the CLPsych 2018 Shared Task (Team UKNLP)
+124   # A Psychologically Informed Approach to CLPsych Shared Task 2018
+126   # Predicting Psychological Health from Childhood Essays. The UGent-IDLab CLPsych 2018 Shared Task System.
+127   # Can adult mental health be predicted by childhood future-self narratives? Insights from the CLPsych 2018 Shared Task
+= 2:00--3:00 Workshop Session III: Presentations with Discussant Commentary
+104   # Automatic Detection of Incoherent Speech for Diagnosing Schizophrenia
+105   # Oral-Motor and Lexical Diversity During Naturalistic Conversations in Adults with Autism Spectrum Disorder
+= 3:00--3:30 Workshop Session IV: Short Presentations
+114   # Dynamics of an idiostyle of a Russian suicidal blogger
+110   # RSDD-Time: Temporal Annotation of Self-Reported Mental Health Diagnoses
+= 3:30--4:00 Break
+= 4:00--4:45 Workshop Session V: Short Presentations
+117   # Predicting Human Trustfulness from Facebook Language
+121   # Within and Between-Person Differences in Language Used Across Anxiety Support and Neutral Reddit Communities
+115   # Helping or Hurting? Predicting Changes in Users' Risk of Self-Harm Through Online Community Interactions
+= 4:45--5:30 Workshop General Discussion and Closing Remarks # %chair1 Philip Resnik, Rebecca Resnik, Kate Niederhoffer, Kate Loveys, Emily Prud'hommeaux

@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#The Case for Systematically Derived Spatial Language Usage
+ShortPaperTitle#=%=#The Case for Systematically Derived Spatial Language Usage
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Bonnie J. Dorr
+JobTitle#==#
+Organization#==#Institute for Human and Machine Cognition, 15 SE Osceola Ave, Ocala, FL 34471
+Abstract#==#This position paper argues that, while prior work in spatial language understanding for tasks such as robot navigation focuses on mapping natural language into deep conceptual or non-linguistic representations, it is possible to systematically derive regular patterns of spatial language usage from existing lexical-semantic resources. Furthermore, even with access to such resources, effective solutions to many application areas such as robot navigation and narrative generation also require additional knowledge at the syntax-semantics interface to cover the wide range of spatial expressions observed and available to natural language speakers. We ground our insights in, and present our extensions to, an existing lexico-semantic resource, covering 500 semantic classes of verbs, of which 219 fall within a spatial subset. We demonstrate that these extensions enable systematic derivation of regular patterns of spatial language without requiring manual annotation.
+Author{1}{Firstname}#=%=#Bonnie
+Author{1}{Lastname}#=%=#Dorr
+Author{1}{Email}#=%=#bdorr@ihmc.us
+Author{1}{Affiliation}#=%=#Florida Institute for Human-Machine Cognition
+Author{2}{Firstname}#=%=#Clare
+Author{2}{Lastname}#=%=#Voss
+Author{2}{Email}#=%=#crvoss@acm.org
+Author{2}{Affiliation}#=%=#ARL
+
+==========
