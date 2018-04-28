@@ -2,7 +2,7 @@
 + 09:00--09:15 Welcome / Opening Remarks
 ! 09:15--10:30 Invited Talk: Why should we care about linguistics? %by Ellie Pavlick
 + 10:30--11:00 Coffee
-= 11:00--12:30 Tasks 1, 2 and 3 # %room TBD
+= 11:00--12:30 Tasks 1, 2 and 3  %room TBD
 206 11:00--11:15  # SemEval-2018 Task 1: Affect in Tweets
 198 11:15--11:30  # SeerNet at SemEval-2018 Task 1: Domain Adaptation for Affect in Tweets
 209 11:30--11:45  # SemEval 2018 Task 2: Multilingual Emoji Prediction
@@ -10,7 +10,7 @@
 205 12:00--12:15  # SemEval-2018 Task 3: Irony Detection in English Tweets
 74 12:15--12:30  # THU_NGN at SemEval-2018 Task 3: Tweet Irony Detection with Densely connected LSTM and Multi-task Learning
 + 12:30--14:00 Lunch
-= 14:00--15:30 Tasks 4, 5 and 6 # %room TBD
+= 14:00--15:30 Tasks 4, 5 and 6  %room TBD
 1 14:00--14:15  # SemEval 2018 Task 4: Character Identification on Multiparty Dialogues
 84 14:15--14:30  # AMORE-UPF at SemEval-2018 Task 4: BiLSTM with Entity Library
 9 14:30--14:45  # SemEval-2018 Task 5: Counting Events and Participants in the Long Tail
@@ -19,7 +19,7 @@
 40 15:15--15:30  # Chrono at SemEval-2018 Task 6: A System for Normalizing Temporal Expressions
 + 15:30--16:00 Coffee
 + 16:00--16:30 Discussion
-= 16:30--17:30 Poster Session # %room TBD
+= 16:30--17:30 Poster Session  %room TBD
 14 16:30--17:30  # NEUROSENT-PDI at SemEval-2018 Task 1: Leveraging a Multi-Domain Sentiment Model for Inferring Polarity in Micro-blog Text
 15 16:30--17:30  # FOI DSS at SemEval-2018 Task 1: Combining LSTM States, Embeddings, and Lexical Features for Affect Analysis
 21 16:30--17:30  # NLPZZX at SemEval-2018 Task 1: Using Ensemble Method for Emotion and Sentiment Intensity Determination
@@ -122,7 +122,7 @@
 + 09:00--09:30 SemEval 2019 Tasks
 + 09:30--10:30 State of SemEval Discussion
 + 10:30--11:00 Coffee
-= 11:00--12:30 Tasks 7, 8 and 9 # %room TBD
+= 11:00--12:30 Tasks 7, 8 and 9 %room TBD
 204 11:00--11:15  # SemEval-2018 Task 7: Semantic Relation Extraction and Classification in Scientific Papers
 60 11:15--11:30  # ETH-DS3Lab at SemEval-2018 Task 7: Effectively Combining Recurrent and Convolutional Neural Networks for Relation Classification and Extraction
 210 11:30--11:45  # SemEval-2018 Task 8: Semantic Extraction from CybersecUrity REports using Natural Language Processing (SecureNLP)
@@ -130,7 +130,7 @@
 208 12:00--12:15  # SemEval-2018 Task 9: Hypernym Discovery
 80 12:15--12:30  # CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery
 + 12:30--14:00 Lunch
-= 14:00--15:30 Tasks 10, 11 and 12 # %room TBD
+= 14:00--15:30 Tasks 10, 11 and 12 %room TBD
 211 14:00--14:15  # SemEval-2018 Task 10: Capturing Discriminative Attributes
 37 14:15--14:30  # SUNNYNLP at SemEval-2018 Task 10: A Support-Vector-Machine-Based Method for Detecting Semantic Difference using Taxonomy and Word Embedding Features
 202 14:30--14:45  # SemEval-2018 Task 11: Machine Comprehension Using Commonsense Knowledge
@@ -139,7 +139,7 @@
 139 15:15--15:30  # GIST at SemEval-2018 Task 12: A network transferring inference knowledge to Argument Reasoning Comprehension task
 + 15:30--16:00 Coffee
 + 16:00--16:30 Discussion
-= 16:30--17:30 Poster Session # %room TBD
+= 16:30--17:30 Poster Session %room TBD
 24 16:30--17:30  # LightRel at SemEval-2018 Task 7: Lightweight and Fast Relation Classification
 38 16:30--17:30  # OhioState at SemEval-2018 Task 7: Exploiting Data Augmentation for Relation Classification in Scientific Papers Using Piecewise Convolutional Neural Networks
 51 16:30--17:30  # The UWNLP system at SemEval-2018 Task 7: Neural Relation Extraction Model with Selectively Incorporated Concept Embeddings

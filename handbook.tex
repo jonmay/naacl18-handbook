@@ -2,12 +2,16 @@
 
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+\usepackage[greek,english,american]{babel} % jonmay for greek unicode characters in titles
+
 \usepackage{xspace}
 
 \usepackage{combelow}
 \usepackage{newunicodechar}
 \newunicodechar{ș}{\cb{s}}
 \newunicodechar{ț}{\cb{t}}
+
 
 %% \usepackage{fontspec,xunicode,xltxtra}
 %% \setromanfont[Mapping=tex-text]{Times}
@@ -68,36 +72,36 @@
 % meta2bibtex.py here:
 
 % TACL bibliography
-\bibliography{auto/tacl/papers.bib}            % TACL
+%\bibliography{auto/tacl/papers.bib}            % TACL
 
 % Workshops bibliographies
-\bibliography{auto/CoNLL/papers.bib}           % W1
-\bibliography{auto/starSEM/papers.bib}         % W2
-\bibliography{auto/SemEval/papers.bib}         % W3
-\bibliography{manual/WiNLP/papers.bib}         % W4
-\bibliography{auto/BUCC/papers.bib}            % W5
-\bibliography{auto/CLPsych/papers.bib}         % W6
-\bibliography{auto/NLPandCSS/papers.bib}       % W7
-\bibliography{auto/Repl4NLP/papers.bib}        % W8
-\bibliography{auto/RoboNLP/papers.bib}         % W9
-\bibliography{auto/TextGraphs-11/papers.bib}   % W10
-\bibliography{auto/ALW1/papers.bib}            % W11
-\bibliography{auto/BioNLP/papers.bib}          % W12
-\bibliography{auto/EventStory/papers.bib}      % W13
-\bibliography{auto/LaTeCH-CLfL/papers.bib}     % W14
-\bibliography{auto/NMT/papers.bib}             % W15
+% \bibliography{auto/CoNLL/papers.bib}           % W1
+% \bibliography{auto/starSEM/papers.bib}         % W2
+\bibliography{auto/SemEval-2018/papers.bib}         % W3
+% \bibliography{manual/WiNLP/papers.bib}         % W4
+% \bibliography{auto/BUCC/papers.bib}            % W5
+% \bibliography{auto/CLPsych/papers.bib}         % W6
+% \bibliography{auto/NLPandCSS/papers.bib}       % W7
+% \bibliography{auto/Repl4NLP/papers.bib}        % W8
+% \bibliography{auto/RoboNLP/papers.bib}         % W9
+% \bibliography{auto/TextGraphs-11/papers.bib}   % W10
+% \bibliography{auto/ALW1/papers.bib}            % W11
+% \bibliography{auto/BioNLP/papers.bib}          % W12
+% \bibliography{auto/EventStory/papers.bib}      % W13
+% \bibliography{auto/LaTeCH-CLfL/papers.bib}     % W14
+% \bibliography{auto/NMT/papers.bib}             % W15
 
 % Special bibliography for the workshops themselves
 \bibliography{content/workshops/papers.bib}
 
 % Main conference bibliographies
-\bibliography{auto/papers/papers.bib}
-\bibliography{auto/shortpapers/papers.bib}
-\bibliography{auto/demos/papers.bib}
-\bibliography{auto/SRW/papers.bib}
+% \bibliography{auto/papers/papers.bib}
+% \bibliography{auto/shortpapers/papers.bib}
+% \bibliography{auto/demos/papers.bib}
+% \bibliography{auto/SRW/papers.bib}
 
 % Tutorials bibliography
-\bibliography{manual/tutorials/papers.bib}
+% \bibliography{manual/tutorials/papers.bib}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -160,10 +164,10 @@
 
 %% MAIN CONFERENCE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setdaydateyear{Monday}{July 31}{2017}
-\input{content/day1/day1}
+%\input{content/day1/day1}
 
 \setdaydateyear{Tuesday}{August 1}{2017}
-\input{content/day2/day2}
+%\input{content/day2/day2}
 
 %% SOCIAL EVENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
@@ -172,7 +176,7 @@
 \input{content/social-event}
 
 \setdaydateyear{Wednesday}{August 2}{2017}
-\input{content/day3/day3}
+%\input{content/day3/day3}
 
 %% WORKSHOPS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setdaydateyear{Sunday,Thursday--Friday}{July 30,August 3--4}{2017}
