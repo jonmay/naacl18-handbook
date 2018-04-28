@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#341
+FinalPaperTitle#=%=#Unsupervised Learning of Sentence Embeddings Using Compositional n-Gram Features
+ShortPaperTitle#=%=#Unsupervised Learning of Sentence Embeddings Using Compositional n-Gram Features
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Prakhar Gupta
+JobTitle#==#
+Organization#==#École polytechnique fédérale de Lausanne
+Route Cantonale, 1015 Lausanne
+Switzerland
+Abstract#==#The recent tremendous success of unsupervised word embeddings in a multitude of applications raises the obvious question if similar methods could be derived to improve embeddings (i.e. semantic representations) of word sequences as well. We present a simple but efficient unsupervised objective to train distributed representations of sentences. Our method outperforms the state-of-the-art unsupervised models on most benchmark tasks, highlighting the robustness of the produced general-purpose sentence embeddings.
+Author{1}{Firstname}#=%=#Matteo
+Author{1}{Lastname}#=%=#Pagliardini
+Author{1}{Email}#=%=#mpagliardini@iprova.com
+Author{1}{Affiliation}#=%=#Iprova SARL
+Author{2}{Firstname}#=%=#Prakhar
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Email}#=%=#prakhar.gupta@epfl.ch
+Author{2}{Affiliation}#=%=#École polytechnique fédérale de Lausanne
+Author{3}{Firstname}#=%=#Martin
+Author{3}{Lastname}#=%=#Jaggi
+Author{3}{Email}#=%=#martin.jaggi@epfl.ch
+Author{3}{Affiliation}#=%=#EPFL
+
+==========

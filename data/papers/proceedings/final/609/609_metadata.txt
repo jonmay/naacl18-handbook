@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#609
+FinalPaperTitle#=%=#Noising and Denoising Natural Language: Diverse Backtranslation for Grammar Correction
+ShortPaperTitle#=%=#Noising and Denoising Natural Language: Diverse Backtranslation for Grammar Correction
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ziang Xie
+JobTitle#==#
+Organization#==#Computer Science Department, Stanford University
+353 Serra Mall, Stanford, CA 94305
+Abstract#==#Translation-based methods for grammar correction that directly map noisy, ungrammatical text to their clean counterparts are able to correct a broad range of errors; however, such techniques are bottlenecked by the need for a large parallel corpus of noisy and clean sentence pairs. In this paper, we consider synthesizing parallel data by noising a clean monolingual corpus. While most previous approaches introduce perturbations using features computed from local context windows, we instead develop error generation processes using a neural sequence transduction model trained to translate clean examples to their noisy counterparts. Given a corpus of clean examples, we propose beam search noising procedures to synthesize additional noisy examples that human evaluators were nearly unable to discriminate from nonsynthesized examples. Surprisingly, when trained on additional data synthesized using our best-performing noising scheme, our model approaches the same performance as when trained on additional nonsynthesized data.
+Author{1}{Firstname}#=%=#Ziang
+Author{1}{Lastname}#=%=#Xie
+Author{1}{Email}#=%=#zxie@cs.stanford.edu
+Author{1}{Affiliation}#=%=#Stanford
+Author{2}{Firstname}#=%=#Guillaume
+Author{2}{Lastname}#=%=#Genthial
+Author{2}{Email}#=%=#genthial@cs.stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Stanley
+Author{3}{Lastname}#=%=#Xie
+Author{3}{Email}#=%=#stanxie@cs.stanford.edu
+Author{3}{Affiliation}#=%=#Stanford
+Author{4}{Firstname}#=%=#Andrew
+Author{4}{Lastname}#=%=#Ng
+Author{4}{Email}#=%=#ang@cs.stanford.edu
+Author{4}{Affiliation}#=%=#Stanford
+Author{5}{Firstname}#=%=#Dan
+Author{5}{Lastname}#=%=#Jurafsky
+Author{5}{Email}#=%=#jurafsky@stanford.edu
+Author{5}{Affiliation}#=%=#Stanford University
+
+==========

@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#485
+FinalPaperTitle#=%=#KBGAN: Adversarial Learning for Knowledge Graph Embeddings
+ShortPaperTitle#=%=#KBGAN: Adversarial Learning for Knowledge Graph Embeddings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Liwei Cai
+JobTitle#==#
+Organization#==#Tsinghua University
+Haidian District, Beijing, China. 100084
+Abstract#==#We introduce KBGAN, an adversarial learning framework to improve the
+performances of a wide range of existing knowledge graph embedding models.
+Because knowledge graphs typically only contain positive facts, sampling useful
+negative training examples is a nontrivial task. Replacing the head or tail
+entity of a fact with a uniformly randomly selected entity is a conventional
+method for generating negative facts, but the majority of the generated
+negative facts can be easily discriminated from positive facts, and will
+contribute little towards the training. Inspired by generative adversarial
+networks (GANs), we use one knowledge graph embedding model as a negative
+sample generator to assist the training of our desired model, which acts as the
+discriminator in GANs. This framework is independent of the concrete form of
+generator and discriminator, and therefore can utilize a wide variety of
+knowledge graph embedding models as its building blocks. In experiments, we
+adversarially train two translation-based models, TRANSE and TRANSD, each with
+assistance from one of the two probability-based models, DISTMULT and COMPLEX.
+We evaluate the performances of KBGAN on the link prediction task, using three
+knowledge base completion datasets: FB15k-237, WN18 and WN18RR. Experimental
+results show that adversarial training substantially improves the performances
+of target embedding models under various settings.
+Author{1}{Firstname}#=%=#Liwei
+Author{1}{Lastname}#=%=#Cai
+Author{1}{Email}#=%=#cai.lw123@gmail.com
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#William Yang
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#william@cs.ucsb.edu
+Author{2}{Affiliation}#=%=#Unversity of California, Santa Barbara
+
+==========

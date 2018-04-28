@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#980
+FinalPaperTitle#=%=#Near Human-Level Performance in Grammatical Error Correction with Hybrid Machine Translation
+ShortPaperTitle#=%=#Grammatical Error Correction with Hybrid MT
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Roman Grundkiewicz
+JobTitle#==#Research Associate
+Organization#==#School of Informatics, University of Edinburgh, Scotland.
+Abstract#==#We combine two of the most popular approaches to automated Grammatical Error Correction (GEC): GEC based on Statistical Machine Translation (SMT) and GEC based on Neural Machine Translation (NMT). The hybrid system achieves new state-of-the-art results on the CoNLL-2014 and JFLEG benchmarks. This GEC system preserves the accuracy of SMT output and, at the same time, generates more fluent sentences as it typical for NMT.
+Our analysis shows that the created systems are closer to reaching human-level performance than any other GEC system reported so far.
+Author{1}{Firstname}#=%=#Roman
+Author{1}{Lastname}#=%=#Grundkiewicz
+Author{1}{Email}#=%=#rgrundki@inf.ed.ac.uk
+Author{1}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{2}{Firstname}#=%=#Marcin
+Author{2}{Lastname}#=%=#Junczys-Dowmunt
+Author{2}{Email}#=%=#marcinjd@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+
+==========

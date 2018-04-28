@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#826
+FinalPaperTitle#=%=#Cross-lingual Learning-to-Rank with Shared Representations
+ShortPaperTitle#=%=#Cross-lingual Learning-to-Rank with Shared Representations
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Shota Sasaki
+JobTitle#==#
+Organization#==#Tohoku University, 6-6-05 Aramaki Aza Aoba, Aobaku, Sendai, Miyagi, Japan
+Abstract#==#Cross-lingual information retrieval (CLIR) is a document retrieval task where
+the documents are written in a language different from that of the user's
+query. This is a challenging problem for data-driven approaches due to the
+general lack of labeled training data. We introduce a large-scale dataset
+derived from Wikipedia to support CLIR research in 25 languages.  Further, we
+present a simple yet effective neural learning-to-rank model that shares
+representations across languages and reduces the data requirement. This model
+can exploit training data in, for example, Japanese-English CLIR to improve the
+results of Swahili-English CLIR.
+Author{1}{Firstname}#=%=#Shota
+Author{1}{Lastname}#=%=#Sasaki
+Author{1}{Email}#=%=#sasaki.shota@ecei.tohoku.ac.jp
+Author{1}{Affiliation}#=%=#Tohoku University
+Author{2}{Firstname}#=%=#Shuo
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Email}#=%=#ssun32@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Shigehiko
+Author{3}{Lastname}#=%=#Schamoni
+Author{3}{Email}#=%=#schamoni@cl.uni-heidelberg.de
+Author{3}{Affiliation}#=%=#Heidelberg University
+Author{4}{Firstname}#=%=#Kevin
+Author{4}{Lastname}#=%=#Duh
+Author{4}{Email}#=%=#kevinduh@cs.jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+Author{5}{Firstname}#=%=#Kentaro
+Author{5}{Lastname}#=%=#Inui
+Author{5}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{5}{Affiliation}#=%=#Tohoku University / RIKEN AIP
+
+==========

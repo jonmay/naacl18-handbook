@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#540
+FinalPaperTitle#=%=#Speaker Naming in Movies
+ShortPaperTitle#=%=#Speaker Naming in Movies
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Rada Mihalcea
+JobTitle#==#
+Organization#==#University of Michigan
+2106 Hayward St., Ann Arbor, MI, 48109
+Abstract#==#We propose a new model for speaker naming in movies that leverages visual,
+textual, and acoustic modalities in an unified optimization framework. To
+evaluate the performance of our model, we introduce a new dataset  consisting
+of six episodes of the Big Bang Theory TV show and eighteen full movies
+covering different genres. Our experiments show that our multimodal model
+significantly outperforms several competitive baselines on the average weighted
+F-score metric. To demonstrate the effectiveness of our framework, we design an
+end-to-end memory network model that leverages our speaker naming model and
+achieves state-of-the-art results on the subtitles task of the MovieQA 2017
+Challenge.
+Author{1}{Firstname}#=%=#Mahmoud
+Author{1}{Lastname}#=%=#Azab
+Author{1}{Email}#=%=#mazab@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan - Ann Arbor
+Author{2}{Firstname}#=%=#Mingzhe
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#mzwang@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Max
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#mxsmith@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+Author{4}{Firstname}#=%=#Noriyuki
+Author{4}{Lastname}#=%=#Kojima
+Author{4}{Email}#=%=#kojimano@umich.edu
+Author{4}{Affiliation}#=%=#University of Michigan
+Author{5}{Firstname}#=%=#Jia
+Author{5}{Lastname}#=%=#Deng
+Author{5}{Email}#=%=#jiadeng@umich.edu
+Author{5}{Affiliation}#=%=#University of Michigan
+Author{6}{Firstname}#=%=#Rada
+Author{6}{Lastname}#=%=#Mihalcea
+Author{6}{Email}#=%=#mihalcea@umich.edu
+Author{6}{Affiliation}#=%=#University of Michigan
+
+==========

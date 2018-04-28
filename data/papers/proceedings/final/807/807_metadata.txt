@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#807
+FinalPaperTitle#=%=#Improve Neural Entity Recognition via Multi-Task Data Selection and Constrained Decoding
+ShortPaperTitle#=%=#Improve Neural Entity Recognition via Multi-Task Data Selection and Constrained Decoding
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Huasha Zhao
+JobTitle#==#
+Organization#==#Alibaba Group, 400 S El Camino Real, San Mateo CA 94402
+Abstract#==#Entity recognition is a widely benchmarked task in natural language processing
+due to its massive applications. The state-of-the-art solution applies a neural
+architecture named BiLSTM-CRF to model the language sequences. In this paper,
+we propose an entity recognition system that improves this neural architecture
+with two novel techniques. The first technique is Multi-Task Data Selection,
+which ensures the consistency of data distribution and labeling guidelines
+between source and target datasets. The other one is constrained decoding using
+knowledge base. The decoder of the model operates at the document level, and
+leverages global and external information sources to further improve
+performance. Extensive experiments have been conducted to show the advantages
+of each technique. Our system achieves state-of-the-art results on the English
+entity recognition task in KBP 2017 official evaluation, and it also yields
+very strong results in other languages.
+Author{1}{Firstname}#=%=#Huasha
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Email}#=%=#huasha.zhao@alibaba-inc.com
+Author{1}{Affiliation}#=%=#Alibaba Group
+Author{2}{Firstname}#=%=#Yi
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#zongchen.yy@alibaba-inc.com
+Author{2}{Affiliation}#=%=#Alibaba Group
+Author{3}{Firstname}#=%=#Qiong
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#qz.zhang@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Luo
+Author{4}{Lastname}#=%=#Si
+Author{4}{Email}#=%=#luo.si@alibaba-inc.com
+Author{4}{Affiliation}#=%=#Alibaba Group
+
+==========

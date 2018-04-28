@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#783
+FinalPaperTitle#=%=#When and Why Are Pre-trained Word Embeddings Useful for Neural Machine Translation?
+ShortPaperTitle#=%=#When and Why Are Pre-trained Word Embeddings Useful for Neural Machine Translation?
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Ye Qi
+JobTitle#==#
+Organization#==#Name:
+Language Technologies Institute,
+School of Computer Science,
+Carnegie Mellon University
+
+Address:
+Language Technologies Institute
+5000 Forbes Avenue
+Pittsburgh, PA
+15213-3891
+Abstract#==#The performance of Neural Machine Translation (NMT) systems often suffers in
+low-resource scenarios where sufficiently large-scale parallel corpora cannot
+be obtained. Pre-trained word embeddings have proven to be invaluable for
+improving performance in natural language analysis tasks, which often suffer
+from paucity of data. However, their utility for NMT has not been extensively
+explored. In this work, we perform five sets of experiments that analyze when
+we can expect pre-trained word embeddings to help in NMT tasks. We show that
+such embeddings can be surprisingly effective in some cases -- providing gains
+of up to 20 BLEU points in the most favorable setting.
+Author{1}{Firstname}#=%=#Ye
+Author{1}{Lastname}#=%=#Qi
+Author{1}{Email}#=%=#yeq@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Devendra
+Author{2}{Lastname}#=%=#Sachan
+Author{2}{Email}#=%=#dsachan@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Matthieu
+Author{3}{Lastname}#=%=#Felix
+Author{3}{Email}#=%=#matthief@andrew.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Sarguna
+Author{4}{Lastname}#=%=#Padmanabhan
+Author{4}{Email}#=%=#sjpadman@andrew.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Graham
+Author{5}{Lastname}#=%=#Neubig
+Author{5}{Email}#=%=#gneubig@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

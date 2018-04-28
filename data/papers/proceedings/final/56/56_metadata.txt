@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#56
+FinalPaperTitle#=%=#Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource
+ShortPaperTitle#=%=#Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Qiang Ning
+JobTitle#==#
+Organization#==#University of Illinois at Urbana-Champaign
+Abstract#==#Extracting temporal relations (before, after, overlapping, etc.) is a key aspect of understanding events described in natural language. We argue that this task would gain from the availability of a resource that provides prior knowledge in the form of the temporal order that events usually follow. This paper develops such a resource -- a probabilistic knowledge base acquired in the news domain -- by extracting temporal relations between events from the New York Times (NYT) articles over a 20-year span (1987--2007). We show that existing temporal extraction systems can be improved via this resource. As a byproduct, we also show that interesting statistics can be retrieved from this resource, which can potentially benefit other time-aware tasks. The proposed system and resource are both publicly available.
+Author{1}{Firstname}#=%=#Qiang
+Author{1}{Lastname}#=%=#Ning
+Author{1}{Email}#=%=#qning2@illinois.edu
+Author{1}{Affiliation}#=%=#Univ. of Illinois, Urbana-Champaign
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#haowu4@seas.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Haoruo
+Author{3}{Lastname}#=%=#Peng
+Author{3}{Email}#=%=#hpeng7@illinois.edu
+Author{3}{Affiliation}#=%=#UIUC
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Roth
+Author{4}{Email}#=%=#danr@illinois.edu
+Author{4}{Affiliation}#=%=#University of Illinois
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#905
+FinalPaperTitle#=%=#Smaller Text Classifiers with Discriminative Cluster Embeddings
+ShortPaperTitle#=%=#Smaller Text Classifiers with Discriminative Cluster Embeddings
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Mingda Chen
+JobTitle#==#
+Organization#==#Mingda Chen
+Toyota Technological Institute at Chicago
+6045 South Kenwood Ave
+Chicago, IL 60637
+Abstract#==#Word embedding parameters often dominate overall model sizes in neural methods
+for natural language processing. We reduce deployed model sizes of text
+classifiers by learning a hard word clustering in an end-to-end manner. We use
+the Gumbel-Softmax distribution to maximize over the latent clustering while
+minimizing the task loss. We propose variations that selectively assign
+additional parameters to words, which further improves accuracy while still
+remaining parameter-efficient.
+Author{1}{Firstname}#=%=#Mingda
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#mchen@ttic.edu
+Author{1}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Gimpel
+Author{2}{Email}#=%=#kgimpel@ttic.edu
+Author{2}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+
+==========

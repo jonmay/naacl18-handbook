@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#248
+FinalPaperTitle#=%=#Abstract Meaning Representation for Paraphrase Detection
+ShortPaperTitle#=%=#Abstract Meaning Representation for Paraphrase Detection
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shay Cohen
+JobTitle#==#
+Organization#==#University of Edinburgh
+10 Crichton St.
+Edinburgh EH8 9AB
+United Kingdom
+Abstract#==#Abstract Meaning Representation (AMR) parsing aims at abstracting away from the
+syntactic realization of a sentence, and denote only its meaning in a canonical
+form. As such, it is ideal for paraphrase detection, a problem in which one is
+required to specify whether two sentences have the same meaning. We show that
+na\"{i}ve use of AMR in paraphrase detection
+is not necessarily useful, and turn to describe a technique based on latent
+semantic analysis in combination with AMR parsing that significantly advances
+state-of-the-art results in paraphrase detection for the Microsoft Research
+Paraphrase Corpus. Our best results in the transductive setting are 86.6\% for
+accuracy and 90.0\% for F$_1$ measure.
+Author{1}{Firstname}#=%=#Fuad
+Author{1}{Lastname}#=%=#Issa
+Author{1}{Email}#=%=#issa.fuad@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Marco
+Author{2}{Lastname}#=%=#Damonte
+Author{2}{Email}#=%=#s1333293@sms.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Shay B.
+Author{3}{Lastname}#=%=#Cohen
+Author{3}{Email}#=%=#scohen@inf.ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+Author{4}{Firstname}#=%=#Xiaohui
+Author{4}{Lastname}#=%=#Yan
+Author{4}{Email}#=%=#yanxiaohui2@huawei.com
+Author{4}{Affiliation}#=%=#Huawei
+Author{5}{Firstname}#=%=#Yi
+Author{5}{Lastname}#=%=#Chang
+Author{5}{Email}#=%=#yi.chang@huawei.com
+Author{5}{Affiliation}#=%=#Huawei
+
+==========

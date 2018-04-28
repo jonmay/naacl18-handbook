@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#647
+FinalPaperTitle#=%=#Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies
+ShortPaperTitle#=%=#Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Max Grusky
+JobTitle#==#
+Organization#==#Cornell University
+2 W Loop Rd
+New York, NY 10044
+Abstract#==#We present NEWSROOM, a summarization dataset of 1.3 million articles and summaries written by authors and editors in newsrooms of 38 major news publications. Extracted from search and social media metadata between 1998 and 2017, these high-quality summaries demonstrate high diversity of summarization styles. In particular, the summaries combine abstractive and extractive strategies, borrowing words and phrases from articles at varying rates. We analyze the extraction strategies used in NEWSROOM summaries against other datasets to quantify the diversity and difficulty of our new data, and train existing methods on the data to evaluate its utility and challenges. The dataset is available online at summari.es.
+Author{1}{Firstname}#=%=#Max
+Author{1}{Lastname}#=%=#Grusky
+Author{1}{Email}#=%=#grusky@cs.cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Mor
+Author{2}{Lastname}#=%=#Naaman
+Author{2}{Email}#=%=#mor.naaman@cornell.edu
+Author{2}{Affiliation}#=%=#Cornell Tech
+Author{3}{Firstname}#=%=#Yoav
+Author{3}{Lastname}#=%=#Artzi
+Author{3}{Email}#=%=#yoav@cs.cornell.edu
+Author{3}{Affiliation}#=%=#Cornell University
+
+==========

@@ -1,0 +1,57 @@
+SubmissionNumber#=%=#191
+FinalPaperTitle#=%=#Learning to Collaborate for Question Answering and Asking
+ShortPaperTitle#=%=#Learning to Collaborate for Question Answering and Asking
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Duyu Tang
+JobTitle#==#Researcher
+Organization#==#Microsoft Research Asia
+Abstract#==#Question answering (QA) and question generation (QG) are closely related tasks
+that could improve each other; however, the connection of these two tasks is
+not well explored in literature. In this paper, we give a systematic study that
+seeks to leverage the connection to improve both QA and QG. We present a
+training algorithm that generalizes both Generative Adversarial Network (GAN)
+and Generative Domain-Adaptive Nets (GDAN) under the question answering
+scenario. The two key ideas are improving the QG model with QA through
+incorporating additional QA-specific signal as the loss function, and improving
+the QA model with QG through adding artificially generated training instances.
+We conduct experiments on both document based and knowledge based question
+answering tasks. We have two main findings. Firstly, the performance of a QG
+model (e.g in terms of BLEU score) could be easily improved by a QA model via
+policy gradient. Secondly, directly applying GAN that regards all the generated
+questions as negative instances could not improve the accuracy of the QA model.
+Learning when to regard generated questions as positive instances could bring
+performance boost.
+Author{1}{Firstname}#=%=#Duyu
+Author{1}{Lastname}#=%=#Tang
+Author{1}{Email}#=%=#dytang.hit@hotmail.com
+Author{1}{Affiliation}#=%=#Microsoft Research Asia
+Author{2}{Firstname}#=%=#Nan
+Author{2}{Lastname}#=%=#Duan
+Author{2}{Email}#=%=#nanduan@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Zhao
+Author{3}{Lastname}#=%=#Yan
+Author{3}{Email}#=%=#yanzhao@buaa.edu.cn
+Author{3}{Affiliation}#=%=#Beihang university
+Author{4}{Firstname}#=%=#Zhirui
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#zrustc11@gmail.com
+Author{4}{Affiliation}#=%=#University of Science and Technology of China
+Author{5}{Firstname}#=%=#Yibo
+Author{5}{Lastname}#=%=#Sun
+Author{5}{Email}#=%=#ybsun@ir.hit.edu.cn
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology
+Author{6}{Firstname}#=%=#Shujie
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Email}#=%=#shujliu@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research Asia, Beijing, China
+Author{7}{Firstname}#=%=#Yuanhua
+Author{7}{Lastname}#=%=#Lv
+Author{7}{Email}#=%=#yuanhual@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft AI and Research, Sunnyvale CA, USA
+Author{8}{Firstname}#=%=#Ming
+Author{8}{Lastname}#=%=#Zhou
+Author{8}{Email}#=%=#mingzhou@microsoft.com
+Author{8}{Affiliation}#=%=#microsoft research asia
+
+==========

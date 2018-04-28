@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#804
+FinalPaperTitle#=%=#Feudal Reinforcement Learning for Dialogue Management in Large Domains
+ShortPaperTitle#=%=#Feudal Reinforcement Learning for Dialogue Management in Large Domains
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Inigo Casanueva
+JobTitle#==#
+Organization#==#University of Cambridge
+Department of Engineering
+Trumpington Street
+Cambridge CB2 1PZ
+United Kingdom
+Abstract#==#Reinforcement learning (RL) is a promising approach to solve dialogue policy
+optimisation. Traditional RL algorithms, however, fail to scale to large
+domains due to the curse of dimensionality. We propose a novel Dialogue
+Management architecture, based on Feudal RL, which decomposes the decision into
+two steps; a first step where a master policy selects a subset of primitive
+actions, and a second step where a primitive action is chosen from the selected
+subset. The structural information included in the domain ontology is used to
+abstract the dialogue state space, taking the decisions at each step using
+different parts of the abstracted state. This, combined with an information
+sharing mechanism between slots, increases the scalability to large domains. We
+show that an implementation of this approach, based on Deep-Q Networks,
+significantly outperforms previous state of the art in several dialogue domains
+and environments, without the need of any additional reward signal.
+Author{1}{Firstname}#=%=#Iñigo
+Author{1}{Lastname}#=%=#Casanueva
+Author{1}{Email}#=%=#ic340@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Paweł
+Author{2}{Lastname}#=%=#Budzianowski
+Author{2}{Email}#=%=#pfb30@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Pei-Hao
+Author{3}{Lastname}#=%=#Su
+Author{3}{Email}#=%=#phs26@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Stefan
+Author{4}{Lastname}#=%=#Ultes
+Author{4}{Email}#=%=#su259@cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+Author{5}{Firstname}#=%=#Lina M.
+Author{5}{Lastname}#=%=#Rojas Barahona
+Author{5}{Email}#=%=#linamaria.rojasbarahona@orange.com
+Author{5}{Affiliation}#=%=#Orange Labs
+Author{6}{Firstname}#=%=#Bo-Hsiang
+Author{6}{Lastname}#=%=#Tseng
+Author{6}{Email}#=%=#bht26@cam.ac.uk
+Author{6}{Affiliation}#=%=#University of Cambridge
+Author{7}{Firstname}#=%=#Milica
+Author{7}{Lastname}#=%=#Gasic
+Author{7}{Email}#=%=#mg436@cam.ac.uk
+Author{7}{Affiliation}#=%=#University of Cambridge
+
+==========

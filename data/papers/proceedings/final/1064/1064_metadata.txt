@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#1064
+FinalPaperTitle#=%=#A Mixed Hierarchical Attention Based Encoder-Decoder Approach for Standard Table Summarization
+ShortPaperTitle#=%=#A Mixed Hierarchical Attention Based Encoder-Decoder Approach for Standard Table Summarization
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Parag Jain
+JobTitle#==#
+Organization#==#IBM Research – India 
+Manyata Embassy Business Park 
+8th Floor, G2, Outer Ring Road 
+RACHENAHALLI & NAGAWARA VILLAGES 
+BANGALORE, KA 560045
+Abstract#==#Structured data summarization involves generation of natural language summaries
+from structured input data. In this work, we consider summarizing structured
+data occurring in the form of tables as they are prevalent across a wide
+variety of domains. We formulate the standard table summarization problem,
+which deals with tables conforming to a single predefined schema. To this end,
+we propose a mixed hierarchical attention based encoder-decoder model which is
+able to leverage the structure in addition to the content of the tables. Our
+experiments on the publicly available weathergov dataset show around 18 BLEU
+(around 30%) improvement over the current state-of-the-art.
+Author{1}{Firstname}#=%=#Parag
+Author{1}{Lastname}#=%=#Jain
+Author{1}{Email}#=%=#pajain34@in.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Anirban
+Author{2}{Lastname}#=%=#Laha
+Author{2}{Email}#=%=#anirlaha@in.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research AI
+Author{3}{Firstname}#=%=#Karthik
+Author{3}{Lastname}#=%=#Sankaranarayanan
+Author{3}{Email}#=%=#kartsank@in.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research AI
+Author{4}{Firstname}#=%=#Preksha
+Author{4}{Lastname}#=%=#Nema
+Author{4}{Email}#=%=#cs15m036@smail.iitm.ac.in
+Author{4}{Affiliation}#=%=#Indian Institute of Technology Madras
+Author{5}{Firstname}#=%=#Mitesh M.
+Author{5}{Lastname}#=%=#Khapra
+Author{5}{Email}#=%=#miteshk@cse.iitm.ac.in
+Author{5}{Affiliation}#=%=#Indian Institute of Technology Madras
+Author{6}{Firstname}#=%=#Shreyas
+Author{6}{Lastname}#=%=#Shetty M
+Author{6}{Email}#=%=#shreyas.shetty@gmail.com
+Author{6}{Affiliation}#=%=#IIT Madras
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#286
+FinalPaperTitle#=%=#Supervised Open Information Extraction
+ShortPaperTitle#=%=#Supervised Open Information Extraction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Gabriel Stanovsky
+JobTitle#==#
+Organization#==#Bar-Ilan University
+Abstract#==#We present data and methods that enable a supervised
+learning approach to Open Information Extraction (Open IE).
+Central to the approach is a novel formulation of Open IE as a sequence tagging
+problem, addressing challenges such as encoding multiple extractions for a
+predicate.
+We also develop a bi-LSTM transducer, extending recent deep Semantic Role
+Labeling models to extract Open IE tuples and provide confidence scores for
+tuning their precision-recall tradeoff.
+Furthermore, we show that the recently released Question-Answer Meaning
+Representation dataset can be automatically converted into an Open IE corpus
+which significantly increases the amount of available training data.
+Our supervised model outperforms the existing state-of-the-art Open IE systems
+on benchmark datasets.
+Author{1}{Firstname}#=%=#Gabriel
+Author{1}{Lastname}#=%=#Stanovsky
+Author{1}{Email}#=%=#gabriel.satanovsky@gmail.com
+Author{1}{Affiliation}#=%=#Bar-Ilan University
+Author{2}{Firstname}#=%=#Julian
+Author{2}{Lastname}#=%=#Michael
+Author{2}{Email}#=%=#julianjm@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Luke
+Author{3}{Lastname}#=%=#Zettlemoyer
+Author{3}{Email}#=%=#lsz@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Ido
+Author{4}{Lastname}#=%=#Dagan
+Author{4}{Email}#=%=#dagan@cs.biu.ac.il
+Author{4}{Affiliation}#=%=#Bar-Ilan University
+
+==========

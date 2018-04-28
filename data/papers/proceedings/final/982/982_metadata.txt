@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#982
+FinalPaperTitle#=%=#Exploiting Dynamic Oracles to Train Projective Dependency Parsers on Non-projective Trees
+ShortPaperTitle#=%=#Exploiting Dynamic Oracles to Train Projective Dependency Parsers on Non-projective Trees
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Lauriane Aufrant
+JobTitle#==#
+Organization#==#LIMSI
+508 rue John von Neumann, 91405 Orsay, FRANCE
+Abstract#==#Because the most common transition systems are projective, training a transition-based dependency parser often implies to either ignore or rewrite the non-projective training examples, which has an adverse impact on accuracy. In this work, we propose a simple modification of dynamic oracles, which enables the use of non-projective data when training projective parsers. Evaluation on 73 treebanks shows that our method achieves significant gains (+2 to +7 UAS for the most non-projective languages) and consistently outperforms traditional projectivization and pseudo-projectivization approaches.
+Author{1}{Firstname}#=%=#Lauriane
+Author{1}{Lastname}#=%=#Aufrant
+Author{1}{Email}#=%=#lauriane.aufrant@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS, DGA
+Author{2}{Firstname}#=%=#Guillaume
+Author{2}{Lastname}#=%=#Wisniewski
+Author{2}{Email}#=%=#guillaume.wisniewski@limsi.fr
+Author{2}{Affiliation}#=%=#Univ. Paris Sud and LIMSI-CNRS
+Author{3}{Firstname}#=%=#François
+Author{3}{Lastname}#=%=#Yvon
+Author{3}{Email}#=%=#francois.yvon@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI/CNRS
+
+==========

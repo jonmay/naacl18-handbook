@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#486
+FinalPaperTitle#=%=#Learning beyond Datasets: Knowledge Graph Augmented Neural Networks for Natural Language Processing
+ShortPaperTitle#=%=#Learning beyond Datasets: Knowledge Graph Augmented Neural Networks for Natural Language Processing
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Annervaz K M
+JobTitle#==#
+Organization#==#Indian Institute of Science, CV Raman Rd, Bengaluru, India 560012;
+Accenture Technology Labs, 9th Floor, Accenture Innovation Hub, Tower 14, Pritech Park, Bellandur, Bengaluru, India 560103
+Abstract#==#Machine Learning has been the quintessential solution for many AI problems, but learning models are heavily dependent on specific training data. Some learning models can be incorporated with prior knowledge using a Bayesian setup, but these learning models do not have the ability to access any organized world knowledge on demand.  In this work, we propose to enhance learning models with world knowledge in the form of Knowledge Graph (KG) fact triples for Natural Language Processing (NLP) tasks. Our aim is to develop a deep learning model that can extract relevant prior support facts from knowledge graphs depending on the task using attention mechanism. We introduce a convolution-based model for learning representations of knowledge graph entity and relation clusters in order to reduce the attention space. We show that the proposed method is highly scalable to the amount of prior information that has to be processed and can be applied to any generic NLP task. Using this method we show significant improvement in performance for text classification with 20Newsgroups (News20) & DBPedia datasets, and natural language inference with Stanford Natural Language Inference (SNLI) dataset. We also demonstrate that a deep learning model can be trained with substantially less amount of labeled training data, when it has access to organized world knowledge in the form of a knowledge base.
+Author{1}{Firstname}#=%=#Annervaz
+Author{1}{Lastname}#=%=#K M
+Author{1}{Email}#=%=#annervaz@iisc.ac.in
+Author{1}{Affiliation}#=%=#Indian Institute of Science
+Author{2}{Firstname}#=%=#Somnath
+Author{2}{Lastname}#=%=#Basu Roy Chowdhury
+Author{2}{Email}#=%=#brcsomnath@ee.iitkgp.ernet.in
+Author{2}{Affiliation}#=%=#IIT Kharagpur
+Author{3}{Firstname}#=%=#Ambedkar
+Author{3}{Lastname}#=%=#Dukkipati
+Author{3}{Email}#=%=#ambedkar@iisc.ac.in
+Author{3}{Affiliation}#=%=#Indian Institute of Science
+
+==========

@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#881
+FinalPaperTitle#=%=#Syntactic Patterns Improve Information Extraction for Medical Search
+ShortPaperTitle#=%=#Syntactic Patterns Improve Information Extraction for Medical Search
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Roma Patel
+JobTitle#==#
+Organization#==#University of Pennsylvania
+Abstract#==#Medical professionals search the published literature by specifying the type of
+patients, the medical intervention(s) and the outcome measure(s) of interest.
+In this paper we demonstrate how features encoding syntactic patterns improve
+the performance of state-of-the-art sequence tagging models (both neural and
+linear) for information extraction of these medically relevant categories. We
+present an analysis of the type of patterns exploited and of the semantic space
+induced for these, i.e., the distributed representations learned for identified
+multi-token patterns. We show that these learned representations differ
+substantially from those of the constituent unigrams, suggesting that the
+patterns capture contextual information that is otherwise lost.
+Author{1}{Firstname}#=%=#Roma
+Author{1}{Lastname}#=%=#Patel
+Author{1}{Email}#=%=#romap@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Yinfei
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#yangyin7@gmail.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Iain
+Author{3}{Lastname}#=%=#Marshall
+Author{3}{Email}#=%=#iainjmarshall@gmail.com
+Author{3}{Affiliation}#=%=#King's College London
+Author{4}{Firstname}#=%=#Ani
+Author{4}{Lastname}#=%=#Nenkova
+Author{4}{Email}#=%=#nenkova@seas.upenn.edu
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+Author{5}{Firstname}#=%=#Byron
+Author{5}{Lastname}#=%=#Wallace
+Author{5}{Email}#=%=#byron.wallace@gmail.com
+Author{5}{Affiliation}#=%=#Northeastern
+
+==========

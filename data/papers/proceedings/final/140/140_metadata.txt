@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#140
+FinalPaperTitle#=%=#Accurate Text-Enhanced Knowledge Graph Representation Learning
+ShortPaperTitle#=%=#Accurate Text-Enhanced Knowledge Graph Representation Learning
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Bo An
+JobTitle#==#
+Organization#==#Institute of Software, Chinese Academy of Sciences, Beijing, China
+ Institute of Software, Chinese Academy of Sciences 4# South Fourth Street, Zhong Guan Cun, Beijing 100190 P.R. China
+Abstract#==#Previous representation learning techniques for knowledge graph representation usually represent the same entity or relation in different triples with the same representation, without considering the ambiguity of relations and entities. 
+To appropriately handle the semantic variety  of entities/relations in distinct triples, we propose an accurate text-enhanced knowledge graph representation learning method, which can represent a relation/entity with different representations in different triples by exploiting additional textual information. 
+Specifically, our method enhances representations by exploiting the entity descriptions and triple-specific relation mention.
+And a mutual attention mechanism between relation mention and entity description is proposed  to learn more accurate textual representations for further improving knowledge graph representation. 
+Experimental results show that our method achieves the state-of-the-art performance on both link prediction and triple classification tasks, and significantly outperforms previous text-enhanced knowledge representation models.
+Author{1}{Firstname}#=%=#Bo
+Author{1}{Lastname}#=%=#An
+Author{1}{Email}#=%=#anbo@iscas.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Bo
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#chenbo@nfs.iscas.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Xianpei
+Author{3}{Lastname}#=%=#Han
+Author{3}{Email}#=%=#hanxianpei@gmail.com
+Author{3}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Le
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Email}#=%=#lesunle@163.com
+Author{4}{Affiliation}#=%=#ISCAS
+
+==========

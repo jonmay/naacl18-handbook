@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#866
+FinalPaperTitle#=%=#Gated Multi-Task Network for Text Classification
+ShortPaperTitle#=%=#Gated Multi-Task Network
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Liqiang Xiao
+JobTitle#==#
+Organization#==#State Key Lab of Advanced Optical Communication System and Network, Shanghai Jiao Tong University
+Artificial Intelligence Institute, Shanghai Jiao Tong University
+800 Dongchuan Road, Shanghai, China
+Abstract#==#Multi-task learning with Convolutional Neural Network (CNN) has shown great success in many Natural Language Processing (NLP) tasks. This success can be largely attributed to the feature sharing by fusing some layers among tasks. However, most existing approaches just fully or proportionally share the features without distinguishing the helpfulness of them. By that the network would be confused by the helpless even harmful features, generating undesired interference between tasks. In this paper, we introduce gate mechanism into multi-task CNN and propose a new Gated Sharing Unit, which can filter the feature flows between tasks and greatly reduce the interference. Experiments on 9 text classification datasets shows that our approach can learn selection rules automatically and gain a great improvement over strong baselines.
+Author{1}{Firstname}#=%=#Liqiang
+Author{1}{Lastname}#=%=#Xiao
+Author{1}{Email}#=%=#xiaoliqiang@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#State Key Lab of Advanced Optical Communication System and Network, Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Honglun
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zhanghonglun@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#State Key Lab of Advanced Optical Communication System and Network, Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Wenqing
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#wenqingchen@sjtu.edu.cn
+Author{3}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

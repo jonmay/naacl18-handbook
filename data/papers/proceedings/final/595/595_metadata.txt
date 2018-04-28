@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#595
+FinalPaperTitle#=%=#Solving Data Sparsity for Aspect Based Sentiment Analysis Using Cross-linguality and Multi-linguality
+ShortPaperTitle#=%=#Solving Data Sparsity using Cross-linguality and Multi-linguality
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Md Shad Akhtar
+JobTitle#==#
+Organization#==#Indian Institute of Technology Patna
+Bihta, Patna, Bihar, India - 801106
+Abstract#==#Efficient word representations play an important role in solving various
+problems related to Natural Language Processing (NLP), data mining, text mining
+etc. The issue of data sparsity poses a great challenge in creating efficient
+word representation model for solving the underlying problem. The problem is
+more intensified in resource-poor scenario due to the absence of sufficient
+amount of corpus. In this work we propose to minimize the effect of data
+sparsity by leveraging bilingual word embeddings learned through a parallel
+corpus. We train and evaluate Long Short Term Memory (LSTM) based architecture
+for aspect level sentiment classification. 
+The neural network architecture is further assisted by the hand-crafted
+features for the prediction. We show the efficacy of the proposed model against
+state-of-the-art methods in two experimental setups i.e. multi-lingual and
+cross-lingual.
+Author{1}{Firstname}#=%=#Md Shad
+Author{1}{Lastname}#=%=#Akhtar
+Author{1}{Email}#=%=#shad.akhtar@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{2}{Firstname}#=%=#Palaash
+Author{2}{Lastname}#=%=#Sawant
+Author{2}{Email}#=%=#palaash77@gmail.com
+Author{2}{Affiliation}#=%=#Goa University
+Author{3}{Firstname}#=%=#Sukanta
+Author{3}{Lastname}#=%=#Sen
+Author{3}{Email}#=%=#sukantasen10@gmail.com
+Author{3}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{4}{Firstname}#=%=#Asif
+Author{4}{Lastname}#=%=#Ekbal
+Author{4}{Email}#=%=#asif.ekbal@gmail.com
+Author{4}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{5}{Firstname}#=%=#Pushpak
+Author{5}{Lastname}#=%=#Bhattacharyya
+Author{5}{Email}#=%=#pushpakbh@gmail.com
+Author{5}{Affiliation}#=%=#CSE Department, IIT Bombay
+
+==========

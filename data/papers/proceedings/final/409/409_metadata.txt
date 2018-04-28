@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#409
+FinalPaperTitle#=%=#Unsupervised Induction of Linguistic Categories with Records of Reading, Speaking, and Writing
+ShortPaperTitle#=%=#Unsupervised Induction of Linguistic Categories with Records of Reading, Speaking, and Writing
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Maria Barrett
+JobTitle#==#
+Organization#==#NorS
+University of Copenhagen
+Njalsgade 136
+DK-2300 Copenhagen S
+Denmark
+Abstract#==#When learning POS taggers and syntactic chunkers for low-resource languages, different resources may be available, and often all we have is a small tag dictionary, motivating type-constrained unsupervised induction. Even small dictionaries can improve the performance of unsupervised induction algorithms. This paper shows that performance can be further improved by including data that is readily available or can be easily obtained for most languages, i.e., eye-tracking, speech, or keystroke logs (or any combination thereof). We project information from all these data sources into shared spaces, in which the union of words is represented. For English unsupervised POS induction, the additional information, which is not required at test time, leads to an average error reduction on Ontonotes domains of 1.5% over systems augmented with state-of-the-art word embeddings. On Penn Treebank the best model achieves 5.4% error reduction over a word embeddings baseline. We also achieve significant improvements for syntactic chunk induction. Our analysis shows that improvements are even bigger when the available tag dictionaries are smaller.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Barrett
+Author{1}{Email}#=%=#dtq912@hum.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Ana Valeria
+Author{2}{Lastname}#=%=#Gonzalez-Garduño
+Author{2}{Email}#=%=#fcm220@alumni.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+Author{3}{Firstname}#=%=#Lea
+Author{3}{Lastname}#=%=#Frermann
+Author{3}{Email}#=%=#uedi@frermann.de
+Author{3}{Affiliation}#=%=#Amazon Core Machine Learning
+Author{4}{Firstname}#=%=#Anders
+Author{4}{Lastname}#=%=#Søgaard
+Author{4}{Email}#=%=#soegaard@di.ku.dk
+Author{4}{Affiliation}#=%=#University of Copenhagen
+
+==========

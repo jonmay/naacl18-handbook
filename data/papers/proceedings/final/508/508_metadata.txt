@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#508
+FinalPaperTitle#=%=#Attentive Interaction Model: Modeling Changes in View in Argumentation
+ShortPaperTitle#=%=#Attentive Interaction Model: Modeling Changes in View in Argumentation
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Yohan Jo
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213
+Abstract#==#We present a neural architecture for modeling argumentative dialogue that explicitly models the interplay between an Opinion Holder's (OH's) reasoning and a challenger's argument, with the goal of predicting if the argument successfully changes the OH's view. The model has two components: (1) vulnerable region detection, an attention model that identifies parts of the OH's reasoning that are amenable to change, and (2) interaction encoding, which identifies the relationship between the content of the OH's reasoning and that of the challenger's argument. Based on evaluation on discussions from the Change My View forum on Reddit, the two components work together to predict an OH's change in view, outperforming several baselines. A posthoc analysis suggests that sentences picked out by the attention model are addressed more frequently by successful arguments than by unsuccessful ones.
+Author{1}{Firstname}#=%=#Yohan
+Author{1}{Lastname}#=%=#Jo
+Author{1}{Email}#=%=#yohanj@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Shivani
+Author{2}{Lastname}#=%=#Poddar
+Author{2}{Email}#=%=#spoddar2@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Byungsoo
+Author{3}{Lastname}#=%=#Jeon
+Author{3}{Email}#=%=#byungsoj@andrew.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Qinlan
+Author{4}{Lastname}#=%=#Shen
+Author{4}{Email}#=%=#qinlans@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Carolyn
+Author{5}{Lastname}#=%=#Rose
+Author{5}{Email}#=%=#cprose@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Firstname}#=%=#Graham
+Author{6}{Lastname}#=%=#Neubig
+Author{6}{Email}#=%=#gneubig@cs.cmu.edu
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

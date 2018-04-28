@@ -1,0 +1,354 @@
+%
+% fFile naaclhlt2018.tex
+%
+%% Based on the style files for NAACL-HLT 2018, which were
+%% Based on the style files for ACL-2015, with some improvements
+%%  taken from the NAACL-2016 style
+%% Based on the style files for ACL-2014, which were, in turn,
+%% based on ACL-2013, ACL-2012, ACL-2011, ACL-2010, ACL-IJCNLP-2009,
+%% EACL-2009, IJCNLP-2008...
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt,a4paper]{article}
+\usepackage[hyperref]{naaclhlt2018}
+\usepackage{times}
+\usepackage{latexsym}
+
+\usepackage{url}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+
+\aclfinalcopy % Uncomment this line for the final submission
+%\def\aclpaperid{***} %  Enter the acl Paper ID here
+
+% \setlength\titlebox{5cm}
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+\newcommand\BibTeX{B{\sc ib}\TeX}
+
+\title{Cross-lingual Learning-to-Rank with Shared Representations}
+
+% Author order: Shota Sasaki, Shuo Sun, Shigehiko Schamoni, Kevin Duh, Kentaro Inui
+\author{Shota Sasaki$^{1}$, Shuo Sun$^{2}$, Shigehiko Schamoni$^{3}$, Kevin Duh$^{2}$, Kentaro Inui$^{1,4}$\\
+  $^{1}$Tohoku University, $^{2}$Johns Hopkins University, $^{3}$Heidelberg University, $^{4}$RIKEN AIP\\
+  {\tt \{sasaki.shota,inui\}@ecei.tohoku.ac.jp, ssun32@jhu.edu, }\\
+  {\tt schamoni@cl.uni-heidelberg.de, kevinduh@cs.jhu.edu}
+  }
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+  Cross-lingual information retrieval (CLIR) is a document retrieval task where the documents are written in a language different from that of the user's query.
+  This is a challenging problem for data-driven approaches due to the general lack of labeled training data.
+  We introduce a large-scale dataset derived from Wikipedia to support CLIR research in 25 languages. 
+  Further, we present a simple yet effective neural learning-to-rank model that shares representations across languages and reduces the data requirement. 
+  This model can exploit training data in, for example, Japanese-English CLIR to improve the results of Swahili-English CLIR. 
+\end{abstract}
+
+
+\section{Introduction}
+
+Multilingual document collections are becoming prevalent. 
+Thus an important application is cross-lingual information retrieval (CLIR), i.e.~document retrieval which assumes that the language of the user's query does not match that of the documents. 
+For example, imagine an investor who wishes to monitor consumer sentiment of an international brand in Twitter conversations around the world. 
+She might issue a query string in English, and desire all relevant tweets in any language.
+
+There are two main approaches to building CLIR systems. 
+The \textit{modular approach} involves a pipeline of two components: translation (machine translation or bilingual dictionary look-up) and monolingual information retrieval (IR). 
+These approaches may be further divided into the \textit{document translation} and \textit{query translation} approaches \cite{nie10clirbook}.
+In the former, one translates all foreign-language documents to the language of the user query prior to IR indexing;
+in the latter, one indexes foreign-language documents and translates the query.
+In both, the idea is to solve the translation problem separately, so that CLIR becomes document retrieval in the monolingual setting. 
+
+A distinctly different way to build CLIR systems is what may be called the \textit{direct modeling approach} \cite{bai10features,sokolov13boosting}.
+This assumes the availability of CLIR training examples of the form ($q$, $d$, $r$), where $q$ is an English query, $d$ is a foreign-language document, a $r$ is the corresponding relevance judgment for $d$ with respect to $q$. 
+One directly builds a retrieval model $S(q,d)$ that scores the query-document pair.
+While $q$ and $d$ are in different languages, the model directly learns both translation and retrieval relevance on the CLIR training data. 
+Compared to the modular approach, direct modeling is advantageous in that it focuses on learning translations that are beneficial for retrieval, rather than translations that preserve sentence meaning/structure in bitext.
+
+However, there exist no large-scale CLIR dataset that can support direct modeling approaches in a wide variety of languages.
+To obtain relevance judgments, one typically needs a bilingual speaker who can read a foreign-language document and assess whether it is relevant for a given English query. 
+This can be an expensive process.
+Here, we present a large-scale dataset that is automatically constructed from Wikipedia: 
+it can support training and evaluation of CLIR systems between English queries and documents in 25 other languages (Section \ref{sec:dataset}).
+The data is of sufficient size for direct modeling, and can also serve as an wide-coverage evaluation data for the modular approaches.\footnote{To facilitate CLIR research, the dataset is publicly available at (URL).}
+
+To demonstrate the utility of the data, we further present experiments for CLIR in low-resource languages. 
+First, we introduce a neural CLIR model based on the direct modeling approach (Section \ref{sec:model}). 
+We then show how we can bootstrap CLIR models for languages with less training data by an appropriate use of paramater sharing among different language pairs (Section \ref{sec:sharing}). 
+For example, using the training data for Japanese-English CLIR, we can improve the Mean Average Precision (MAP) results of a Swahili-English CLIR system by 5-7 points (Section \ref{sec:experiment}). 
+
+
+
+\section{Large-Scale CLIR Dataset}
+\label{sec:dataset}
+
+\begin{figure}[t]
+	\centering
+	\includegraphics[scale=0.25]{data_construction}
+	\caption{\label{fig:data_construction} CLIR data construction process: From an English article (E1), we extract the English query. Using the inter-language link, we obtain the \textit{most relevant} foreign-language document (F1). Any article that has mutual links to and from F1 are labeled as \textit{slightly relevant} (F2). All other articles are \textit{not relevant} (F3). The data is a set of tuples: (English query~$q$, foreign document~$d$, relevance judgment~$r$), where $r\in{\{0,1,2\}}$ represents the three levels of relevance.}
+\end{figure}
+
+\begin{table}[t]
+	\begin{center}	
+\begin{tabular}{| l | r | r | r | }
+\hline \bf Language & \bf \#Doc  & \bf \#Query & \bf \#SR  \\\hline
+Arabic & 535  &  324 & 194 \\
+Catalan & 548  & 339 & 625 \\
+Chinese & 951 & 463 & 462 \\
+Czech & 386  & 233  & 720 \\
+Dutch & 1908  & 687 & 1646 \\
+Finnish & 418 & 273 & 665 \\
+French & 1894 & 1089 & 4048 \\
+German & 2091  & 938 & 4612 \\
+Italian & 1347 & 808 & 2635 \\
+Japanese & 1071  & 426 & 2912 \\
+Korean & 394  & 224 & 343 \\
+Norwegian-Nynorsk & 133 & 99 & 150 \\
+Norwegian-Bokm{\aa}l & 471 & 299  & 663 \\
+Polish & 1234 & 693 & 1777 \\
+Portuguese & 973 & 611 & 1130 \\
+Romanian & 376 & 199 & 251 \\
+Russian & 1413 & 664 & 1656 \\
+Simple English & 127 & 114 & 135 \\
+Spanish & 1302  & 781 & 2113 \\
+Swahili & 37 & 22 & 35 \\
+Swedish & 3785 & 639 & 1430 \\
+Tagalog & 79 & 48 & 23 \\
+Turkish & 295 & 185 & 195 \\
+Ukrainian & 704  & 348 & 565 \\
+Vietnamese & 1392  & 354 & 257 \\
+\multicolumn{4}{|c|}{\textit{(All numbers are in units of one thousand)}} \\
+\hline
+\end{tabular}
+\caption{\label{tab:data} CLIR dataset statistics. For each language X, we show the total number of documents in language X and the number of English queries. The number of "most relevant" documents is by definition equal to \#Query. The number of "slightly relevant" documents is shown in the column \#SR.}
+\end{center}
+\end{table}
+
+
+We construct a large-scale CLIR data from Wikipedia.
+The idea is to exploit \textit{inter-language links}: from an English page, we extract a sentence as query, and label the linked foreign-document pages as relevant. 
+See Figure \ref{fig:data_construction} for an illustration. 
+
+This data construction process is similar to \cite{schamoni14} who made an English-German CLIR dataset, but ours is at a larger scale. 
+Specifically, we use Wikipedia dumps released on August 23, 2017. 
+English queries are obtained by extracting the first sentence of every English Wikipedia article. 
+The intuition is that the first sentence is usually a well-defined summary of its corresponding article and should be thematically related for articles linked to it from another language. 
+Similar to \cite{schamoni14}, title words from the query sentences are removed, because they may be present across different language editions. 
+This deletion prevents the task from becoming an easy keyword matching task. 
+%We do not attempt to convert the query into well-formed statements or questions, as this requires additional language-specific knowledge.
+
+For practical purposes, each document is limited to the first 200 words of the article. Empty documents and category pages are filtered.
+Currently, our dataset consists of more than 2.8 million English queries and relevant documents from 25 other selected languages (see Table \ref{tab:data}).
+
+In sum, we have created a CLIR dataset that is large-scale in terms of both the amount of examples as well as the number of languages.
+This can be used in two scenarios: (1) one mixed-language collection where an English query may retrieve relevant documents in multiple languages. (2) 25 independent datasets for training and evaluating CLIR on English queries against one foreign language collection. In the experiments in Section \ref{sec:experiment}, we will utilize the dataset in terms of scenario (2).\footnote{For extensibility purposes, these experiments use only half of the data, randomly sampled by query (the held-out data is reserved for other uses). Also it only considers binary relevance (\textit{most relevant} vs \textit{not relevant}) for simplicity. The exact data splits will be provided along with the data release.} 
+
+
+
+%2566694 unique queries
+
+%\begin{table}[t]
+%	\begin{center}
+%		\caption{\label{tab:data} Statistics of the CLIR data}
+%\begin{tabular}{|l|l|l|}
+%\hline \bf Language & \bf \# Docs & \bf Tokens/doc \\ \hline
+%Chinese & 951480 & 22.84 \\
+%Arabic & 535118 & 94.50 \\
+%Catalan & 548722 & 165.98 \\
+%Czech & 386906 & 158.63 \\
+%Spanish & 1302958 & 172.85 \\
+%Finnish & 418677 & 116.96 \\
+%French & 1894397 & 153.52 \\
+%Italian & 1347011 & 139.52 \\
+%Japanese & 1071292 & 42.31 \\
+%Korean & 394177 & 129.70 \\
+%Norwegian(Nynorsk) & 133290 & 120.96 \\
+%Norwegian(Bokmal) & 471420 & 129.53 \\
+%Polish & 1234316 & 124.32 \\
+%Portuguese & 973057 & 127.90 \\
+%Romanian & 376655 & 92.98 \\
+%Russian & 1413945 & 151.23 \\
+%Simple English & 127089 & 116.71 \\
+%Swedish & 3785412 & 92.29 \\
+%Turkish & 295593 & 116.49 \\
+%Ukrainian & 704903 & 132.97 \\
+%Vietnamese & 1392152 & 49.34 \\
+%German & 2091278 & 165.80 \\
+%Dutch & 1908260 & 86.39 \\
+%Tagalog & 79008 & 59.53 \\
+%Swahili & 37079 & 83.52 \\
+%\hline
+%\end{tabular}
+%\end{center}
+%\end{table}
+
+
+%\section{Learning-to-Rank with Shared Representations}
+\section{Direct Modeling for CLIR}
+
+%In this section, we first describe a neural ranking model that adopts the direct modeling approach.
+%Then, we introduce a new method that shares representations across languages. 
+%This is inspired by the desire to bootstrap CLIR systems for language-pairs with less CLIR training data, and further motivates the construction of CLIR datasets consisting of many languages. 
+%
+\subsection{Neural Ranking Model}
+\label{sec:model}
+%
+Given an English query $q$ and a foreign-language document $d$, our models compute the relevance score $S(q, d)$.
+First, we represent each word as $n$-dimensional vectors, so $q$ and $d$ are represented as matrices $\mathbf{Q} \in \mathbb{R}^{n\times|q|}$  and $\mathbf{D} \in \mathbb{R}^{n\times|d|}$, where $|q|$ and $|d|$ are the numbers of tokens in $q$ and $d$:
+%
+\begin{eqnarray*}
+	\mathbf{Q} &=& [E_q(q_1);E_q(q_2);...;E_q(q_{|q|})] \\
+	\mathbf{D} &=& [E_d(d_1);E_d(d_2);...;E_d(d_{|d|})]
+\end{eqnarray*}
+%
+$q_i$ and $d_i$ denote the $i$-th term in $q$ and $d$. 
+$E$ is embedding function which transforms each term to a dense $n$-dimensional vector as its representation. ; is the concatenation operator.
+%We prepare two differenct $E$ because the query language is different from the document language.
+Then, we apply convolutional feature map\footnote{The $n\times 4$ convolution window has filter size of 100 and takes a stride of 1.
+} to these matrices, followed by tanh activation and average-pooling to obtain each representation vector $\hat{q}$ and $\hat{d}$.
+%
+\begin{equation}
+\hat{q} = CNN_q(\mathbf{Q}); \hspace{5mm} \hat{d} = CNN_d(\mathbf{D})  
+\end{equation}
+%
+
+Next, we define two variations in calculating $S(q, d)$.
+The first is a \textit{cosine model} which computes cosine similarity between $\hat{q}$ and $\hat{d}$:
+%
+\begin{eqnarray}
+\label{eq:cos}
+S_{cos}(q, d) = cossim(\hat{q}, \hat{d})
+ \end{eqnarray}
+
+The second is a \textit{deep model} with a fully connected layer on top of the concatenation of $\hat{q}$ and $\hat{d}$ (a 200-dimensional vector):
+\begin{eqnarray}
+	\label{eq:deep}
+	S_{deep}(q, d) &=& tanh(O\cdot h_{vec}^{\mathrm{T}}) \\ 
+	&=& tanh(O \cdot relu(W \cdot [\hat{q};\hat{d}]^{\mathrm{T}})) \nonumber
+\end{eqnarray}
+%
+%
+Here, $ O \in \mathbb{R}^{1\times h}$ and $W\in \mathbb{R}^{h\times 200}$ are the deep model parameters, and $h$ is the number of dimensions of the hidden state, $h_{vec}\in \mathbb{R}^{1\times h}$.
+For regularization, we set dropout rate as 0.5 \cite{nitish14dropout} at the hidden layer. 
+
+In the training phase, we minimize pairwise ranking loss, which is widely used for learning-to-rank \cite{pang16pyramid, guo16DRMM, hui17pacrr, xiong17kernel, dehghani17weak}, defined as follows:
+\begin{equation}
+L = max \left\{ 0, 1-(S(q,d^+)-S(q,d^-)) \right\}
+\end{equation}
+%
+where $d^+$ and $d^-$ are relevant and non-relevant document respectively.
+We fix only the word embeddings and tune the other parameters.
+
+We note there are many other ranking models that can be adapted to CLIR \cite{huang13clickthrough, shen14latent, xiong17kernel, mitra17web}; they have a common framework in extracting features from both query and document and optimizing scores $S(q,d)$ via some ranking loss. 
+
+%
+\begin{figure}[t]
+	\centering
+	\includegraphics[width=\hsize]{sharing_parameters_bold.png}
+	\caption{Illustration of the proposed method. On low resource dataset (e.g. Swahili-English), the parameters of the CNN for encoding query ($CNN_{En}$) and the parameters of the fully connected layer ($O_{En-Sw}$, $W_{En-Sw}$) are initialized by the ones pre-trained on high resource dataset (e.g. Japanese-English).}
+	\label{sharing_parameters}
+\end{figure}
+
+%
+\begin{table}[t]
+	\begin{center}
+		\begin{tabular}{ |l || c | c | c |} \hline
+			& Ja & De & Fr  \\ \hline\hline
+			$S_{cos}(q,d)$: cos & 59/74 & 49/66 & 55/70 \\ \hline
+			$S_{deep}(q,d)$: h=100 & 61/75 & 64/77 & 69/81 \\ \hline
+			$S_{deep}(q,d)$: h=200 & 68/80 & 67/79 & 74/84 \\ \hline
+			$S_{deep}(q,d)$: h=300 & 70/82 & 70/81 & 74/84 \\ \hline
+			$S_{deep}(q,d)$: h=400 & {\bf73}/83 & \bf71/82 & 75/{\bf85} \\ \hline
+			$S_{deep}(q,d)$: h=500 & \bf73/84 & 70/81 & \bf76/85 \\ \hline
+		\end{tabular}
+		\caption{\label {tab:result_for_high_resource}
+P@1/MAP performance (0-100 range, in percent) of the cosine model and the deep model with different hidden state size on \textbf{high resource datasets}. Best value in each column is highlighted in bold.}
+	\end{center}
+\end{table}
+%
+
+\begin{table*}[h]
+	\begin{center}		
+		\begin{tabular}{ |l || c | c | c | c | c | c | c | c | c | c | c | c |} \hline
+			&
+			\multicolumn{3}{c|}{Tl} &
+			\multicolumn{3}{c|}{Sw} &
+			\multicolumn{3}{c|}{De (subsample)} &				
+			\multicolumn{3}{c|}{Fr (subsample)} \\ \hline
+			& In & Sh & $\Delta$ & In & Sh & $\Delta$ & In & Sh & $\Delta$ & In & Sh & $\Delta$   \\ \hline\hline
+			cos & 51/68 & 50/67 & -/- & 51/67& 49/65 & -/- & 40/59 & 38/56 & -/- & 46/63& 43/60 & -/- \\ \hline\hline
+			h=100 & 34/50 & 48/62 & +/+ & 46/62 & 46/62 & =/= & 39/55 & 46/62&  +/+ & 40/57 & 46/62& +/+ \\ \hline
+			h=200 & 44/58 & 55/67 & +/+ & 47/63 & 52/67 & +/+ & 41/57 & 48/63&  +/+ & 43/60& 51/66& +/+ \\ \hline
+			h=300 & 42/57 & 49/63 & +/+ & 50/65 & 58/70 & +/+ & 44/60 & 50/65&  +/+ & 49/65& 51/66& +/+ \\ \hline
+			h=400 & 49/63 & \bf57/69 & +/+ & 51/66 & \bf60/73 & +/+ & 45/61 & \bf51/66&  +/+ & 47/64& \bf56/70& +/+ \\ \hline
+			h=500 & 51/64 & 54/67 & +/+ & 53/68 & 56/69 & +/+ & 44/60 & 49/65&  +/+ & 47/63& 51/66& +/+ \\ \hline			 
+		\end{tabular}
+		\caption{\label {tab:result_for_low_resource} P@1/MAP performances on \textbf{low resource datasets}. $\Delta$ columns show the comparison between the basic deep models with in-language training (In) and the deep models with sharing parameters (Sh); + indicates Sh outperforms In, and - indicates the In outperforms Sh. Best value in each dataset is highlighted in bold.}
+	\end{center}
+\end{table*}
+%
+
+\subsection{Sharing Representations}
+\label{sec:sharing}
+
+Training a network like the deep model generally requires a nontrivial amount of data. To address the data requirement for low-resource languages, we propose a simple yet effective method that shares representations across CLIR models trained in different language-pairs.
+Basically, we use the same architecture as the deep model ($S_{deep}(q,d)$, Equation \ref{eq:deep}).
+However, we use the parameters trained on a high-resource dataset (e.g Japanese-English) to initialize the parameters for a low-resource language-pair (e.g. Swahili-English). 
+
+Figure \ref{sharing_parameters} illustrates the idea: 
+Concretely, we initialize the parameters of the CNN for encoding query ($CNN_q$) and the parameters of the fully connected layer ($O$, $W$) by using the pre-trained parameters. 
+When training on low-resource data, we fix only the word embedding, and tune the parameters of CNNs and the fully connected layer.
+
+The intuition behind this is that our direct modeling approach enforces $\hat{q}$ and $\hat{d}$ to become language-independent representations of the query and document. The parameters $O$ and $W$ in the deep layer can therefore be used for any language-pair. Note for the cosine model, we can also share parameters for $CNN_q$.
+
+
+
+\section{Experiment Results}
+\label{sec:experiment}
+
+\textbf{Setup}: We use datasets of 3 high-resource languages (Japanese [Ja], German [De], French [Fr]) and 2 low-resource languages (Tagalog [Tl], Swahili [Sw]).  We also subsample German and French data to be equivalent to the size of Swahili, in order to compare training size effects.
+Word embedding with dimension 100 for each language is trained on Wikipedia corpus, using word2vec SGNS \cite{mikolov14distributed}.
+The size of hidden states in the deep model is \{100, 200, 300, 400, 500\}. We adopt Adam \cite{kingma14adam} for optimization, train for 20 epochs and pick the best epoch based on development set loss.
+For the proposed method of parameter sharing, we use the weight parameters pre-trained on Japanese-English dataset to initialize parameters. 
+
+\noindent \textbf{High-resource results}: Table \ref{tab:result_for_high_resource} shows the P@1 (precision at top position) and MAP (mean average precision) for datasets consisting of on the order of 100k+ training queries.
+The deep models outperformed the cosine models under all conditions, suggesting that the fully connected layer can exploit the large training set in learning more expressive scoring functions. 
+
+\noindent \textbf{Low-resource results}: Table \ref{tab:result_for_low_resource} shows the results on the low resource datasets under two conditions: training on only the language-pair of interest (in-language), or additionally sharing parameters using a pre-trained Japanese-English model. 
+For the in-language case, we observe the cosine model outperforms the deep model. 
+In contrast to the high-resource results, this implies that deep models, which have a lot of parameters, only become effective if provided with sufficient training data. 
+
+For the sharing case, the deep models with parameter sharing outperformed the basic deep models trained only on in-language data under almost all conditions. 
+This indicates that our sharing method reduces training data requirement. 
+Importantly, by sharing parameters, the deep models are now able to outperform the cosine model and achieve the best results on all datasets.\footnote{Sharing representations with the cosine models did not help; we hypothesize that cross-lingual sharing only works if given sufficient model expressiveness. We also tried the shared deep models on high resource datasets (e.g. using Japanese parameters on the full French dataset without subsampling). As expected, results did not change significantly.}
+
+\section{Conclusion and Future Work}
+We introduce a large-scale CLIR dataset in 25 languages.
+This enables the training and evaluation of direct modeling approaches in CLIR. 
+We also present a neural ranking model with shared representations, and demonstrate its effectiveness in bootstrapping CLIR in low-resource languages. 
+
+Future work includes: (a) expansion of the dataset to more languages, (b) extraction of different types of queries and relevant judgments from Wikipedia, and (c) development of other ranking models. 
+Importantly, we also plan to evaluate our models on standard CLIR test sets such as TREC \cite{schauble97trec}, NTCIR \citeyearpar{ntcir}, FIRE \citeyearpar{fire} and CLEF \citeyearpar{clef}. 
+This will help answer the question of whether knowledge learned from automatically-generated datasets can be transferred to a wide range of CLIR problems.
+
+\section*{Acknowledgments}
+This work was supported by Cooperative Laboratory Study Program (COLABS-Outbound), JSPS KAKENHI Grant Number 15H0170 and JST CREST Grant Number JPMJCR1513, Japan.
+Sun and Duh are supported in part by the Office of the Director of National Intelligence (ODNI), Intelligence Advanced Research Projects Activity (IARPA), via contract \# FA8650-17-C-9115. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies, either expressed or implied, of ODNI, IARPA, or the U.S. Government. The U.S. Government is authorized to reproduce and distribute reprints for governmental purposes notwithstanding any copyright annotation therein.
+
+% include your own bib file like this:
+%\bibliographystyle{acl}
+%\bibliography{naaclhlt2018}
+\bibliography{naaclhlt2018}
+\bibliographystyle{acl_natbib}
+
+%\appendix
+
+\end{document}

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#789
+FinalPaperTitle#=%=#Cross-Domain Review Helpfulness Prediction Based on Convolutional Neural Networks with Auxiliary Domain Discriminators
+ShortPaperTitle#=%=#Cross-Domain Review Helpfulness Prediction based on CNN with Domain Discriminators
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Cen Chen, Yinfei Yang, Jun Zhou, Xiaolong Li, Forrest Sheng Bao
+JobTitle#==#
+Organization#==#Ant Financial Services Group, Hangzhou, China.
+1600 Amphitheatre Pkwy, Mountain View, CA 94043.
+Iowa State University, Ames, IA 50011.
+Abstract#==#With the growing amount of reviews in e-commerce websites, it is critical to assess the helpfulness of reviews and recommend them accordingly to consumers. Recent studies on review helpfulness require plenty of labeled samples for each domain/category of interests. However, such an approach based on close-world assumption is not always practical, especially for domains with limited reviews or the ``out-of-vocabulary" problem. Therefore, we propose a convolutional neural network (CNN) based model which leverages both word-level and character-based representations. To transfer knowledge between domains, we further extend our model to jointly model different domains with auxiliary domain discriminators. On the Amazon product review dataset, our approach significantly outperforms the state of the art in terms of both accuracy and cross-domain robustness.
+Author{1}{Firstname}#=%=#Cen
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#chencen.cc@antfin.com
+Author{1}{Affiliation}#=%=#Ant Financial Services Group
+Author{2}{Firstname}#=%=#Yinfei
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#yangyin7@gmail.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Jun
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Email}#=%=#jun.zhoujun@antfin.com
+Author{3}{Affiliation}#=%=#Ant Financial Services Group
+Author{4}{Firstname}#=%=#Xiaolong
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#xl.li@antfin.com
+Author{4}{Affiliation}#=%=#Ant Financial Services Group
+Author{5}{Firstname}#=%=#Forrest Sheng
+Author{5}{Lastname}#=%=#Bao
+Author{5}{Email}#=%=#forrest.bao@gmail.com
+Author{5}{Affiliation}#=%=#Iowa State Univerity
+
+==========

@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#861
+FinalPaperTitle#=%=#Objective Function Learning to Match Human Judgements for Optimization-Based Summarization
+ShortPaperTitle#=%=#Objective Function Learning to Match Human Judgements for Optimization-Based Summarization
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Maxime Peyrard
+JobTitle#==#
+Organization#==#Technische Universität Darmstadt
+Department of Computer Science
+Ubiquitous Knowledge Processing Lab
+Hochschulstraße 10 
+64289 Darmstadt
+Germany
+Abstract#==#Supervised summarization systems usually rely on supervision at the sentence or n-gram level provided by automatic metrics like ROUGE, which act as noisy proxies for human judgments. In this work, we learn a summary-level scoring function $\theta$ including human judgments as supervision and automatically generated data as regularization. We extract summaries with a genetic algorithm using $\theta$ as a fitness function. We observe strong and promising performances across datasets in both automatic and manual evaluation.
+Author{1}{Firstname}#=%=#Maxime
+Author{1}{Lastname}#=%=#Peyrard
+Author{1}{Email}#=%=#peyrard@aiphes.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Iryna
+Author{2}{Lastname}#=%=#Gurevych
+Author{2}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

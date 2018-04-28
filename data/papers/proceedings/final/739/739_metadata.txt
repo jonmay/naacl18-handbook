@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#739
+FinalPaperTitle#=%=#Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations
+ShortPaperTitle#=%=#Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sosuke Kobayashi
+JobTitle#==#
+Organization#==#Preferred Networks, Inc., Tokyo, Japan
+Abstract#==#We propose a novel data augmentation for labeled sentences called contextual
+augmentation.
+We assume an invariance that sentences are natural even if the words in the
+sentences are replaced with other words with paradigmatic relations.
+We stochastically replace words with other words that are predicted by a
+bi-directional language model at the word positions.
+Words predicted according to a context are numerous but appropriate for the
+augmentation of the original words.
+Furthermore, we retrofit a language model with a label-conditional
+architecture, which allows the model to augment sentences without breaking the
+label-compatibility.
+Through the experiments for six various different text classification tasks, we
+demonstrate that the proposed method improves classifiers based on the
+convolutional or recurrent neural networks.
+Author{1}{Firstname}#=%=#Sosuke
+Author{1}{Lastname}#=%=#Kobayashi
+Author{1}{Email}#=%=#sosk@preferred.jp
+Author{1}{Affiliation}#=%=#Preferred Networks, Inc.
+
+==========

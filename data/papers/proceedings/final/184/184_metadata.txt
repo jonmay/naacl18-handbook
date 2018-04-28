@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#184
+FinalPaperTitle#=%=#Automatic Stance Detection Using End-to-End Memory Networks
+ShortPaperTitle#=%=#Automatic Stance Detection Using End-to-End Memory Networks
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Mitra Mohtarami
+JobTitle#==#Research Scientist
+Organization#==#MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA 02139
+Abstract#==#We present an effective end-to-end memory network model that jointly (i) predicts whether a given document can be considered as relevant evidence for a given claim, and (ii) extracts snippets of evidence that can be used to reason about the factuality of the target claim. Our model combines the advantages of convolutional and recurrent neural networks as part of a memory network. We further introduce a similarity matrix at the inference level of the memory network in order to extract snippets of evidence for input claims more accurately. Our experiments on a public benchmark dataset, FakeNewsChallenge, demonstrate the effectiveness of our approach.
+Author{1}{Firstname}#=%=#Mitra
+Author{1}{Lastname}#=%=#Mohtarami
+Author{1}{Email}#=%=#mitra@csail.mit.edu
+Author{1}{Affiliation}#=%=#MIT Computer Science and Artificial Intelligence Lab
+Author{2}{Firstname}#=%=#Ramy
+Author{2}{Lastname}#=%=#Baly
+Author{2}{Email}#=%=#baly@mit.edu
+Author{2}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{3}{Firstname}#=%=#James
+Author{3}{Lastname}#=%=#Glass
+Author{3}{Email}#=%=#glass@mit.edu
+Author{3}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{4}{Firstname}#=%=#Preslav
+Author{4}{Lastname}#=%=#Nakov
+Author{4}{Email}#=%=#preslav.nakov@gmail.com
+Author{4}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{5}{Firstname}#=%=#Lluís
+Author{5}{Lastname}#=%=#Màrquez
+Author{5}{Email}#=%=#lluismv@amazon.com
+Author{5}{Affiliation}#=%=#Amazon Core ML
+Author{6}{Firstname}#=%=#Alessandro
+Author{6}{Lastname}#=%=#Moschitti
+Author{6}{Email}#=%=#amoschitti@gmail.com
+Author{6}{Affiliation}#=%=#Amazon (prof. in Computer Science at University of Trento)
+
+==========

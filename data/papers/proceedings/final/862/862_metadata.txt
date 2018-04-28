@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#862
+FinalPaperTitle#=%=#Towards a Variability Measure for Multiword Expressions
+ShortPaperTitle#=%=#Towards a Variability Measure for Multiword Expressions
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Caroline Pasquer
+JobTitle#==#
+Organization#==#University of Tours, 3, Place Jean Jaurès 41000 BLOIS, FRANCE
+Abstract#==#One of the most outstanding properties of multiword expressions (MWEs), especially verbal ones (VMWEs), 
+important both in theoretical models and applications, 
+is their idiosyncratic variability. Some MWEs are always continuous, while some others admit certain types of insertions. Components of some MWEs  are rarely or never modified, while some others admit either specific or unrestricted modification. 
+This unpredictable variability profile of MWEs hinders modeling and processing them as "words-with-spaces" on the one hand, and as regular syntactic structures on the other hand. Since variability of MWEs is a matter of scale rather than a binary property, 
+we propose a 2-dimensional language-independent measure of variability dedicated to verbal MWEs based on syntactic and discontinuity-related clues. We assess its relevance with respect to a linguistic benchmark and its utility for the tasks of VMWE classification and variant identification on a French corpus.
+Author{1}{Firstname}#=%=#Caroline
+Author{1}{Lastname}#=%=#Pasquer
+Author{1}{Email}#=%=#caroline.pasquer@etu.univ-tours.fr
+Author{1}{Affiliation}#=%=#University of Tours
+Author{2}{Firstname}#=%=#Agata
+Author{2}{Lastname}#=%=#Savary
+Author{2}{Email}#=%=#agata.savary@univ-tours.fr
+Author{2}{Affiliation}#=%=#Université François Rabelais Tours
+Author{3}{Firstname}#=%=#Jean-Yves
+Author{3}{Lastname}#=%=#Antoine
+Author{3}{Email}#=%=#jean-yves.antoine@univ-tours.fr
+Author{3}{Affiliation}#=%=#Université François Rabelais de Tours, LI
+Author{4}{Firstname}#=%=#Carlos
+Author{4}{Lastname}#=%=#Ramisch
+Author{4}{Email}#=%=#carlosramisch@gmail.com
+Author{4}{Affiliation}#=%=#Aix Marseille University, LIF, CNRS
+
+==========

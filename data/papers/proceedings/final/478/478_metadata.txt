@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#478
+FinalPaperTitle#=%=#Deep Neural Models of Semantic Shift
+ShortPaperTitle#=%=#Deep Neural Models of Semantic Shift
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Alex Rosenfeld
+JobTitle#==#
+Organization#==#Linguistics Department
+The University of Texas at Austin
+305 E. 23rd Street
+Robert L. Patton Hall (RLP) 4.304
+Austin, TX 78712
+Abstract#==#Diachronic distributional models track changes in word use over time. In this
+paper, we propose a deep neural network diachronic distributional model.
+Instead of modeling lexical change via a time series as is done in previous
+work, we represent time as a continuous variable and model a word's usage as a
+function of time. Additionally, we have also created a novel synthetic task
+which measures a model's ability to capture the semantic trajectory. This
+evaluation quantitatively measures how well a model captures the
+semantic trajectory of a word over time. Finally, we explore how well the
+derivatives of our model can be used to measure the speed of lexical change.
+Author{1}{Firstname}#=%=#Alex
+Author{1}{Lastname}#=%=#Rosenfeld
+Author{1}{Email}#=%=#alexbrosenfeld@gmail.com
+Author{1}{Affiliation}#=%=#The University of Texas at Austin
+Author{2}{Firstname}#=%=#Katrin
+Author{2}{Lastname}#=%=#Erk
+Author{2}{Email}#=%=#katrin.erk@mail.utexas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#885
+FinalPaperTitle#=%=#Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
+ShortPaperTitle#=%=#Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Diego Marcheggiani
+JobTitle#==#
+Organization#==#Institute for Logic, Language and Computation - University of Amsterdam - Science Park 107, 1098 XG Amsterdam, Netherlands
+Abstract#==#Semantic representations have long been argued as potentially useful for enforcing meaning preservation and improving generalization performance of machine translation methods. 
+In this work, we are the first to incorporate information about predicate-argument structure of source sentences (namely, semantic-role representations) into neural machine translation. 
+We use Graph Convolutional Networks (GCNs) to inject a semantic bias into sentence encoders and achieve improvements in BLEU scores over the linguistic-agnostic and syntax-aware versions on the English--German language pair.
+Author{1}{Firstname}#=%=#Diego
+Author{1}{Lastname}#=%=#Marcheggiani
+Author{1}{Email}#=%=#marcheggiani@uva.nl
+Author{1}{Affiliation}#=%=#University of Amsterdam
+Author{2}{Firstname}#=%=#Joost
+Author{2}{Lastname}#=%=#Bastings
+Author{2}{Email}#=%=#j.c.p.bastings@uva.nl
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Ivan
+Author{3}{Lastname}#=%=#Titov
+Author{3}{Email}#=%=#titov@uva.nl
+Author{3}{Affiliation}#=%=#University of Edinburg - University of Amsterdam
+
+==========

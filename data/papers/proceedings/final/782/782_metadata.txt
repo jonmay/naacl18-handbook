@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#782
+FinalPaperTitle#=%=#A Transition-based Algorithm for Unrestricted AMR Parsing
+ShortPaperTitle#=%=#A Transition-based Algorithm for Unrestricted AMR Parsing
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#David Vilares
+JobTitle#==#
+Organization#==#Universidade da Coruña, Rúa da Maestranza, 9 15001 A Coruña, Spain
+Abstract#==#Non-projective parsing can be useful to handle cycles and reentrancy in AMR graphs. We explore this idea and introduce a greedy left-to-right non-projective transition-based parser. At each parsing configuration, an oracle decides whether to create a concept or whether to connect a pair of existing concepts. The algorithm handles reentrancy and arbitrary cycles natively, i.e. within the transition system itself. The model is evaluated on the LDC2015E86 corpus, obtaining results close to the state of the art, including a Smatch of 64\%, and showing good behavior on reentrant edges.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Vilares
+Author{1}{Email}#=%=#david.vilares@udc.es
+Author{1}{Affiliation}#=%=#Universidade da Coruña
+Author{2}{Firstname}#=%=#Carlos
+Author{2}{Lastname}#=%=#Gómez-Rodríguez
+Author{2}{Email}#=%=#cgomezr@udc.es
+Author{2}{Affiliation}#=%=#Universidade da Coruña
+
+==========

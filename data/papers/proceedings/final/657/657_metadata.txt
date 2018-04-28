@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#657
+FinalPaperTitle#=%=#ELDEN: Improved Entity Linking Using Densified Knowledge Graphs
+ShortPaperTitle#=%=#ELDEN: Improved Entity Linking Using Densified Knowledge Graphs
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Priya Radhakrishnan
+JobTitle#==#
+Organization#==#IIIT Hyderabad, India
+Abstract#==#Entity Linking (EL) systems aim to automatically map mentions of an entity in text to the
+corresponding entity in a Knowledge Graph (KG). Degree of connectivity of an entity in
+the KG directly affects an EL system’s ability to correctly link mentions in text to the
+entity in KG. This causes many EL systems to perform well for entities well connected
+to other entities in KG, bringing into focus the role of KG density in EL. In this paper,
+we propose Entity Linking using Densified Knowledge Graphs (ELDEN). ELDEN is an
+EL system which first densifies the KG with co-occurrence statistics from a large text cor-
+pus, and then uses the densified KG to train entity embeddings. Entity similarity measured
+using these trained entity embeddings result in improved EL. ELDEN outperforms state-
+of-the-art EL system on benchmark datasets. Due to such densification, ELDEN performs
+well for sparsely connected entities in the KG too. ELDEN’s approach is simple, yet effec-
+tive. We have made ELDEN’s code and data publicly available.
+Author{1}{Firstname}#=%=#Priya
+Author{1}{Lastname}#=%=#Radhakrishnan
+Author{1}{Email}#=%=#priya.r@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{2}{Firstname}#=%=#Partha
+Author{2}{Lastname}#=%=#Talukdar
+Author{2}{Email}#=%=#ppt@cds.iisc.ac.in
+Author{2}{Affiliation}#=%=#Indian Institute of Science
+Author{3}{Firstname}#=%=#Vasudeva
+Author{3}{Lastname}#=%=#Varma
+Author{3}{Email}#=%=#vv@iiit.ac.in
+Author{3}{Affiliation}#=%=#IIIT Hyderabad
+
+==========

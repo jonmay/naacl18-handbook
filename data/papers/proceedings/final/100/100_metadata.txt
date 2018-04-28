@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#100
+FinalPaperTitle#=%=#DeepAlignment: Unsupervised Ontology Matching with Refined Word Vectors
+ShortPaperTitle#=%=#DeepAlignment: Unsupervised Ontology Matching with Refined Word Vectors
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Prodromos Kolyvakis
+JobTitle#==#PhD Student
+Organization#==#École polytechnique fédérale de Lausanne, Route Cantonale, 1015 Lausanne, VD, Switzerland
+Abstract#==#Ontologies compartmentalize types and relations in a target domain and provide
+the semantic backbone needed for a plethora of practical applications. Very
+often different ontologies are developed independently for the same domain.
+Such “parallel” ontologies raise the need for a process that will establish
+alignments between their entities in order to unify and extend the existing
+knowledge. In this work, we present a novel entity alignment method which we
+dub DeepAlignment. DeepAlignment refines pre-trained word vectors aiming at
+deriving ontological entity descriptions which are tailored to the ontology
+matching task. The absence of explicit information relevant to the ontology
+matching task during the refinement process makes DeepAlignment completely
+unsupervised. We empirically evaluate our method using standard ontology
+matching benchmarks. We present significant performance improvements over the
+current state-of-the-art, demonstrating the advantages that representation
+learning techniques bring to ontology matching.
+Author{1}{Firstname}#=%=#Prodromos
+Author{1}{Lastname}#=%=#Kolyvakis
+Author{1}{Email}#=%=#prodromos.kolyvakis@epfl.ch
+Author{1}{Affiliation}#=%=#École polytechnique fédérale de Lausanne (EPFL), Lausanne, Switzerland
+Author{2}{Firstname}#=%=#Alexandros
+Author{2}{Lastname}#=%=#Kalousis
+Author{2}{Email}#=%=#alexandros.kalousis@unige.ch
+Author{2}{Affiliation}#=%=#Business Informatics Department, University of Applied Sciences, Western Switzerland, Carouge, HES-SO, Switzerland
+Author{3}{Firstname}#=%=#Dimitris
+Author{3}{Lastname}#=%=#Kiritsis
+Author{3}{Email}#=%=#dimitris.kiritsis@epfl.ch
+Author{3}{Affiliation}#=%=#École polytechnique fédérale de Lausanne (EPFL), Lausanne, Switzerland
+
+==========

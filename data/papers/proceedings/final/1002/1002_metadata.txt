@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#1002
+FinalPaperTitle#=%=#Visual Referring Expression Recognition: What Do Systems Actually Learn?
+ShortPaperTitle#=%=#Visual Referring Expression Recognition: What Do Systems Actually Learn?
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Volkan Cirik
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#We present an empirical analysis of state-of-the-art systems for referring expression recognition -- the task of identifying the object in an image referred to by a natural language expression -- with the goal of gaining insight into how these systems reason about language and vision. Surprisingly, we find strong evidence that even sophisticated and linguistically-motivated models for this task may ignore linguistic structure, instead relying on shallow correlations introduced by unintended biases in the data selection and annotation process. For example, we show that a system trained and tested on the input image without the input referring expression can achieve a precision of 71.2% in top-2 predictions.
+Furthermore, a system that predicts only the object category given the input can achieve a precision of 84.2% in top-2 predictions. These surprisingly positive results for what should be deficient prediction scenarios suggest that careful analysis of what our models are learning -- and further, how our data is constructed -- is critical as we seek to make substantive progress on grounded language tasks.
+Author{1}{Firstname}#=%=#Volkan
+Author{1}{Lastname}#=%=#Cirik
+Author{1}{Email}#=%=#vcirik@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Louis-Philippe
+Author{2}{Lastname}#=%=#Morency
+Author{2}{Email}#=%=#morency@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Taylor
+Author{3}{Lastname}#=%=#Berg-Kirkpatrick
+Author{3}{Email}#=%=#tberg@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1108
+FinalPaperTitle#=%=#Automatic Dialogue Generation with Expressed Emotions
+ShortPaperTitle#=%=#Automatic Dialogue Generation with Expressed Emotions
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chenyang Huang
+JobTitle#==#
+Organization#==#University of Alberta, 116 St & 85 Ave, Edmonton, AB T6G 2R3
+Abstract#==#Despite myriad efforts in the literature designing neural dialogue generation systems in recent years, very few consider putting restrictions on the response itself. They learn from collections of past responses and generate one based on a given utterance without considering, speech act, desired style or emotion to be expressed. In this research, we address the problem of forcing the dialogue generation to express emotion. We present three models that either concatenate the desired emotion with the source input during the learning, or push the emotion in the decoder. The results, evaluated with an emotion tagger, are encouraging with all three models, but present better outcome and promise with our model that adds the emotion vector in the decoder.
+Author{1}{Firstname}#=%=#Chenyang
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#chuang8@ualberta.ca
+Author{1}{Affiliation}#=%=#Dept. of Computing Science, University of Alberta
+Author{2}{Firstname}#=%=#Osmar
+Author{2}{Lastname}#=%=#Zaiane
+Author{2}{Email}#=%=#zaiane@cs.ualberta.ca
+Author{2}{Affiliation}#=%=#University of Alberta
+Author{3}{Firstname}#=%=#Amine
+Author{3}{Lastname}#=%=#Trabelsi
+Author{3}{Email}#=%=#atrabels@ualberta.ca
+Author{3}{Affiliation}#=%=#University of Alberta
+Author{4}{Firstname}#=%=#Nouha
+Author{4}{Lastname}#=%=#Dziri
+Author{4}{Email}#=%=#dziri@ualberta.ca
+Author{4}{Affiliation}#=%=#University of Alberta
+
+==========

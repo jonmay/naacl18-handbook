@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#621
+FinalPaperTitle#=%=#LSDSCC: a Large Scale Domain-Specific Conversational Corpus for Response Generation with Diversity Oriented Evaluation Metrics
+ShortPaperTitle#=%=#A Large Scale Domain-Specific Conversational Corpus for NRG with Diversity Evaluation Metrics
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhen Xu
+JobTitle#==#
+Organization#==#School of Computer Science and Technology, Harbin Institute of Technology, Harbin
+92 West Dazhi Street,Nan Gang District,Harbin, Heilongjiang Province, China
+Abstract#==#It has been proven that automatic conversational agents can be built up using the Endto-End Neural Response Generation (NRG) framework, and such a data-driven methodology requires a large number of dialog pairs for model training and reasonable evaluation metrics for testing. This paper proposes a Large Scale Domain-Specific Conversational Corpus (LSDSCC) composed of high-quality queryresponse pairs extracted from the domainspecific online forum, with thorough preprocessing and cleansing procedures. Also, a testing set, including multiple diverse responses annotated for each query, is constructed, and on this basis, the metrics for measuring the diversity of generated results are further presented. We evaluate the performances of neural dialog models with the widely applied diversity boosting strategies on the proposed dataset. The experimental results have shown that our proposed corpus can be taken as a new benchmark dataset for the NRG task, and the presented metrics are promising to guide the optimization of NRG models by quantifying the diversity of the generated responses reasonably.
+Author{1}{Firstname}#=%=#Zhen
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#zxu@insun.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Nan
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Email}#=%=#nanjiang@buaa.edu.cn
+Author{2}{Affiliation}#=%=#School of Computer Science and Engineering, Beihang University, China
+Author{3}{Firstname}#=%=#Bingquan
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#liubq@hit.edu.cn
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology
+Author{4}{Firstname}#=%=#Wenge
+Author{4}{Lastname}#=%=#Rong
+Author{4}{Email}#=%=#w.rong@buaa.edu.cn
+Author{4}{Affiliation}#=%=#Beihang University
+Author{5}{Firstname}#=%=#Bowen
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Email}#=%=#wubowen@trio.ai
+Author{5}{Affiliation}#=%=#Tricorn (Beijing) Technology Co. LTD
+Author{6}{Firstname}#=%=#Baoxun
+Author{6}{Lastname}#=%=#Wang
+Author{6}{Email}#=%=#wangbaoxun@trio.ai
+Author{6}{Affiliation}#=%=#Tricorn (Beijing) Technology Co., Ltd
+Author{7}{Firstname}#=%=#Zhuoran
+Author{7}{Lastname}#=%=#Wang
+Author{7}{Email}#=%=#wangzhuoran@trio.ai
+Author{7}{Affiliation}#=%=#Tricorn (Beijing) Technology Co., Ltd.
+Author{8}{Firstname}#=%=#Xiaolong
+Author{8}{Lastname}#=%=#Wang
+Author{8}{Email}#=%=#wangxl@insun.hit.edu.cn
+Author{8}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

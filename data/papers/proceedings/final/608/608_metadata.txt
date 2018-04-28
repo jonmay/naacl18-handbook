@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#608
+FinalPaperTitle#=%=#Identifying Semantic Divergences in Parallel Text without Annotations
+ShortPaperTitle#=%=#Identifying Semantic Divergences in Parallel Text without Annotations
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Yogarshi Vyas
+JobTitle#==#
+Organization#==#University of Maryland, College Park MD 20742, USA
+Abstract#==#Recognizing that even correct translations are not always semantically
+equivalent, we automatically detect meaning divergences in parallel sentence
+pairs with a deep neural model of bilingual semantic similarity which can be
+trained for any parallel corpus without any  manual annotation. We show that our semantic model
+detects divergences more accurately than models based on surface features
+derived from word alignments, and that these divergences matter for neural machine translation.
+Author{1}{Firstname}#=%=#Yogarshi
+Author{1}{Lastname}#=%=#Vyas
+Author{1}{Email}#=%=#yogarshi@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Xing
+Author{2}{Lastname}#=%=#Niu
+Author{2}{Email}#=%=#xingniu@cs.umd.edu
+Author{2}{Affiliation}#=%=#University of Maryland
+Author{3}{Firstname}#=%=#Marine
+Author{3}{Lastname}#=%=#Carpuat
+Author{3}{Email}#=%=#marine@cs.umd.edu
+Author{3}{Affiliation}#=%=#University of Maryland
+
+==========

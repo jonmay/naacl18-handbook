@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#309
+FinalPaperTitle#=%=#Variable Typing: Assigning Meaning to Variables in Mathematical Text
+ShortPaperTitle#=%=#Variable Typing: Assigning Meaning to Variables in Mathematical Text
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yiannos Stathopoulos
+JobTitle#==#
+Organization#==#Department of Computer Science and Technology, University of Cambridge
+Abstract#==#Information about the meaning of mathematical variables in text is useful in NLP/IR tasks such as symbol disambiguation, topic modeling and mathematical information retrieval (MIR). We introduce \emph{variable typing}, the task of assigning one \emph{mathematical type} (multi-word technical terms referring to mathematical concepts) to each variable in a sentence of mathematical text. As part of this work, we also introduce a new annotated data set composed of 33,524 data points extracted from scientific documents published on arXiv. Our intrinsic evaluation demonstrates that our data set is sufficient to successfully train and evaluate current classifiers from three different model architectures. The best performing model is evaluated on an extrinsic task: MIR, by producing a \emph{typed formula index}. Our results show that the best performing MIR models make use of our typed index, compared to a formula index only containing raw symbols, thereby demonstrating the usefulness of variable typing.
+Author{1}{Firstname}#=%=#Yiannos
+Author{1}{Lastname}#=%=#Stathopoulos
+Author{1}{Email}#=%=#yas23@cam.ac.uk
+Author{1}{Affiliation}#=%=#Computer Laboratory, University of Cambridge
+Author{2}{Firstname}#=%=#Simon
+Author{2}{Lastname}#=%=#Baker
+Author{2}{Email}#=%=#simon.baker.gen@gmail.com
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Marek
+Author{3}{Lastname}#=%=#Rei
+Author{3}{Email}#=%=#marek.rei@cl.cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Simone
+Author{4}{Lastname}#=%=#Teufel
+Author{4}{Email}#=%=#simone.teufel@googlemail.com
+Author{4}{Affiliation}#=%=#Cambridge University
+
+==========

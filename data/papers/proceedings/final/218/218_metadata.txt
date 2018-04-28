@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#218
+FinalPaperTitle#=%=#Dialogue Learning with Human Teaching and Feedback in End-to-End Trainable Task-Oriented Dialogue Systems
+ShortPaperTitle#=%=#Dialogue Learning with Human Teaching and Feedback in E2E Trainable Task-Oriented Dialogue Systems
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Bing Liu
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213, USA
+Abstract#==#In this work, we present a hybrid learning method for training task-oriented dialogue systems through online user interactions. Popular methods for learning task-oriented dialogues include applying reinforcement learning with user feedback on supervised pre-training models. Efficiency of such learning method may suffer from the mismatch of dialogue state distribution between offline training and online interactive learning stages. To address this challenge, we propose a hybrid imitation and reinforcement learning method, with which a dialogue agent can effectively learn from its interaction with users by learning from human teaching and feedback. We design a neural network based task-oriented dialogue agent that can be optimized end-to-end with the proposed learning method. Experimental results show that our end-to-end dialogue agent can learn effectively from the mistake it makes via imitation learning from user teaching. Applying reinforcement learning with user feedback after the imitation learning stage further improves the agent's capability in successfully completing a task.
+Author{1}{Firstname}#=%=#Bing
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liubing@cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Gokhan
+Author{2}{Lastname}#=%=#Tur
+Author{2}{Email}#=%=#gokhan.tur@ieee.org
+Author{2}{Affiliation}#=%=#Uber
+Author{3}{Firstname}#=%=#Dilek
+Author{3}{Lastname}#=%=#Hakkani-Tur
+Author{3}{Email}#=%=#dilekh@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Pararth
+Author{4}{Lastname}#=%=#Shah
+Author{4}{Email}#=%=#pararth@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Larry
+Author{5}{Lastname}#=%=#Heck
+Author{5}{Email}#=%=#larry.heck@ieee.org
+Author{5}{Affiliation}#=%=#Google
+
+==========

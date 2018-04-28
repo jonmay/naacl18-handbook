@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#580
+FinalPaperTitle#=%=#What's Going On in Neural Constituency Parsers? An Analysis
+ShortPaperTitle#=%=#What's Going On in Neural Constituency Parsers? An Analysis
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#David Gaddy
+JobTitle#==#
+Organization#==#Computer Science Division
+University of California, Berkeley
+387 Soda Hall
+Berkeley, CA 94720-1776
+Abstract#==#A number of differences have emerged between modern and classic approaches to constituency parsing in recent years, with structural components like grammars and feature-rich lexicons becoming less central while recurrent neural network representations rise in popularity. The goal of this work is to analyze the extent to which information provided directly by the model structure in classical systems is still being captured by neural methods. To this end, we propose a high-performance neural model (92.08 F1 on PTB) that is representative of recent work and perform a series of investigative experiments. We find that our model implicitly learns to encode much of the same information that was explicitly provided by grammars and lexicons in the past, indicating that this scaffolding can largely be subsumed by powerful general-purpose neural machinery.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Gaddy
+Author{1}{Email}#=%=#dgaddy@berkeley.edu
+Author{1}{Affiliation}#=%=#University of California, Berkeley
+Author{2}{Firstname}#=%=#Mitchell
+Author{2}{Lastname}#=%=#Stern
+Author{2}{Email}#=%=#mitchell@berkeley.edu
+Author{2}{Affiliation}#=%=#UC Berkeley
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Klein
+Author{3}{Email}#=%=#klein@cs.berkeley.edu
+Author{3}{Affiliation}#=%=#UC Berkeley
+
+==========

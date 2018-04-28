@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#550
+FinalPaperTitle#=%=#Distributional Inclusion Vector Embedding for Unsupervised Hypernymy Detection
+ShortPaperTitle#=%=#Distributional Inclusion Vector Embedding for Unsupervised Hypernymy Detection
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Haw-Shiuan Chang
+JobTitle#==#
+Organization#==#College of Information and Computer Sciences, University of Massachusetts, 140 Governors Dr., Amherst, MA 01003
+Abstract#==#Modeling hypernymy, such as poodle is-a dog, is an important generalization aid to many NLP tasks, such as entailment, relation extraction, and question answering. Supervised learning from labeled hypernym sources, such as WordNet, limits the coverage of these models, which can be addressed by learning hypernyms from unlabeled text. Existing unsupervised methods either do not scale to large vocabularies or yield unacceptably poor accuracy.  This paper introduces distributional inclusion vector embedding (DIVE), a simple-to-implement unsupervised method of hypernym discovery via per-word non-negative vector embeddings which preserve the inclusion property of word contexts. In experimental evaluations more comprehensive than any previous literature of which we are aware---evaluating on 11 datasets using multiple existing as well as newly proposed scoring functions---we find that our method provides up to double the precision of previous unsupervised methods, and the highest average performance, using a much more compact word representation, and yielding many new state-of-the-art results.
+Author{1}{Firstname}#=%=#Haw-Shiuan
+Author{1}{Lastname}#=%=#Chang
+Author{1}{Email}#=%=#hschang@cs.umass.edu
+Author{1}{Affiliation}#=%=#UMass Amherst
+Author{2}{Firstname}#=%=#Ziyun
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#wang-zy14@mails.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Luke
+Author{3}{Lastname}#=%=#Vilnis
+Author{3}{Email}#=%=#luke@cs.umass.edu
+Author{3}{Affiliation}#=%=#UMass Amherst
+Author{4}{Firstname}#=%=#Andrew
+Author{4}{Lastname}#=%=#McCallum
+Author{4}{Email}#=%=#mccallum@cs.umass.edu
+Author{4}{Affiliation}#=%=#UMass Amherst
+
+==========

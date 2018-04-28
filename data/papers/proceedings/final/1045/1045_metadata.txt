@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1045
+FinalPaperTitle#=%=#Multi-Reward Reinforced Summarization with Saliency and Entailment
+ShortPaperTitle#=%=#Multi-Reward Reinforced Summarization with Saliency and Entailment
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Mohit Bansal
+JobTitle#==#
+Organization#==#UNC Chapel Hill
+Abstract#==#Abstractive text summarization is the task of compressing and rewriting a long document into a short summary while maintaining saliency, directed logical entailment, and non-redundancy. In this work, we address these three important aspects of a good summary via a reinforcement learning approach with two novel reward functions: ROUGESal and Entail, on top of a coverage-based baseline. The ROUGESal reward modifies the ROUGE metric by up-weighting the salient phrases/words detected via a keyphrase classifier. The Entail reward gives high (length-normalized) scores to logically-entailed summaries using an entailment classifier. Further, we show superior performance improvement when these rewards are combined with traditional metric (ROUGE) based rewards, via our novel and effective multi-reward approach of optimizing multiple rewards simultaneously in alternate mini-batches. Our method achieves the new state-of-the-art results on CNN/Daily Mail dataset as well as strong improvements in a test-only transfer setup on DUC-2002.
+Author{1}{Firstname}#=%=#Ramakanth
+Author{1}{Lastname}#=%=#Pasunuru
+Author{1}{Email}#=%=#ram@cs.unc.edu
+Author{1}{Affiliation}#=%=#UNC Chapel Hill
+Author{2}{Firstname}#=%=#Mohit
+Author{2}{Lastname}#=%=#Bansal
+Author{2}{Email}#=%=#mbansal@cs.unc.edu
+Author{2}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+
+==========

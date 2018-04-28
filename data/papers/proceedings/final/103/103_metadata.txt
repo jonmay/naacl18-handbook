@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#103
+FinalPaperTitle#=%=#Reusing Weights in Subword-aware Neural Language Models
+ShortPaperTitle#=%=#Reusing Weights in Subword-aware Neural Language Models
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhenisbek Assylbekov
+JobTitle#==#
+Organization#==#53 Kabanbay Batyr Ave, Block 7, Office 7237,
+Astana, Republic of Kazakhstan, 010000
+School of Science and Technology, Nazarbayev University
+Abstract#==#We propose several ways of reusing  subword embeddings and other weights in
+subword-aware neural language models. The proposed techniques do not benefit a
+competitive character-aware model, but some of them improve the performance of
+syllable- and morpheme-aware models while showing significant reductions in
+model sizes. We discover a simple hands-on principle: in a multi-layer input
+embedding model, layers should be tied consecutively bottom-up if reused at
+output. Our best morpheme-aware model with properly reused weights beats the
+competitive word-level model by a large margin across multiple languages and
+has 20%-87% fewer parameters.
+Author{1}{Firstname}#=%=#Zhenisbek
+Author{1}{Lastname}#=%=#Assylbekov
+Author{1}{Email}#=%=#zhassylbekov@nu.edu.kz
+Author{1}{Affiliation}#=%=#Nazarbayev University
+Author{2}{Firstname}#=%=#Rustem
+Author{2}{Lastname}#=%=#Takhanov
+Author{2}{Email}#=%=#rustem.takhanov@nu.edu.kz
+Author{2}{Affiliation}#=%=#Nazarbayev University
+
+==========

@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#916
+FinalPaperTitle#=%=#Natural Language Generation by Hierarchical Decoding with Linguistic Patterns
+ShortPaperTitle#=%=#Natural Language Generation by Hierarchical Decoding with Linguistic Patterns
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Shang-Yu Su
+JobTitle#==#
+Organization#==#National Taiwan University
+No. 1, Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan
+Abstract#==#Natural language generation (NLG) is a critical component in spoken dialogue
+systems. 
+Classic NLG can be divided into two phases: (1) sentence planning: deciding on
+the overall sentence structure, (2) surface realization: determining specific
+word forms and flattening the sentence structure into a string. 
+Many simple NLG models are based on recurrent neural networks (RNN) and
+sequence-to-sequence (seq2seq) model, which basically contains a
+encoder-decoder structure; these NLG models generate sentences from scratch by
+jointly optimizing sentence planning and surface realization using a simple
+cross entropy loss training criterion.
+However, the simple encoder-decoder architecture usually suffers from
+generating complex and long sentences, because the decoder has to learn all
+grammar and diction knowledge.
+This paper introduces a hierarchical decoding NLG model based on linguistic
+patterns in different levels, and shows that the proposed method outperforms
+the traditional one with a smaller model size.
+Furthermore, the design of the hierarchical decoding is flexible and
+easily-extendible in various NLG systems.
+Author{1}{Firstname}#=%=#Shang-Yu
+Author{1}{Lastname}#=%=#Su
+Author{1}{Email}#=%=#shangyusu.tw@gmail.com
+Author{1}{Affiliation}#=%=#National Taiwan University
+Author{2}{Firstname}#=%=#Kai-Ling
+Author{2}{Lastname}#=%=#Lo
+Author{2}{Email}#=%=#b04902010@ntu.edu.tw
+Author{2}{Affiliation}#=%=#National Taiwan University
+Author{3}{Firstname}#=%=#Yi Ting
+Author{3}{Lastname}#=%=#Yeh
+Author{3}{Email}#=%=#b03902071@ntu.edu.tw
+Author{3}{Affiliation}#=%=#National Taiwan University
+Author{4}{Firstname}#=%=#Yun-Nung
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#y.v.chen@ieee.org
+Author{4}{Affiliation}#=%=#National Taiwan University
+
+==========

@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#459
+FinalPaperTitle#=%=#QuickEdit: Editing Text \& Translations by Crossing Words Out
+ShortPaperTitle#=%=#QuickEdit: Editing Text \& Translations by Crossing Words Out
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#David Grangier
+JobTitle#==#
+Organization#==#Facebook 
+1 Hacker Way, Menlo Park, 94025
+Abstract#==#We propose a framework for computer-assisted text editing. It applies to translation post-editing and to paraphrasing. Our proposal relies on very simple interactions: a human editor modifies a sentence by marking tokens they would like the system to change. Our model then generates a new sentence which reformulates the initial sentence by avoiding marked words. The approach builds upon neural sequence-to-sequence modeling and introduces a neural network which takes as input a sentence along with change markers. Our model is trained on translation bitext by simulating post-edits. We demonstrate the advantage of our approach for translation post-editing through simulated post-edits. We also evaluate our model for paraphrasing through a user study.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Grangier
+Author{1}{Email}#=%=#grangier@fb.com
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Auli
+Author{2}{Email}#=%=#michael.auli@gmail.com
+Author{2}{Affiliation}#=%=#Facebook AI Research
+
+==========

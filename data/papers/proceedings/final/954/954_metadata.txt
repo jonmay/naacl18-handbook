@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#954
+FinalPaperTitle#=%=#Text Segmentation as a Supervised Learning Task
+ShortPaperTitle#=%=#Text Segmentation as a Supervised Learning Task
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Omri Koshorek
+JobTitle#==#
+Organization#==#Tel Aviv Univeristy
+Abstract#==#Text segmentation, the task of dividing a document into contiguous segments based on its semantic structure, is a longstanding challenge in language understanding. Previous work on text segmentation focused on unsupervised methods such as clustering or graph search, due to the paucity in labeled data. In this work, we formulate text segmentation as a supervised learning problem, and present a large new dataset for text segmentation that is automatically extracted and labeled from Wikipedia. Moreover, we develop a segmentation model based on this dataset and show that it generalizes well to unseen natural text.
+Author{1}{Firstname}#=%=#Omri
+Author{1}{Lastname}#=%=#Koshorek
+Author{1}{Email}#=%=#omri.koshorek@cs.tau.ac.il
+Author{1}{Affiliation}#=%=#Tel Aviv University
+Author{2}{Firstname}#=%=#Adir
+Author{2}{Lastname}#=%=#Cohen
+Author{2}{Email}#=%=#adir.cohen@cs.tau.ac.il
+Author{2}{Affiliation}#=%=#Tel Aviv University
+Author{3}{Firstname}#=%=#Noam
+Author{3}{Lastname}#=%=#Mor
+Author{3}{Email}#=%=#noammor@post.tau.ac.il
+Author{3}{Affiliation}#=%=#Tel Aviv University
+Author{4}{Firstname}#=%=#Michael
+Author{4}{Lastname}#=%=#Rotman
+Author{4}{Email}#=%=#rotmanmi@post.tau.ac.il
+Author{4}{Affiliation}#=%=#Tel Aviv University
+Author{5}{Firstname}#=%=#Jonathan
+Author{5}{Lastname}#=%=#Berant
+Author{5}{Email}#=%=#joberant@cs.tau.ac.il
+Author{5}{Affiliation}#=%=#Tel Aviv University
+
+==========

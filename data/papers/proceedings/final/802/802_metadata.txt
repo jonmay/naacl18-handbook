@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#802
+FinalPaperTitle#=%=#Automated Paraphrase Lattice Creation for HyTER Machine Translation Evaluation
+ShortPaperTitle#=%=#Automated Paraphrase Lattice Creation for HyTER Machine Translation Evaluation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Marianna Apidianaki
+JobTitle#==#
+Organization#==#LIMSI, CNRS, Campus universitaire bât 508, Rue John von Neumann, F-91405 Orsay cedex, France
+
+Department of Computer and Information Science, University of Pennsylvania, 3330 Walnut St, Philadelphia, PA 19104, USA
+Abstract#==#We propose a variant of a well-known machine translation (MT) evaluation metric, HyTER (Dreyer and Marcu, 2012), which exploits reference translations enriched with meaning equivalent expressions. The original HyTER metric relied on hand-crafted paraphrase networks which restricted its applicability to new data. We test, for the first time, HyTER with automatically built paraphrase lattices. We show that although the metric obtains good results on small and carefully curated data with both manually and automatically selected substitutes, it achieves medium performance on much larger and noisier datasets, demonstrating the limits of the metric for tuning and evaluation of current MT systems.
+Author{1}{Firstname}#=%=#Marianna
+Author{1}{Lastname}#=%=#Apidianaki
+Author{1}{Email}#=%=#marianna.apidianaki@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS, University Paris-Saclay
+Author{2}{Firstname}#=%=#Guillaume
+Author{2}{Lastname}#=%=#Wisniewski
+Author{2}{Email}#=%=#guillaume.wisniewski@limsi.fr
+Author{2}{Affiliation}#=%=#Univ. Paris Sud and LIMSI-CNRS
+Author{3}{Firstname}#=%=#Anne
+Author{3}{Lastname}#=%=#Cocos
+Author{3}{Email}#=%=#acocos@seas.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+Author{4}{Firstname}#=%=#Chris
+Author{4}{Lastname}#=%=#Callison-Burch
+Author{4}{Email}#=%=#ccb@cis.upenn.edu
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+
+==========

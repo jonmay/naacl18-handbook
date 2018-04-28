@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#648
+FinalPaperTitle#=%=#Neural Particle Smoothing for Sampling from Conditional Sequence Models
+ShortPaperTitle#=%=#Neural Particle Smoothing for Sampling from Conditional Sequence Models
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Jason Eisner, Chu-Cheng Lin
+JobTitle#==#
+Organization#==#Department of Computer Science
+Johns Hopkins University
+Baltimore, MD 21218
+USA
+Abstract#==#We introduce neural particle smoothing, a sequential Monte Carlo method for
+sampling annotations of an input string from a given probability model.  In
+contrast to conventional particle filtering algorithms, we train a  proposal
+distribution that looks ahead to the end of the input string by means of a
+right-to-left LSTM.  We demonstrate that this innovation can improve the
+quality of the sample.                          To motivate our formal choices, we
+explain
+how
+neural
+transduction models and our sampler can be viewed as low-dimensional but
+nonlinear approximations to working with HMMs over very large state spaces.
+Author{1}{Firstname}#=%=#Chu-Cheng
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#clin103@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Jason
+Author{2}{Lastname}#=%=#Eisner
+Author{2}{Email}#=%=#jason@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+
+==========

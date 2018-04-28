@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#744
+FinalPaperTitle#=%=#A Dynamic Oracle for Linear-Time 2-Planar Dependency Parsing
+ShortPaperTitle#=%=#A Dynamic Oracle for Linear-Time 2-Planar Dependency Parsing
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Daniel Fernández-González
+JobTitle#==#
+Organization#==#Universidade da Coruña
+FASTPARSE Lab, LyS Research Group, Departamento de Computación
+Campus de Elviña, s/n, 15071 A Coruña, Spain
+Abstract#==#We propose an efficient dynamic oracle for training the 2-Planar
+transition-based parser, a linear-time parser with over 99% coverage on
+non-projective syntactic corpora. This novel approach outperforms the static
+training strategy in the vast
+majority of languages tested and scored better on most datasets than the
+arc-hybrid parser enhanced with the Swap transition, which can handle
+unrestricted non-projectivity.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Fernández-González
+Author{1}{Email}#=%=#danifg@uvigo.es
+Author{1}{Affiliation}#=%=#Universidade de Vigo
+Author{2}{Firstname}#=%=#Carlos
+Author{2}{Lastname}#=%=#Gómez-Rodríguez
+Author{2}{Email}#=%=#cgomezr@udc.es
+Author{2}{Affiliation}#=%=#Universidade da Coruña
+
+==========

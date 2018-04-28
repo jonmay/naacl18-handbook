@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#430
+FinalPaperTitle#=%=#Tied Multitask Learning for Neural Speech Translation
+ShortPaperTitle#=%=#Tied Multitask Learning for Neural Speech Translation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Antonios Anastasopoulos
+JobTitle#==#
+Organization#==#University of Notre Dame
+Notre Dame, IN 46556
+Abstract#==#We explore multitask models for neural translation of speech, augmenting them
+in order to reflect two intuitive notions. First, we introduce a model where
+the second task decoder receives information from the decoder of the first
+task, since higher-level intermediate representations should provide useful
+information. Second, we apply regularization that encourages transitivity and
+invertibility. We show that the application of these notions on jointly trained
+models improves performance on the tasks of low-resource speech transcription
+and translation. It also leads to better performance when using attention
+information for word discovery over unsegmented input.
+Author{1}{Firstname}#=%=#Antonios
+Author{1}{Lastname}#=%=#Anastasopoulos
+Author{1}{Email}#=%=#aanastas@nd.edu
+Author{1}{Affiliation}#=%=#University of Notre Dame
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Chiang
+Author{2}{Email}#=%=#dchiang@nd.edu
+Author{2}{Affiliation}#=%=#University of Notre Dame
+
+==========

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#449
+FinalPaperTitle#=%=#Spotting Spurious Data with Neural Networks
+ShortPaperTitle#=%=#Spotting Spurious Data with Neural Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hadi Amiri
+JobTitle#==#
+Organization#==#Harvard Medical School
+Abstract#==#Automatic identification of spurious instances (those with potentially wrong labels in datasets) can improve the quality of existing language resources, especially when annotations are obtained through crowdsourcing or automatically generated based on coded rankings. In this paper, we present effective approaches inspired by queueing theory and psychology of learning to automatically identify spurious instances in datasets. Our approaches discriminate instances based on their "difficulty to learn," determined by a downstream learner. Our methods can be applied to any dataset assuming the existence of a neural network model for the target task of the dataset. Our best approach outperforms competing state-of-the-art baselines and has a MAP of 0.85 and 0.22 in identifying spurious instances in synthetic and carefully-crowdsourced real-world datasets respectively.
+Author{1}{Firstname}#=%=#Hadi
+Author{1}{Lastname}#=%=#Amiri
+Author{1}{Email}#=%=#amirieb@gmail.com
+Author{1}{Affiliation}#=%=#Harvard University
+Author{2}{Firstname}#=%=#Timothy
+Author{2}{Lastname}#=%=#Miller
+Author{2}{Email}#=%=#timothy.miller@childrens.harvard.edu
+Author{2}{Affiliation}#=%=#Boston Children's Hospital and Harvard Medical School
+Author{3}{Firstname}#=%=#Guergana
+Author{3}{Lastname}#=%=#Savova
+Author{3}{Email}#=%=#guergana.savova@childrens.harvard.edu
+Author{3}{Affiliation}#=%=#Harvard
+
+==========

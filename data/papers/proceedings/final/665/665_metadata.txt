@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#665
+FinalPaperTitle#=%=#Estimating Summary Quality with Pairwise Preferences
+ShortPaperTitle#=%=#Estimating Summary Quality with Pairwise Preferences
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Markus Zopf
+JobTitle#==#
+Organization#==#Research Training Group AIPHES / Knowledge Engineering Group
+Department of Computer Science, Technische Universität Darmstadt
+Hochschulstraße 10, 64289 Darmstadt, Germany
+Abstract#==#Automatic evaluation systems in the field of automatic summarization have been
+relying on the availability of gold standard summaries for over ten years. Gold
+standard summaries are expensive to obtain and often require the availability
+of domain experts to achieve high quality. In this paper, we propose an
+alternative evaluation approach based on pairwise preferences of sentences. In
+comparison to gold standard summaries, they are simpler and cheaper to obtain.
+In our experiments, we show that humans are able to provide useful feedback in
+the form of pairwise preferences. The new framework performs better than the
+three most popular versions of ROUGE with less expensive human input. We also
+show that our framework can reuse already available evaluation data and achieve
+even better results.
+Author{1}{Firstname}#=%=#Markus
+Author{1}{Lastname}#=%=#Zopf
+Author{1}{Email}#=%=#zopf@aiphes.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#Technische Universität Darmstadt
+
+==========

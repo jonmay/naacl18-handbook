@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#82
+FinalPaperTitle#=%=#Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks
+ShortPaperTitle#=%=#Strong Baselines for Simple Question Answering over Knowledge Graphs
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jimmy Lin
+JobTitle#==#
+Organization#==#University of Waterloo
+Waterloo, Ontario, Canada
+Abstract#==#We examine the problem of question answering over knowledge graphs, focusing on simple questions that can be answered by the lookup of a single fact. Adopting a straightforward decomposition of the problem into entity detection, entity linking, relation prediction, and evidence combination, we explore simple yet strong baselines. On the popular SimpleQuestions dataset, we find that basic LSTMs and GRUs plus a few heuristics yield accuracies that approach the state of the art, and techniques that do not use neural networks also perform reasonably well. These results show that gains from sophisticated deep learning techniques proposed in the literature are quite modest and that some previous models exhibit unnecessary complexity.
+Author{1}{Firstname}#=%=#Salman
+Author{1}{Lastname}#=%=#Mohammed
+Author{1}{Email}#=%=#salman.mohammed@uwaterloo.ca
+Author{1}{Affiliation}#=%=#University of Waterloo
+Author{2}{Firstname}#=%=#Peng
+Author{2}{Lastname}#=%=#Shi
+Author{2}{Email}#=%=#spone.2014@gmail.com
+Author{2}{Affiliation}#=%=#University of Waterloo
+Author{3}{Firstname}#=%=#Jimmy
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{3}{Affiliation}#=%=#University of Waterloo
+
+==========

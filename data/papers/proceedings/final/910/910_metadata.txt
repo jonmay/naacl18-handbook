@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#910
+FinalPaperTitle#=%=#A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents
+ShortPaperTitle#=%=#A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Arman Cohan
+JobTitle#==#
+Organization#==#Georgetown University
+3700 O St NW, Washington DC, 20057
+Abstract#==#Neural abstractive summarization models have led to promising results in summarizing relatively short documents. We propose the first model for abstractive summarization of single, longer-form documents (e.g., research papers). Our approach consists of a new hierarchical encoder that models the discourse structure of a document, and an attentive discourse-aware decoder to generate the summary.
+Empirical results on two large-scale datasets of scientific papers show that our model significantly outperforms state-of-the-art models.
+Author{1}{Firstname}#=%=#Arman
+Author{1}{Lastname}#=%=#Cohan
+Author{1}{Email}#=%=#arman@ir.cs.georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Franck
+Author{2}{Lastname}#=%=#Dernoncourt
+Author{2}{Email}#=%=#dernonco@adobe.com
+Author{2}{Affiliation}#=%=#Adobe Research
+Author{3}{Firstname}#=%=#Doo Soon
+Author{3}{Lastname}#=%=#Kim
+Author{3}{Email}#=%=#dkim@adobe.com
+Author{3}{Affiliation}#=%=#Adobe Research
+Author{4}{Firstname}#=%=#Trung
+Author{4}{Lastname}#=%=#Bui
+Author{4}{Email}#=%=#bui@adobe.com
+Author{4}{Affiliation}#=%=#Adobe Research
+Author{5}{Firstname}#=%=#Seokhwan
+Author{5}{Lastname}#=%=#Kim
+Author{5}{Email}#=%=#seokim@adobe.com
+Author{5}{Affiliation}#=%=#Adobe Research
+Author{6}{Firstname}#=%=#Walter
+Author{6}{Lastname}#=%=#Chang
+Author{6}{Email}#=%=#wachang@adobe.com
+Author{6}{Affiliation}#=%=#Adobe Research
+Author{7}{Firstname}#=%=#Nazli
+Author{7}{Lastname}#=%=#Goharian
+Author{7}{Email}#=%=#nazli@ir.cs.georgetown.edu
+Author{7}{Affiliation}#=%=#Georgetown University
+
+==========

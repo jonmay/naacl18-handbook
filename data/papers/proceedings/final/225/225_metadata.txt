@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#225
+FinalPaperTitle#=%=#Learning Visually Grounded Sentence Representations
+ShortPaperTitle#=%=#Learning Visually Grounded Sentence Representations
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Douwe Kiela
+JobTitle#==#
+Organization#==#Facebook AI Research
+Abstract#==#We investigate grounded sentence representations, where we train a sentence
+encoder to predict the image features of a given caption---i.e., we try to
+``imagine'' how a sentence would be depicted visually---and use the resultant
+features as sentence representations. We examine the quality of the learned
+representations on a variety of standard sentence representation quality
+benchmarks, showing improved performance for grounded models over non-grounded
+ones. In addition, we thoroughly analyze the extent to which grounding
+contributes to improved performance, and show that the system also learns
+improved word embeddings.
+Author{1}{Firstname}#=%=#Douwe
+Author{1}{Lastname}#=%=#Kiela
+Author{1}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Alexis
+Author{2}{Lastname}#=%=#Conneau
+Author{2}{Email}#=%=#aconneau@fb.com
+Author{2}{Affiliation}#=%=#FAIR Paris/University Le Mans
+Author{3}{Firstname}#=%=#Allan
+Author{3}{Lastname}#=%=#Jabri
+Author{3}{Email}#=%=#ajabri@gmail.com
+Author{3}{Affiliation}#=%=#Facebook AI Research
+Author{4}{Firstname}#=%=#Maximilian
+Author{4}{Lastname}#=%=#Nickel
+Author{4}{Email}#=%=#maxn@fb.com
+Author{4}{Affiliation}#=%=#Facebook AI Research
+
+==========

@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#517
+FinalPaperTitle#=%=#Tempo-Lexical Context Driven Word Embedding for Cross-Session Search Task Extraction
+ShortPaperTitle#=%=#Tempo-Lexical Context Driven Word Embedding for Cross-Session Search Task Extraction
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Procheta Sen
+JobTitle#==#
+Organization#==#Dublin City University
+Dublin, Ireland
+Abstract#==#Task extraction is the process of identifying search intents over a set of
+queries potentially spanning multiple search sessions. Most existing research
+on task extraction has focused on identifying tasks within a single session,
+where the notion of a session is defined by a fixed length time window. By
+contrast, in this work we seek to identify tasks that span across multiple
+sessions. To identify tasks, we conduct a global analysis of a query log in its
+entirety without restricting analysis to individual temporal windows.
+To
+capture inherent task semantics, 
+we represent queries as vectors in an abstract space. 
+We learn the embedding of query words in this space by leveraging the temporal
+and lexical contexts of queries.
+Embedded query vectors are then clustered into tasks. Experiments demonstrate
+that task extraction effectiveness is improved significantly with our proposed
+method of query vector embedding in comparison to existing approaches that make
+use of documents retrieved from a collection to estimate semantic similarities
+between queries.
+Author{1}{Firstname}#=%=#Procheta
+Author{1}{Lastname}#=%=#Sen
+Author{1}{Email}#=%=#senprocheta@gmail.com
+Author{1}{Affiliation}#=%=#Dublin City University
+Author{2}{Firstname}#=%=#Debasis
+Author{2}{Lastname}#=%=#Ganguly
+Author{2}{Email}#=%=#debforit@gmail.com
+Author{2}{Affiliation}#=%=#IBM Research Lab, Dublin
+Author{3}{Firstname}#=%=#Gareth
+Author{3}{Lastname}#=%=#Jones
+Author{3}{Email}#=%=#gareth.jones@computing.dcu.ie
+Author{3}{Affiliation}#=%=#Dublin City University
+
+==========

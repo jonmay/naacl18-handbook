@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#579
+FinalPaperTitle#=%=#A Melody-conditioned Lyrics Language Model
+ShortPaperTitle#=%=#A Melody-conditioned Lyrics Language Model
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kento Watanabe
+JobTitle#==#
+Organization#==#Tohoku University
+6-6-05 Aramaki Aza Aoba, Aobaku, Sendai, Miyagi 980-8579, Japan
+Abstract#==#This paper presents a novel, data-driven language model that produces entire lyrics for a given input melody.
+Previously proposed models for lyrics generation suffer from the inability of capturing the relationship between lyrics and melody partly due to the unavailability of lyrics-melody aligned data. 
+In this study, we first propose a new practical method for creating a large collection of lyrics-melody aligned data and then create a collection of 1,000 lyrics-melody pairs augmented with precise syllable-note alignments and word/sentence/paragraph boundaries.
+We then provide a quantitative analysis of the correlation between word/sentence/paragraph boundaries in lyrics and melodies.
+We then propose an RNN-based lyrics language model conditioned on a featurized melody.
+Experimental results show that the proposed model generates fluent lyrics while maintaining the compatibility between boundaries of lyrics and melody structures.
+Author{1}{Firstname}#=%=#Kento
+Author{1}{Lastname}#=%=#Watanabe
+Author{1}{Email}#=%=#kento.w@ecei.tohoku.ac.jp
+Author{1}{Affiliation}#=%=#Tohoku University
+Author{2}{Firstname}#=%=#Yuichiroh
+Author{2}{Lastname}#=%=#Matsubayashi
+Author{2}{Email}#=%=#y-matsu@ecei.tohoku.ac.jp
+Author{2}{Affiliation}#=%=#Tohoku University
+Author{3}{Firstname}#=%=#Satoru
+Author{3}{Lastname}#=%=#Fukayama
+Author{3}{Email}#=%=#s.fukayama@aist.go.jp
+Author{3}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology (AIST)
+Author{4}{Firstname}#=%=#Masataka
+Author{4}{Lastname}#=%=#Goto
+Author{4}{Email}#=%=#m.goto@aist.go.jp
+Author{4}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology (AIST)
+Author{5}{Firstname}#=%=#Kentaro
+Author{5}{Lastname}#=%=#Inui
+Author{5}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{5}{Affiliation}#=%=#Tohoku University / RIKEN AIP
+Author{6}{Firstname}#=%=#Tomoyasu
+Author{6}{Lastname}#=%=#Nakano
+Author{6}{Email}#=%=#t.nakano@aist.go.jp
+Author{6}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology (AIST)
+
+==========

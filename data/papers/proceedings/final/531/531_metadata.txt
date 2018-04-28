@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#531
+FinalPaperTitle#=%=#Efficient Sequence Learning with Group Recurrent Networks
+ShortPaperTitle#=%=#Efficient Sequence Learning with Group Recurrent Networks
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Fei Gao
+JobTitle#==#
+Organization#==#Microsoft Research
+No5. Danling Street, Haidian District, Beijing, China
+Abstract#==#Recurrent neural networks have achieved state-of-the-art results in many
+artificial intelligence tasks, such as language modeling, neural machine
+translation, speech recognition and so on. One of the key factors to these
+successes is big models. However, training such big models usually takes days
+or even weeks of time even if using tens of GPU cards. In this paper, we
+propose an efficient architecture to improve the efficiency of such RNN model
+training, which adopts the group strategy for recurrent layers, while
+exploiting the representation rearrangement strategy between layers as well as
+time steps. To demonstrate the advantages of our models, we conduct experiments
+on several datasets and tasks. The results show that our architecture achieves
+comparable or better accuracy comparing with baselines, with a much smaller
+number of parameters and at a much lower computational cost.
+Author{1}{Firstname}#=%=#Fei
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Email}#=%=#feiga@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#Lijun
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#wulijun3@mail2.sysu.edu.cn
+Author{2}{Affiliation}#=%=#Sun Yat-sen University
+Author{3}{Firstname}#=%=#Li
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Email}#=%=#lizo@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Tao
+Author{4}{Lastname}#=%=#Qin
+Author{4}{Email}#=%=#taoqin@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+Author{5}{Firstname}#=%=#Xueqi
+Author{5}{Lastname}#=%=#Cheng
+Author{5}{Email}#=%=#cxq@ict.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{6}{Firstname}#=%=#Tie-Yan
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Email}#=%=#tyliu@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1040
+FinalPaperTitle#=%=#The Computational Complexity of Distinctive Feature Minimization in Phonology
+ShortPaperTitle#=%=#The Computational Complexity of Distinctive Feature Minimization in Phonology
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mans Hulden
+JobTitle#==#
+Organization#==#University of Colorado
+Department of Linguistics
+Boulder, CO 80309
+Abstract#==#We analyze the complexity of the problem of determining whether a set of phonemes forms a natural class and, if so, that of finding the minimal feature specification for the class. A standard assumption in phonology is that finding a minimal feature specification is an automatic part of acquisition and generalization.  We find that the natural class decision problem is tractable (i.e. is in P), while the  minimization problem is not; the decision version of the problem which determines whether a natural class can be defined with $k$ features or less is NP-complete. We also show that, empirically, a greedy algorithm for finding minimal feature specifications will sometimes fail, and thus cannot be assumed to be the basis for human performance in solving the problem.
+Author{1}{Firstname}#=%=#Hubie
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#hubie@dcs.bbk.ac.uk
+Author{1}{Affiliation}#=%=#Birkbeck, University of London
+Author{2}{Firstname}#=%=#Mans
+Author{2}{Lastname}#=%=#Hulden
+Author{2}{Email}#=%=#mhulden@email.arizona.edu
+Author{2}{Affiliation}#=%=#University of Colorado Boulder
+
+==========

@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#276
+FinalPaperTitle#=%=#How Time Matters: Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues
+ShortPaperTitle#=%=#Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shang-Yu Su
+JobTitle#==#
+Organization#==#National Taiwan University
+No. 1, Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan
+Abstract#==#Spoken language understanding (SLU) is an essential component in conversational
+systems.
+Most SLU components treats each utterance independently, and then the following
+components aggregate the multi-turn information in the separate phases.
+In order to avoid error propagation and effectively utilize contexts, prior
+work leveraged history for contextual SLU.
+However, most previous models only paid attention to the related content in
+history utterances, ignoring their temporal information.
+In the dialogues, it is intuitive that the most recent utterances are more
+important than the least recent ones, in other words, time-aware attention
+should be in a decaying manner.
+Therefore, this paper designs and investigates various types of time-decay
+attention on the sentence-level and speaker-level, and further proposes a
+flexible universal time-decay attention mechanism. 
+The experiments on the benchmark Dialogue State Tracking Challenge (DSTC4)
+dataset show that the proposed time-decay attention mechanisms significantly
+improve the state-of-the-art model for contextual understanding performance.
+Author{1}{Firstname}#=%=#Shang-Yu
+Author{1}{Lastname}#=%=#Su
+Author{1}{Email}#=%=#shangyusu.tw@gmail.com
+Author{1}{Affiliation}#=%=#National Taiwan University
+Author{2}{Firstname}#=%=#Pei-Chieh
+Author{2}{Lastname}#=%=#Yuan
+Author{2}{Email}#=%=#b03901134@ntu.edu.tw
+Author{2}{Affiliation}#=%=#National Taiwan University
+Author{3}{Firstname}#=%=#Yun-Nung
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#y.v.chen@ieee.org
+Author{3}{Affiliation}#=%=#National Taiwan University
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#986
+FinalPaperTitle#=%=#Role-specific Language Models for Processing Recorded Neuropsychological Exams
+ShortPaperTitle#=%=#Role-specific Language Models for Processing Recorded Neuropsychological Exams
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Tuka Alhanai
+JobTitle#==#
+Organization#==#32 Vassar Street, Cambridge MA 02139
+Abstract#==#Neuropsychological examinations are an important screening tool for the
+presence of cognitive conditions (e.g. Alzheimer's, Parkinson's Disease), and
+require a trained tester to conduct the exam through spoken interactions with
+the subject. While audio is relatively easy to record, it remains a challenge
+to automatically diarize (who spoke when?), decode (what did they say?), and
+assess a subject's cognitive health. This paper demonstrates a method to
+determine the cognitive health (impaired or not) of 92 subjects, from audio
+that was diarized using an automatic speech recognition system trained on TED
+talks and on the structured language used by testers and subjects. Using
+leave-one-out cross validation and logistic regression modeling we show that
+even with noisily decoded data (81% WER) we can still perform accurate enough
+diarization (0.02% confusion rate) to determine the cognitive state of a
+subject (0.76 AUC).
+Author{1}{Firstname}#=%=#Tuka
+Author{1}{Lastname}#=%=#Al Hanai
+Author{1}{Email}#=%=#tuka@mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Rhoda
+Author{2}{Lastname}#=%=#Au
+Author{2}{Email}#=%=#rhodaau@bu.edu
+Author{2}{Affiliation}#=%=#Boston University Medical School
+Author{3}{Firstname}#=%=#James
+Author{3}{Lastname}#=%=#Glass
+Author{3}{Email}#=%=#glass@mit.edu
+Author{3}{Affiliation}#=%=#Massachusetts Institute of Technology
+
+==========

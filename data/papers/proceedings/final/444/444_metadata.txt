@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#444
+FinalPaperTitle#=%=#A Neural Layered Model for Nested Named Entity Recognition
+ShortPaperTitle#=%=#A Neural Layered Model for Nested Named Entity Recognition
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Meizhi Ju
+JobTitle#==#
+Organization#==#National Centre for Text Mining, University of Manchester, United Kingdom
+Abstract#==#Entity mentions embedded in longer entity mentions are referred to as nested entities. Most named entity recognition (NER) systems deal only with the flat entities and ignore the inner nested ones, which fails to capture finer-grained semantic information in underlying texts. To address this issue, we propose a novel neural model to identify nested entities by dynamically stacking flat NER layers. Each flat NER layer is based on the state-of-the-art flat NER model that captures sequential context representation with bidirectional Long Short-Term Memory (LSTM) layer and feeds it to the cascaded CRF layer. Our model merges the output of the LSTM layer in the current flat NER layer to build new representation for detected entities and subsequently feeds them into the next flat NER layer. This allows our model to extract outer entities by taking full advantage of information encoded in their corresponding inner entities, in an inside-to-outside way. Our model dynamically stacks the flat NER layers until no outer entities are extracted. Extensive evaluation shows that our dynamic model outperforms state-of-the-art feature-based systems on nested NER, achieving 74.7% and 72.2% on GENIA and ACE2005 datasets, respectively, in terms of F-score.
+Author{1}{Firstname}#=%=#Meizhi
+Author{1}{Lastname}#=%=#Ju
+Author{1}{Email}#=%=#meizhi.ju@postgrad.manchester.ac.uk
+Author{1}{Affiliation}#=%=#National Centre for Text Mining, University of Manchester
+Author{2}{Firstname}#=%=#Makoto
+Author{2}{Lastname}#=%=#Miwa
+Author{2}{Email}#=%=#makoto-miwa@toyota-ti.ac.jp
+Author{2}{Affiliation}#=%=#Toyota Technological Institute
+Author{3}{Firstname}#=%=#Sophia
+Author{3}{Lastname}#=%=#Ananiadou
+Author{3}{Email}#=%=#sophia.ananiadou@manchester.ac.uk
+Author{3}{Affiliation}#=%=#University of Manchester
+
+==========

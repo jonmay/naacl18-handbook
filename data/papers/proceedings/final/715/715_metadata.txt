@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#715
+FinalPaperTitle#=%=#Unsupervised Keyphrase Extraction with Multipartite Graphs
+ShortPaperTitle#=%=#Unsupervised Keyphrase Extraction with Multipartite Graphs
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Florian Boudin
+JobTitle#==#
+Organization#==#LS2N, Université de Nantes
+Abstract#==#We propose an unsupervised keyphrase extraction model that encodes topical
+information within a multipartite graph structure. Our model represents
+keyphrase candidates and topics in a single graph and exploits their mutually
+reinforcing relationship to improve candidate ranking. We further introduce a
+novel mechanism to incorporate keyphrase selection preferences into the model.
+Experiments conducted on three widely used datasets show significant
+improvements over state-of-the-art graph-based models.
+Author{1}{Firstname}#=%=#Florian
+Author{1}{Lastname}#=%=#Boudin
+Author{1}{Email}#=%=#florian.boudin@univ-nantes.fr
+Author{1}{Affiliation}#=%=#Université de Nantes
+
+==========

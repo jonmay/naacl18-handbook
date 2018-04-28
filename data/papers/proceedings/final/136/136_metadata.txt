@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#136
+FinalPaperTitle#=%=#Improving Character-based Decoding Using Target-Side Morphological Information for Neural Machine Translation
+ShortPaperTitle#=%=#Improving Character-based Decoding Using Target-Side Morphological Information for NMT
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#PEYMAN PASSBAN
+JobTitle#==#Postdoc Researcher
+Organization#==#ADAPT Centre, School of Computing, Dublin City University, Ireland
+Abstract#==#Recently, neural machine translation (NMT) has emerged as a powerful alterna- tive to conventional statistical approaches. However, its performance drops consider- ably in the presence of morphologically rich languages (MRLs). Neural engines usually fail to tackle the large vocabulary and high out-of-vocabulary (OOV) word rate of MRLs. Therefore, it is not suitable to exploit existing word-based models to translate this set of languages. In this paper, we propose an extension to the state-of-the-art model of Chung et al. (2016), which works at the character level and boosts the decoder with target-side morphological information. In our archi- tecture, an additional morphology table is plugged into the model. Each time the decoder samples from a target vocabulary, the table sends auxiliary signals from the most relevant affixes in order to enrich the decoder’s current state and constrain it to provide better predictions. We evaluated our model to translate English into Ger- man, Russian, and Turkish as three MRLs and observed significant improvements.
+Author{1}{Firstname}#=%=#Peyman
+Author{1}{Lastname}#=%=#Passban
+Author{1}{Email}#=%=#peyman.passban@adaptcentre.ie
+Author{1}{Affiliation}#=%=#ADAPT Centre, Dublin City University
+Author{2}{Firstname}#=%=#Qun
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#qun.liu@adaptcentre.ie
+Author{2}{Affiliation}#=%=#ADAPT
+Author{3}{Firstname}#=%=#Andy
+Author{3}{Lastname}#=%=#Way
+Author{3}{Email}#=%=#andy.way@adaptcentre.ie
+Author{3}{Affiliation}#=%=#ADAPT
+
+==========

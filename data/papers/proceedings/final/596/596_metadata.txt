@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#596
+FinalPaperTitle#=%=#Please Clap: Modeling Applause in Campaign Speeches
+ShortPaperTitle#=%=#Modeling Applause in Campaign Speeches
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jon Gillick
+JobTitle#==#
+Organization#==#University of California, Berkeley
+102 South Hall
+Berkeley, California 94720
+Abstract#==#This work examines the rhetorical techniques that speakers employ during
+political campaigns.  We introduce a new corpus of speeches from campaign
+events in the months leading up to the 2016 U.S. presidential election and
+develop new models for predicting moments of audience applause.  In contrast to
+existing datasets, we tackle the challenge of working with transcripts that
+derive from uncorrected closed captioning, using associated audio recordings to
+automatically extract and align labels for instances of audience applause.  In
+prediction experiments, we find that lexical features carry the most
+information, but that a variety of features are predictive, including prosody,
+long-term contextual dependencies, and theoretically motivated features
+designed to capture rhetorical techniques.
+Author{1}{Firstname}#=%=#Jon
+Author{1}{Lastname}#=%=#Gillick
+Author{1}{Email}#=%=#jongillick@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Bamman
+Author{2}{Email}#=%=#dbamman@berkeley.edu
+Author{2}{Affiliation}#=%=#University of California, Berkeley
+
+==========

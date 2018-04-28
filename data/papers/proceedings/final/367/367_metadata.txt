@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#367
+FinalPaperTitle#=%=#Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
+ShortPaperTitle#=%=#Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sarah ita Levitan
+JobTitle#==#
+Organization#==#Columbia University
+Abstract#==#We explore deception detection in interview dialogues. We analyze a set of
+linguistic features in both truthful and deceptive responses to interview
+questions. We also study the perception of deception, identifying
+characteristics of statements that are perceived as truthful or deceptive by
+interviewers. Our analysis show significant differences between truthful and
+deceptive question responses, as well as variations in deception
+patterns across gender and native language. This analysis motivated our
+selection of features for machine learning experiments aimed at classifying
+globally deceptive speech. Our best classification performance is 72.74%
+F1-Score (about 17% better than human performance), which is achieved using a
+combination of linguistic features and individual traits.
+Author{1}{Firstname}#=%=#Sarah Ita
+Author{1}{Lastname}#=%=#Levitan
+Author{1}{Email}#=%=#sarahita@cs.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Angel
+Author{2}{Lastname}#=%=#Maredia
+Author{2}{Email}#=%=#asm2221@columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Firstname}#=%=#Julia
+Author{3}{Lastname}#=%=#Hirschberg
+Author{3}{Email}#=%=#julia@cs.columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+
+==========

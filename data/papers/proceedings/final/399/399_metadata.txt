@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#399
+FinalPaperTitle#=%=#Neural Models of Factuality
+ShortPaperTitle#=%=#Neural Models of Factuality
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Rachel Rudinger
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N. Charles St.
+Baltimore, MD 21218
+Abstract#==#We present two neural models for event factuality prediction, which yield significant performance gains over previous models on three event factuality datasets: FactBank, UW, and MEANTIME. We also present a substantial expansion of the It Happened portion of the Universal Decompositional Semantics dataset, yielding the largest event factuality dataset to date. We report model results on this extended factuality dataset as well.
+Author{1}{Firstname}#=%=#Rachel
+Author{1}{Lastname}#=%=#Rudinger
+Author{1}{Email}#=%=#rudinger@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Aaron Steven
+Author{2}{Lastname}#=%=#White
+Author{2}{Email}#=%=#aaron.white@rochester.edu
+Author{2}{Affiliation}#=%=#University of Rochester
+Author{3}{Firstname}#=%=#Benjamin
+Author{3}{Lastname}#=%=#Van Durme
+Author{3}{Email}#=%=#vandurme@cs.jhu.edu
+Author{3}{Affiliation}#=%=#JHU
+
+==========

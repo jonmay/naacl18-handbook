@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1009
+FinalPaperTitle#=%=#Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods
+ShortPaperTitle#=%=#Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jieyu Zhao
+JobTitle#==#
+Organization#==#University of California, Los Angeles
+Abstract#==#In this paper, we introduce a new benchmark for co-reference resolution focused
+on gender bias, WinoBias. Our corpus contains Winograd-schema style sentences
+with entities corresponding to people referred by their occupation (e.g. the
+nurse, the doctor, the carpenter). We demonstrate that a rule-based, a
+feature-rich, and a neural coreference system all link gendered pronouns to
+pro-stereotypical entities with higher accuracy than anti-stereotypical
+entities, by an average difference of 21.1 in F1 score. Finally, we demonstrate
+a data-augmentation approach that, in combination with existing word-embedding
+debiasing techniques, removes the bias demonstrated by these systems in
+WinoBias without significantly affecting their performance on existing
+datasets.
+Author{1}{Firstname}#=%=#Jieyu
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Email}#=%=#jyzhao@cs.ucla.edu
+Author{1}{Affiliation}#=%=#University of California, Los Angeles
+Author{2}{Firstname}#=%=#Tianlu
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#tw8cb@virginia.edu
+Author{2}{Affiliation}#=%=#University of Virginia
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Yatskar
+Author{3}{Email}#=%=#my89@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Vicente
+Author{4}{Lastname}#=%=#Ordonez
+Author{4}{Email}#=%=#vicente@virginia.edu
+Author{4}{Affiliation}#=%=#University of Virginia
+Author{5}{Firstname}#=%=#Kai-Wei
+Author{5}{Lastname}#=%=#Chang
+Author{5}{Email}#=%=#kw@kwchang.net
+Author{5}{Affiliation}#=%=#UCLA
+
+==========

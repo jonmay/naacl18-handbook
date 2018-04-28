@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#924
+FinalPaperTitle#=%=#Mittens: an Extension of GloVe for Learning Domain-Specialized Representations
+ShortPaperTitle#=%=#Mittens: an Extension of GloVe for Learning Domain-Specialized Representations
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nicholas Dingwall
+JobTitle#==#
+Organization#==#Roam Analytics
+Abstract#==#We present a simple extension of the GloVe representation learning model that begins with general-purpose representations and updates them based on data from a specialized domain. We show that the resulting representations can lead to faster learning and better results on a variety of tasks.
+Author{1}{Firstname}#=%=#Nicholas
+Author{1}{Lastname}#=%=#Dingwall
+Author{1}{Email}#=%=#ndingwall@gmail.com
+Author{1}{Affiliation}#=%=#Roam Analytics
+Author{2}{Firstname}#=%=#Christopher
+Author{2}{Lastname}#=%=#Potts
+Author{2}{Email}#=%=#cgpotts@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+
+==========

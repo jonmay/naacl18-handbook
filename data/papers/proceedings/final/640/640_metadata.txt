@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#640
+FinalPaperTitle#=%=#Adversarial Example Generation with Syntactically Controlled Paraphrase Networks
+ShortPaperTitle#=%=#Adversarial Example Generation with Syntactically Controlled Paraphrase Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Mohit Iyyer
+JobTitle#==#
+Organization#==#Allen Institute of Artificial Intelligence
+Abstract#==#We propose syntactically controlled paraphrase networks (SCPNs) and use them to generate adversarial examples. Given a sentence and a target syntactic  form (e.g., a constituency parse), SCPNs are trained to produce a paraphrase of the sentence with the desired syntax. We show it is possible to create training data for this task by first doing backtranslation at a very large scale, and then using a parser to label the syntactic transformations that naturally occur during this process. Such data allows us to train a neural encoder-decoder model with extra inputs to specify the target syntax. A combination of automated and human evaluations show that SCPNs generate paraphrases that follow their target specifications without decreasing paraphrase quality when compared to baseline (uncontrolled) paraphrase systems. Furthermore, they are more capable of generating syntactically adversarial examples that both (1) "fool" pretrained models and (2) improve the robustness of these models to syntactic variation when used to augment their training data.
+Author{1}{Firstname}#=%=#Mohit
+Author{1}{Lastname}#=%=#Iyyer
+Author{1}{Email}#=%=#m.iyyer@gmail.com
+Author{1}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Wieting
+Author{2}{Email}#=%=#jwieting@cs.cmu.edu
+Author{2}{Affiliation}#=%=#University of Illinois; TTI-Chicago; CMU
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Gimpel
+Author{3}{Email}#=%=#kgimpel@ttic.edu
+Author{3}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{4}{Firstname}#=%=#Luke
+Author{4}{Lastname}#=%=#Zettlemoyer
+Author{4}{Email}#=%=#lsz@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

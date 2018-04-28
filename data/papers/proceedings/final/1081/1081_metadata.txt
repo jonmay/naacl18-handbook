@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1081
+FinalPaperTitle#=%=#Pruning Basic Elements for Better Automatic Evaluation of Summaries
+ShortPaperTitle#=%=#Pruning Basic Elements
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ukyo Honda
+JobTitle#==#
+Organization#==#Nara Institute of Science and Technology
+8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+Abstract#==#We propose a simple but highly effective automatic evaluation measure of summarization, pruned Basic Elements (pBE).
+Although the BE concept is widely used for the automated evaluation of summaries, its weakness is that it redundantly matches basic elements.
+To avoid this redundancy, pBE prunes basic elements by (1) disregarding frequency count of basic elements and (2) reducing semantically overlapped basic elements based on word similarity.
+Even though it is simple, pBE outperforms ROUGE in DUC datasets in most cases and achieves the highest rank correlation coefficient in TAC 2011 AESOP task.
+Author{1}{Firstname}#=%=#Ukyo
+Author{1}{Lastname}#=%=#Honda
+Author{1}{Email}#=%=#honda.ukyo.hn6@is.naist.jp
+Author{1}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{2}{Firstname}#=%=#Tsutomu
+Author{2}{Lastname}#=%=#Hirao
+Author{2}{Email}#=%=#hirao.tsutomu@lab.ntt.co.jp
+Author{2}{Affiliation}#=%=#NTT Communication Science Labs.
+Author{3}{Firstname}#=%=#Masaaki
+Author{3}{Lastname}#=%=#Nagata
+Author{3}{Email}#=%=#nagata.masaaki@lab.ntt.co.jp
+Author{3}{Affiliation}#=%=#+81-774-93-5235
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#809
+FinalPaperTitle#=%=#Letting Emotions Flow: Success Prediction by Modeling the Flow of Emotions in Books
+ShortPaperTitle#=%=#Letting Emotions Flow: Success Prediction by Modeling the Flow of Emotions in Books
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Suraj Maharjan
+JobTitle#==#
+Organization#==#University of Houston
+Department of Computer Science
+Philip Guthrie Hoffman Hall
+3551 Cullen Blvd., Room 501
+Houston, TX 77204-3010
+Abstract#==#Books have the power to make us feel happiness, sadness, pain, surprise, or sorrow. An author's dexterity in the use of these emotions captivates readers and makes it difficult for them to put the book down. In this paper, we model the flow of emotions over a book using recurrent neural networks and quantify its usefulness in predicting success in books. We obtained the best weighted F1-score of 69% for predicting books' success in a multitask setting (simultaneously predicting success and genre of books).
+Author{1}{Firstname}#=%=#Suraj
+Author{1}{Lastname}#=%=#Maharjan
+Author{1}{Email}#=%=#smaharjan2@uh.edu
+Author{1}{Affiliation}#=%=#University of Houston
+Author{2}{Firstname}#=%=#Sudipta
+Author{2}{Lastname}#=%=#Kar
+Author{2}{Email}#=%=#skar3@uh.edu
+Author{2}{Affiliation}#=%=#University of Houston
+Author{3}{Firstname}#=%=#Manuel
+Author{3}{Lastname}#=%=#Montes
+Author{3}{Email}#=%=#mmontesg@inaoep.mx
+Author{3}{Affiliation}#=%=#INAOE
+Author{4}{Firstname}#=%=#Fabio A.
+Author{4}{Lastname}#=%=#Gonzalez
+Author{4}{Email}#=%=#fagonzalezo@unal.edu.co
+Author{4}{Affiliation}#=%=#Universidad Nacional de Colombia
+Author{5}{Firstname}#=%=#Thamar
+Author{5}{Lastname}#=%=#Solorio
+Author{5}{Email}#=%=#thamar.solorio@gmail.com
+Author{5}{Affiliation}#=%=#UH
+
+==========

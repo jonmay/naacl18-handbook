@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#548
+FinalPaperTitle#=%=#Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization
+ShortPaperTitle#=%=#Descriptions from Structured data
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Preksha Nema
+JobTitle#==#
+Organization#==#Indian Institute of Technology, Madras
+Chennai-36, India
+Abstract#==#In this work, we focus on the task of generating natural language descriptions from a structured table of facts containing fields (such as nationality, occupation, etc) and values (such as Indian, {actor, director}, etc). One simple choice is to treat the table as a sequence of fields and values and then use a standard seq2seq model for this task. However, such a model is too generic and does not exploit task specific characteristics. For example, while generating descriptions from a table, a human would attend to information at two levels: (i) the fields (macro level) and (ii) the values within the field (micro level). Further, a human would continue attending to a field for a few timesteps till all the information from that field has been rendered and then never return back to this field (because there is nothing left to say about it). To capture this behavior we use (i) a fused bifocal attention mechanism which exploits and combines this micro and macro level information and (ii) a gated orthogonalization mechanism which tries to ensure that a field is remembered for a few time steps and then forgotten.  We experiment with a recently released dataset which contains fact tables about people and their corresponding one line biographical descriptions in English. In addition, we also introduce two similar datasets for French and German. Our experiments show that the proposed model gives 21% relative improvement over a recently proposed state of the art method and 10% relative improvement over basic seq2seq models. The code and the datasets developed as a part of this work are publicly available on https://github.com/PrekshaNema25/StructuredData_To_Descriptions
+Author{1}{Firstname}#=%=#Preksha
+Author{1}{Lastname}#=%=#Nema
+Author{1}{Email}#=%=#cs15m036@smail.iitm.ac.in
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Madras
+Author{2}{Firstname}#=%=#Shreyas
+Author{2}{Lastname}#=%=#Shetty M
+Author{2}{Email}#=%=#shreyas.shetty@gmail.com
+Author{2}{Affiliation}#=%=#IIT Madras
+Author{3}{Firstname}#=%=#Parag
+Author{3}{Lastname}#=%=#Jain
+Author{3}{Email}#=%=#parag.pxj@gmail.com
+Author{3}{Affiliation}#=%=#IBM Research India
+Author{4}{Firstname}#=%=#Anirban
+Author{4}{Lastname}#=%=#Laha
+Author{4}{Email}#=%=#anirlaha@in.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research India
+Author{5}{Firstname}#=%=#Karthik
+Author{5}{Lastname}#=%=#Sankaranarayanan
+Author{5}{Email}#=%=#kartsank@in.ibm.com
+Author{5}{Affiliation}#=%=#IBM Research India
+Author{6}{Firstname}#=%=#Mitesh M.
+Author{6}{Lastname}#=%=#Khapra
+Author{6}{Email}#=%=#miteshk@cse.iitm.ac.in
+Author{6}{Affiliation}#=%=#Indian Institute of Technology Madras
+
+==========

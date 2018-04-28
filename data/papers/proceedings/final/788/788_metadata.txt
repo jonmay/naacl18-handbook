@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#788
+FinalPaperTitle#=%=#Similarity Measures for the Detection of Clinical Conditions with Verbal Fluency Tasks
+ShortPaperTitle#=%=#Similarity Measures for the Detection of Clinical Conditions with Verbal Fluency Tasks
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Felipe Soares Fagundes Paula
+JobTitle#==#
+Organization#==#Federal University of Rio Grande do Sul, Av. Paulo Gama, 110 - Farroupilha, Porto Alegre, Rio Grande do Sul, Brazil, 90040-060.
+Abstract#==#Semantic Verbal Fluency tests have been used in the detection of certain clinical conditions, like  Dementia. In particular, given a sequence of semantically related words, a large number of switches from one semantic class to another has been linked to clinical conditions. In this work, we investigate three similarity measures for automatically identifying switches in semantic chains: semantic similarity from a manually constructed resource, and word association strength and semantic relatedness, both calculated from corpora. This information is used for building classifiers to distinguish healthy controls from clinical cases with early stages of Alzheimer's Disease and Mild Cognitive Deficits. The overall results indicate that for clinical conditions the classifiers that use these similarity measures outperform those that use a gold standard taxonomy.
+Author{1}{Firstname}#=%=#Felipe
+Author{1}{Lastname}#=%=#Paula
+Author{1}{Email}#=%=#felipesfpaula@gmail.com
+Author{1}{Affiliation}#=%=#Institute of Informatics - UFRGS
+Author{2}{Firstname}#=%=#Rodrigo
+Author{2}{Lastname}#=%=#Wilkens
+Author{2}{Email}#=%=#rswilkens@gmail.com
+Author{2}{Affiliation}#=%=#Université catholique de Louvain
+Author{3}{Firstname}#=%=#Marco
+Author{3}{Lastname}#=%=#Idiart
+Author{3}{Email}#=%=#marco.idiart@gmail.com
+Author{3}{Affiliation}#=%=#UFRGS
+Author{4}{Firstname}#=%=#Aline
+Author{4}{Lastname}#=%=#Villavicencio
+Author{4}{Email}#=%=#alinev@gmail.com
+Author{4}{Affiliation}#=%=#University of Essex, UK
+
+==========

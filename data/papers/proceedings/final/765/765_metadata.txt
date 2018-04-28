@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#765
+FinalPaperTitle#=%=#Neural Poetry Translation
+ShortPaperTitle#=%=#Neural Poetry Translation
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Marjan Ghazvininejad
+JobTitle#==#
+Organization#==#Information Sciences Institute, Computer Science Department, University of Southern California
+Abstract#==#We present the first neural poetry translation system. Unlike previous works
+that often fail to produce any translation for fixed rhyme and rhythm patterns,
+our system always translates a source text to an English poem. Human evaluation
+of the translations ranks the quality as acceptable $78.2\%$ of the time.
+Author{1}{Firstname}#=%=#Marjan
+Author{1}{Lastname}#=%=#Ghazvininejad
+Author{1}{Email}#=%=#ghazvini@isi.edu
+Author{1}{Affiliation}#=%=#USC
+Author{2}{Firstname}#=%=#Yejin
+Author{2}{Lastname}#=%=#Choi
+Author{2}{Email}#=%=#yejin@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Knight
+Author{3}{Email}#=%=#knight@isi.edu
+Author{3}{Affiliation}#=%=#USC/ISI
+
+==========

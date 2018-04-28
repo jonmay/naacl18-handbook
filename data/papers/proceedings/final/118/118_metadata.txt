@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#118
+FinalPaperTitle#=%=#Generative Bridging Network for Neural Sequence Prediction
+ShortPaperTitle#=%=#Generative Bridging Network for Neural Sequence Prediction
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Chen, Wenhu
+JobTitle#==#
+Organization#==#Name: University of California, Santa Barbara
+Address: UCSB, Santa Barbara, CA 93106
+Abstract#==#In order to alleviate data sparsity and overfitting problems in maximum likelihood estimation (MLE) for sequence prediction tasks, we propose the Generative Bridging Network (GBN), in which a novel bridge module is introduced to assist the training of the sequence prediction model (the generator network). Unlike MLE directly maximizing the conditional likelihood, the bridge extends the point-wise ground truth to a bridge distribution conditioned on it, and the generator is optimized to minimize their KL-divergence. 
+Three different GBNs, namely uniform GBN, language-model GBN and coaching GBN, are proposed to penalize confidence, enhance language smoothness and relieve learning burden. Experiments conducted on two recognized sequence prediction tasks (machine translation and abstractive text summarization) show that our proposed GBNs can yield significant improvements over strong baselines. Furthermore, by analyzing samples drawn from different bridges, expected influences on the generator are verified.
+Author{1}{Firstname}#=%=#Wenhu
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#wenhuchen@cs.ucsb.edu
+Author{1}{Affiliation}#=%=#UCSB
+Author{2}{Firstname}#=%=#Guanlin
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#epsilonlee.green@gmail.com
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Shuo
+Author{3}{Lastname}#=%=#Ren
+Author{3}{Email}#=%=#v-shure@microsoft.com
+Author{3}{Affiliation}#=%=#Beihang University
+Author{4}{Firstname}#=%=#Shujie
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#shujliu@microsoft.com
+Author{4}{Affiliation}#=%=#MSRA
+Author{5}{Firstname}#=%=#Mu
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#muli@microsoft.com
+Author{5}{Affiliation}#=%=#MSRA
+Author{6}{Firstname}#=%=#Ming
+Author{6}{Lastname}#=%=#Zhou
+Author{6}{Email}#=%=#mingzhou@microsoft.com
+Author{6}{Affiliation}#=%=#MSRA
+
+==========

@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#568
+FinalPaperTitle#=%=#Relational Summarization for Corpus Analysis
+ShortPaperTitle#=%=#Relational Summarization for Corpus Analysis
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Abram Handler
+JobTitle#==#
+Organization#==#College of Information and Computer Sciences
+140 Governors Dr., Amherst, MA 01003
+Abstract#==#This work introduces a new problem, relational summarization, in which the goal is to generate a natural language summary of the relationship between two lexical items in a corpus, without reference to a knowledge base. Motivated by the needs of novel user interfaces, we define the task and give examples of its application. We also present a new query-focused method for finding natural language sentences which express relationships. Our method allows for summarization of more than two times more query pairs than baseline relation extractors, while returning measurably more readable output. Finally, to help guide future work, we analyze the challenges of relational summarization using both a news and a social media corpus.
+Author{1}{Firstname}#=%=#Abram
+Author{1}{Lastname}#=%=#Handler
+Author{1}{Email}#=%=#abram.handler@gmail.com
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Brendan
+Author{2}{Lastname}#=%=#O'Connor
+Author{2}{Email}#=%=#brenocon@cs.umass.edu
+Author{2}{Affiliation}#=%=#Univ. of Massachusetts, Amherst
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#116
+FinalPaperTitle#=%=#A Meaning-based Statistical English Math Word Problem Solver
+ShortPaperTitle#=%=#A Meaning-based Statistical English Math Word Problem Solver
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chao-Chun Liang
+JobTitle#==#
+Organization#==#Institute of Information Science, Academia Sinica
+128 Academia Road, Section 2, Nankang, Taipei 115, Taiwan.
+Abstract#==#We introduce MeSys, a meaning-based approach, for solving English math word problems (MWPs) via understanding and reasoning in this paper. It first analyzes the text, transforms both body and question parts into their corresponding logic forms, and then performs inference on them. The associated context of each quantity is represented with proposed role-tags (e.g., nsubj, verb, etc.), which provides the flexibility for annotating an extracted math quantity with its associated context information (i.e., the physical meaning of this quantity). Statistical models are proposed to select the operator and operands. A noisy dataset is designed to assess if a solver solves MWPs mainly via understanding or mechanical pattern matching. Experimental results show that our approach outperforms existing systems on both benchmark datasets and the noisy dataset, which demonstrates that the proposed approach understands the meaning of each quantity in the text more.
+Author{1}{Firstname}#=%=#Chao-Chun
+Author{1}{Lastname}#=%=#Liang
+Author{1}{Email}#=%=#ccliang@iis.sinica.edu.tw
+Author{1}{Affiliation}#=%=#Institute of Information Science, Academia Sinica
+Author{2}{Firstname}#=%=#Yu-Shiang
+Author{2}{Lastname}#=%=#Wong
+Author{2}{Email}#=%=#yushiangwtw@iis.sinica.edu.tw
+Author{2}{Affiliation}#=%=#Institute of Information Science, Academia Sinica
+Author{3}{Firstname}#=%=#Yi-Chung
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Email}#=%=#lyc@iis.sinica.edu.tw
+Author{3}{Affiliation}#=%=#Institute of Information Science, Academia Sinica
+Author{4}{Firstname}#=%=#Keh-Yih
+Author{4}{Lastname}#=%=#Su
+Author{4}{Email}#=%=#kysu@iis.sinica.edu.tw
+Author{4}{Affiliation}#=%=#Institute of Information Science, Academia Sinica
+
+==========

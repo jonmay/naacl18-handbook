@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#926
+FinalPaperTitle#=%=#Are Automatic Methods for Cognate Detection Good Enough for Phylogenetic Reconstruction in Historical Linguistics?
+ShortPaperTitle#=%=#Do Automatic Methods for Cognate Detection produce high quality trees?
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#K Taraka Rama
+JobTitle#==#
+Organization#==#Department of Informatics, University of Oslo, Norway
+Abstract#==#We evaluate the performance of state-of-the-art algorithms for automatic cognate detection by comparing how useful automatically inferred cognates are for the task of phylogenetic inference compared to classical manually annotated cognate sets. Our findings suggest that phylogenies inferred from automated cognate sets come close to phylogenies inferred from expert-annotated ones, although on average, the latter are still superior. We conclude that future work on phylogenetic reconstruction can profit much from automatic cognate detection.
+Especially where scholars are merely interested in exploring the bigger picture of a language family's phylogeny, algorithms for automatic cognate detection are a useful complement for current research on language phylogenies.
+Author{1}{Firstname}#=%=#Taraka
+Author{1}{Lastname}#=%=#Rama
+Author{1}{Email}#=%=#tarakark@ifi.uio.no
+Author{1}{Affiliation}#=%=#University of Oslo
+Author{2}{Firstname}#=%=#Johann-Mattis
+Author{2}{Lastname}#=%=#List
+Author{2}{Email}#=%=#mattis.list@lingpy.org
+Author{2}{Affiliation}#=%=#Centre des Recherches Linguistiques sur l'Asie Orientale
+Author{3}{Firstname}#=%=#Johannes
+Author{3}{Lastname}#=%=#Wahle
+Author{3}{Email}#=%=#johannes.wahle@uni-tuebingen.de
+Author{3}{Affiliation}#=%=#University of Tuebingen
+Author{4}{Firstname}#=%=#Gerhard
+Author{4}{Lastname}#=%=#Jäger
+Author{4}{Email}#=%=#gerhard.jaeger@uni-tuebingen.de
+Author{4}{Affiliation}#=%=#University of Tuebingen
+
+==========

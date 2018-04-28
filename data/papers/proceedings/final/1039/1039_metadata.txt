@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1039
+FinalPaperTitle#=%=#Training Structured Prediction Energy Networks with Indirect Supervision
+ShortPaperTitle#=%=#Training Structured Prediction Energy Networks with Indirect Supervision
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Amirmohammad Rooshenas
+JobTitle#==#
+Organization#==#College of Information and Computer Sciences, University of Massachusetts Amherst, 140 Governors Dr. Amherst, MA 01002
+Abstract#==#This paper introduces rank-based training of structured prediction energy
+networks (SPENs). Our method samples from output structures using gradient
+descent and minimizes the ranking violation of the sampled structures with
+respect to a scalar scoring function defined with domain knowledge. We have
+successfully trained SPEN for citation field extraction without any labeled
+data instances, where the only source of supervision is a simple human-written
+scoring function.  Such scoring functions are often easy to provide; the SPEN
+then furnishes an efficient structured prediction inference procedure.
+Author{1}{Firstname}#=%=#Amirmohammad
+Author{1}{Lastname}#=%=#Rooshenas
+Author{1}{Email}#=%=#pedram@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Aishwarya
+Author{2}{Lastname}#=%=#Kamath
+Author{2}{Email}#=%=#akamath@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Andrew
+Author{3}{Lastname}#=%=#McCallum
+Author{3}{Email}#=%=#mccallum@cs.umass.edu
+Author{3}{Affiliation}#=%=#UMass Amherst
+
+==========

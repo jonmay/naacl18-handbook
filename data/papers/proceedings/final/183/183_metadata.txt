@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#183
+FinalPaperTitle#=%=#The Context-dependent Additive Recurrent Neural Net
+ShortPaperTitle#=%=#The Context-dependent Additive Recurrent Neural Net
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Quan Hung Tran
+JobTitle#==#
+Organization#==#Monash University, Wellington Road, Clayton, Victoria 3800, Australia
+Abstract#==#Contextual sequence mapping is one of the fundamental problems in Natural
+Language Processing (NLP). Here, instead of relying solely on the information
+presented in the text, the learning agents have access to a strong external
+signal given to assist the learning process. In this paper, we propose a novel
+family of Recurrent Neural Network unit: the Context-dependent Additive
+Recurrent Neural Network (CARNN) that is designed specifically to address this
+type of problem. The experimental results on public datasets in the dialog
+problem (Babi dialog Task 6 and Frame), contextual language model (Switchboard
+and Penn Tree Bank) and question answering (Trec QA) show that our novel
+CARNN-based architectures outperform previous methods.
+Author{1}{Firstname}#=%=#Quan Hung
+Author{1}{Lastname}#=%=#Tran
+Author{1}{Email}#=%=#quanthdhcn@gmail.com
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#Tuan
+Author{2}{Lastname}#=%=#Lai
+Author{2}{Email}#=%=#laituan245@gmail.com
+Author{2}{Affiliation}#=%=#Adobe Systems
+Author{3}{Firstname}#=%=#Ingrid
+Author{3}{Lastname}#=%=#Zukerman
+Author{3}{Email}#=%=#Ingrid.Zukerman@monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+Author{4}{Firstname}#=%=#Gholamreza
+Author{4}{Lastname}#=%=#Haffari
+Author{4}{Email}#=%=#reza.haffari@gmail.com
+Author{4}{Affiliation}#=%=#Monash University
+Author{5}{Firstname}#=%=#Trung
+Author{5}{Lastname}#=%=#Bui
+Author{5}{Email}#=%=#bui@adobe.com
+Author{5}{Affiliation}#=%=#Adobe Research
+Author{6}{Firstname}#=%=#Hung
+Author{6}{Lastname}#=%=#Bui
+Author{6}{Email}#=%=#bui.h.hung@gmail.com
+Author{6}{Affiliation}#=%=#Adobe Research
+
+==========

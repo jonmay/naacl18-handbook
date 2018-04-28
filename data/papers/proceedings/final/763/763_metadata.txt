@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#763
+FinalPaperTitle#=%=#A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network
+ShortPaperTitle#=%=#A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Dai Quoc Nguyen
+JobTitle#==#
+Organization#==#PRaDA Centre, Deakin University, Australia
+Abstract#==#In this paper, we propose a novel embedding model, named ConvKB, for  knowledge base completion. Our  model ConvKB advances  state-of-the-art models by employing a convolutional neural network, so that it can capture global relationships and transitional characteristics between entities and relations in  knowledge bases. In ConvKB, each  triple (head entity, relation, tail entity) is represented as a 3-column matrix where each column vector represents a triple element. This  3-column matrix is then fed to a convolution layer where multiple filters are operated on the matrix to generate different feature maps. These feature maps are then concatenated into a single feature vector representing the input triple. The feature vector is multiplied with a weight vector via a dot product to return a score. This score is then used to predict whether the triple is valid or not. Experiments show that ConvKB achieves better link prediction performance than previous state-of-the-art embedding models on two benchmark datasets WN18RR and FB15k-237.
+Author{1}{Firstname}#=%=#Dai Quoc
+Author{1}{Lastname}#=%=#Nguyen
+Author{1}{Email}#=%=#dai.nguyen@deakin.edu.au
+Author{1}{Affiliation}#=%=#Deakin University
+Author{2}{Firstname}#=%=#Tu Dinh
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Email}#=%=#tu.nguyen@deakin.edu.au
+Author{2}{Affiliation}#=%=#Deakin University
+Author{3}{Firstname}#=%=#Dat Quoc
+Author{3}{Lastname}#=%=#Nguyen
+Author{3}{Email}#=%=#dqnguyen@unimelb.edu.au
+Author{3}{Affiliation}#=%=#The University of Melbourne
+Author{4}{Firstname}#=%=#Dinh
+Author{4}{Lastname}#=%=#Phung
+Author{4}{Email}#=%=#dinh.phung@deakin.edu.au
+Author{4}{Affiliation}#=%=#Deakin University
+
+==========

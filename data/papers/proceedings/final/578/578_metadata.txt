@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#578
+FinalPaperTitle#=%=#Improving Implicit Discourse Relation Classification by Modeling Inter-dependencies of Discourse Units in a Paragraph
+ShortPaperTitle#=%=#Improve Implicit Discourse Relation Classification by Modeling DU Inter-dependencies in a Paragraph
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zeyu Dai
+JobTitle#==#
+Organization#==#Texas A&M University
+400 Bizzell St, College Station, TX 77843
+Abstract#==#We argue that semantic meanings of a sentence
+or clause can not be interpreted independently
+from the rest of a paragraph, or independently
+from all discourse relations and the overall
+paragraph-level discourse structure. With the
+goal of improving implicit discourse relation
+classification, we introduce a paragraph-level
+neural networks that model inter-dependencies
+between discourse units as well as discourse
+relation continuity and patterns, and predict a
+sequence of discourse relations in a paragraph.
+Experimental results show that our model outperforms
+the previous state-of-the-art systems
+on the benchmark corpus of PDTB.
+Author{1}{Firstname}#=%=#Zeyu
+Author{1}{Lastname}#=%=#Dai
+Author{1}{Email}#=%=#jzdaizeyu@tamu.edu
+Author{1}{Affiliation}#=%=#Department of Computer Science and Engineering, Texas A&M University
+Author{2}{Firstname}#=%=#Ruihong
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#huangrh@cse.tamu.edu
+Author{2}{Affiliation}#=%=#Computer Science and Engineering, Texas A&M University
+
+==========

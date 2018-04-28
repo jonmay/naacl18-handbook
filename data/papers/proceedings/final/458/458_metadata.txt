@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#458
+FinalPaperTitle#=%=#Classical Structured Prediction Losses for Sequence to Sequence Learning
+ShortPaperTitle#=%=#Classical Structured Prediction Losses for Sequence to Sequence Learning
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Michael Auli
+JobTitle#==#
+Organization#==#Facebook
+1 Hacker Way
+Menlo Park, CA 94025
+Abstract#==#There has been much recent work on training neural attention models at the sequence-level using either reinforcement learning-style methods or by optimizing the beam. In this paper, we survey a range of classical objective functions that have been widely used to train linear models for structured prediction and apply them to neural sequence to sequence models. Our experiments show that these losses can perform surprisingly well by slightly outperforming beam search optimization in a like for like setup. We also report new state of the art results on both IWSLT'14 German-English translation as well as Gigaword abstractive summarization. On the large WMT'14 English-French task, sequence-level training achieves 41.5 BLEU which is on par with the state of the art.
+Author{1}{Firstname}#=%=#Sergey
+Author{1}{Lastname}#=%=#Edunov
+Author{1}{Email}#=%=#edunov@fb.com
+Author{1}{Affiliation}#=%=#Facebook AI Research
+Author{2}{Firstname}#=%=#Myle
+Author{2}{Lastname}#=%=#Ott
+Author{2}{Email}#=%=#myleott@gmail.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Lastname}#=%=#Auli
+Author{3}{Email}#=%=#michael.auli@gmail.com
+Author{3}{Affiliation}#=%=#Facebook AI Research
+Author{4}{Firstname}#=%=#David
+Author{4}{Lastname}#=%=#Grangier
+Author{4}{Email}#=%=#grangier@fb.com
+Author{4}{Affiliation}#=%=#Facebook
+Author{5}{Firstname}#=%=#Marc'Aurelio
+Author{5}{Lastname}#=%=#Ranzato
+Author{5}{Email}#=%=#ranzato@fb.com
+Author{5}{Affiliation}#=%=#Facebook AI Research
+
+==========

@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#285
+FinalPaperTitle#=%=#Specialising Word Vectors for Lexical Entailment
+ShortPaperTitle#=%=#Specialising Word Vectors for Lexical Entailment
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ivan Vulić
+JobTitle#==#Senior Research Associate
+Organization#==#Language Technology Lab, University of Cambridge, 9 West Road, CB3 9DP Cambridge, United Kingdom
+Abstract#==#We present LEAR (Lexical Entailment Attract-Repel), a novel post-processing method that transforms any input word vector space to emphasise the asymmetric relation of lexical entailment (LE), also known as the IS-A or hyponymy-hypernymy relation. By injecting external linguistic constraints (e.g., WordNet links) into the initial vector space, the LE specialisation procedure brings true hyponymy-hypernymy pairs closer together in the transformed Euclidean space. The proposed asymmetric distance measure adjusts the norms of word vectors to reflect the actual WordNet-style hierarchy of concepts. Simultaneously, a joint objective enforces semantic similarity using the symmetric cosine distance, yielding a vector space specialised for both lexical relations at once. LEAR specialisation achieves state-of-the-art performance in the tasks of hypernymy directionality, hypernymy detection, and graded lexical entailment, demonstrating the effectiveness and robustness of the proposed asymmetric specialisation model.
+Author{1}{Firstname}#=%=#Ivan
+Author{1}{Lastname}#=%=#Vulić
+Author{1}{Email}#=%=#iv250@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Nikola
+Author{2}{Lastname}#=%=#Mrkšić
+Author{2}{Email}#=%=#nikola.mrksic@gmail.com
+Author{2}{Affiliation}#=%=#University of Cambridge
+
+==========

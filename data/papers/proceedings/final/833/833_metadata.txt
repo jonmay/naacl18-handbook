@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#833
+FinalPaperTitle#=%=#Consistent CCG Parsing over Multiple Sentences for Improved Logical Reasoning
+ShortPaperTitle#=%=#Consistent CCG Parsing over Multiple Sentences for Improved Logical Reasoning
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Masashi Yoshikawa
+JobTitle#==#
+Organization#==#Nara Institute of Science and Technology
+Takayama-cho 8916-6, Ikoma-shi, Nara, Japan
+Abstract#==#In formal logic-based approaches to Recognizing Textual Entailment (RTE), a
+Combinatory Categorial Grammar (CCG) parser is used to parse input premises and
+hypotheses to obtain their logical formulas. Here, it is important that the
+parser
+processes the sentences consistently; failing to recognize the similar
+syntactic structure results in inconsistent predicate argument structures among
+them, in which case the succeeding theorem proving is doomed to failure. In
+this work, we present a simple method to extend an existing CCG parser to parse
+a set of
+sentences consistently, which is achieved with an inter-sentence modeling with
+Markov Random Fields (MRF). When combined with existing logic-based systems,
+our method always shows improvement in the RTE experiments
+on English and Japanese languages.
+Author{1}{Firstname}#=%=#Masashi
+Author{1}{Lastname}#=%=#Yoshikawa
+Author{1}{Email}#=%=#yoshikawa.masashi.yh8@is.naist.jp
+Author{1}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{2}{Firstname}#=%=#Koji
+Author{2}{Lastname}#=%=#Mineshima
+Author{2}{Email}#=%=#mineshima.koji@ocha.ac.jp
+Author{2}{Affiliation}#=%=#Ochanomizu University
+Author{3}{Firstname}#=%=#Hiroshi
+Author{3}{Lastname}#=%=#Noji
+Author{3}{Email}#=%=#hiroshi.noji@aist.go.jp
+Author{3}{Affiliation}#=%=#Artificial Intelligence Research Center, AIST
+Author{4}{Firstname}#=%=#Daisuke
+Author{4}{Lastname}#=%=#Bekki
+Author{4}{Email}#=%=#bekki@is.ocha.ac.jp
+Author{4}{Affiliation}#=%=#Ochanomizu University
+
+==========

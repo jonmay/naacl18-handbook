@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#416
+FinalPaperTitle#=%=#Simplification Using Paraphrases and Context-Based Lexical Substitution
+ShortPaperTitle#=%=#Simplification Using Paraphrases and Context-Based Lexical Substitution
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Reno Kriz
+JobTitle#==#
+Organization#==#Computer and Information Science Department, University of Pennsylvania
+Levine Hall, 3330 Walnut Street Philadelphia, PA 19104-6309
+Abstract#==#Lexical simplification involves identifying complex words or phrases that need to be simplified, and recommending simpler meaning-preserving substitutes that can be more easily understood. We propose a complex word identification (CWI) model that exploits both lexical and contextual features, and a simplification mechanism which relies on a word-embedding lexical substitution model to replace the detected complex words with simpler paraphrases. We compare our CWI and lexical simplification models to several baselines, and evaluate the performance of our simplification system against human judgments. The results show that our models are able to detect complex words with higher accuracy than other commonly used methods, and propose good simplification substitutes in context. They also highlight the limited contribution of context features for CWI, which nonetheless improve simplification compared to context-unaware models.
+Author{1}{Firstname}#=%=#Reno
+Author{1}{Lastname}#=%=#Kriz
+Author{1}{Email}#=%=#rekriz@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Eleni
+Author{2}{Lastname}#=%=#Miltsakaki
+Author{2}{Email}#=%=#eleni@choosito.com
+Author{2}{Affiliation}#=%=#Choosito, Inc.
+Author{3}{Firstname}#=%=#Marianna
+Author{3}{Lastname}#=%=#Apidianaki
+Author{3}{Email}#=%=#marianna.apidianaki@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI-CNRS, University Paris-Saclay
+Author{4}{Firstname}#=%=#Chris
+Author{4}{Lastname}#=%=#Callison-Burch
+Author{4}{Email}#=%=#ccb@cis.upenn.edu
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+
+==========

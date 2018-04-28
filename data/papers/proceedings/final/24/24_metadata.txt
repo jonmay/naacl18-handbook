@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Semantic Structural Evaluation for Text Simplification
+ShortPaperTitle#=%=#Semantic Structural Evaluation for Text Simplification
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Elior Sulem
+JobTitle#==#
+Organization#==#The Hebrew University of Jerusalem, Edmond Safra Campus, Givat Ram, Jerusalem, 91904, Israel
+Abstract#==#Current measures for evaluating text simplification systems focus on evaluating lexical text
+aspects, neglecting its structural aspects. In this paper we propose the first measure to address structural aspects of text simplification, called SAMSA. It leverages recent advances in semantic parsing to assess simplification quality by decomposing the input based on its semantic structure and comparing it to the output. SAMSA provides a reference-less automatic evaluation procedure, avoiding the problems that reference-based methods face due to the vast space of valid simplifications for a given sentence. Our human evaluation experiments show both SAMSA's substantial correlation with human judgments, as well as the
+deficiency of existing reference-based measures in evaluating structural simplification.
+Author{1}{Firstname}#=%=#Elior
+Author{1}{Lastname}#=%=#Sulem
+Author{1}{Email}#=%=#eliors@cs.huji.ac.il
+Author{1}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{2}{Firstname}#=%=#Omri
+Author{2}{Lastname}#=%=#Abend
+Author{2}{Email}#=%=#omri.abend@mail.huji.ac.il
+Author{2}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{3}{Firstname}#=%=#Ari
+Author{3}{Lastname}#=%=#Rappoport
+Author{3}{Email}#=%=#arir@cs.huji.ac.il
+Author{3}{Affiliation}#=%=#The Hebrew University
+
+==========

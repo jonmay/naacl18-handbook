@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1008
+FinalPaperTitle#=%=#Visually Guided Spatial Relation Extraction from Text
+ShortPaperTitle#=%=#Visually Guided Spatial Relation Extraction from Text
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Taher Rahgooy
+JobTitle#==#
+Organization#==#Tulane University, 6823 St Charles Ave, New Orleans, LA 70118
+Abstract#==#Extraction of spatial relations from sentences with complex/nesting relationships is very challenging as often needs resolving inherent semantic ambiguities. We seek help from visual modality to fill the information gap in the text modality and resolve spatial semantic ambiguities. We use various recent vision and language datasets and techniques to train inter-modality alignment models, visual relationship classifiers and propose a novel global inference model to integrate these components into our structured output prediction model for spatial role and relation extraction. Our global inference model enables us to utilize the visual and geometric relationships between objects and improves the state-of-art results of spatial information extraction from text.
+Author{1}{Firstname}#=%=#Taher
+Author{1}{Lastname}#=%=#Rahgooy
+Author{1}{Email}#=%=#trahgooy@tulane.edu
+Author{1}{Affiliation}#=%=#Tulane University
+Author{2}{Firstname}#=%=#Umar
+Author{2}{Lastname}#=%=#Manzoor
+Author{2}{Email}#=%=#umarmanzoor@gmail.com
+Author{2}{Affiliation}#=%=#Tulane University
+Author{3}{Firstname}#=%=#Parisa
+Author{3}{Lastname}#=%=#Kordjamshidi
+Author{3}{Email}#=%=#pkordjam@tulane.edu
+Author{3}{Affiliation}#=%=#Tulane
+
+==========

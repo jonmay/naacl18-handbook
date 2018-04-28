@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#454
+FinalPaperTitle#=%=#Neural Automated Essay Scoring and Coherence Modeling for Adversarially Crafted Input
+ShortPaperTitle#=%=#Neural Automated Essay Scoring and Coherence Modeling for Adversarially Crafted Input
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Youmna Farag
+JobTitle#==#
+Organization#==#University of Cambridge
+Abstract#==#We demonstrate that current state-of-the-art approaches to Automated Essay Scoring (AES) are not well-suited to capturing adversarially crafted input of grammatical but incoherent sequences of sentences. We develop a neural model of local coherence that can effectively learn connectedness features between sentences, and propose a framework for integrating and jointly training the local coherence model with a state-of-the-art AES model. We evaluate our approach against a number of baselines and experimentally demonstrate its effectiveness on both the AES task and the task of flagging adversarial input, further contributing to the development of an approach that strengthens the validity of neural essay scoring models.
+Author{1}{Firstname}#=%=#Youmna
+Author{1}{Lastname}#=%=#Farag
+Author{1}{Email}#=%=#yf273@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Helen
+Author{2}{Lastname}#=%=#Yannakoudakis
+Author{2}{Email}#=%=#helen.yannakoudakis@cl.cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Ted
+Author{3}{Lastname}#=%=#Briscoe
+Author{3}{Email}#=%=#ejb@cl.cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Robust Multilingual Part-of-Speech Tagging via Adversarial Training
+ShortPaperTitle#=%=#Robust Sequence Tagging with Adversarial Training
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Michihiro Yasunaga
+JobTitle#==#
+Organization#==#Yale University
+Abstract#==#Adversarial training (AT) is a powerful regularization method for neural networks, aiming to achieve robustness to input perturbations. Yet, the specific effects of the robustness obtained from AT are still unclear in the context of natural language processing. In this paper, we propose and analyze a
+neural POS tagging model that exploits AT. In our
+experiments on the Penn Treebank WSJ corpus and the Universal Dependencies (UD)
+dataset (27 languages), we find that AT not only improves the overall tagging
+accuracy, but also 1) prevents over-fitting well in low resource languages and 2) boosts tagging accuracy for rare / unseen words. We also demonstrate that 3) the improved tagging performance by AT contributes to the downstream task of dependency parsing, and that 4) AT helps the model to learn cleaner word representations. 5) The proposed AT model is generally effective in different sequence labeling tasks. These positive results motivate further use of AT for natural language tasks.
+Author{1}{Firstname}#=%=#Michihiro
+Author{1}{Lastname}#=%=#Yasunaga
+Author{1}{Email}#=%=#michihiro.yasunaga@yale.edu
+Author{1}{Affiliation}#=%=#Yale University
+Author{2}{Firstname}#=%=#Jungo
+Author{2}{Lastname}#=%=#Kasai
+Author{2}{Email}#=%=#jungo.kasai@yale.edu
+Author{2}{Affiliation}#=%=#Yale University
+Author{3}{Firstname}#=%=#Dragomir
+Author{3}{Lastname}#=%=#Radev
+Author{3}{Email}#=%=#dragomir.radev@yale.edu
+Author{3}{Affiliation}#=%=#Yale University
+
+==========

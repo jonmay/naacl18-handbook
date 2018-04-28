@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#226
+FinalPaperTitle#=%=#Provable Fast Greedy Compressive Summarization with Any Monotone Submodular Function
+ShortPaperTitle#=%=#Provable Fast Greedy Compressive Summarization with Any Monotone Submodular Function
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shinsaku Sakaue
+JobTitle#==#
+Organization#==#NTT Communication Science Laboratories. 
+2-4 Hikaridai, Seika-cho, Soraku-gun, Kyoto 619-0237, Japan.
+Abstract#==#Submodular maximization with the greedy algorithm has been studied as an
+effective approach to extractive summarization. This approach is known to have
+three advantages: its applicability to many useful submodular objective
+functions, the efficiency of the greedy algorithm, and the provable performance
+guarantee. However, when it comes to compressive summarization, we are
+currently missing a counterpart of the extractive method based on
+submodularity. In this paper, we propose a fast greedy method for compressive
+summarization. Our method is applicable to any monotone submodular objective
+function, including many functions well-suited for document summarization. We
+provide an approximation guarantee of our greedy algorithm. Experiments show
+that our method is about 100 to 400 times faster than an existing method based
+on integer-linear-programming (ILP) formulations and that our method
+empirically achieves more than 95%-approximation.
+Author{1}{Firstname}#=%=#Shinsaku
+Author{1}{Lastname}#=%=#Sakaue
+Author{1}{Email}#=%=#sakaue.shinsaku@lab.ntt.co.jp
+Author{1}{Affiliation}#=%=#NTT Communication Science Laboratories
+Author{2}{Firstname}#=%=#Tsutomu
+Author{2}{Lastname}#=%=#Hirao
+Author{2}{Email}#=%=#hirao.tsutomu@lab.ntt.co.jp
+Author{2}{Affiliation}#=%=#NTT Communication Science Labs.
+Author{3}{Firstname}#=%=#Masaaki
+Author{3}{Lastname}#=%=#Nishino
+Author{3}{Email}#=%=#nishino.masaaki@lab.ntt.co.jp
+Author{3}{Affiliation}#=%=#NTT Communication Science Laboratories
+Author{4}{Firstname}#=%=#Masaaki
+Author{4}{Lastname}#=%=#Nagata
+Author{4}{Email}#=%=#nagata.masaaki@lab.ntt.co.jp
+Author{4}{Affiliation}#=%=#+81-774-93-5235
+
+==========

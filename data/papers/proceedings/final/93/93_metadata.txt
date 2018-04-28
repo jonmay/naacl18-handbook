@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#93
+FinalPaperTitle#=%=#Handling Homographs in Neural Machine Translation
+ShortPaperTitle#=%=#Handling Homographs in Neural Machine Translation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Frederick Liu
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 
+5000 Forbes ave, Pittsburgh PA 15213
+Abstract#==#Homographs, words with different meanings but the same surface form, have long
+caused difficulty for machine translation systems, as it is difficult to select
+the correct translation based on the context. However, with the advent of
+neural machine translation (NMT) systems, which can theoretically take into
+account global sentential context, one may hypothesize that this problem has
+been alleviated. In this paper, we first provide empirical evidence that
+existing NMT systems in fact still have significant problems in properly
+translating ambiguous words. We then proceed to describe methods, inspired by
+the word sense disambiguation literature, that model the context of the input
+word with context-aware word embeddings that help to differentiate the word
+sense before feeding it into the encoder. Experiments on three language pairs
+demonstrate that such models improve the performance of NMT systems both in
+terms of BLEU score and in the accuracy of translating homographs.
+Author{1}{Firstname}#=%=#Frederick
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#frederick0329@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Han
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Email}#=%=#hlu2@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Graham
+Author{3}{Lastname}#=%=#Neubig
+Author{3}{Email}#=%=#gneubig@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

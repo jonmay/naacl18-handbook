@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#535
+FinalPaperTitle#=%=#Learning to Map Context-Dependent Sentences to Executable Formal Queries
+ShortPaperTitle#=%=#Learning to Map Context-Dependent Sentences to Executable Formal Queries
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Alane Suhr
+JobTitle#==#
+Organization#==#Cornell University / Cornell Tech
+2 West Loop Rd
+New York, NY 10044
+Abstract#==#We propose a context-dependent model to map utterances within an interaction to executable formal queries. To incorporate interaction history, the model maintains an interaction-level encoder that updates after each turn, and can copy sub-sequences of previously predicted queries during generation. Our approach combines implicit and explicit modeling of references between utterances. We evaluate our model on the ATIS flight planning interactions, and demonstrate the benefits of modeling context and explicit references.
+Author{1}{Firstname}#=%=#Alane
+Author{1}{Lastname}#=%=#Suhr
+Author{1}{Email}#=%=#als495@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Srinivasan
+Author{2}{Lastname}#=%=#Iyer
+Author{2}{Email}#=%=#sviyer@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Yoav
+Author{3}{Lastname}#=%=#Artzi
+Author{3}{Email}#=%=#yoav@cs.cornell.edu
+Author{3}{Affiliation}#=%=#Cornell University
+
+==========

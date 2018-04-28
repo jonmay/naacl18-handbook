@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#547
+FinalPaperTitle#=%=#Predicting Helpful Posts in Open-Ended Discussion Forums: a Neural Architecture
+ShortPaperTitle#=%=#Predicting Helpful Posts in Open-Ended Discussion Forums: a Neural Architecture
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kishaloy Halder
+JobTitle#==#
+Organization#==#School of Computing, National University of Singapore
+Com1, 13 Computing Drive, National University of Singapore, Singapore - 117417
+Abstract#==#Users participate in online discussion forums to learn from others and share their
+knowledge with the community. They often start a thread with a question or sharing
+their new findings on a certain topic. We
+find that, unlike Community Question Answering, where questions are mostly factoid based, the threads in a forum are often
+open-ended (e.g., asking for recommendations from others) without a single correct answer. In this paper, we address the
+task of identifying helpful posts in a forum
+thread, to aid users comprehend long running discussion threads, which often contain repetitive or even irrelevant posts. We
+propose a recurrent neural network based
+architecture to model (i) the relevance of a
+post regarding the original post starting the
+thread and (ii) the novelty it brings to the
+discussion, compared to the previous posts
+in the thread. Experimental results on five
+different types of online forum datasets
+show that our model significantly outperforms the state-of-the-art neural network
+models for text classification.
+Author{1}{Firstname}#=%=#Kishaloy
+Author{1}{Lastname}#=%=#Halder
+Author{1}{Email}#=%=#kishaloy.halder@gmail.com
+Author{1}{Affiliation}#=%=#National University of Singapore
+Author{2}{Firstname}#=%=#Min-Yen
+Author{2}{Lastname}#=%=#Kan
+Author{2}{Email}#=%=#kanmy@comp.nus.edu.sg
+Author{2}{Affiliation}#=%=#National University of Singapore
+Author{3}{Firstname}#=%=#Kazunari
+Author{3}{Lastname}#=%=#Sugiyama
+Author{3}{Email}#=%=#sugiyama@comp.nus.edu.sg
+Author{3}{Affiliation}#=%=#National University of Singapore
+
+==========

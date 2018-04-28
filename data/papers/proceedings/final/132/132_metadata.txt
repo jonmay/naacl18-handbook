@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#132
+FinalPaperTitle#=%=#Detecting Egregious Conversations between Customers and Virtual Agents
+ShortPaperTitle#=%=#Detecting Egregious Conversations between Customers and Virtual Agents
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#IBM Research
+Abstract#==#Virtual agents are becoming a prominent channel of interaction in customer
+service. Not all customer interactions are smooth, however, and some can become
+almost comically bad. In such instances, a human agent might need to step in
+and salvage the conversation. Detecting bad conversations is important since
+disappointing customer service may threaten customer loyalty and impact
+revenue. In this paper, we outline an approach to detecting such egregious
+conversations, using behavioral cues from the user, patterns in agent
+responses, and user-agent interaction. Using logs of two commercial systems, we
+show that using these features improves the detection F1-score by around 20%
+over using textual features alone. In addition, we show that those features are
+common across two quite different domains and, arguably, universal.
+Author{1}{Firstname}#=%=#Tommy
+Author{1}{Lastname}#=%=#Sandbank
+Author{1}{Email}#=%=#tommy@il.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Michal
+Author{2}{Lastname}#=%=#Shmueli-Scheuer
+Author{2}{Email}#=%=#shmueli@il.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#Herzig
+Author{3}{Email}#=%=#jherzig@gmail.com
+Author{3}{Affiliation}#=%=#Tel-Aviv University
+Author{4}{Firstname}#=%=#David
+Author{4}{Lastname}#=%=#Konopnicki
+Author{4}{Email}#=%=#davidko@il.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research
+Author{5}{Firstname}#=%=#John
+Author{5}{Lastname}#=%=#Richards
+Author{5}{Email}#=%=#ajtr@us.ibm.com
+Author{5}{Affiliation}#=%=#IBM Research
+Author{6}{Firstname}#=%=#David
+Author{6}{Lastname}#=%=#Piorkowski
+Author{6}{Email}#=%=#david.piorkowski@ibm.com
+Author{6}{Affiliation}#=%=#IBM Research
+
+==========

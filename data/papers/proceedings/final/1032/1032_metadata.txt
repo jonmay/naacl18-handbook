@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1032
+FinalPaperTitle#=%=#An Annotated Corpus for Machine Reading of Instructions in Wet Lab Protocols
+ShortPaperTitle#=%=#An Annotated Corpus for Machine Reading of Instructions in Wet Lab Protocols
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Chaitanya Kulkarni
+JobTitle#==#
+Organization#==#Ohio State University
+Department of Computer Science and Engineering
+395 Dreese Laboratories
+2015 Neil Avenue
+Columbus, OH 43210-1277
+Abstract#==#We describe an effort to annotate a corpus of natural language instructions consisting of 622 wet lab protocols to facilitate automatic or semi-automatic conversion of protocols into a machine-readable format and benefit biological research. Experimental results demonstrate the utility of our corpus for developing machine learning approaches to shallow semantic parsing of instructional texts. We make our annotated Wet Lab Protocol Corpus available to the research community.
+Author{1}{Firstname}#=%=#Chaitanya
+Author{1}{Lastname}#=%=#Kulkarni
+Author{1}{Email}#=%=#kulkarni.132@osu.edu
+Author{1}{Affiliation}#=%=#Ohio State University
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#weixu@cse.ohio-state.edu
+Author{2}{Affiliation}#=%=#Ohio State University
+Author{3}{Firstname}#=%=#Alan
+Author{3}{Lastname}#=%=#Ritter
+Author{3}{Email}#=%=#ritter.1492@osu.edu
+Author{3}{Affiliation}#=%=#The Ohio State University
+Author{4}{Firstname}#=%=#Raghu
+Author{4}{Lastname}#=%=#Machiraju
+Author{4}{Email}#=%=#machiraju.1@osu.edu
+Author{4}{Affiliation}#=%=#Ohio State University
+
+==========

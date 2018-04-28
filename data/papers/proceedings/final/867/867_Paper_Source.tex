@@ -1,0 +1,603 @@
+\documentclass[11pt,letterpaper]{article}
+
+%\usepackage[hyperref]{naaclhlt2018}
+\usepackage{naaclhlt2018}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{todonotes}
+
+\usepackage[greek,english]{babel}
+\usepackage[ruled,vlined]{algorithm2e}
+
+\usepackage{tikz-dependency}
+\depstyle{depstd}{arc edge,arc angle=50,text only label,label style=above}
+
+\aclfinalcopy
+\def\aclpaperid{867}
+
+\newcommand{\dep}[1]{\texttt{#1}}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+\LinesNumbered
+\SetKwInput{Input}{input}
+
+\title{Automatically Selecting the Best Dependency Annotation Design
+  with Dynamic Oracles}
+
+\author{Guillaume Wisniewski$^1$, Oph\'elie Lacroix$^2$ \and Fran\c{c}ois Yvon$^1$ \\
+		$^1$LIMSI, CNRS, Univ. Paris-⁠Sud, Universit\'{e} Paris-Saclay, F-91405 Orsay, France \\
+		$^2$Siteimprove, Sankt Ann{\ae} Plads 28, DK-1250 Copenhagen, Denmark \\
+		{\tt guillaume.wisniewski@limsi.fr, ola@siteimprove.com, francois.yvon@limsi.fr}\\
+		}
+
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+  This work introduces a new strategy to compare the numerous
+  conventions that have been proposed over the years for
+  expressing dependency structures and discover the one for which a
+  parser will achieve the highest parsing performance. Instead of
+  associating each sentence in the training set with a single gold
+  reference, we propose to consider a set of references encoding
+  alternative syntactic representations. Training a parser with a
+  dynamic oracle will then automatically select among all alternatives
+  the reference that will be predicted with the highest accuracy.
+  Experiments on the UD corpora show the validity of this approach.
+\end{abstract}
+
+
+\section{Introduction}
+
+Multiple annotation conventions have been proposed over the years for
+representing dependency
+structures~\cite{hajic01prague,demarneffe14universal}. %\todo{FY: + non-projective deps and projectivization}
+The divergence between annotation guidelines can result from the
+theoretical linguistic principles governing the choices of head status
+and dependency inventories, the tree-to-dependency conversion scheme
+or arbitrary decisions regarding closed class words, such as
+interjections or discursive markers, the syntactic role of which is
+debatable. Several works have shown that the choice of a dependency
+structure can have a large impact on parsing
+performance~\cite{silveira15does,delhoneux2016representation,kohita17multilingual}
+and on the performance of downstream
+applications~\cite{elming13downstream}.
+
+A natural way to decide which syntactic representation is the
+best is to choose the one for which a standard parser will achieve the
+highest parsing
+performance~\cite{schwartz12learnability,husain12analyzing,noro05evalaution}. Implementing
+this general principle faces two challenges: \textit{i)} defining a
+learning criterion that can predict which dependency structure will be
+the easiest to learn \textit{ii)} finding a way to explore a
+potentially large number of annotation schemes that describe all
+combinations of several design decisions.
+
+This work shows that the dynamic oracle of
+\newcite{goldberg13training} can straightforwardly uncover the most
+\emph{learnable} dependency representation among a predefined set of
+possible references.\footnote{Contrary to unsupervised parsing, our
+  approach does not aim at discovering a dependency structure and
+  rather relies on the existence of several hand-crafted references.}
+Rather than associating each sentence in the training set to a single
+reference, we propose to consider a set of references encoding
+alternative syntactic representations. Training a parser with a
+dynamic oracle will then automatically select among all alternatives
+the reference that will be predicted with the highest accuracy.
+
+This article is organized as follows: we first review standard
+structural transformations studied in the literature that will be used
+to build a treebank annotated with multiple references
+(\textsection\ref{sec:transfo}). We then show how the dynamic oracle
+of~\newcite{goldberg13training} can be used to train a parser when
+each sentence is associated to a set of references and explain how
+it can be used to define a learnability criteria
+(\textsection\ref{sec:training}). An experimental evaluation of our
+approach is presented in~\textsection\ref{sec:exp}.
+
+\section{Dependency Transformations \label{sec:transfo}}
+
+In this section, we explain how to automatically transform the
+reference UD treebanks~\cite{nivre16universal}, to build corpora
+in which each sentence is annotated by a set of possible trees.
+
+The UD project aims at developing cross-linguistically consistent
+treebank annotations for many languages by harmonizing annotation
+schemes between languages and converting existing treebanks to this
+new scheme. Several recent
+papers~\cite{kohita17multilingual,delhoneux2016representation,silveira15does,popel13coordination}
+have investigated whether the choices made to increase the sharing of
+structures between languages hurt parsing performance and have
+identified a variety of choice points in which more than one design
+could be advocated. Most of these points are related to the issue of
+headness: contrary to most works in theoretical linguistic, UD assumes
+that function words should be categorically subordinated to content
+words to maximize the similarity of dependency trees across
+languages~\cite{osborne15historical}.
+
+The alternative representations we consider are summarized in
+Table~\ref{tab:udscheme}. They mostly consist in demoting the lexical
+head and making it dependent on a functional head.  We designed a set
+of handcrafted rules\footnote{A more detailed description of the
+  transformations can be found in \cite{wisniewski17}. The source code
+  is freely available on the first author web site.} to convert
+dependencies between these two schemes.  Each application of a rule
+creates a new tree in the set of references that is being built. As
+shown in Figure~\ref{fig:ex_transfo}, the resulting set of
+references encodes all possible combinations of the considered
+transformations.
+
+\begin{figure}[htbp]
+  \centering
+  \begin{dependency}[theme=night]
+    \begin{deptext}
+      ... \& pour \& la \& peine \& ... \\
+    \end{deptext}
+    \depedge{4}{2}{case}
+    \depedge{4}{3}{det}
+    \deproot{4}{root}
+  \end{dependency}
+  \begin{dependency}
+    \begin{deptext}
+      ... \& pour \& la \& peine \& ... \\
+    \end{deptext}
+    \depedge{2}{4}{case}
+    \depedge{4}{3}{det}
+    \deproot{2}{root}
+  \end{dependency}
+  \begin{dependency}
+    \begin{deptext}
+      ... \& pour \& la \& peine \& ... \\
+    \end{deptext}
+    \depedge{3}{4}{det}
+    \depedge{2}{3}{case}
+    \deproot{2}{root}
+  \end{dependency}
+  \begin{dependency}
+    \begin{deptext}
+      ... \& pour \& la \& peine \& ... \\
+    \end{deptext}
+    \depedge{3}{2}{case}
+    \depedge{3}{4}{det}
+    \deproot{3}{root}
+  \end{dependency}
+  \caption{Examples of all the annotations generated by applying the
+    rules of Table~\ref{tab:udscheme}. The UD reference is
+    in solid black.\label{fig:ex_transfo}}
+\end{figure}
+
+\begin{table*}[ht!]
+\centering
+\begin{small}
+  \begin{tabular}{p{60pt}lcc}
+    \toprule
+    \multicolumn{2}{c}{\textbf{Syntactic Functions}} & \multicolumn{2}{c}{\textbf{Annotation Scheme}} \\
+    \cmidrule(lr){1-2} \cmidrule(lr){3-4}
+    \textbf{Relation}  & \textbf{UD labels} & \textbf{UD} & \textbf{Alternative} \\
+    \midrule
+	Clause 	 
+	&
+	\dep{mark}
+	& 
+	\multirow{2}{*}{
+	\begin{dependency}[depstd]
+		\begin{deptext}[column sep=0.03cm]
+		to \& read  \\
+		\end{deptext}
+	    \depedge[edge start x offset=3pt]{2}{1}{}
+	\end{dependency}
+	}
+	&
+	\multirow{2}{*}{
+	\begin{dependency}[depstd]
+		\begin{deptext}[column sep=0.03cm]
+		to \& read  \\
+		\end{deptext}
+	    \depedge[edge start x offset=-4pt]{1}{2}{}
+	\end{dependency} 
+	}
+	\\
+    subordinates 	& 	& 	& 	\\
+    \midrule
+	Determiners 	 
+	&
+	\dep{det}
+	& 
+	\multirow{2}{*}{
+	\begin{dependency}[depstd]
+		\begin{deptext}[column sep=0.03cm]
+		the \& book  \\
+		\end{deptext}
+	    \depedge[edge start x offset=3pt]{2}{1}{}
+	\end{dependency}
+	}
+	&
+	\multirow{2}{*}{
+	\begin{dependency}[depstd]
+		\begin{deptext}[column sep=0.03cm]
+		the \& book  \\
+		\end{deptext}
+	    \depedge[edge start x offset=-4pt]{1}{2}{}
+	\end{dependency} 
+	}\\
+	 	& 	& 	& 	\\
+	\midrule
+    Noun  
+	&
+	\dep{mwe}+\dep{goeswith}, 
+	& 
+	\multirow{2}{*}{
+	\begin{dependency}[depstd,arc angle=20]
+		\begin{deptext}[column sep=0.03cm]
+		John \& Jr. \& Doe  \\
+		\end{deptext}
+	    \depedge[edge start x offset=-2pt]{1}{2}{}
+        \depedge[edge start x offset=-2pt]{1}{3}{}
+	\end{dependency}
+	}
+	&
+	\multirow{2}{*}{
+	\begin{dependency}[depstd]
+		\begin{deptext}[column sep=0.03cm]
+		John \& Jr. \& Doe  \\
+		\end{deptext}
+	    \depedge[edge start x offset=-2pt]{1}{2}{}
+        \depedge[edge start x offset=-2pt]{2}{3}{}
+	\end{dependency} 
+	}
+	\\
+	sequences & \dep{name} & & \\
+    \midrule
+    Case  
+	&
+	\dep{case}
+	& 
+	\multirow{2}{*}{
+	\begin{dependency}[depstd]
+		\begin{deptext}[column sep=0.03cm]
+		of \& Earth  \\
+		\end{deptext}
+	    \depedge[edge start x offset=4pt]{2}{1}{}
+	\end{dependency}
+	}
+	&
+	\multirow{2}{*}{
+	\begin{dependency}[depstd]
+		\begin{deptext}[column sep=0.03cm]
+		of \& Earth  \\
+		\end{deptext}
+	    \depedge[edge start x offset=-3pt]{1}{2}{}
+	\end{dependency} 
+	}
+	\\
+    marking & & & \\
+    \midrule
+	Coordinations 
+	&
+	\dep{cc}+\dep{conj} 
+	& 
+	\multirow{2}{*}{
+	\begin{dependency}[depstd,arc angle=20]
+		\begin{deptext}[column sep=0.03cm]
+		me \& and \& you  \\
+		\end{deptext}
+	    \depedge[edge start x offset=-3pt]{1}{2}{}
+	    \depedge[edge start x offset=-3pt]{1}{3}{}
+	\end{dependency} 
+	}
+	&
+	\multirow{2}{*}{
+	\begin{dependency}[depstd]
+		\begin{deptext}[column sep=0.03cm]
+		me \& and \& you  \\
+		\end{deptext}
+	    \depedge[edge start x offset=2pt]{2}{1}{}
+	    \depedge[edge start x offset=-2pt]{2}{3}{}
+	\end{dependency} 
+	}
+	\\
+	~ & & & \\ \midrule
+	Copulas
+	&
+	\dep{cop}+\dep{auxpass}
+	& 
+	\multirow{2}{*}{
+	\begin{dependency}[depstd,arc angle=30]
+		\begin{deptext}[column sep=0.03cm]
+		is \& nice  \\
+		\end{deptext}
+	    \depedge[edge start x offset=2pt]{2}{1}{}
+	\end{dependency} 
+	}
+	&
+	\multirow{2}{*}{
+	\begin{dependency}[depstd]
+		\begin{deptext}[column sep=0.03cm]
+		is \& nice  \\
+		\end{deptext}
+	    \depedge[edge start x offset=-2pt]{1}{2}{}
+	\end{dependency} 
+	}
+	\\
+	~ & & & \\
+\bottomrule
+\end{tabular}
+\end{small}
+\caption{Annotation schemes in the UD treebanks and standard alternatives.} \label{tab:udscheme}
+\end{table*}
+
+
+\section{Training a Dependency Parser with Multiple References \label{sec:training}}
+
+\paragraph*{Dynamic Oracle} In a transition-based
+parser \cite{nivre08algorithms}, a parse is computed by performing a
+sequence of \emph{transitions} building the parse tree in an
+incremental fashion. A partially built dependency tree is represented
+by a \emph{configuration} $c$; when in $c$, applying a transition~$t$ 
+results in the parser moving to a new configuration
+denoted~$c \circ t$.
+
+At each step of the parsing process, every possible transition is
+scored by a classifier (e.g.\ a linear model), given a feature
+representation of $c$ and model parameters $\mathbf{w}$; the score of
+a \emph{derivation} (a sequence of transitions) generating a given
+parse tree is the sum of its transition scores. Parsing thus amounts
+to finding, starting from the initial configuration
+$\textsc{Initial}(W)$, the derivation having the highest score,
+typically using greedy or beam search.\footnote{In this work we only
+  consider greedy parsers. Extending the proposed approach to beam
+  parsers would prevent discarding a reference because one of the its
+  transition is too hard to predict (i.e. has a very low score), which
+  would, intuitively, results in even better predictions.}
+
+\begin{algorithm}[t]
+  \small
+  \DontPrintSemicolon
+  \KwIn{$W$ the input sentence, $\mathcal{T}$ the set of gold trees}
+  $c \leftarrow \textsc{Initial}(W)$\;
+  \While{$\neg \textsc{Terminal}(c)$}{
+    $\textsc{Correct} \leftarrow \left\{ t | \exists T \in
+      \mathcal{T}, \textsc{Oracle}(t, c, T) = 0\right\}$\;
+    $t_p \leftarrow \argmax_{t \in \textsc{Legal}(c)} \mathbf{w} \cdot \phi(c, t)$\;
+    $t_o \leftarrow \argmax_{t \in \textsc{Correct}(c)} \mathbf{w} \cdot \phi(c, t)$\; \label{line:gold}
+    \eIf{$t_p \notin \textsc{Correct}$}{
+      $\textsc{Update}\left(\mathbf{w}, \phi(c, t_o), \phi(c, t_p)\right)$\; \label{line:update}
+      $t_\textrm{next} \leftarrow t_o$\;
+    }{
+      $t_\textrm{next} \leftarrow t_p$\;
+    }
+    $\mathcal{T} \leftarrow \left\{ T \in \mathcal{T} | \textsc{Oracle}(t_\textrm{next}, c, T)=0\right\}$\; \label{line:filter}
+    $c \leftarrow c \circ t_\textrm{next}$\;
+  }
+  \caption{Training on one sentence with multiple references (see text
+    for notations).\label{alg:learning}}
+\end{algorithm}
+
+Algorithm~\ref{alg:learning} formalizes the training procedure when
+the dynamic\footnote{Algorithm~\ref{alg:learning} only uses the
+  non-deterministic property of the oracle and not its
+  completeness. Even if we use the most common term, `dynamic
+  oracle', our approach only requires the former property.}  oracle
+of~\newcite{goldberg13training} is used: for each sentence, a parse
+tree is built incrementally and at each step, if the predicted
+transition prevents the creation of a gold dependency, the parameters
+are updated, according, for instance, to the perceptron rule
+(l.\ref{line:update}).  Erroneous transitions can efficiently be found
+using the $\textsc{Oracle}(t, c, T)$ function formally defined
+in~\cite{goldberg13training} as computing the number of dependencies
+of a gold parse tree $T$ that can no longer be predicted when a
+transition $t$ is applied in configuration $c$.
+
+During training, it often happens that several transitions are equally good: in 
+such situations, the training algorithm
+breaks ties among oracle transitions according to
+the model current prediction (l.\ref{line:gold}). As suggested in the
+imitation learning literature~\cite{daume05learning,ross10efficient}, this
+strategy enables to sample those configurations that will be the most
+similar to the ones seen when predicting a new dependency tree: it is
+a way to let the parser explore more specifically the part of the
+search space it prefers and is more likely to see at test
+time~\cite{aufrant17dont}. Using a dynamic oracle usually results in
+substantial improvements in accuracy compared to static oracles.
+
+\paragraph*{Considering Multiple References} Implementing the training
+algorithm described above only requires the ability to detect whether
+a transition will cause an erroneous dependency. It can naturally be
+extended to the case of multiple references: a transition is
+considered correct as long as it can predict at least one of the gold
+trees; when moving to a new configuration, trees that can no longer be
+generated are removed from the set of references, in order to make
+sure the parser will not mix the dependencies of two gold trees
+(l.\ref{line:filter}).
+
+Upon full completion of parsing, there will remain only one surviving
+reference that has been selected \emph{according to the model current
+  predictions}. This reference corresponds to the dependency structure
+that is the most similar to the hypothesis the parser would have
+predicted at test time and can therefore be described as the reference
+the parser prefers: intuitively, Algorithm~\ref{alg:learning} will thus
+identify the reference that will be predicted with the highest
+accuracy.
+
+\section{Experiments \label{sec:exp}}
+
+\paragraph*{Data} We separately apply to the 7 dependencies considered
+the transformations described in Section~\ref{sec:transfo} on the
+38~languages of the UD project (v1.3), resulting in 266~transformed
+corpora.\footnote{44 transformed corpora were identical to the
+  original corpora as the transformation can not be applied (e.g.\
+  there are no multi-word expression in Chinese).}  To evaluate the
+ability of the proposed method to identify the `best' dependency
+structure, we consider fully as well as partially transformed
+sentences: a sentence with $n$ dependencies of interest will generate
+$2^n$ references.
+
+For each condition (i.e.\ a language and a transformation), a dependency
+parser is trained using (a) the original data annotated with UD
+convention, (b) `transformed' data in which each sentence is
+associated to a reference in which all dependencies of interest have
+been transformed and (c) the data associated with a set of reference
+containing all the partially transformed references (including the
+original and transformed references).
+
+\paragraph*{Parser} We use our own implementation of an arc-eager
+unlabeled dependency parser with a dynamic oracle and an averaged
+perceptron, using the features described in~\cite{zhang11transition}
+which have been designed for English and have not been adapted to the
+specificities of the other languages.\footnote{Note that the proposed
+  approach can be apply to other transition systems and classifiers.}
+Training stops when the UAS estimated on the validation set has
+converged.
+
+\paragraph*{Impact of Transformations}
+Figure~\ref{fig:distrib_uas_diff} shows the distribution of
+differences in UAS between a parser trained on the original data
+(setting (a)) and a parser trained on the transformed data (setting
+(b)). To evaluate the proposed transformations, we follow the approach
+introduced in \cite{schwartz12learnability} consisting in comparing
+the original and the transformed data on their respective
+references.% \todo{FY: A footnote pour future work - check whether it also
+  % improves on original tree ?}
+
+As expected, the annotation scheme has a large impact on the quality
+of the prediction, with an average difference in scores of 0.66 UAS
+points and variations as large as 8.1~UAS points. These results show
+that, contrary to general
+belief~\cite{schwartz12learnability,kohita17multilingual}, the UD
+scheme is not sub-optimal for monolingual parsing: the difference in
+UAS is negative in 93 conditions and positive in
+129. Table~\ref{tab:uas_diff} details for each dependency the when the
+UD scheme results in better predictions.
+
+\begin{figure}[h]
+  \includegraphics[width=\columnwidth]{res_transfo.pdf}
+  \caption{Distribution of differences between the UAS achieved on the
+    UD and transformed corpora. Positive values indicate better prediction performance with UD annotations.
+    \label{fig:distrib_uas_diff}}
+\end{figure}
+
+\def\arraystretch{0.7}
+\begin{table}[h]
+  \begin{tabular}{@{~}l@{~~}c@{~~~~~}l@{~~}c@{~~~~~}l@{~~}c@{~}}
+    \toprule
+    \dep{case}        &  44.7\% & \dep{mark}        &  58.3\% & \dep{det}         &  80.5\% \\
+    \dep{cc}          &  89.4\% & \dep{mwe}         &  50.0\% & \dep{name}        &  45.8\% \\
+    \dep{cop}         &  25.0\% \\
+    \bottomrule
+  \end{tabular}
+  \centering
+  \caption{Percentage of times a parser trained and evaluated on UD
+    data (setting (a)) outperforms a parser trained and evaluated on
+    transformed data (setting (b)).\label{tab:uas_diff}}
+\end{table}
+
+% XXX do not forget to add reference to UDW'17 paper
+
+\paragraph*{Training with Multiple References}
+To assess the impact of training with multiple references (setting
+(c)), we first evaluate the capacity of Algorithm~\ref{alg:learning}
+to consistently select a single annotation scheme during training. We
+count, in each conditions, the number of times the reference that has
+survived training was following the original scheme and the number of
+times it was following the transformed scheme. For 74.7\% of the
+conditions, the reference that has survived training was following the
+same annotation scheme for more than 70\% of the training examples. This
+observation proves the ability of the parser to commit itself to a
+single annotation scheme.
+
+\paragraph*{Learnability Criterion} The training procedure proposed in
+this article was designed to uncover the dependency structure that will
+optimize parsing accuracy. In this section we evaluate whether this goal is achieved, 
+by counting the number of conditions in which the
+annotation scheme that has survived training the most often (in
+setting (c)) is indeed the one that achieves the best performance on
+the test set, as evaluated by testing a parser in settings (a) and
+(b).
+
+We will consider, as baselines, two measures of the `learnability' of
+a treebank, the \emph{predictability} of an annotation
+scheme~\cite{schwartz12learnability} and the \emph{derivation
+  perplexity}~\cite{sogaard10derivation}. Contrary to our
+approach, these two measures aims at deciding which of two annotations
+schemes will achieve the best parsing accuracy without actually
+training and testing a parser.  The predictability is defined as the
+entropy of the conditional distribution of the dependent PoS 
+knowing the head PoS.  The derivation perplexity is the
+perplexity of 3-gram language model estimated on a corpus in which the
+words of a sentence appear in the order in which they are attached to
+their head.\footnote{Similarly to~\cite{sogaard10derivation}, we
+  consider a trigram language model but use Witten-Bell smoothing as
+  many corpora are too small to use Kneser-Ney smoothing.}
+
+% \todo{Si je comprends: tu fais des
+%   expériences en mono-reference et tu compares les scores. Et tu te
+%   demandes si l'annotation majoritaire au train (setting (c) est celle qui donne les
+%   meilleurs résultats quand on l'applique pour tout le corpus et nous
+%   aide à choisir (a) où (b) ? Tu peux le dire en une phrase, non ?} 
+
+Table~\ref{tab:learnability} reports the number of times, averaged
+over languages and transformations, that each measure of learnability
+is able to predict which of two competing annotation schemes will
+yield the best parsing performance. These results clearly show that the approach we propose to
+evaluate the `learnability' of an annotation scheme outperforms
+existing criteria
+% \footnote{ Results for state-of-the-art metrics are
+%   not as good as previously reported.  This might be due to the fact
+%   that this is the first time, to the best of our knowledge, that
+%   these metrics are compared on such a wide array of
+%   languages. % Moreover, our transformations are directly applied. It is
+%   % possible that some transformations are erroneous and bias the
+%   % result.
+% }
+and is able to select the annotation convention that achieves the
+highest parsing performance.
+
+\begin{table}[h]
+  \centering
+  \begin{tabular}{lc}
+    \toprule
+    metric                & learnability \\
+    \midrule
+    predictability                 & 64.8\% \\
+    derivation complexity          & 62.6\% \\
+    \texttt{multiple references}   & 76.3\% \\
+    \bottomrule
+  \end{tabular}
+  \caption{Number of times a given learnability measure is able to
+    predict which annotation scheme will result in the best parsing
+    performance. `\texttt{multiple references}' corresponds to the approach
+    proposed in this work.\label{tab:learnability}}
+\end{table}
+
+
+\section{Conclusion}
+
+This work introduces a new strategy to compare the numerous
+representations that have been proposed over the years for expressing
+dependency structures and discover the one that is easiest to learn.
+Experiments with the popular transition-based parser on the UD corpora
+show the validity of the proposed approach. 
+
+In future work, we would like to evaluate the impact of annotation
+conventions on other kind of parsers and to find the properties of a
+dependency tree that facilitate its prediction. We also plan to find
+ways to easily annotate sentences with multiple references (e.g. by
+indicating that the head of word can be chosen arbitrarily) and
+eliminate the constraint that references should be trees.
+
+\section*{Acknowledgments}
+
+This work has been partly funded by the \textit{Agence Nationale de la
+  Recherche} under ParSiTi project (ANR-16-CE33-0021) and MultiSem
+project (ANR-16-CE33-0013).
+
+\bibliography{annotation_preference}
+\bibliographystyle{acl_natbib}
+
+\end{document}

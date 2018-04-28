@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#574
+FinalPaperTitle#=%=#Using Morphological Knowledge in Open-Vocabulary Neural Language Models
+ShortPaperTitle#=%=#Using Morphological Knowledge in Open-Vocabulary Neural Language Models
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Austin Matthews
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#Languages with productive morphology pose problems for language models that
+generate words from a fixed vocabulary.
+Although character-based models allow any possible word type to be generated,
+they are linguistically na\"{\i}ve: they must discover that words exist and are
+delimited by spaces---basic linguistic facts that are built in to the structure
+of word-based models. We introduce an open-vocabulary language model that
+incorporates more sophisticated linguistic knowledge by predicting words using
+a mixture of three generative processes: (1)~by generating words as a sequence
+of characters, (2)~by directly generating full word forms, and (3)~by
+generating words as a sequence of morphemes that are combined using a
+hand-written morphological analyzer.
+Experiments on Finnish, Turkish, and Russian show that our model outperforms
+character sequence models and other strong baselines on intrinsic and extrinsic
+measures.
+Furthermore, we show that our model learns to exploit morphological knowledge
+encoded in the analyzer, and, as a byproduct, it can perform effective
+unsupervised morphological disambiguation.
+Author{1}{Firstname}#=%=#Austin
+Author{1}{Lastname}#=%=#Matthews
+Author{1}{Email}#=%=#armatthe@cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Graham
+Author{2}{Lastname}#=%=#Neubig
+Author{2}{Email}#=%=#gneubig@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Lastname}#=%=#Dyer
+Author{3}{Email}#=%=#cdyer@google.com
+Author{3}{Affiliation}#=%=#Google DeepMind
+
+==========

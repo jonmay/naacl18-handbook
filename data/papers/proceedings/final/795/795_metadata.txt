@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#795
+FinalPaperTitle#=%=#Enhanced Word Representations for Bridging Anaphora Resolution
+ShortPaperTitle#=%=#Enhanced Word Representations for Bridging Anaphora Resolution
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yufang Hou
+JobTitle#==#
+Organization#==#IBM Research Ireland
+Damastown Industrial Estate, Mulhuddart, Dublin 15, Ireland
+Abstract#==#Most current models of word representations (e.g., GloVe) have successfully captured fine-
+grained semantics. However, semantic similarity exhibited in these word embeddings is not suitable for resolving bridging anaphora, which requires the knowledge of associative
+similarity (i.e., relatedness) instead of semantic similarity information between synonyms
+or hypernyms. We create word embeddings (embeddings_PP) to capture such relatedness
+by exploring the syntactic structure of noun phrases. We demonstrate that using embeddings _PP alone achieves around 30% of accuracy for bridging anaphora resolution on the ISNotes corpus. Furthermore, we achieve a substantial gain over the state-of-the-art system (Hou et al., 2013b) for bridging antecedent selection.
+Author{1}{Firstname}#=%=#Yufang
+Author{1}{Lastname}#=%=#Hou
+Author{1}{Email}#=%=#bnuxiaofang@gmail.com
+Author{1}{Affiliation}#=%=#IBM Research Ireland
+
+==========

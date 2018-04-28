@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#718
+FinalPaperTitle#=%=#The Emergence of Semantics in Neural Network Representations of Visual Information
+ShortPaperTitle#=%=#The Emergence of Semantics in Neural Network Representations of Visual Information
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#alona fyshe
+JobTitle#==#
+Organization#==#University of Victoria 
+  Department of Computer Science, 
+  3800 Finnerty Rd, Victoria, Canada
+Abstract#==#Word vector models learn about semantics through corpora.  Convolutional Neural Networks (CNNs) can learn about semantics through images.  At the most abstract level, some of the information in these models must be shared, as they model the same real-world phenomena.  Here we employ techniques previously used to detect semantic representations in the human brain to detect semantic representations in CNNs.  We show the accumulation of semantic information in the layers of the CNN, and discover that, for misclassified images, the correct class can be recovered in intermediate layers of a CNN.
+Author{1}{Firstname}#=%=#Dhanush
+Author{1}{Lastname}#=%=#Dharmaretnam
+Author{1}{Email}#=%=#dhanushd@uvic.ca
+Author{1}{Affiliation}#=%=#University of Victoria
+Author{2}{Firstname}#=%=#Alona
+Author{2}{Lastname}#=%=#Fyshe
+Author{2}{Email}#=%=#afyshe@uvic.ca
+Author{2}{Affiliation}#=%=#University of Victoria
+
+==========

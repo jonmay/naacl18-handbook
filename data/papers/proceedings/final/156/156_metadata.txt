@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#156
+FinalPaperTitle#=%=#Multinomial Adversarial Networks for Multi-Domain Text Classification
+ShortPaperTitle#=%=#Multinomial Adversarial Networks
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Xilun Chen
+JobTitle#==#
+Organization#==#Cornell University
+Ithaca, NY, USA
+Abstract#==#Many text classification tasks are known to be highly domain-dependent. Unfortunately, the availability of training data can vary drastically across domains. Worse still, for some domains there may not be any annotated data at all. In this work, we propose a multinomial adversarial network (MAN) to tackle this real-world problem of multi-domain text classification (MDTC) in which labeled data may exist for multiple domains, but in insufficient amounts to train effective classifiers for one or more of the domains. We provide theoretical justifications for the MAN framework, proving that different instances of MANs are essentially minimizers of various f-divergence metrics (Ali and Silvey, 1966) among multiple probability distributions. MANs are thus a theoretically sound generalization of traditional adversarial networks that discriminate over two distributions. More specifically, for the MDTC task, MAN learns features that are invariant across multiple domains by resorting to its ability to reduce the divergence among the feature distributions of each domain. We present experimental results showing that MANs significantly outperform the prior art on the MDTC task. We also show that MANs achieve state-of-the-art performance for domains with no labeled data.
+Author{1}{Firstname}#=%=#Xilun
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#xlchen@cs.cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Claire
+Author{2}{Lastname}#=%=#Cardie
+Author{2}{Email}#=%=#cardie@cs.cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+
+==========

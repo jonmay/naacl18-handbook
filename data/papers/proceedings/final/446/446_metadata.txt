@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#446
+FinalPaperTitle#=%=#Universal Neural Machine Translation for Extremely Low Resource Languages
+ShortPaperTitle#=%=#Universal Neural Machine Translation for Extremely Low Resource Languages
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jiatao Gu
+JobTitle#==#
+Organization#==#The University of Hong Kong, Hong Kong
+Abstract#==#In this paper, we propose a new universal machine translation approach focusing on languages with a limited amount of parallel data.  Our proposed approach utilizes a transfer-learning approach to share lexical and sentence level representations across multiple source languages into one target language. The lexical part is shared through a  Universal Lexical Representation to support multi-lingual word-level sharing. The sentence-level sharing is represented by a model of experts from all source languages that share the source encoders with all other languages. This enables the low-resource language to utilize the lexical and sentence representations of the higher resource languages. 
+Our approach is able to achieve 23 BLEU on Romanian-English WMT2016 using a tiny parallel corpus of 6k sentences, compared to the 18 BLEU of strong baseline system which uses multi-lingual training and back-translation. Furthermore, we show that the proposed approach can achieve almost 20 BLEU on the same dataset through fine-tuning a pre-trained multi-lingual system in a zero-shot setting.
+Author{1}{Firstname}#=%=#Jiatao
+Author{1}{Lastname}#=%=#Gu
+Author{1}{Email}#=%=#jiataogu@eee.hku.hk
+Author{1}{Affiliation}#=%=#Department of Electrical and Electronic Engineering, The University of Hong Kong
+Author{2}{Firstname}#=%=#Hany
+Author{2}{Lastname}#=%=#Hassan
+Author{2}{Email}#=%=#hanyh@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Jacob
+Author{3}{Lastname}#=%=#Devlin
+Author{3}{Email}#=%=#jacobdevlin@google.com
+Author{3}{Affiliation}#=%=#Google Research
+Author{4}{Firstname}#=%=#Victor O.K.
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#vli@eee.hku.hk
+Author{4}{Affiliation}#=%=#The University of Hong Kong
+
+==========

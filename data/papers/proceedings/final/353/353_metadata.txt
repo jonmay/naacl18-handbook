@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#353
+FinalPaperTitle#=%=#Automatic Focus Annotation: Bringing Formal Pragmatics Alive in Analyzing the Information Structure of Authentic Data
+ShortPaperTitle#=%=#Automatic Focus Annotation
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ramon Ziai
+JobTitle#==#
+Organization#==#University of Tübingen
+SFB 833 / Department of Linguistics
+Wilhelmstraße 19
+72070 Tübingen
+Abstract#==#Analyzing language in context, both from a theoretical and from a computational
+perspective, is receiving increased interest. Complementing the research in
+linguistics on discourse and information structure, in computational
+linguistics identifying discourse concepts was also shown to improve the
+performance of certain applications, for example, Short Answer Assessment
+systems (Ziai and Meurers, 2014).
+
+Building on the research that established detailed annotation guidelines for
+manual annotation of information structural concepts for written (Dipper et
+al., 2007; Ziai and Meurers, 2014) and spoken language data (Calhoun et al.,
+2010), this paper presents the first approach automating the analysis of focus
+in authentic written data. Our classification approach combines a range of
+lexical, syntactic, and semantic features to achieve an accuracy of 78.1% for
+identifying focus.
+Author{1}{Firstname}#=%=#Ramon
+Author{1}{Lastname}#=%=#Ziai
+Author{1}{Email}#=%=#rziai@sfs.uni-tuebingen.de
+Author{1}{Affiliation}#=%=#Universität Tübingen
+Author{2}{Firstname}#=%=#Detmar
+Author{2}{Lastname}#=%=#Meurers
+Author{2}{Email}#=%=#dm@sfs.uni-tuebingen.de
+Author{2}{Affiliation}#=%=#Universität Tübingen
+
+==========

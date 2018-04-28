@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#499
+FinalPaperTitle#=%=#A Structured Syntax-Semantics Interface for English-AMR Alignment
+ShortPaperTitle#=%=#A Structured Syntax-Semantics Interface for English-AMR Alignment
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Szubert
+JobTitle#==#
+Organization#==#University of Edinburgh
+Edinburgh, Scotland, UK
+Abstract#==#Abstract Meaning Representation (AMR) annotations are often assumed to closely
+mirror dependency syntax, but AMR explicitly does not require this, and the
+assumption has never been tested. To test it, we devise an expressive framework
+to align AMR graphs to dependency graphs, which we use to annotate 200 AMRs.
+Our annotation explains how 97% of AMR edges are evoked by words or syntax.
+Previously existing AMR alignment frameworks did not allow for mapping AMR onto
+syntax, and as a consequence they explained at most 23%. While we find that
+there are indeed many cases where AMR annotations closely mirror syntax, there
+are also pervasive differences. We use our annotations to test a baseline
+AMR-to-syntax aligner, finding that this task is more difficult than
+AMR-to-string alignment; and to pinpoint errors in an AMR parser. We make our
+data and code freely available for further research on AMR parsing and
+generation, and the relationship of AMR to syntax.
+Author{1}{Firstname}#=%=#Ida
+Author{1}{Lastname}#=%=#Szubert
+Author{1}{Email}#=%=#katarzynaidaszubert@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Adam
+Author{2}{Lastname}#=%=#Lopez
+Author{2}{Email}#=%=#alopez@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Nathan
+Author{3}{Lastname}#=%=#Schneider
+Author{3}{Email}#=%=#nathan.schneider@georgetown.edu
+Author{3}{Affiliation}#=%=#Georgetown University
+
+==========

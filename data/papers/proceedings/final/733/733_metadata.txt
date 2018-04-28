@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#733
+FinalPaperTitle#=%=#Reference-less Measure of Faithfulness for Grammatical Error Correction
+ShortPaperTitle#=%=#Reference-less Measure of Faithfulness for Grammatical Error Correction
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Leshem Choshen
+JobTitle#==#
+Organization#==#Hebrew University Jerusalem Israel
+Abstract#==#We propose USim, a semantic measure for Grammatical Error Correction (that
+measures the semantic faithfulness of the output to the source, thereby
+complementing existing reference-less measures (RLMs) for measuring the
+output's grammaticality. USim operates by comparing the semantic symbolic
+structure of the source and the correction, without relying on manually-curated
+references. Our experiments establish the validity of {\sc USim}, by showing
+that the semantic structures can be consistently applied to ungrammatical text,
+that valid corrections obtain a high {\sc USim} similarity score to the source,
+and that invalid corrections obtain a lower score.
+Author{1}{Firstname}#=%=#Leshem
+Author{1}{Lastname}#=%=#Choshen
+Author{1}{Email}#=%=#leshem.choshen@mail.huji.ac.il
+Author{1}{Affiliation}#=%=#Hebrew University Jerusalem Israel
+Author{2}{Firstname}#=%=#Omri
+Author{2}{Lastname}#=%=#Abend
+Author{2}{Email}#=%=#omri.abend@mail.huji.ac.il
+Author{2}{Affiliation}#=%=#The Hebrew University of Jerusalem
+
+==========

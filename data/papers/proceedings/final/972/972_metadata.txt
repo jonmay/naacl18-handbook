@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#972
+FinalPaperTitle#=%=#Higher-order Coreference Resolution with Coarse-to-fine Inference
+ShortPaperTitle#=%=#Higher-order Coreference Resolution with Coarse-to-fine Inference
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kenton Lee
+JobTitle#==#
+Organization#==#My affiliation is currently with Google, but this work was done entirely at University of Washington.
+Abstract#==#We introduce a fully-differentiable approximation to higher-order inference for
+coreference resolution. Our approach uses the antecedent distribution from a
+span-ranking architecture as an attention mechanism to iteratively refine span
+representations. This enables the model to softly consider multiple hops in the
+predicted clusters. To alleviate the computational cost of this iterative
+process, we introduce a coarse-to-fine approach that incorporates a less
+accurate but more efficient bilinear factor, enabling more aggressive pruning
+without hurting accuracy. Compared to the existing state-of-the-art
+span-ranking approach, our model significantly improves accuracy on the English
+OntoNotes benchmark, while being far more computationally efficient.
+Author{1}{Firstname}#=%=#Kenton
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Email}#=%=#kentonl@google.com
+Author{1}{Affiliation}#=%=#Google Research
+Author{2}{Firstname}#=%=#Luheng
+Author{2}{Lastname}#=%=#He
+Author{2}{Email}#=%=#luheng@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Luke
+Author{3}{Lastname}#=%=#Zettlemoyer
+Author{3}{Email}#=%=#lsz@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

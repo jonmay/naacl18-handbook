@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#597
+FinalPaperTitle#=%=#Neural Text Generation in Stories Using Entity Representations as Context
+ShortPaperTitle#=%=#Neural Text Generation in Stories Using Entity Representations as Context
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Elizabeth Clark
+JobTitle#==#
+Organization#==#University of Washington
+Abstract#==#We introduce an approach to neural text generation that explicitly represents
+entities mentioned in the text. Entity representations are vectors that are
+updated as the text proceeds; they are designed specifically for narrative text
+like fiction or news stories.  Our experiments demonstrate that modeling
+entities offers a benefit in two automatic
+evaluations: mention generation (in which a model chooses which entity to
+mention next and which words to use in the mention) and selection between a
+correct next sentence and a distractor from later in the same story. We also
+conduct a human evaluation on automatically generated text in story contexts;
+this study supports our emphasis on entities and suggests directions for
+further research.
+Author{1}{Firstname}#=%=#Elizabeth
+Author{1}{Lastname}#=%=#Clark
+Author{1}{Email}#=%=#eaclark07@gmail.com
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Yangfeng
+Author{2}{Lastname}#=%=#Ji
+Author{2}{Email}#=%=#jiyfeng@gmail.com
+Author{2}{Affiliation}#=%=#CSE, University of Washington
+Author{3}{Firstname}#=%=#Noah A.
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#nasmith@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

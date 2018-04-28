@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#546
+FinalPaperTitle#=%=#Exploring the Role of Prior Beliefs for Argument Persuasion
+ShortPaperTitle#=%=#Exploring the Role of Prior Beliefs for Argument Persuasion
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Esin Durmus
+JobTitle#==#
+Organization#==#Cornell University, Ithaca, NY 14850.
+Abstract#==#Public debate forums provide a common platform
+for exchanging opinions on a topic of
+interest. While recent studies in natural language
+processing (NLP) have provided empirical
+evidence that the language of the debaters
+and their patterns of interaction play
+a key role in changing the mind of a reader,
+research in psychology has shown that prior
+beliefs can affect our interpretation of an argument
+and could therefore constitute a competing
+alternative explanation for resistance to
+changing one’s stance. To study the actual effect
+of language use vs. prior beliefs on persuasion,
+we provide a new dataset and propose a
+controlled setting that takes into consideration
+two reader-level factors: political and religious
+ideology. We find that prior beliefs affected by
+these reader-level factors play a more important
+role than language use effects and argue
+that it is important to account for them in NLP
+studies of persuasion.
+Author{1}{Firstname}#=%=#Esin
+Author{1}{Lastname}#=%=#Durmus
+Author{1}{Email}#=%=#ed459@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Claire
+Author{2}{Lastname}#=%=#Cardie
+Author{2}{Email}#=%=#cardie@cs.cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+
+==========

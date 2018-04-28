@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#299
+FinalPaperTitle#=%=#Dialog Generation Using Multi-turn Reasoning Neural Networks
+ShortPaperTitle#=%=#Dialog Generation Using Multi-turn Reasoning Neural Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#xianchao wu
+JobTitle#==#
+Organization#==#A.I.&Research, Microsoft Development Co., Ltd.
+Shinagawa Grand Central Tower 2-16-3 Konan Minato-ku, Tokyo, 108-0075 Japan
+Abstract#==#In this paper, we propose a generalizable dialog generation approach that
+adapts multi-turn reasoning, one recent advancement in the field of document
+comprehension, to generate responses ("answers") by taking current conversation
+session context as a "document" and current query as a "question". The major
+idea is to represent a conversation session into memories upon which
+attention-based memory reading mechanism can be performed multiple times, so
+that (1) user's query is properly extended by contextual clues and (2) optimal
+responses are step-by-step generated. Considering that the speakers of one
+conversation are not limited to be one, we separate the single memory used for
+document comprehension into different groups for speaker-specific topic and
+opinion embedding. Namely, we utilize the queries' memory, the responses'
+memory, and their unified memory, following the time sequence of the
+conversation session. Experiments on Japanese 10-sentence (5-round)
+conversation modeling show impressive results on how multi-turn reasoning can
+produce more diverse and acceptable responses than state-of-the-art single-turn
+and non-reasoning baselines.
+Author{1}{Firstname}#=%=#Xianchao
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#wuxianchao@gmail.com
+Author{1}{Affiliation}#=%=#Microsoft
+Author{2}{Firstname}#=%=#Ander
+Author{2}{Lastname}#=%=#Martinez
+Author{2}{Email}#=%=#ander.martinez.zy4@is.naist.jp
+Author{2}{Affiliation}#=%=#NAIST
+Author{3}{Firstname}#=%=#Momo
+Author{3}{Lastname}#=%=#Klyen
+Author{3}{Email}#=%=#momokl@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+
+==========

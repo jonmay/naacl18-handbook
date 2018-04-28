@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#966
+FinalPaperTitle#=%=#Diachronic Usage Relatedness (DURel): A Framework for the Annotation of Lexical Semantic Change
+ShortPaperTitle#=%=#Diachronic Usage Relatedness (DURel)
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Dominik Schlechtweg
+JobTitle#==#
+Organization#==#Institute for Natural Language Processing, University of Stuttgart
+Abstract#==#We propose a framework that extends synchronic polysemy annotation to
+diachronic changes in lexical meaning, to counteract the lack of resources for
+evaluating computational models of lexical semantic change. Our framework
+exploits an intuitive notion of semantic relatedness, and distinguishes between
+innovative and reductive meaning changes with high inter-annotator agreement.
+The resulting test set for German comprises ratings from five annotators for
+the relatedness of 1,320 use pairs across 22 target words.
+Author{1}{Firstname}#=%=#Dominik
+Author{1}{Lastname}#=%=#Schlechtweg
+Author{1}{Email}#=%=#snicka@gmx.de
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Sabine
+Author{2}{Lastname}#=%=#Schulte im Walde
+Author{2}{Email}#=%=#schulte@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{3}{Firstname}#=%=#Stefanie
+Author{3}{Lastname}#=%=#Eckmann
+Author{3}{Email}#=%=#stefanie-eckmann@gmx.de
+Author{3}{Affiliation}#=%=#Ludwig-Maximilian University Munich
+
+==========

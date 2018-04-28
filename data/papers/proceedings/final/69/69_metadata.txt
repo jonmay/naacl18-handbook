@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#69
+FinalPaperTitle#=%=#Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition
+ShortPaperTitle#=%=#La-DTL for Cross-Specialty Medical NER
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Zhenghui Wang
+JobTitle#==#
+Organization#==#Shanghai Jiao Tong University
+No.800 Dongchuan Road, Shanghai, 200240, China
+Abstract#==#We study the problem of named entity recognition (NER) from electronic medical records, which is one of the most fundamental and critical problems for medical text mining. Medical records which are written by clinicians from different specialties usually contain quite different terminologies and writing styles. The difference of specialties and the cost of human annotation makes it particularly difficult to train a universal medical NER system. In this paper, we propose a label-aware double transfer learning framework (La-DTL) for cross-specialty NER, so that a medical NER system designed for one specialty could be conveniently applied to another one with minimal annotation efforts. The transferability is guaranteed by two components: (i) we propose label-aware MMD for feature representation transfer, and (ii) we perform parameter transfer with a theoretical upper bound which is also label aware. We conduct extensive experiments on 12 cross-specialty NER tasks. The experimental results demonstrate that La-DTL provides consistent accuracy improvement over strong baselines. Besides, the promising experimental results on non-medical NER scenarios indicate that La-DTL is potential to be seamlessly adapted to a wide range of NER tasks.
+Author{1}{Firstname}#=%=#Zhenghui
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#felixwzh@apex.sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Yanru
+Author{2}{Lastname}#=%=#Qu
+Author{2}{Email}#=%=#kevinqu@apex.sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Liheng
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#lhchen@apex.sjtu.edu.cn
+Author{3}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{4}{Firstname}#=%=#Jian
+Author{4}{Lastname}#=%=#Shen
+Author{4}{Email}#=%=#rockyshen@apex.sjtu.edu.cn
+Author{4}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{5}{Firstname}#=%=#Weinan
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Email}#=%=#wnzhang@apex.sjtu.edu.cn
+Author{5}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{6}{Firstname}#=%=#Shaodian
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Email}#=%=#shaodian@apex.sjtu.edu.cn
+Author{6}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{7}{Firstname}#=%=#Yimei
+Author{7}{Lastname}#=%=#Gao
+Author{7}{Email}#=%=#gao.yimei@synyi.com
+Author{7}{Affiliation}#=%=#Synyi LLC.
+Author{8}{Firstname}#=%=#Gen
+Author{8}{Lastname}#=%=#Gu
+Author{8}{Email}#=%=#gu.gen@synyi.com
+Author{8}{Affiliation}#=%=#Synyi LLC.
+Author{9}{Firstname}#=%=#Ken
+Author{9}{Lastname}#=%=#Chen
+Author{9}{Email}#=%=#chen.ken@synyi.com
+Author{9}{Affiliation}#=%=#Synyi LLC.
+Author{10}{Firstname}#=%=#Yong
+Author{10}{Lastname}#=%=#Yu
+Author{10}{Email}#=%=#yyu@apex.sjtu.edu.cn
+Author{10}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

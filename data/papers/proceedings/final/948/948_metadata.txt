@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#948
+FinalPaperTitle#=%=#Improving Coverage and Runtime Complexity for Exact Inference in Non-Projective Transition-Based Dependency Parsers
+ShortPaperTitle#=%=#Improving Coverage and Time Complexity for Exact Non-Projective Transition-Based Dependency Parsers
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Tianze Shi
+JobTitle#==#
+Organization#==#Cornell University
+Abstract#==#We generalize Cohen, Gómez-Rodríguez, and Satta's (2011) parser to a family
+of non-projective transition-based dependency parsers allowing polynomial-time
+exact inference. This includes novel parsers with better coverage than Cohen et
+al. (2011), and even a variant that reduces time complexity to O(n^6),
+improving over the known bounds in exact inference for non-projective
+transition-based parsing. We hope that this piece of theoretical work inspires
+design of novel transition systems with better coverage and better run-time
+guarantees.
+Author{1}{Firstname}#=%=#Tianze
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Email}#=%=#tianze@cs.cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Carlos
+Author{2}{Lastname}#=%=#Gómez-Rodríguez
+Author{2}{Email}#=%=#cgomezr@udc.es
+Author{2}{Affiliation}#=%=#Universidade da Coruña
+Author{3}{Firstname}#=%=#Lillian
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Email}#=%=#llee@cs.cornell.edu
+Author{3}{Affiliation}#=%=#Cornell University
+
+==========

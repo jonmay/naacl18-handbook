@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#768
+FinalPaperTitle#=%=#Evaluating Historical Text Normalization Systems: How Well Do They Generalize?
+ShortPaperTitle#=%=#Evaluating Historical Text Normalization Systems: How Well Do They Generalize?
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Alexander Robertson
+JobTitle#==#
+Organization#==#University of Edinburgh
+Informatics Forum
+Edinburgh
+Scotland
+Abstract#==#We highlight several issues in the evaluation of historical text normalization systems that make it hard to tell how well these systems would actually work in practice---i.e., for new datasets or languages; in comparison to more naïve systems; or as a preprocessing step for downstream NLP tools.
+
+We illustrate these issues and exemplify our proposed evaluation practices by comparing two neural models against a naïve baseline system. We show that the neural models generalize well to unseen words in tests on five languages; nevertheless, they provide no clear benefit over the naïve baseline for downstream POS tagging of an English historical collection.
+
+We conclude that future work should include more rigorous evaluation, including both intrinsic and extrinsic measures where possible.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Robertson
+Author{1}{Email}#=%=#alexander.robertson@ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Sharon
+Author{2}{Lastname}#=%=#Goldwater
+Author{2}{Email}#=%=#sgwater@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

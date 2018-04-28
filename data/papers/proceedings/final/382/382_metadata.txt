@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#382
+FinalPaperTitle#=%=#Post-Specialisation: Retrofitting Vectors of Words Unseen in Lexical Resources
+ShortPaperTitle#=%=#Post-Specialisation: Retrofitting Vectors of Words Unseen in Lexical Resources
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ivan Vulić
+JobTitle#==#Senior Research Associate
+Organization#==#Language Technology Lab, University of Cambridge, 9 West Road, CB3 9DP Cambridge, United Kingdom
+Abstract#==#Word vector specialisation (also known as retrofitting) is a portable, light-weight approach to fine-tuning arbitrary distributional word vector spaces by injecting external knowledge from rich lexical resources such as WordNet. By design, these post-processing methods only update the vectors of words occurring in external lexicons, leaving the representations of all unseen words intact. In this paper, we show that constraint-driven vector space specialisation can be extended to unseen words. We propose a novel  post-specialisation method that: a) preserves the useful linguistic knowledge for seen words; while b) propagating this external signal to unseen words in order to improve their vector representations as well. Our post-specialisation approach explicits a non-linear specialisation function in the form of a deep neural network by learning to predict specialised vectors from their original distributional counterparts. The learned function is then used to specialise vectors of unseen words. This approach, applicable to any post-processing model, yields considerable gains over the initial specialisation models both in intrinsic word similarity tasks, and in two downstream tasks: dialogue state tracking and lexical text simplification. The positive effects persist across three languages, demonstrating the importance of specialising the full vocabulary of distributional word vector spaces.
+Author{1}{Firstname}#=%=#Ivan
+Author{1}{Lastname}#=%=#Vulić
+Author{1}{Email}#=%=#iv250@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Goran
+Author{2}{Lastname}#=%=#Glavaš
+Author{2}{Email}#=%=#goran@informatik.uni-mannheim.de
+Author{2}{Affiliation}#=%=#University of Mannheim
+Author{3}{Firstname}#=%=#Nikola
+Author{3}{Lastname}#=%=#Mrkšić
+Author{3}{Email}#=%=#nikola.mrksic@gmail.com
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Anna
+Author{4}{Lastname}#=%=#Korhonen
+Author{4}{Email}#=%=#anna.korhonen@cl.cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+
+==========

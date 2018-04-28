@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#867
+FinalPaperTitle#=%=#Automatically Selecting the Best Dependency Annotation Design with Dynamic Oracles
+ShortPaperTitle#=%=#Automatically Selecting the Best Dependency Annotation Design with Dynamic Oracles
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Guillaume Wisniewski
+JobTitle#==#
+Organization#==#Université Paris Sud and LIMSI
+Abstract#==#This work introduces a new strategy to compare the numerous                       
+
+  conventions that have been proposed over the years for                       
+
+  expressing dependency structures and discover the one for which a               
+
+  parser will achieve the highest parsing performance. Instead of               
+
+  associating each sentence in the training set with a single gold               
+
+  reference we propose to consider a set of references encoding                
+
+  alternative syntactic representations. Training a parser with a               
+
+  dynamic oracle will then automatically select among all alternatives               
+
+  the reference that will be predicted with the highest accuracy.               
+
+  Experiments on the UD corpora show the validity of this approach.
+Author{1}{Firstname}#=%=#Guillaume
+Author{1}{Lastname}#=%=#Wisniewski
+Author{1}{Email}#=%=#guillaume.wisniewski@limsi.fr
+Author{1}{Affiliation}#=%=#Univ. Paris Sud and LIMSI-CNRS
+Author{2}{Firstname}#=%=#Ophélie
+Author{2}{Lastname}#=%=#Lacroix
+Author{2}{Email}#=%=#ola@siteimprove.com
+Author{2}{Affiliation}#=%=#Siteimprove
+Author{3}{Firstname}#=%=#François
+Author{3}{Lastname}#=%=#Yvon
+Author{3}{Email}#=%=#francois.yvon@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI/CNRS
+
+==========

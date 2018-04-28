@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#245
+FinalPaperTitle#=%=#From Phonology to Syntax: Unsupervised Linguistic Typology at Different Levels with Language Embeddings
+ShortPaperTitle#=%=#Unsupervised Linguistic Typology at Different Levels with Language Embeddings
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Johannes Bjerva
+JobTitle#==#
+Organization#==#Department of Computer Science, University of Copenhagen, Denmark
+Abstract#==#A core part of linguistic typology is the classification of languages according
+to linguistic properties, such as those detailed in the World Atlas of Language
+Structure (WALS).
+Doing this manually is prohibitively time-consuming, which is in part evidenced
+by the fact that only 100 out of over 7,000 languages spoken in the world are
+fully covered in WALS.
+
+We learn distributed language representations, which can be used to predict
+typological properties on a massively multilingual scale. 
+Additionally, quantitative and qualitative analyses of these language
+embeddings can tell us how language similarities are encoded in NLP models for
+tasks at different typological levels.
+The representations are learned in an unsupervised manner alongside tasks at
+three typological levels: phonology (grapheme-to-phoneme prediction, and
+phoneme reconstruction), morphology (morphological inflection), and syntax
+(part-of-speech tagging). 
+
+We consider more than 800 languages and find significant differences in the
+language representations encoded, depending on the target task.
+For instance, although Norwegian Bokmål and Danish are typologically close to
+one another, they are phonologically distant, which is reflected in their
+language embeddings growing relatively distant in a phonological task.
+We are also able to predict typological features in WALS with high accuracies,
+even for unseen language families.
+Author{1}{Firstname}#=%=#Johannes
+Author{1}{Lastname}#=%=#Bjerva
+Author{1}{Email}#=%=#bjerva@di.ku.dk
+Author{1}{Affiliation}#=%=#Department of Computer Science, University of Copenhagen
+Author{2}{Firstname}#=%=#Isabelle
+Author{2}{Lastname}#=%=#Augenstein
+Author{2}{Email}#=%=#augenstein@di.ku.dk
+Author{2}{Affiliation}#=%=#Department of Computer Science, University of Copenhagen
+
+==========

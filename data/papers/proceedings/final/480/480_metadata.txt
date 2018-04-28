@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#480
+FinalPaperTitle#=%=#Explainable Prediction of Medical Codes from Clinical Text
+ShortPaperTitle#=%=#Explainable Prediction of Medical Codes from Clinical Text
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#James Mullenbach
+JobTitle#==#
+Organization#==#Georgia Institute of Technology
+North Ave NW, Atlanta, GA 30332
+Abstract#==#Clinical notes are text documents that are created by clinicians for each patient encounter. They are typically accompanied by medical codes, which describe the diagnosis and treatment. Annotating these codes is labor intensive and error prone; furthermore, the connection between the codes and the text is not annotated, obscuring the reasons and details behind specific diagnoses and treatments. We present an attentional convolutional network that predicts medical codes from clinical text. Our method aggregates information across the document using a convolutional neural network, and uses an attention mechanism to select the most relevant segments for each of the thousands of possible codes. The method is accurate, achieving precision@8 of 0.71 and a Micro-F1 of 0.54, which are both better than the prior state of the art. Furthermore, through an interpretability evaluation by a physician, we show that the attention mechanism identifies meaningful explanations for each code assignment.
+Author{1}{Firstname}#=%=#James
+Author{1}{Lastname}#=%=#Mullenbach
+Author{1}{Email}#=%=#jmullenbach3@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Sarah
+Author{2}{Lastname}#=%=#Wiegreffe
+Author{2}{Email}#=%=#swiegreffe6@gatech.edu
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{3}{Firstname}#=%=#Jon
+Author{3}{Lastname}#=%=#Duke
+Author{3}{Email}#=%=#Jon.Duke@gatech.edu
+Author{3}{Affiliation}#=%=#Georgia Institute of Technology
+Author{4}{Firstname}#=%=#Jimeng
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Email}#=%=#jsun@cc.gatech.edu
+Author{4}{Affiliation}#=%=#Georgia Tech
+Author{5}{Firstname}#=%=#Jacob
+Author{5}{Lastname}#=%=#Eisenstein
+Author{5}{Email}#=%=#jacobe@gmail.com
+Author{5}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

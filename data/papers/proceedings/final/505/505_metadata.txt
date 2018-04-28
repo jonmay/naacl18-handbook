@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#505
+FinalPaperTitle#=%=#Factors Influencing the Surprising Instability of Word Embeddings
+ShortPaperTitle#=%=#Factors Influencing the Surprising Instability of Word Embeddings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Rada Mihalcea
+JobTitle#==#
+Organization#==#University of Michigan
+2106 Hayward St., Ann Arbor, MI, 48103
+Abstract#==#Despite the recent popularity of word embedding methods, there is only a small body of work exploring the limitations of these representations. In this paper, we consider one aspect of embedding spaces, namely their stability. We show that even relatively high frequency words (100-200 occurrences) are often unstable. We provide empirical evidence for how various factors contribute to the stability of word embeddings, and we analyze the effects of stability on downstream tasks.
+Author{1}{Firstname}#=%=#Laura
+Author{1}{Lastname}#=%=#Wendlandt
+Author{1}{Email}#=%=#wenlaura@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Jonathan K.
+Author{2}{Lastname}#=%=#Kummerfeld
+Author{2}{Email}#=%=#jkummerf@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Rada
+Author{3}{Lastname}#=%=#Mihalcea
+Author{3}{Email}#=%=#mihalcea@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+
+==========

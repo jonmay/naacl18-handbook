@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#723
+FinalPaperTitle#=%=#Predicting Foreign Language Usage from English-Only Social Media Posts
+ShortPaperTitle#=%=#Predicting Foreign Language Usage from English-Only Social Media Posts
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Svitlana Volkova
+JobTitle#==#
+Organization#==#Pacific Northwest National Laboratory
+902 Battelle Blvd, Richland, WA 99354
+Abstract#==#Social media is known for its multi-cultural and multilingual interactions, a natural product of which is code-mixing. Multilingual speakers mix languages they tweet to address a different audience, express certain feelings, or attract attention. This paper presents a large-scale analysis of 6 million tweets produced by 27 thousand multilingual users speaking 12 other languages besides English. We rely on this corpus to build predictive models to infer non-English languages that users speak exclusively from their English tweets. Unlike native language identification task, we rely on large amounts of informal social media communications rather than ESL essays.  We contrast the predictive power of the state-of-the-art machine learning models trained on lexical, syntactic, and stylistic signals with neural network models learned from word, character and byte representations extracted from English only tweets. We report that content, style and syntax are the most predictive of non-English languages that users speak on Twitter. Neural network models learned from byte representations of user content combined with transfer learning yield the best performance. Finally, by analyzing cross-lingual transfer -- the influence of non-English languages on various levels of linguistic performance in English, we present novel findings on stylistic and syntactic variations across speakers of 12 languages in social media.
+Author{1}{Firstname}#=%=#Svitlana
+Author{1}{Lastname}#=%=#Volkova
+Author{1}{Email}#=%=#svitlana.volkova@pnnl.gov
+Author{1}{Affiliation}#=%=#Pacific Northwest National Laboratory
+Author{2}{Firstname}#=%=#Stephen
+Author{2}{Lastname}#=%=#Ranshous
+Author{2}{Email}#=%=#smransho@ncsu.edu
+Author{2}{Affiliation}#=%=#North Carolina State University
+Author{3}{Firstname}#=%=#Lawrence
+Author{3}{Lastname}#=%=#Phillips
+Author{3}{Email}#=%=#lawrence.phillips@pnnl.gov
+Author{3}{Affiliation}#=%=#PNNL
+
+==========

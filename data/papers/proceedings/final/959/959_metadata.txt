@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#959
+FinalPaperTitle#=%=#Discriminating between Lexico-Semantic Relations with the Specialization Tensor Model
+ShortPaperTitle#=%=#Discriminating between Lexico-Semantic Relations with the Specialization Tensor Model
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Goran Glavaš
+JobTitle#==#
+Organization#==#University of Mannheim, Faculty of Business Informatics and Mathematics
+B6 26, DE-68159 Mannheim, Germany
+Abstract#==#We present a simple and effective feed-forward neural architecture for discriminating between lexico-semantic relations (synonymy, antonymy, hypernymy, and meronymy). Our Specialization Tensor Model (STM) simultaneously produces multiple different specializations of input distributional word vectors, tailored for predicting lexico-semantic relations for word pairs. STM outperforms more complex state-of-the-art architectures on two benchmark datasets and exhibits stable performance across languages. We also show that, if coupled with a bilingual distributional space, the proposed model can transfer the prediction of lexico-semantic relations to a resource-lean target language without any training data.
+Author{1}{Firstname}#=%=#Goran
+Author{1}{Lastname}#=%=#Glavaš
+Author{1}{Email}#=%=#goran@informatik.uni-mannheim.de
+Author{1}{Affiliation}#=%=#University of Mannheim
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Vulić
+Author{2}{Email}#=%=#iv250@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+
+==========

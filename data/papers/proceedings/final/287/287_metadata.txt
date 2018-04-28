@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#287
+FinalPaperTitle#=%=#Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation
+ShortPaperTitle#=%=#Generating Words by Querying Distributed Word Representations for Paraphrase Generation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shuming Ma
+JobTitle#==#
+Organization#==#Peking University, Beijing, China
+Abstract#==#Most recent approaches use the sequence-to-sequence model for paraphrase generation. The existing sequence-to-sequence model tends to memorize the words and the patterns in the training dataset instead of learning the meaning of the words. Therefore, the generated sentences are often grammatically correct but semantically improper. In this work, we introduce a novel model based on the encoder-decoder framework, called Word Embedding Attention Network (WEAN). Our proposed model generates the words by querying distributed word representations (i.e. neural word embeddings), hoping to capturing the meaning of the according words. Following previous work, we evaluate our model on two paraphrase-oriented tasks, namely text simplification and short text abstractive summarization. Experimental results show that our model outperforms the sequence-to-sequence baseline by the BLEU score of 6.3 and 5.5 on two English text simplification datasets, and the ROUGE-2 F1 score of 5.7 on a Chinese summarization dataset. Moreover, our model achieves state-of-the-art performances on these three benchmark datasets.
+Author{1}{Firstname}#=%=#Shuming
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Email}#=%=#shumingma@pku.edu.cn
+Author{1}{Affiliation}#=%=#Department of Computer Science, School of EECS, Peking University
+Author{2}{Firstname}#=%=#Xu
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Email}#=%=#xusun@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Wei
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#liweitj47@pku.edu.cn
+Author{3}{Affiliation}#=%=#Key Laboratory of Computational Linguistics, Peking University
+Author{4}{Firstname}#=%=#Sujian
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#lisujian@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking Univeristy
+Author{5}{Firstname}#=%=#Wenjie
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#cswjli@comp.polyu.edu.hk
+Author{5}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{6}{Firstname}#=%=#Xuancheng
+Author{6}{Lastname}#=%=#Ren
+Author{6}{Email}#=%=#renxc@pku.edu.cn
+Author{6}{Affiliation}#=%=#Peking University
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#198
+FinalPaperTitle#=%=#Combining Deep Learning and Topic Modeling for Review Understanding in Context-Aware Recommendation
+ShortPaperTitle#=%=#Combining Deep Learning and Topic Modeling for Review Understanding in Context-Aware Recommendation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Mingmin Jin
+JobTitle#==#
+Organization#==#Sun Yat-Sen University, GuangZhou, China
+Abstract#==#With the rise of e-commerce, people are accustomed to writing their reviews after receiving the goods. These comments are so important that a bad review can have a direct impact on others buying. Besides, the abundant information within user reviews is very useful for 
+extracting user preferences and item properties. In this paper, we investigate the approach to effectively utilize review information for recommender systems. The proposed model is named LSTM-Topic matrix factorization (LTMF) which integrates both LSTM and Topic Modeling for review understanding. In the experiments on popular review dataset Amazon , our LTMF model outperforms previous proposed HFT model and ConvMF model in rating prediction. Furthermore, LTMF shows the better ability on making topic clustering than traditional topic model based method, which implies integrating the information from deep learning and topic modeling is a meaningful approach to make a better understanding of reviews.
+Author{1}{Firstname}#=%=#Mingmin
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Email}#=%=#jinmm@mail2.sysu.edu.cn
+Author{1}{Affiliation}#=%=#Sun Yat-sen University
+Author{2}{Firstname}#=%=#Xin
+Author{2}{Lastname}#=%=#Luo
+Author{2}{Email}#=%=#luox35@mail2.sysu.edu.cn
+Author{2}{Affiliation}#=%=#Sun Yat-Sen University
+Author{3}{Firstname}#=%=#Huiling
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Email}#=%=#zhuhling6@mail.sysu.edu.cn
+Author{3}{Affiliation}#=%=#Sun Yat-sen University
+Author{4}{Firstname}#=%=#Hankz Hankui
+Author{4}{Lastname}#=%=#Zhuo
+Author{4}{Email}#=%=#zhuohank@mail.sysu.edu.cn
+Author{4}{Affiliation}#=%=#Sun Yat-Sen University
+
+==========

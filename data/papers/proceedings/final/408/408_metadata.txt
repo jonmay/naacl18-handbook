@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#408
+FinalPaperTitle#=%=#Reinforced Co-Training
+ShortPaperTitle#=%=#Reinforced Co-Training
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jiawei Wu
+JobTitle#==#
+Organization#==#University of California, Santa Barbara
+Santa Barbara, CA, 93106
+Abstract#==#Co-training is a popular semi-supervised learning framework to utilize a large amount of unlabeled data in addition to a small labeled set. Co-training methods exploit predicted labels on the unlabeled data and select samples based on prediction confidence to augment the training. However, the selection of samples in existing co-training methods is based on a predetermined policy, which ignores the sampling bias between the unlabeled and the labeled subsets, and fails to explore the data space. In this paper, we propose a novel method, Reinforced Co-Training, to select high-quality unlabeled samples to better co-train on. More specifically, our approach uses Q-learning to learn a data selection policy with a small labeled dataset, and then exploits this policy to train the co-training classifiers automatically. Experimental results on clickbait detection and generic text classification tasks demonstrate that our proposed method can obtain more accurate text classification results.
+Author{1}{Firstname}#=%=#Jiawei
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#jiawei_wu@cs.ucsb.edu
+Author{1}{Affiliation}#=%=#UC Santa Barbara
+Author{2}{Firstname}#=%=#Lei
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#lileicc@gmail.com
+Author{2}{Affiliation}#=%=#Toutiao.com
+Author{3}{Firstname}#=%=#William Yang
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#william@cs.ucsb.edu
+Author{3}{Affiliation}#=%=#Unversity of California, Santa Barbara
+
+==========

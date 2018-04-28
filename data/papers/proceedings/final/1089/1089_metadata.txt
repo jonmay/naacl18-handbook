@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1089
+FinalPaperTitle#=%=#Key2Vec: Automatic Ranked Keyphrase Extraction from Scientific Articles using Phrase Embeddings
+ShortPaperTitle#=%=#Key2Vec: Automatic Ranked Keyphrase Extraction from Scientific Articles using Phrase Embeddings
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Debanjan Mahata
+JobTitle#==#
+Organization#==#Bloomberg, 731 Lexington Ave, New York, NY 10022
+Abstract#==#Keyphrase extraction is a fundamental task in natural language processing that facilitates mapping of documents to a set of representative phrases. In this paper, we present an unsupervised technique (Key2Vec)  that leverages phrase embeddings for ranking keyphrases extracted from scientific articles. Specifically, we propose an effective way of processing text documents for training multi-word phrase embeddings that are used for thematic representation of scientific articles and ranking of keyphrases extracted from them using theme-weighted PageRank. Evaluations are performed on benchmark datasets producing state-of-the-art results.
+Author{1}{Firstname}#=%=#Debanjan
+Author{1}{Lastname}#=%=#Mahata
+Author{1}{Email}#=%=#debanjanmahata85@gmail.com
+Author{1}{Affiliation}#=%=#Bloomberg
+Author{2}{Firstname}#=%=#Rajiv Ratn
+Author{2}{Lastname}#=%=#Shah
+Author{2}{Email}#=%=#rajivratn@iiitd.ac.in
+Author{2}{Affiliation}#=%=#Indraprastha Institute of Information Technology
+Author{3}{Firstname}#=%=#John
+Author{3}{Lastname}#=%=#Kuriakose
+Author{3}{Email}#=%=#John_Kuriakose@infosys.com
+Author{3}{Affiliation}#=%=#Infosys Limited
+Author{4}{Firstname}#=%=#Roger
+Author{4}{Lastname}#=%=#Zimmermann
+Author{4}{Email}#=%=#rogerz@comp.nus.edu.sg
+Author{4}{Affiliation}#=%=#National University of Singapore
+
+==========

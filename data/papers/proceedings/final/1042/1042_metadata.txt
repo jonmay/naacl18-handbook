@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#1042
+FinalPaperTitle#=%=#Watch, Listen, and Describe: Globally and Locally Aligned Cross-Modal Attentions for Video Captioning
+ShortPaperTitle#=%=#Watch, Listen, and Describe
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Xin Wang
+JobTitle#==#
+Organization#==#University of California, Santa Barbara
+Santa Barbara, CA 93106, US
+Abstract#==#A major challenge for video captioning is to combine audio and visual cues. Existing multi-modal fusion methods have shown encouraging results in video understanding. However, the temporal structures of multiple modalities at different granularities are rarely explored, and how to selectively fuse the multi-modal representations at different levels of details remains uncharted. In this paper, we propose a novel hierarchically aligned cross-modal attention (HACA) framework to learn and selectively fuse both global and local temporal dynamics of different modalities. Furthermore, for the first time, we validate the superior performance of the deep audio features on the video captioning task. Finally, our HACA model significantly outperforms the previous best systems and achieves new state-of-the-art results on the widely used MSR-VTT dataset.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#xwang@cs.ucsb.edu
+Author{1}{Affiliation}#=%=#University of California, Santa Barbara
+Author{2}{Firstname}#=%=#Yuan-Fang
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#yfwang@cs.ucsb.edu
+Author{2}{Affiliation}#=%=#University of California
+Author{3}{Firstname}#=%=#William Yang
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#william@cs.ucsb.edu
+Author{3}{Affiliation}#=%=#Unversity of California, Santa Barbara
+
+==========

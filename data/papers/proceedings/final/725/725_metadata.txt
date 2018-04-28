@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#725
+FinalPaperTitle#=%=#Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset.
+ShortPaperTitle#=%=#Automatically Predicting Stance-based Arguments
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Pavithra Rajendran
+JobTitle#==#
+Organization#==#University of Liverpool, United Kingdom
+Abstract#==#Online reviews have become a popular portal among customers making decisions
+about purchasing products. A number of corpora of reviews have been widely
+investigated in NLP
+in general, and, in particular, in argument mining. This is a subset of NLP
+that deals with
+extracting arguments and the relations among them from user-based content. A
+major problem faced by argument mining research is the lack of human-annotated
+data. In this paper, we investigate the use of weakly supervised and
+semi-supervised methods for automatically annotating data, and thus providing
+large annotated datasets. We do this by building on previous work that explores
+the classification of opinions present in reviews based
+whether the stance is expressed explicitly or implicitly. In the work described
+here, we automatically annotate stance as implicit or explicit and our results
+show that the datasets
+we generate, although noisy, can be used to learn better models for
+implicit/explicit opinion classification.
+Author{1}{Firstname}#=%=#Pavithra
+Author{1}{Lastname}#=%=#Rajendran
+Author{1}{Email}#=%=#pavithra.rajendran@liverpool.ac.uk
+Author{1}{Affiliation}#=%=#University of Liverpool
+Author{2}{Firstname}#=%=#Danushka
+Author{2}{Lastname}#=%=#Bollegala
+Author{2}{Email}#=%=#danushka@liverpool.ac.uk
+Author{2}{Affiliation}#=%=#University of Liverpool
+Author{3}{Firstname}#=%=#Simon
+Author{3}{Lastname}#=%=#Parsons
+Author{3}{Email}#=%=#simon.parsons@kcl.ac.uk
+Author{3}{Affiliation}#=%=#Kings College London
+
+==========

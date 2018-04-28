@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#690
+FinalPaperTitle#=%=#Natural Answer Generation with Heterogeneous Memory
+ShortPaperTitle#=%=#Natural Answer Generation with Heterogeneous Memory
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yansong Feng
+JobTitle#==#
+Organization#==#Institute of Computer Science and Technology, Peking University. 
+#5 Yiheyuan Road, Haidian District, Beijing, China
+Abstract#==#Memory augmented encoder-decoder framework has achieved promising progress for natural language generation tasks. 
+Such frameworks enable a decoder to retrieve from a memory during generation. 
+However, less research has been done to take care of the memory contents from different sources, which are often of heterogeneous formats. 
+In this work, we propose a novel attention mechanism to encourage the decoder to actively interact with the memory by taking its heterogeneity into account.
+Our solution attends across the generated history and memory to explicitly avoid repetition, and introduce related knowledge to enrich our generated sentences. 
+Experiments on the answer sentence generation task show that our method can effectively explore heterogeneous memory to produce readable and meaningful answer sentences while maintaining high coverage for given answer information.
+Author{1}{Firstname}#=%=#Yao
+Author{1}{Lastname}#=%=#Fu
+Author{1}{Email}#=%=#francis_yao@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Yansong
+Author{2}{Lastname}#=%=#Feng
+Author{2}{Email}#=%=#fengyansong@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+
+==========

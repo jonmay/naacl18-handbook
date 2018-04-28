@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#878
+FinalPaperTitle#=%=#TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation
+ShortPaperTitle#=%=#TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#tao yu
+JobTitle#==#
+Organization#==#Yale University, New Haven, CT, US
+Abstract#==#Interacting with relational databases through natural language helps users with
+any background easily query and analyze a vast amount of data. This requires a
+system that understands users' questions and converts them to SQL queries
+automatically. In this paper, we present a novel approach TypeSQL which formats
+the problem as a slot filling task in a more reasonable way. In addition,
+TypeSQL utilizes type information to better understand rare entities and
+numbers in the questions. We experiment this idea on the WikiSQL dataset and
+outperform the prior art by 6% in much shorter time. We also show that
+accessing the content of databases can significantly improve the performance
+when users' queries are not well-formed. TypeSQL can reach 82.6% accuracy, a
+17.5% absolute improvement compared to the previous content-sensitive model.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#tao.yu@yale.edu
+Author{1}{Affiliation}#=%=#Yale University
+Author{2}{Firstname}#=%=#Zifan
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#zifan.li@yale.edu
+Author{2}{Affiliation}#=%=#Yale University
+Author{3}{Firstname}#=%=#Zilin
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#zilin.zhang@yale.edu
+Author{3}{Affiliation}#=%=#Yale University
+Author{4}{Firstname}#=%=#Rui
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#r.zhang@yale.edu
+Author{4}{Affiliation}#=%=#Yale University
+Author{5}{Firstname}#=%=#Dragomir
+Author{5}{Lastname}#=%=#Radev
+Author{5}{Email}#=%=#dragomir.radev@yale.edu
+Author{5}{Affiliation}#=%=#Yale University
+
+==========

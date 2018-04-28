@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#827
+FinalPaperTitle#=%=#Transition-based Chinese AMR Parsing
+ShortPaperTitle#=%=#Transition-based Chinese AMR Parsing
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chuan Wang
+JobTitle#==#
+Organization#==#Brandeis University
+Abstract#==#This paper presents the first AMR parser built on the Chinese AMR bank. By
+applying a transition-based AMR parsing framework to Chinese, we first
+investigate how well the transitions first designed for English AMR parsing
+generalize to Chinese and provide a comparative analysis between the
+transitions for English and Chinese. We then perform a detailed error analysis
+to identify the major challenges in Chinese AMR parsing that we hope will
+inform future research in this area.
+Author{1}{Firstname}#=%=#Chuan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#cwang24@brandeis.edu
+Author{1}{Affiliation}#=%=#Brandeis University
+Author{2}{Firstname}#=%=#Bin
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#gothere@126.com
+Author{2}{Affiliation}#=%=#Nanjing Normal University
+Author{3}{Firstname}#=%=#Nianwen
+Author{3}{Lastname}#=%=#Xue
+Author{3}{Email}#=%=#xuen@brandeis.edu
+Author{3}{Affiliation}#=%=#Brandeis University
+
+==========

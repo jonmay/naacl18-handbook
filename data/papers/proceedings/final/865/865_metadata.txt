@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#865
+FinalPaperTitle#=%=#Syntactically Aware Neural Architectures for Definition Extraction
+ShortPaperTitle#=%=#Syntactically Aware Neural Architectures for Definition Extraction
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Luis Espinosa-Anke
+JobTitle#==#
+Organization#==#Cardiff University
+Queens Building, 5 The Parade, Roath, Cardiff CF24 3AA
+Abstract#==#Automatically identifying definitional knowledge in text corpora (Definition Extraction or DE) is an important task with direct applications in, among others, Automatic Glossary Generation, Taxonomy Learning, Question Answering and Semantic Search. It is generally cast as a binary classification problem between definitional and non-definitional sentences. In this paper we present a set of neural architectures combining Convolutional and Recurrent Neural Networks, which are further enriched by incorporating linguistic information via syntactic dependencies. Our experimental results in the task of sentence classification, on two benchmarking DE datasets (one generic, one domain-specific), show that these models obtain consistent state of the art results. Furthermore, we demonstrate that models trained on clean Wikipedia-like definitions can successfully be applied to more noisy domain-specific corpora.
+Author{1}{Firstname}#=%=#Luis
+Author{1}{Lastname}#=%=#Espinosa Anke
+Author{1}{Email}#=%=#luis.espinosa83@gmail.com
+Author{1}{Affiliation}#=%=#Cardiff University
+Author{2}{Firstname}#=%=#Steven
+Author{2}{Lastname}#=%=#Schockaert
+Author{2}{Email}#=%=#SchockaertS1@cardiff.ac.uk
+Author{2}{Affiliation}#=%=#Cardiff University
+
+==========

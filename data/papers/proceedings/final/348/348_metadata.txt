@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#348
+FinalPaperTitle#=%=#Learning to Rank Question-Answer Pairs Using Hierarchical Recurrent Encoder with Latent Topic Clustering
+ShortPaperTitle#=%=#Learning to Rank QA Pairs Using Hierarchical Recurrent Encoder with Latent Topic Clustering
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Seunghyun Yoon
+JobTitle#==#
+Organization#==#Dept. of Electrical and Computer Engineering Seoul National University, Seoul, Korea
+Abstract#==#In this paper, we propose a novel end-to-end neural architecture for ranking candidate answers, that adapts a hierarchical recurrent neural network and a latent topic clustering module. With our proposed model, a text is encoded to a vector representation from an word-level to a chunk-level to effectively capture the entire meaning. In particular, by adapting the hierarchical structure, our model shows very small performance degradations in longer text comprehension while other state-of-the-art recurrent neural network models suffer from it. Additionally, the latent topic clustering module extracts semantic information from target samples. This clustering module is useful for any text related tasks by allowing each data sample to find its nearest topic cluster, thus helping the neural network model analyze the entire data. We evaluate our models on the Ubuntu Dialogue Corpus and consumer electronic domain question answering dataset, which is related to Samsung products. The proposed model shows state-of-the-art results for ranking question-answer pairs.
+Author{1}{Firstname}#=%=#Seunghyun
+Author{1}{Lastname}#=%=#Yoon
+Author{1}{Email}#=%=#mysmilesh@snu.ac.kr
+Author{1}{Affiliation}#=%=#Seoul National University
+Author{2}{Firstname}#=%=#Joongbo
+Author{2}{Lastname}#=%=#Shin
+Author{2}{Email}#=%=#jbshin@snu.ac.kr
+Author{2}{Affiliation}#=%=#Seoul National University
+Author{3}{Firstname}#=%=#Kyomin
+Author{3}{Lastname}#=%=#Jung
+Author{3}{Email}#=%=#kjung@snu.ac.kr
+Author{3}{Affiliation}#=%=#Seoul National University
+
+==========

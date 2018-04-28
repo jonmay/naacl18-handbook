@@ -1,0 +1,619 @@
+%
+% File naaclhlt2018.tex
+%
+%% Based on the style files for NAACL-HLT 2018, which were
+%% Based on the style files for ACL-2015, with some improvements
+%%  taken from the NAACL-2016 style
+%% Based on the style files for ACL-2014, which were, in turn,
+%% based on ACL-2013, ACL-2012, ACL-2011, ACL-2010, ACL-IJCNLP-2009,
+%% EACL-2009, IJCNLP-2008...
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt,a4paper]{article}
+\usepackage[hyperref]{naaclhlt2018}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage{bm}
+\usepackage{siunitx}
+\usepackage{dcolumn}
+\usepackage{floatrow}
+\usepackage{graphicx} 
+\usepackage{subcaption}
+\DeclareCaptionFont{10pt}{\fontsize{10pt}{12pt}\selectfont}
+\captionsetup{font=10pt}
+\newfloatcommand{capbtabbox}{table}[][\FBwidth]
+
+
+\aclfinalcopy % Uncomment this line for the final submission
+%\def\aclpaperid{***} %  Enter the acl Paper ID here
+
+%\setlength\titlebox{5cm}
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+\newcommand\BibTeX{B{\sc ib}\TeX}
+
+\title{Comparing Automatic and Human Evaluation of  Local Explanations  for Text Classification}
+
+\author{Dong Nguyen$^{\spadesuit\diamondsuit}$  \\
+$^{\spadesuit}$The Alan Turing Institute, London \\
+$^{\diamondsuit}$School of Informatics, University of Edinburgh, Edinburgh  \\
+ {\tt dnguyen@turing.ac.uk}
+ }
+ 
+
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+Text classification models are  becoming increasingly complex and opaque, however
+for many applications it is essential that the models are interpretable.
+Recently, a variety of approaches have been proposed for generating local explanations. While robust evaluations are needed
+to drive further progress, so far it is unclear which evaluation approaches are suitable. 
+This paper is a first step towards more robust evaluations of local explanations.
+We evaluate a variety of local explanation approaches using automatic measures based on word deletion. Furthermore, we show that an evaluation using a crowdsourcing experiment correlates moderately with these automatic measures and that a variety of other factors also impact the human judgements.
+\end{abstract}
+
+\section{Introduction}
+
+While the impact of machine learning   is increasing rapidly in society, machine learning systems have also become increasingly complex and opaque. 
+Classification models are usually evaluated based on prediction performance alone (e.g., by measuring the accuracy, recall, and precision) and the interpretability of these models has generally been undervalued. However, the importance of interpretable models is increasingly being recognized \cite{towards2017,Freitas:2014:CCM:2594473.2594475}.
+
+First, higher interpretability could lead to more effective models by revealing incompleteness in the problem formalization \cite{towards2017}, by revealing 
+ confounding factors that could  lead to biased models, and by supporting  error analyses or  feature discovery \cite{aubakirova-bansal:2016:EMNLP2016}.  Second, with the increasing adoption of machine learning approaches for humanities and social science research, there is also an increasing need for systems that support exploratory analyses and theory development.
+
+
+Various approaches have been explored to increase the interpretability of machine learning models  \cite{DBLP:journals/corr/Lipton16a}. 
+This paper focuses on  \emph{local} explanation, which aims to explain the prediction for an individual instance  (e.g.,  \citet{Ribeiro:2016:WIT:2939672.2939778}). 
+A study by \citet{Herlocker:2000:ECF:358916.358995}  found that providing local explanations could help improve the acceptance of movie recommendation systems. Local explanations can come in different forms.
+For example, \citet{koh2017understanding} identify the most influential training documents for a particular prediction. The most common type of local explanation involves identifying the  important parts of the input for a prediction, such as the most predictive words in a document for a text classification model. 
+
+In this paper we focus on local explanations for text classification.
+Below is a fragment of a movie review. The words identified by a local explanation method to explain a neural network prediction are in bold. The review is labeled with a negative sentiment, but the classifier incorrectly predicted a positive sentiment. The highlighted words help us understand why.
+
+\begin{quote}
+steve martin is one of the \textbf{funniest} men alive. if you can take that as a \textbf{true} statement, then your disappointment at this film will equal mine. martin can be \textbf{hilarious}, \textbf{creating} some of the best laugh-out-loud \textbf{experiences} that have ever taken place in movie theaters. you won't find any of them here. [...]
+\end{quote}
+
+%MLP 325 omission
+ Words such as \emph{funniest} and \emph{hilarious} were important for the prediction. Besides providing evidence \emph{for} a predicted label, some local explanations can also provide evidence \emph{against} a predicted label. 
+For example, in the above example, the word \emph{disappointment} was one of the highest ranked words against the predicted label.
+
+
+
+Ineffective approaches could generate misleading explanations \cite{DBLP:journals/corr/Lipton16a}, but evaluating local explanations is challenging. A variety of approaches has been used, including only visual inspection \cite{ding-EtAl:2017:Long,li-EtAl:2016:N16-12},  intrinsic evaluation approaches such as measuring the impact of deleting the identified words on the classifier output \cite{arras2016explaining}, and user studies \cite{Kulesza:2015:PED:2678025.2701399}. 
+
+\paragraph*{Contributions}
+ To further progress in this area, it is imperative to have a better understanding of how to evaluate local explanations. This paper makes the following contributions:
+ \begin{itemize}
+\item  \emph{Comparison of  local explanation methods for text classification.}
+ We present an in-depth comparison between three local explanation approaches (and a random baseline) using two different automatic evaluation measures on two text classification tasks (Section 4).
+ \item \emph{Automatic versus human evaluation.} Automatic evaluations, such as those based on word deletions, are frequently used since they enable rapid iterations and are easy to reproduce. However, it is  unclear to what extent they correspond with human-based evaluations.    We show that the automatic measures correlate moderately with human judgements  in a task setting  and that other factors also impact  human judgement. (Section 5).
+
+\end{itemize}
+ 
+ 
+
+
+
+\section{Related Work}
+Research on interpretable machine learning models has so far mainly focused on  computer vision systems  (e.g., \citet{DBLP:journals/corr/SimonyanVZ13}). Topic modeling is one of the exceptions within NLP  where the interpretability of models has been important, since topic models are often valued for their interpretability and are  integrated in various user interfaces \cite{paul2016}.
+There has recently been an increasing interest in improving the interpretability of NLP models, perhaps   driven by the increasing complexity of NLP models and 
+the rise of deep learning \cite{manning2016computational}. 
+
+\emph{Global} approaches aim to provide a global view of the model. One line of work involves making the machine learning model itself more interpretable, e.g., by enforcing sparsity or imposing monotonicity constraints  \cite{Freitas:2014:CCM:2594473.2594475}. However, often there is a trade-off between accuracy and interpretability as adding  constraints to the model could reduce the performance. 
+An alternative involves extracting a more interpretable model, such as a decision tree, from a model that is less interpretable, such as a neural network \cite{craven1996extracting}. In this case,
+model performance is not sacrificed but it is essential that the proxy is  faithful to the underlying model. 
+
+
+However, often a machine learning model is so complex that interpretable, trustworthy global explanations are difficult to attain. \emph{Local} explanations aim to explain the output for an individual instance. 
+For some models the local explanations are relatively easy to construct, e.g.,   displaying the word probabilities of a Naive Bayes model with respect to each label \cite{Kulesza:2015:PED:2678025.2701399} or  displaying the path of a decision tree \cite{Lim:2009:WWE:1518701.1519023}.  However,  these models may not be easily interpretable if they make use of many features.
+
+For many machine learning models, extracting local explanations is even less straight-forward. Proposed approaches so far include using the gradients to visualize neural networks \cite{aubakirova-bansal:2016:EMNLP2016,li-EtAl:2016:N16-12,DBLP:journals/corr/SimonyanVZ13}, measuring the effect of removing individual words (or features)  \cite{li2016understanding,Martens:2014:EDD:2600518.2600523},  decomposition approaches \cite{arras2016explaining,ding-EtAl:2017:Long},
+and training an interpretable classifier (e.g., linear model) that approximates the neighborhood around a particular instance \cite{Ribeiro:2016:WIT:2939672.2939778}.
+
+
+
+Some  approaches have only been evaluated using visual inspection \cite{ding-EtAl:2017:Long,li-EtAl:2016:N16-12}.
+\citet{DBLP:journals/corr/GoyalMPB16} identified  important words for a  visual question answering system and informally evaluated their approach by analyzing the distribution among PoS tags (e.g., assuming that nouns are  important).
+However, quantitative evaluations are needed for more robust comparisons. 
+Such evaluations have included measuring the impact of the deletion of  words identified by the  explanation approaches on the classification output \cite{arras2016explaining,DBLP:journals/corr/ArrasHMMS16a},
+or testing whether the explanation was consistent with an underlying gold model  \cite{Ribeiro:2016:WIT:2939672.2939778}. These automatic evaluations are fast to carry out but act as a simplistic proxy for explanation quality. While a few user studies have been performed to evaluate explanations (e.g., \citet{Ribeiro:2016:WIT:2939672.2939778}), we are not aware of work that analyzes how  automatic evaluation measures  compare to human-based evaluation.
+
+
+
+
+
+
+
+ 
+
+\section{Experimental Setup}
+\label{experimental_setup}
+This section describes the datasets, the classification models and the local explanation approaches used in our experiments.
+\subsection{Datasets}
+We experiment with two  datasets (Table \ref{dataset_stats}): 
+\begin{itemize}
+
+\item \textbf{Twenty newsgroups (20news).}
+The Twenty Newsgroups dataset  has been used in several studies on  ML interpretability \cite{arras2016explaining,Kapoor:2010:IOS:1753326.1753529,Ribeiro:2016:WIT:2939672.2939778}.
+Similar to \citet{Ribeiro:2016:WIT:2939672.2939778}, we only  distinguish between \textit{Christianity} and \textit{Atheism}. We use the \texttt{\textbf{20news-bydate}} version, and randomly  reserve 20\% of the training data for development.
+
+
+\item \textbf{Movie reviews.}
+Movie reviews with polarity labels (positive versus negative sentiment) from \citet{Pang+Lee:04a}.
+We use the version from \citet{zaidan-eisner-piatko:2007:main}. 
+The dataset is randomly split into a  train (60\%), development (20\%) and test (20\%) set.
+
+
+
+\end{itemize}
+
+
+\begin{table}[h!]
+\small
+\center
+\begin{tabular}{rllllll}
+\toprule
+& \textbf{Movie} &\textbf{20news} \\
+\midrule
+\textbf{\# training docs} & 1072 & 870\\
+ \textbf{\#  development docs} &358 & 209\\
+ \textbf{\# test docs} &370 & 717 \\
+ \textbf{label distribution (pos. class)} & 50.00\%& 44.49\%\\
+\bottomrule
+\end{tabular}
+\caption{Dataset statistics}
+\label{dataset_stats}
+\end{table}
+
+
+
+\subsection{Text Classification Models}
+We experiment with two different models. Logistic Regression (\textbf{\texttt{LR}}) is implemented using
+Scikit-learn \cite{scikit-learn} with Ridge regularisation, unigrams and a TF-IDF representation, resulting in a 0.797 accuracy on the movie dataset  and a 0.921 accuracy on the 20news dataset. We experiment with a LR model, because the contributions of individual features in a LR model are known. We thus have a ground truth for feature importance to compare against for this model.
+We also use a feedforward neural network (\textbf{\texttt{MLP}}) implemented using Keras \cite{chollet2015keras}, with 512 hidden units, ReLU activation, dropout (0.5, not optimized) and Adam optimization, resulting in a 0.832 accuracy on the movie dataset and a 0.939 accuracy on the 20news dataset.
+
+
+\subsection{Local Explanation Methods}
+In this paper, we focus on local explanation approaches that identify the most influential parts of the input for a particular prediction. 
+ In this paper we limit our focus to individual words for explaining the output of text classification models. Other representations, e.g., explanations using phrases or higher-level concepts are left for future work.  
+We experiment with explanations for the \emph{predicted} class, since in  real-life settings usually no ground truth labels are available.
+\noindent We experiment with the following local explanation approaches:
+
+\begin{itemize}
+\item \textbf{Random.} A random selection of words in the document.
+\item \textbf{LIME} \cite{Ribeiro:2016:WIT:2939672.2939778} is a model-agnostic approach and involves training an interpretable model (in this paper, a linear model with Ridge regularisation)  on samples created around the specific data point by perturbing the data. We experiment with 500--5000 samples and use the implementation provided by the authors.\footnote{\texttt{https://github.com/marcotcr/lime}.} 
+\item \textbf{Word omission.} This approach aims to estimate the contribution of individual words by deleting them and measuring the effect, e.g., by the difference in probability \cite{4407709}. Within NLP, variations have been proposed by  \citet{DBLP:journals/corr/KadarCA16},  \citet{li2016understanding} and \citet{Martens:2014:EDD:2600518.2600523}. 
+It is also similar to occlusion in the context of image classification, which involves occluding    regions of the input image \cite{Zeiler2014}. For \textbf{\texttt{LR}}, this approach corresponds to ranking words  according to the regression weights (and considering the frequency in the text) and is therefore optimal. For \textbf{\texttt{MLP}}, we use the difference in probability for the predicted class ($\hat{y}$) when removing word $w$ from input $\bm{x}$: $p(\hat{y}|\bm{x}) - p(\hat{y}|\bm{x}_{\setminus w})$. This approach supports explanations based on interpretable features (e.g., words)  even when the underlying representation may be less interpretable. However note that in general,   this omission approach might not be  optimal, since it estimates the contribution of words independently.
+This approach is also computationally  expensive, especially when many features are used. 
+\item \textbf{First derivative saliency.} This approach computes the gradient of the output with respect to the input (e.g., used in \citet{aubakirova-bansal:2016:EMNLP2016}, \citet{li-EtAl:2016:N16-12} and \citet{DBLP:journals/corr/SimonyanVZ13}). The obtained estimates are often referred to as saliency values. Several variations exist, e.g., \citet{li-EtAl:2016:N16-12} take the absolute value. In this paper, the raw value is taken to identify the words important for and against a certain prediction. 
+
+\end{itemize}
+
+
+
+\section{Automatic Evaluation}
+\label{automatic_evaluation}
+In this section we explore automatic evaluation of local explanations. Local explanations should exhibit high \emph{local fidelity}, i.e. they should match the underlying model in the neighborhood of the instance \cite{Ribeiro:2016:WIT:2939672.2939778}. An explanation with low local fidelity could be misleading. Because we generate explanations for the predicted class (rather than the ground truth), 
+explanations with high local fidelity do not necessarily need to match human intuition, for example when the classifier is weak \cite{DBLP:journals/corr/SamekBMBM15}. Ideally, the evaluation metrics are model agnostic and do not require  information that may not always be available such as probability outputs.
+This paper focuses on local fidelity, but other aspects might also be desired, such as sparsity  \cite{DBLP:journals/corr/SamekBMBM15,Ribeiro:2016:WIT:2939672.2939778,Martens:2014:EDD:2600518.2600523}.
+
+
+\subsection{Evaluation Metrics} 
+We measure local fidelity by deleting  words in the order of their estimated importance for the prediction. \citet{arras2016explaining}  generated explanations with the correct class as target. By deleting the identified words, accuracy increased for incorrect predictions and decreased for correct predictions. However, their approach assumes knowledge of the ground-truth labels.
+
+We take an alternative, but similar, approach. Words are also deleted according to their estimated importance, e.g. $w_1...w_n$ with $w_1$ the word with the highest importance score, but for the \textit{predicted class} instead. For each document, we measure the number of  words that  need to be deleted before the prediction switches to another class (the \textit{\textbf{switching point}}), normalized by the number of words in the document. For example, a value of 0.10 indicates that 10\% of the words needed to be deleted before the prediction changed. An advantage of this approach is that ground-truth labels are not needed and that it can be applied to black-box classifiers, we only need to know the predicted class. Furthermore, the approach acts on the raw input. It  requires no knowledge of the underlying feature representation (e.g., the actual features might be on the character level).  
+We also experiment with the measure proposed by \citet{DBLP:journals/corr/SamekBMBM15},
+referred to as the area over the perturbation curve (\emph{\textbf{AOPC}}):
+
+\[AOPC = \frac{1}{K + 1} \langle\sum_{k=1}^{K} f(\bm{x}) - f(\bm{x_{\setminus_{1..k}}})\rangle_{p(x)}\]
+
+\noindent where $f(\bm{x_{\setminus_{1..k}}})$ is the probability for the predicted class when  words $1$..$k$ are removed and $\langle\cdot\rangle_{p(x)}$ denotes the average over the documents. This approach is also based on deleting words, but it is more fine-grained since it uses probability values rather than predicted labels. It also enables evaluating negative evidence. A drawback is that AOPC requires access to  probability estimates of a classifier. In this paper, $K$ is set to 10.
+
+
+
+
+
+\begin{table*}[t!]
+\small
+\center
+\begin{tabular}{r|rrrr|rrrr}
+\toprule
+& \multicolumn{4}{c}{\textbf{20news (topic)}} & \multicolumn{4}{|c}{\textbf{Movie (sentiment)}}\\
+& \multicolumn{2}{c}{\textbf{LR}} & \multicolumn{2}{c}{\textbf{MLP}} & \multicolumn{2}{|c}{\textbf{LR}} & \multicolumn{2}{c}{\textbf{MLP}}\\
+& \textbf{pos.} & \textbf{neg.}& \textbf{pos.} & \textbf{neg.}& \textbf{pos.} & \textbf{neg.}& \textbf{pos.} & \textbf{neg.}\\
+\midrule
+\textbf{random}	 &0.0116	  & 	0.0101 & 	0.0110& 0.0112	  & 	0.0073	 & 0.0112	 & 	0.0083 & 0.0066	 \\
+\textbf{LIME-500}	&0.1855 & -0.0301 &0.1279 & -0.0266 & 0.3168 & -0.0786 & 0.2125	 & -0.0727\\
+\textbf{LIME-1000}	& 0.2013	 & 	-0.0303	& 0.1350 &-0.0268 & 0.3509& -0.0793 & 0.2330	 & 	-0.0738\\
+\textbf{LIME-1500}&0.2067 & -0.0302	 & 0.1369& 	-0.0269 & 0.3586 & -0.0794 & 0.2375	 & -0.0740\\
+\textbf{LIME-2000}	& 0.2092	 & -0.0304 & 0.1378  &	-0.0269 & 0.3628&-0.0794 & 0.2394 & -0.0740\\
+\textbf{LIME-5000}	&0.2128 & -0.0303 & 0.1391 & -0.0270& 0.3693& -0.0794 & 0.2425	 &\textbf{-0.0741}\\
+\textbf{omission}	& \textbf{0.2342 }&\textbf{-0.0307} & \textbf{0.1422} & -0.0272 & \textbf{0.3724}&\textbf{ -0.0795} &\textbf{ 0.2440 }& \textbf{-0.0741}\\
+\textbf{saliency} &- & -& 0.1418 & \textbf{-0.0273} &- &- & 0.2439 &\textbf{ -0.0741}\\
+\bottomrule
+\end{tabular}
+\caption{AOPC results. For each method, AOPC is used  
+to evaluate the words identified to be supportive of the predicted class (positive evidence) and words identified to be supportive of the other class (negative evidence). For LIME, results are reported for different sample sizes. }
+\label{word_deletion_results_curve}
+\end{table*}
+
+
+\begin{table}[h!]
+\small
+\center
+\begin{tabular}{r|ll|llll}
+\toprule
+& \multicolumn{2}{c|}{\textbf{20news}} & \multicolumn{2}{c}{\textbf{Movie}}\\
+& \textbf{LR} & \textbf{MLP} & \textbf{LR} & \textbf{MLP}\\
+\midrule
+\textbf{random}	 & 	0.8617&0.8880 &0.6586 	 & 	0.6843\\
+\textbf{LIME-500}	& 0.4394& 0.5330& 0.1747 & 0.1973\\
+\textbf{LIME-1000}	& 0.3098	&0.4164 & 0.0811 & 0.1034	\\
+\textbf{LIME-1500}&0.2607 & 0.3566& 0.0613  &0.0800\\
+\textbf{LIME-2000}	& 0.2336& 0.3235& 0.0547 &  0.0743\\
+\textbf{LIME-5000}	&0.1895 & 0.2589& 0.0474 & 0.0664	\\
+\textbf{omission}	& \textbf{0.1595}& 0.2662 & \textbf{0.0449} & 0.0644\\
+\textbf{saliency} & - & \textbf{0.2228} & - & \textbf{0.0639}\\
+\bottomrule
+\end{tabular}
+\caption{The \% of words that needs to be deleted to change the prediction (the switching point).}
+\label{word_deletion_results}
+\end{table}
+
+
+ For \textbf{\texttt{LR}}, the exact contribution of individual features to a prediction   is known and the words in the document that contributed most to the prediction can be computed directly. For this classifier, the optimal approach  corresponds to the omission approach. 
+
+
+
+\subsection{Results}
+Table \ref{word_deletion_results} reports the results by measuring the effect of word deletions and reporting the average switching point.  Lower values indicate that the method was better capable of  identifying the words that contributed most towards the predicted class, because on average fewer words needed to be deleted to change a prediction. Table \ref{word_deletion_results_curve} shows the AOPC values with a cut-off  at 10. We measure AOPC in two settings: removing positive evidence (higher values indicate a more effective explanation) and negative evidence (lower values indicate a more effective explanation). 
+
+\paragraph*{Comparison local explanation methods} 
+As expected, LIME  improves consistently when  more samples are used.
+Furthermore, when comparing the scores of the omission approach for the  \textbf{\texttt{LR}} model (which corresponds to the ground-truth) we observe that LIME with 5000 samples comes  close to the optimal score. We use the two-tailed paired permutation test to test for significance between all methods with both evaluation measures. In almost all cases, the differences are highly significant ($p<0.001$), except the difference in  average switching point between the omission and salience approach on the movies dataset with  the \textbf{\texttt{MLP}} classifier (n.s.) and the difference in average switching point between the omission and LIME-5000 approach on 20news with the \textbf{\texttt{MLP}} classifier (n.s.). The difference in  AOPC scores for evaluating negative evidence was not significant in many cases.
+
+
+
+
+\paragraph*{Metric sensitivity}
+First, the results suggest that the values obtained depend strongly on the type of  task and classifier. The explanation approaches score better on the sentiment detection task in 
+ both Tables \ref{word_deletion_results_curve} and \ref{word_deletion_results}. For example, fewer words need to be removed on average to change a prediction in the movie dataset (Table \ref{word_deletion_results}).
+A possible explanation is that for sentiment detection, a few words can provide strong cues for the sentiment (e.g., \emph{terrific}), while for (fine-grained) topic detection (e.g., distinguishing between
+\textit{Christianity} and \textit{atheism}) the evidence tends to be distributed among more words.
+ Better values are also obtained for the  \textbf{\texttt{LR}} classifier (a linear model) than for \textbf{\texttt{MLP}}.\\
+
+Second, as shown in Table \ref{word_deletion_results_curve},  AOPC enables assessing negative evidence (i.e. the words that provide evidence for the opposite class). The  obtained absolute values are much smaller compared to the values obtained for the words identified as positive evidence. This is expected, since 
+the positive evidence in a document for the predicted class should be larger than the negative evidence.
+ 
+
+
+
+
+
+Third, we analyze the relation between the word deletion evaluation measures and the prediction confidence  of the classifiers, based on the probability of the output class.
+Table \ref{results_correlation_prediction_confidence} reports the Spearman correlations 
+ for the \textbf{\texttt{MLP}} classifier on the movie dataset (similar trends were observed with the  \textbf{\texttt{LR}} classifier).
+ There is a strong correlation between the prediction confidence and the word deletion evaluation measures. The higher the prediction confidence of a classifier, the more words need to be deleted before a prediction changes (e.g., see the switching points). However, the strength of the correlations is lower for the more robust explanation methods (LIME-5000, omission and saliency).
+
+\begin{table}
+\small
+ \begin{tabular}{rllllll}
+\toprule
+\textbf{method}&  \textbf{SP}& \textbf{AOPC}\\
+\midrule
+\textbf{random}&0.581&-0.168\\
+\textbf{LIME-500}&0.932&-0.897\\
+\textbf{LIME-1000}&0.884&-0.877\\
+\textbf{LIME-1500}&0.863&-0.872\\
+\textbf{LIME-2000}&0.850&-0.870\\
+\textbf{LIME-5000}&0.826&-0.866\\
+\textbf{omission}&0.814&-0.865\\
+\textbf{saliency}&0.812&-0.865\\
+\bottomrule
+\end{tabular}
+\caption{Spearman correlation between prediction confidence and AOPC and the switching point (SP)  for the \textbf{\texttt{MLP}} classifier on the movie dataset. }
+\label{results_correlation_prediction_confidence}
+\end{table}
+ 
+
+\section{Human-based Evaluation}
+In the previous section we evaluated the local explanation approaches using automatic measures. However, the explanations are meant to be presented to \emph{humans}. We therefore turn to evaluating the explanations using crowdsourcing. We analyze the usefulness of the generated explanations in a task setting and analyze to what extent the automatic measures  correspond to the human-based evaluations.
+The crowdsourcing experiments are run on  CrowdFlower. Only crowdworkers from Australia, Canada, Ireland, United Kingdom and the United States and with quality levels two or three were accepted.
+
+\subsection{Forward Prediction Task}
+One way to evaluate an explanation is by asking humans to guess the output of a model based on the explanation and the input. \citet{towards2017} refer to this as forward simulation/prediction.
+As mentioned by \citet{towards2017}, this is a simplified task. Evaluations using more specific application-oriented tasks or tailored towards specific user groups should be explored in future work. We have chosen  the forward prediction task as a first step  since it is a general setup that could be  used to evaluate  explanations for a variety of tasks and models.
+
+
+
+In this study,  crowdworkers are shown the texts (e.g., a movie review), in which the top words identified by the local explanation approaches are highlighted.
+Crowdworkers are then asked to guess the output of the system (e.g., a positive or negative sentiment). The crowdworkers are also asked to state their confidence on a five-point Likert scale (`\emph{I am confident in my answer}': strongly disagree \dots strongly agree). 
+
+Note that the workers need to guess the output of the model regardless of the true label (i.e. the model may be wrong). 
+The crowdworkers are therefore presented with documents with different prediction outcomes (true positive, true negative, false negative, and false positive). We sample up to 50 documents for each prediction outcome. A screenshot is shown in Figure~\ref{fig:forward_task}.
+ A quiz and test questions are used to ensure the quality of the crowdworkers. Instructions as well as the test questions included cases where the system made an incorrect prediction, so that workers understood that the task was different than standard labeling tasks. See Appendix \ref{appendix_crowdsourcing} for more details.
+ 
+ We experiment with the following parameters: \emph{methods} (random baseline, LIME with 500 and 5000 samples, word omission, saliency) and the \emph{number of words} (10, 20). We experiment with both datasets. Due to space constraints, we only experiment with the \textbf{\texttt{MLP}} classifier. 
+ We collected the data in August and September 2017. Each HIT (Human Intelligence Task) was carried out by five crowdworkers. We paid \$0.03 per  judgement. 
+On the 20news dataset, we collected 7,200 judgements from 406 workers (mean nr of. judgements per worker: 17.73, std.: 7.21) and on the movie dataset we collected 8,100 judgements from 445 workers (mean nr of. judgements per worker 18.20, std: 7.24).
+
+
+\begin{figure}[h!]
+    \centering
+     \includegraphics[scale=0.25]{img/forward-task.png} 
+       \caption{Screenshot of the task}
+        \label{fig:forward_task}
+\end{figure}
+
+
+
+
+\begin{table*}[h!]
+\center
+\small
+\begin{tabular}{rc|ccc|ccc|ccc|ccc}
+\toprule 
+ & &\multicolumn{3}{c}{\textbf{TP}} &  \multicolumn{3}{c}{\textbf{TN}} &  \multicolumn{3}{c}{\textbf{FP}} &  \multicolumn{3}{c}{\textbf{FN}} \\ 
+\textbf{Method} & \textbf{\#w} & \textbf{Acc} & \textbf{Conf} & \textbf{n} &  \textbf{Acc} & \textbf{Conf} & \textbf{n} &   \textbf{Acc} & \textbf{Conf} & \textbf{n}&   \textbf{Acc} & \textbf{Conf} & \textbf{n}\\ 
+
+\midrule 
+\multicolumn{13}{c}{\textbf{Movies}}\\
+\midrule 
+\textbf{random}&10&0.652 & 3.42 & 250 & 0.484 & 3.35 & 250 & 0.581 & 3.26 & 155 & 0.355 & 3.53 & 155\\
+\textbf{LIME-500}&10&0.848 & 3.65 & 250 & 0.796 & 3.58 & 250 & 0.787 & 3.41 & 155 & 0.710 & 3.61 & 155  \\
+\textbf{LIME-5000}&10&0.900 & 3.73 & 250 & 0.896 & 3.70 & 250 & 0.852 & 3.43 & 155 & 0.748 & 3.63 & 155  \\
+\textbf{omission}&10&0.932 & 3.80 & 250 & 0.916 & 3.67 & 250 & 0.845 & 3.52 & 155 & 0.781 & 3.54 & 155  \\
+\textbf{saliency}&10&0.940 & 3.87 & 250 & 0.872 & 3.78 & 250 & 0.819 & 3.50 & 155 & 0.729 & 3.59 & 155  \\
+\textbf{random}&20&0.628 & 3.48 & 250 & 0.512 & 3.43 & 250 & 0.471 & 3.24 & 155 & 0.374 & 3.45 & 155  \\
+\textbf{LIME-500}&20&0.864 & 3.65 & 250 & 0.784 & 3.51 & 250 & 0.742 & 3.54 & 155 & 0.794 & 3.39 & 155  \\
+\textbf{LIME-5000}&20&0.880 & 3.76 & 250 & 0.864 & 3.63 & 250 & 0.787 & 3.77 & 155 & 0.800 & 3.67 & 155  \\
+\textbf{omission}&20&0.896 & 3.95 & 250 & 0.884 & 3.72 & 250 & 0.832 & 3.54 & 155 & 0.761 & 3.58 & 155  \\
+
+\textbf{saliency}&20&0.860 & 3.70 & 250 & 0.876 & 3.78 & 250 & 0.819 & 3.63 & 155 & 0.806 & 3.57 & 155  \\
+
+\midrule 
+\multicolumn{13}{c}{\textbf{20news}}\\
+\midrule 
+\textbf{random}&10&0.664 & 3.45 & 250 & 0.656 & 3.45 & 250 & 0.489 & 3.44 & 45 & 0.514 & 3.47 & 175  \\
+\textbf{LIME-500}&10&0.724 & 3.53 & 250 & 0.768 & 3.73 & 250 & 0.733 & 3.62 & 45 & 0.817 & 3.84 & 175  \\
+\textbf{LIME-5000}&10&0.740 & 3.52 & 250 & 0.832 & 3.87 & 250 & 0.556 & 3.29 & 45 & 0.697 & 3.75 & 175  \\
+\textbf{omission}&10&0.652 & 3.37 & 250 & 0.800 & 3.78 & 250 & 0.689 & 3.31 & 45 & 0.754 & 3.63 & 175  \\
+\textbf{saliency}&10&0.712 & 3.42 & 250 & 0.832 & 3.77 & 250 & 0.689 & 3.80 & 45 & 0.789 & 3.86 & 175  \\
+
+\textbf{random}&20&0.616 & 3.52 & 250 & 0.696 & 3.57 & 250 & 0.511 & 3.84 & 45 & 0.537 & 3.65 & 175  \\
+\textbf{LIME-500}&20&0.668 & 3.50 & 250 & 0.788 & 3.67 & 250 & 0.689 & 3.22 & 45 & 0.697 & 3.73 & 175 \\
+\textbf{LIME-5000}&20&0.720 & 3.52 & 250 & 0.888 & 3.86 & 250 & 0.667 & 3.36 & 45 & 0.709 & 3.60 & 175  \\
+\textbf{omission}&20&0.692 & 3.53 & 250 & 0.864 & 3.80 & 250 & 0.644 & 3.42 & 45 & 0.726 & 3.71 & 175  \\
+
+\textbf{saliency}&20&0.752 & 3.64 & 250 & 0.904 & 3.74 & 250 & 0.711 & 3.67 & 45 & 0.783 & 3.78 & 175  \\
+
+\bottomrule 
+\end{tabular} 
+\caption{Results forward prediction task, with the accuracy (acc), average confidence (conf) and the number of judgements (n). The results are separated according to TP (true positive), TN (true negative), FP (false positive) and FN (false negative) predictions, and the number of words shown (\#w). }
+\label{results:forward}
+\end{table*}
+
+
+
+
+\paragraph*{Confidence}
+Most workers chose confidence values of three or four.
+Table~\ref{stats:confidence_method} reports
+the confidence scores  by method. On the movie dataset, the trends match the intrinsic evaluations closely.  The random method leads to the lowest confidence score, followed by LIME-500 and LIME-5000, and explanations from the omission and saliency approach both lead to the highest confidence scores. On the 20news dataset, the trends are less clear.
+We observe a small,  significant negative correlation between confidence values and time spent
+(Spearman correlation: $\rho$=-0.08, $p<$0.0001 on the movie dataset,  $\rho$=-0.06, $p<$0.0001 on 20news).
+
+
+\begin{table}
+ \small
+\begin{tabular}{rcccccccccccc}
+\toprule 
+ \textbf{method}  & \multicolumn{2}{c}{\textbf{accuracy}}& \multicolumn{2}{c}{\textbf{confidence}}\\
+& \textbf{20news} & \textbf{movie}& \textbf{20news} & \textbf{movie}\\
+\midrule 
+\textbf{random}    &  0.616 & 0.522 &    3.520           &       3.402\\
+\textbf{LIME-500}  & 0.740 &  0.798    &       3.640     &   3.555\\
+\textbf{LIME-5000}  & 0.761 &  0.851  &     3.665       &  3.673\\
+\textbf{omission}  & 0.744 &  0.868 &   3.615          &   3.694\\
+\textbf{saliency}   & 0.790 &  0.851 &   3.691 		& 3.701\\
+\bottomrule 
+\end{tabular} 
+ \caption{Confidence and accuracy results}
+\label{stats:confidence_method}
+\end{table}
+
+\begin{table*}[t!]
+\center
+\small
+\begin{tabular}{rc|ccc|ccc|ccc|ccc}
+\toprule 
+   &  &\multicolumn{3}{c}{\textbf{TP}} &  \multicolumn{3}{c}{\textbf{TN}} &  \multicolumn{3}{c}{\textbf{FP}} &  \multicolumn{3}{c}{\textbf{FN}} \\ 
+ \textbf{Noise} &\textbf{AOPC} & \textbf{Acc} & \textbf{Conf} & \textbf{n} &  \textbf{Acc} & \textbf{Conf} & \textbf{n} &   \textbf{Acc} & \textbf{Conf} & \textbf{n}&   \textbf{Acc} & \textbf{Conf} & \textbf{n}\\ 
+
+\midrule 
+0& 0.2627&
+0.940 & 3.87 & 250 & 0.872 & 3.78 & 250 & 0.819 & 3.50 & 155 & 0.729 & 3.59 & 155 \\
+0.2 & 0.2044 &0.896 & 3.60 & 250 & 0.780 & 3.67 & 250 & 0.735 & 3.39 & 155 & 0.735 & 3.58 & 155 \\
+0.4& 0.1485 &0.824 & 3.62 & 250 & 0.776 & 3.68 & 250 & 0.723 & 3.37 & 155 & 0.645 & 3.31 & 155  \\
+0.6& 0.0851&0.800 & 3.40 & 250 & 0.756 & 3.40 & 250 & 0.710 & 3.63 & 155 & 0.639 & 3.34 & 155  \\
+0.8& 0.0411&0.736 & 3.29 & 250 & 0.640 & 3.35 & 250 & 0.632 & 3.25 & 155 & 0.523 & 3.25 & 155  \\
+\bottomrule 
+\end{tabular} 
+\caption{Forward prediction task with noisy explanations on the movie dataset and the saliency method}
+\label{results:forward_noise}
+\end{table*}
+
+
+\begin{table}[!t]
+\centering
+\small
+\begin{tabular}{r
+                S[table-format = -1.3,table-space-text-post = {*}]
+                S[table-format = -1.3,table-space-text-post = {*}]
+                S[table-format = -1.3,table-space-text-post = {*}]
+                S[table-format = -1.3,table-space-text-post = {*}]}
+  \toprule
+    &\multicolumn{2}{c}{\textbf{Movie}} &  \multicolumn{2}{c}{\textbf{20news}} \\
+& \textbf{SP} & \textbf{AOPC}& \textbf{SP} & \textbf{AOPC}\\
+
+  \midrule
+  tp&-0.144	**& 0.156	***&0.134	**&-0.161	***\\
+ fn&-0.283	***	 & 0.367	***&-0.181	*** & 0.343	***\\
+ tn	& -0.195	*** 	&  0.153	***& 		-0.203	*** &-0.027\\
+ fp&	 -0.076 &	 0.290	***& -0.076 & 0.172\\
+  \bottomrule                                             
+\end{tabular}
+ \caption{Spearman correlation between automatic measures and crowd accuracy. Significance: $^{*} p<$ 0.05, $^{**}p<$ 0.01, $^{***}p<$ 0.001}
+\label{stats:cor_intrins_extrin}
+\end{table}
+
+
+ 
+
+\paragraph*{Accuracy}
+Table \ref{stats:confidence_method} also reports the fraction of correct guesses per method.
+Random explanations lead to the lowest accuracies, followed by LIME with 500 samples. The differences between  LIME-5000, omission and saliency  are small and not consistent across  datasets. The crowd  had a higher accuracy on the movie data, except when the explanations were randomly generated.
+
+Table \ref{results:forward} separates the results by the  different prediction outcomes. The results suggest that false positive and false negative are the most revealing. In these cases, crowdworkers are not able to rely on their intuition and a strong explanation should convince them that the system makes a mistake. Otherwise, crowd workers might choose the label matching the document (and not necessarily the classifier output). This is especially salient in the 20news dataset, where the random approach
+ performs better than expected on the true positives and true negatives. For example, compare the random approach with the omission approach on  true positives with ten word explanations. 
+
+%rationales 313
+Our experiments also show that local explanations in the form of the most predictive 
+words are sometimes not enough to simulate the output of a system. For example, the best accuracy on true positive instances in the 20news data is only 0.752.
+The movie dataset contains  difficult instances as well. 
+For example, the omission method identifies the following words in a movie review to explain a false positive prediction: `\textit{believes}', `\textit{become}', `\textit{hair}', `\textit{unhappy}', `\textit{quentin}', `\textit{directed}', `\textit{runs}', `\textit{filled}', `\textit{fiction}', `\textit{clint}'. Due to the composition of the training data, the system has associated words like `\textit{quentin}' and `\textit{clint}' with a positive sentiment. 
+This may have confused the crowdworkers as most of them guessed incorrectly. Expanding the explanation with for example influential documents \cite{koh2017understanding} or a visualization of the class distributions of the most influential words could make the explanations more informative.
+
+
+
+\paragraph*{Correlation with automatic evaluation} 
+For each explanation, we compute the fraction of workers who correctly predicted the classifier output (the `crowd accuracy') and correlate these with the automatic measures.  We expect a negative correlation with the switching points and a positive correlation with the AOPC.
+The correlations are moderate (Table~\ref{stats:cor_intrins_extrin}). The correlations with AOPC on the movie data are the biggest  on the false positives and false negatives,  when workers are  not able to rely on their intuition. The correlations measured on the true positives in  20news  are opposite of what we expect. The 20news data is  noisy and the classifier picks up on spurious features, possibly confusing the workers.
+
+An example in  the 20news data  is an e-mail
+with the following words highlighted:
+`\textit{thank}', `\textit{mail}', `\textit{discussions}', `\textit{seminary}', `\textit{before}', `\textit{thanks}', `\textit{question}', `\textit{fill}', `\textit{affected}', `\textit{during}', `\textit{proofs}'. The classifier was confident and the computed switchpoint was low.
+The e-mail comes from the atheism newsgroup, which becomes clear from reading the text.
+The highlighted words are all more likely to occur in the christianity  newsgroup, but on their own they are not intuitive to lay people. 
+Consequently, workers guessed incorrectly that the predicted label was atheism.
+Explanations that also show the negative evidence  (in this case,  words such as `\textit{atheism}' and `\textit{atheists}') and/or the word distributions across classes would likely have led to better crowd accuracy.
+
+
+
+ %news_mlp_f_371. MLP doc 146. false negative (predicted as christinaity, but it is atheism).
+%high confidence (0.998). crowd wrong (0 accuracy)
+%'thank', 'mail', 'discussions', 'seminary', 'before', 'thanks', 'question', 'fill', 'affected', 'during', 'proofs', '
+
+
+\begin{table}
+\small
+\begin{tabular}{lr}
+\toprule
+\multicolumn{2}{c}{\textbf{Dependent variable: crowd accuracy}}\\
+\midrule
+Switching point & -0.365$^{***}$ (0.023) \\ 
+Classifier confidence & 0.344$^{***}$ (0.044) \\ 
+Prediction outcome: fp & 0.053$^{**}$ \hspace{0.03in} (0.021) \\ 
+Prediction outcome: tn & 0.093$^{***}$ (0.020) \\ 
+Prediction outcome: tp& 0.132$^{***}$ (0.019) \\ 
+ Constant & 0.472$^{***}$ (0.037) \\ 
+\midrule 
+%   \multicolumn{2}{l}{\textit{Dependent variable: crowd accuracy (df = 5; 1614)}}\\
+\multicolumn{2}{l}{\textit{R$^{2}$:  0.177 (Adj.: 0.174)}}\\
+\multicolumn{2}{l}{\textit{F Stat.: 69.255$^{***}$ (df = 5; 1614)}}\\
+\bottomrule\end{tabular} 
+  \caption{OLS results with  switching points on the movie data ($n$ = 1,620). $^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01. Prediction outcome base level = fn.} 
+
+\label{ols_acc}
+\end{table} 
+
+ 
+ % Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
+ % Date and time: Sat, Mar 10, 2018 - 17:33:18
+ % Requires LaTeX packages: dcolumn 
+ \begin{table} 
+\small
+%\begin{tabular}{@{\extracolsep{5pt}}lD{.}{.}{-3} } 
+\begin{tabular}{lr}
+\toprule
+\multicolumn{2}{c}{\textbf{Dependent variable: crowd accuracy}}\\
+\midrule
+  AOPC & 0.543$^{***}$ (0.042) \\ 
+   Classifier confidence & 0.395$^{***}$ (0.048) \\ 
+   Prediction outcome: fp & 0.079$^{***}$ (0.021) \\ 
+   Prediction outcome: tn & 0.119$^{***}$ (0.020) \\ 
+   Prediction outcome: tp & 0.171$^{***}$ (0.020) \\ 
+   Constant & 0.222$^{***}$ (0.046) \\ 
+   
+   \midrule 
+%   \multicolumn{2}{l}{\textit{Dependent variable: crowd accuracy (df = 5; 1614)}}\\
+\multicolumn{2}{l}{\textit{R$^{2}$:  0.133 (Adj.: 0.130)}}\\
+\multicolumn{2}{l}{\textit{F Stat.: 49.572$^{***}$ (df = 5; 1614)}}\\
+\bottomrule\end{tabular} 
+  \caption{OLS results with AOPC on the movie data ($n$ = 1,620). $^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01. Prediction outcome base level = fn.} 
+
+ \label{ols_acc_aopc}
+\end{table}
+\newpage
+As shown in section \ref{automatic_evaluation}, the automatic measures correlate strongly with the prediction confidence of the classifier. More words need to be removed before a prediction changes (i.e. a higher switching point) when the classifier is more confident. However, we also find that higher 
+classifier confidence leads to higher crowd accuracies (e.g., $\rho$ = 0.236, $p<0.001$ on the 20news dataset). We therefore fit an Ordinary Least Squares (OLS) model to control for these different factors (Table \ref{ols_acc}), with crowd accuracy as the dependent variable. A higher switching point significantly leads to a lower accuracy. However, classifier confidence and prediction outcome also significantly impact the accuracy.
+Similar trends are observed for the AOPC measure (Table \ref{ols_acc_aopc}).
+We also find that the automatic evaluation measures significantly impact crowd accuracy on the 20news dataset, but the patterns are less strong. 
+
+
+%% Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
+% Date and time: Mon, Sep 11, 2017 - 11:07:40
+% Requires LaTeX packages: dcolumn 
+
+ 
+\paragraph*{Noise}
+In our final experiment we analyze the effect of noise. We focus on explanations based on saliency scores on the movie dataset. We experiment with introducing noise to the top ten words (Table \ref{results:forward_noise}) and we collect additional judgements. A noise level of 0.2 indicates that two out of the top ten words are randomly replaced by other words. The results show that with increasing the noise, as expected, both the performance and average AOPC score decrease. 
+
+\newpage
+\section{Conclusion}
+There has been  an increasing interest in improving the interpretability of machine learning systems, but evaluating the quality of explanations has been challenging. 
+This paper focused on evaluating local explanations for text classification.  Local explanations were generated  by identifying important words in a document for a prediction. 
+We compared  automatic evaluation approaches, based on measuring the effect of word deletions,  with human-based evaluations.  Explanations generated using word omissions and first derivatives both  performed well. LIME \cite{Ribeiro:2016:WIT:2939672.2939778}  performed close to these methods when using enough samples. 
+ Our analyses furthermore showed that the evaluation numbers depend on the task/dataset and the confidence of the classifiers.
+
+Next, crowd workers were asked to predict the output of the classifiers based on the generated explanations. 
+We found moderate, but significant, correlations between the automatic measures and crowd accuracy. In addition, the human judgements were impacted by the confidence of the classifier and the type of prediction outcome (e.g., a false negative versus a true positive). 
+Our results also suggest that only highlighting words is sometimes not enough. An explanation can 
+highlight the most important parts of an input
+and score well on automatic measures, but if the explanation is not intuitive (for example due to biases in the data), humans are still not able to predict the output. 
+
+For the classification tasks  in this paper (topic classification and sentiment detection) individual words are often predictive. As a result, local explanation approaches that select words independently worked well. However, we expect that for tasks where individual words are not predictive, the current evaluation methods and local explanation approaches may not be sufficient.
+Furthermore, in future work more fine-grained visualizations (e.g., \citet{handler2016visualizing}) could be explored.
+
+
+\section*{Acknowledgements}
+This work was supported by The Alan Turing Institute under the EPSRC grant EP/N510129/1.
+The author is supported  with an Alan Turing Institute Fellowship (TU/A/000006). This work was supported with  seed funding award SF023.
+
+% include your own bib file like this:
+%\bibliographystyle{acl}
+%\bibliography{naaclhlt2018}
+\bibliography{../paper/nlp_interpretation}
+\bibliographystyle{acl_natbib}
+
+\appendix
+\section{Appendix: Crowdsourcing}
+\label{appendix_crowdsourcing}
+Test questions were  manually selected and were cases for which there should be no doubt about the correct answer (e.g., a simple movie review with only words such as `\textit{brilliant}', `\textit{terrific}', etc. highlighted). Thus, these are questions where workers would only fail if they did not pay attention or if they did not understand the task.
+Explanations were  provided for most test questions and were shown after an answer was submitted. The test questions contained instances with different prediction outcomes (e.g. false positives and true positives) to make the task clear. To make sure that the test questions  did not overlap with the actual HITs (which were generated to explain the predictions of the \textbf{\texttt{MLP}}), the test questions were explanations generated for the \textbf{\texttt{LR}} classifier.
+
+A quiz with test questions was provided to the crowdworkers when starting the task. If the workers performed poorly on the quiz, they were not allowed to continue with the task. Throughout the task, test questions were entered in between the actual HITs (one out of five presented HITs was a test question), to monitor the quality and to flag crowdworkers who performed poorly. We closely monitored the responses to the test questions and in the pilot phase we did remove a few that turned out not be suitable. In the final task, workers performed overall very well on the test questions. 
+
+The task was consistently rated positive by the crowdworkers. The task was divided into several batches and the overall rating was consistently above 4.5 (out of 5). The payment rating was consistently above 4. 
+The tasks  explicitly mentioned that the results will be used for scientific research (`\textit{By participating you agree that these results will be used for scientific research.}').
+\end{document}

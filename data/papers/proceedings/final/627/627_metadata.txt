@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#627
+FinalPaperTitle#=%=#Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data
+ShortPaperTitle#=%=#Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Haibo Ding
+JobTitle#==#
+Organization#==#University of Utah, 
+
+50 S. Central Campus Drive, Rm 3190 MEB 
+School of Computing 
+University of Utah 
+Salt Lake City, UT 84112-9205
+Abstract#==#We often talk about events that impact us positively
+ or negatively. For example “I got a job”
+is good news, but “I lost my job” is bad news.
+When we discuss an event, we not only understand 
+its affective polarity but also the reason
+why the event is beneficial or detrimental. For
+example, getting or losing a job has affective
+polarity primarily because it impacts us financially. 
+Our work aims to categorize affective
+events based upon human need categories that
+often explain people’s motivations and desires:
+PHYSIOLOGICAL, HEALTH, LEISURE, SOCIAL, 
+FINANCIAL, COGNITION, and FREEDOM. 
+We create classification models based
+on event expressions as well as models that
+use contexts surrounding event mentions. We
+also design a co-training model that learns
+from unlabeled data by simultaneously training 
+event expression and event context classifiers 
+in an iterative learning process. Our results 
+show that co-training performs well, producing 
+substantially better results than the individual classifiers.
+Author{1}{Firstname}#=%=#Haibo
+Author{1}{Lastname}#=%=#Ding
+Author{1}{Email}#=%=#dinghaibo.cn@gmail.com
+Author{1}{Affiliation}#=%=#University of Utah
+Author{2}{Firstname}#=%=#Ellen
+Author{2}{Lastname}#=%=#Riloff
+Author{2}{Email}#=%=#riloff@cs.utah.edu
+Author{2}{Affiliation}#=%=#University of Utah
+
+==========

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#961
+FinalPaperTitle#=%=#Looking for Structure in Lexical and Acoustic-prosodic Entrainment Behaviors
+ShortPaperTitle#=%=#Looking for Structure in Lexical and Acoustic-prosodic Entrainment Behaviors
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Andreas Weise
+JobTitle#==#
+Organization#==#The Graduate Center, CUNY
+365 5th Ave, New York, NY 10016
+Abstract#==#Entrainment has been shown to occur for various linguistic features individually. Motivated
+by cognitive theories regarding linguistic entrainment, we analyze speakers’ overall entrainment behaviors and search for an underlying structure. We consider various measures
+of both acoustic-prosodic and lexical entrainment, measuring the latter with a novel application of two previously introduced methods in addition to a standard high-frequency
+word measure. We present a negative result of our search, finding no meaningful correlations, clusters, or principal components in various entrainment measures, and discuss practical and theoretical implications.
+Author{1}{Firstname}#=%=#Andreas
+Author{1}{Lastname}#=%=#Weise
+Author{1}{Email}#=%=#aweise@gradcenter.cuny.edu
+Author{1}{Affiliation}#=%=#Graduate Center CUNY
+Author{2}{Firstname}#=%=#Rivka
+Author{2}{Lastname}#=%=#Levitan
+Author{2}{Email}#=%=#levitan@sci.brooklyn.cuny.edu
+Author{2}{Affiliation}#=%=#Brooklyn College CUNY
+
+==========

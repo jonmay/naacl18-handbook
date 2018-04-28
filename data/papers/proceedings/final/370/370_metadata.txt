@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#370
+FinalPaperTitle#=%=#Diverse Few-Shot Text Classification with Multiple Metrics
+ShortPaperTitle#=%=#Diverse Few-Shot Text Classification with Multiple Metrics
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Mo Yu
+JobTitle#==#
+Organization#==#IBM Research
+Abstract#==#We study few-shot learning in natural language domains. Compared to many existing works that apply either metric-based or optimization-based meta-learning to image domain with low inter-task variance, we consider a more realistic setting, where tasks are diverse.  However, it imposes tremendous difficulties to existing state-of-the-art metric-based algorithms since a single metric is insufficient to capture complex task variations in natural language domain.   To alleviate the problem, we propose an adaptive metric learning approach that automatically determines the best weighted combination from a set of metrics obtained from meta-training tasks for a newly seen few-shot task.   Extensive quantitative evaluations on real-world sentiment analysis and dialog intent classification datasets demonstrate that the proposed method performs favorably against state-of-the-art few shot learning algorithms in terms of predictive accuracy. We make our code and data available for further study.
+Author{1}{Firstname}#=%=#Mo
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#gflfof@gmail.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Xiaoxiao
+Author{2}{Lastname}#=%=#Guo
+Author{2}{Email}#=%=#xiaoxiao.guo@ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Jinfeng
+Author{3}{Lastname}#=%=#Yi
+Author{3}{Email}#=%=#jinfengy@us.ibm.com
+Author{3}{Affiliation}#=%=#Tencent AI Lab
+Author{4}{Firstname}#=%=#Shiyu
+Author{4}{Lastname}#=%=#Chang
+Author{4}{Email}#=%=#mnbvcxz210@gmail.com
+Author{4}{Affiliation}#=%=#IBM
+Author{5}{Firstname}#=%=#Saloni
+Author{5}{Lastname}#=%=#Potdar
+Author{5}{Email}#=%=#saloni.potdar@gmail.com
+Author{5}{Affiliation}#=%=#IBM Watson, Carnegie Mellon University
+Author{6}{Firstname}#=%=#Yu
+Author{6}{Lastname}#=%=#Cheng
+Author{6}{Email}#=%=#chengyu@us.ibm.com
+Author{6}{Affiliation}#=%=#IBM Research
+Author{7}{Firstname}#=%=#Gerald
+Author{7}{Lastname}#=%=#Tesauro
+Author{7}{Email}#=%=#gtesauro@us.ibm.com
+Author{7}{Affiliation}#=%=#IBM Research
+Author{8}{Firstname}#=%=#Haoyu
+Author{8}{Lastname}#=%=#Wang
+Author{8}{Email}#=%=#wanghaoy@us.ibm.com
+Author{8}{Affiliation}#=%=#IBM Watson
+Author{9}{Firstname}#=%=#Bowen
+Author{9}{Lastname}#=%=#Zhou
+Author{9}{Email}#=%=#zhou@us.ibm.com
+Author{9}{Affiliation}#=%=#IBM Research
+
+==========

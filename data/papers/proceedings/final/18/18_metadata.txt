@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Self-Training for Jointly Learning to Ask and Answer Questions
+ShortPaperTitle#=%=#Self-Training for Jointly Learning to Ask and Answer Questions
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Mrinmaya Sachan
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#Building curious machines that can answer as well as ask questions is an important challenge for AI. The two tasks of question answering and question generation are usually tackled separately in the NLP literature. At the same time, both require significant amounts of supervised data which is hard to obtain in many domains. To alleviate these issues, we propose a self-training method for jointly learning to ask as well as answer questions, leveraging unlabeled text along with labeled question answer pairs for learning. We evaluate our approach on four benchmark datasets: SQUAD, MS MARCO, WikiQA and TrecQA, and show significant improvements over a number of established baselines on both question answering and question generation tasks. We also achieved new state-of-the-art results on two competitive answer sentence selection tasks: WikiQA and TrecQA.
+Author{1}{Firstname}#=%=#Mrinmaya
+Author{1}{Lastname}#=%=#Sachan
+Author{1}{Email}#=%=#mrinmayaster@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Eric
+Author{2}{Lastname}#=%=#Xing
+Author{2}{Email}#=%=#epxing@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

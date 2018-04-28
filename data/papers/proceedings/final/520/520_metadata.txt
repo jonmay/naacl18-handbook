@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#520
+FinalPaperTitle#=%=#Comparing Constraints for Taxonomic Organization
+ShortPaperTitle#=%=#Comparing Constraints for Taxonomic Organization
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Anne Cocos
+JobTitle#==#
+Organization#==#University of Pennsylvania
+Department of Computer and Information Science
+3330 Walnut St
+Philadelphia, PA 19104
+USA
+Abstract#==#Building a taxonomy from the ground up involves several sub-tasks: selecting terms to include, predicting semantic relations between terms, and selecting a subset of relational instances to keep, given constraints on the taxonomy graph. Methods for this final step -- taxonomic organization -- vary both in terms of the constraints they impose, and whether they enable discovery of synonymous terms. It is hard to isolate the impact of these factors on the quality of the resulting taxonomy because organization methods are rarely compared directly. In this paper, we present a head-to-head comparison of six taxonomic organization algorithms that vary with respect to their structural and transitivity constraints, and treatment of synonymy. We find that while transitive algorithms out-perform their non-transitive counterparts, the top-performing transitive algorithm is prohibitively slow for taxonomies with as few as 50 entities. We propose a simple modification to a non-transitive optimum branching algorithm to explicitly incorporate synonymy, resulting in a method that is substantially faster than the best transitive algorithm while giving complementary performance.
+Author{1}{Firstname}#=%=#Anne
+Author{1}{Lastname}#=%=#Cocos
+Author{1}{Email}#=%=#acocos@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Marianna
+Author{2}{Lastname}#=%=#Apidianaki
+Author{2}{Email}#=%=#marianna.apidianaki@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI-CNRS, University Paris-Saclay
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Lastname}#=%=#Callison-Burch
+Author{3}{Email}#=%=#ccb@cis.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+
+==========

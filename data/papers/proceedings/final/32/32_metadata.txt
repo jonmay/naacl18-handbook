@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#32
+FinalPaperTitle#=%=#Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets
+ShortPaperTitle#=%=#Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zhen Yang
+JobTitle#==#
+Organization#==#Institute of Automation, Chinese Academy of Sciences. No.95 East road, Beijing, China
+Abstract#==#This paper proposes an approach for applying GANs to NMT. We build a
+conditional sequence generative adversarial net which comprises of two
+adversarial sub models, a generator and a discriminator. The generator aims to
+generate sentences which are hard to be discriminated from human-translated
+sentences ( i.e., the golden target sentences); And the discriminator makes
+efforts to discriminate the machine-generated sentences from human-translated
+ones. The two sub models play a mini-max game and achieve the win-win situation
+when they reach a Nash Equilibrium. Additionally, the static sentence-level
+BLEU is utilized as the reinforced objective for the generator, which biases
+the generation towards high BLEU points. During training, both the dynamic
+discriminator and the static BLEU objective are employed to evaluate the
+generated sentences and feedback the evaluations to guide the learning of the
+generator. Experimental results show that the proposed model consistently
+outperforms the traditional RNNSearch and the newly emerged state-of-the-art
+Transformer on English-German and Chinese-English translation tasks.
+Author{1}{Firstname}#=%=#Zhen
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yangzhen2014@ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#wei.chen.media@ia.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Feng
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#feng.wang@ia.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Bo
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Email}#=%=#xubo@ia.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+
+==========

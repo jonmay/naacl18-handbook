@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#306
+FinalPaperTitle#=%=#Deconfounded Lexicon Induction for Interpretable Social Science
+ShortPaperTitle#=%=#Deconfounded Lexicon Induction for Interpretable Social Science
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Reid Pryzant
+JobTitle#==#
+Organization#==#Stanford University
+353 Serra Mall, Stanford, CA 94305
+Abstract#==#NLP algorithms are increasingly used in computational
+social science to take linguistic observations and predict
+outcomes like human preferences or actions.
+Making these social models transparent and interpretable
+often requires identifying features in the input that predict
+outcomes while also controlling for potential confounds.
+We formalize this need as a new task: inducing a lexicon that is predictive of
+a set of target variables yet uncorrelated to a set of confounding variables.
+We introduce two deep learning algorithms for the task.
+The first uses a bifurcated architecture to separate the explanatory power of
+the
+text and confounds.  The second
+uses an adversarial discriminator to force confound-invariant text encodings.
+Both elicit lexicons from learned weights and attentional scores. We use them
+to induce lexicons that are predictive of timely responses to consumer
+complaints (controlling for product), enrollment from course descriptions
+(controlling for subject), and sales from product descriptions (controlling for
+seller).
+In each domain our algorithms pick words that are associated with
+\emph{narrative persuasion}; more predictive and less confound-related than
+those of standard feature weighting
+and lexicon induction techniques like regression and log odds.
+Author{1}{Firstname}#=%=#Reid
+Author{1}{Lastname}#=%=#Pryzant
+Author{1}{Email}#=%=#rpryzant@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Kelly
+Author{2}{Lastname}#=%=#Shen
+Author{2}{Email}#=%=#kshen21@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Jurafsky
+Author{3}{Email}#=%=#jurafsky@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Stefan
+Author{4}{Lastname}#=%=#Wagner
+Author{4}{Email}#=%=#stefan.wager@gmail.com
+Author{4}{Affiliation}#=%=#Stanford University
+
+==========

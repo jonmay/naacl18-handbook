@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#853
+FinalPaperTitle#=%=#Learning Hidden Unit Contribution for Adapting Neural Machine Translation Models
+ShortPaperTitle#=%=#Learning Hidden Unit Contribution for Adapting Neural Machine Translation Models
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#David Vilar
+JobTitle#==#
+Organization#==#Amazon Research
+Krausenstrasse 38
+10117 Berlin, Germany
+Abstract#==#In this paper we explore the use of Learning Hidden Unit Contribution
+for the task of neural machine translation. The method was initially
+proposed in the context of speech recognition for adapting a general system
+to the specific acoustic characteristics of each speaker. Similar in spirit, in a
+machine translation framework we want to adapt a general system to a
+specific domain. We show that the proposed method achieves improvements of
+up to 2.6 BLEU points over a general system, and up to 6 BLEU points if the
+initial system has only been trained on out-of-domain data, a situation
+which may easily happen in practice.  The good performance together with its
+short training time and small memory footprint make it a very attractive
+solution for domain adaptation.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Vilar
+Author{1}{Email}#=%=#david.vilar@gmail.com
+Author{1}{Affiliation}#=%=#Amazon
+
+==========

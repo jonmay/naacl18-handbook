@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#904
+FinalPaperTitle#=%=#Slot-Gated Modeling for Joint Slot Filling and Intent Prediction
+ShortPaperTitle#=%=#Slot-Gated SLU
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yun-Nung Chen
+JobTitle#==#
+Organization#==#National Taiwan University
+No. 1, Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan
+Abstract#==#Attention-based recurrent neural network models for joint intent detection and slot filling have achieved the state-of-the-art performance, while they have independent attention weights. Considering that slot and intent have the strong relationship, this paper proposes a slot gate that focuses on learning the relationship between intent and slot attention vectors in order to obtain better semantic frame results by the global optimization. The experiments show that our proposed model significantly improves sentence-level semantic frame accuracy with 4.2% and 1.9% relative improvement compared to the attentional model on benchmark ATIS and Snips datasets respectively
+Author{1}{Firstname}#=%=#Chih-Wen
+Author{1}{Lastname}#=%=#Goo
+Author{1}{Email}#=%=#r05944049@ntu.edu.tw
+Author{1}{Affiliation}#=%=#National Taiwan University
+Author{2}{Firstname}#=%=#Guang
+Author{2}{Lastname}#=%=#Gao
+Author{2}{Email}#=%=#kenkao70508@gmail.com
+Author{2}{Affiliation}#=%=#National Taiwan University
+Author{3}{Firstname}#=%=#Yun-Kai
+Author{3}{Lastname}#=%=#Hsu
+Author{3}{Email}#=%=#cloudhsu@iii.org.tw
+Author{3}{Affiliation}#=%=#Institute for Information Industry
+Author{4}{Firstname}#=%=#Chih-Li
+Author{4}{Lastname}#=%=#Huo
+Author{4}{Email}#=%=#clhuo@iii.org.tw
+Author{4}{Affiliation}#=%=#Institute of Information Industry
+Author{5}{Firstname}#=%=#Tsung-Chieh
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#ericchen@iii.org.tw
+Author{5}{Affiliation}#=%=#Institute of Information Industry
+Author{6}{Firstname}#=%=#Keng-Wei
+Author{6}{Lastname}#=%=#Hsu
+Author{6}{Email}#=%=#hsu@iii.org.tw
+Author{6}{Affiliation}#=%=#Institute of Information Industry
+Author{7}{Firstname}#=%=#Yun-Nung
+Author{7}{Lastname}#=%=#Chen
+Author{7}{Email}#=%=#y.v.chen@ieee.org
+Author{7}{Affiliation}#=%=#National Taiwan University
+
+==========

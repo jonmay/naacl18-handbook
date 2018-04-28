@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#652
+FinalPaperTitle#=%=#Combining Character and Word Information in Neural Machine Translation Using a Multi-Level Attention
+ShortPaperTitle#=%=#Combining Character and Word Information in NMT Using a Multi-Level Attention
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Huadong Chen
+JobTitle#==#
+Organization#==#No. 163 Xianlin Ave., Qixia District, Nanjing, China. 210023. Nanjing University.
+Abstract#==#Natural language sentences, being hierarchical, can be represented at different
+levels of granularity, like words, subwords, or characters. But most neural
+machine translation systems require the sentence to be represented as a
+sequence at a single level of granularity. It can be difficult to determine
+which granularity is better for a particular translation task. In this paper,
+we improve the model by incorporating multiple levels of granularity.
+Specifically, we propose (1) an encoder with character attention which augments
+the (sub)word-level representation with character-level information; (2) a
+decoder with multiple attentions that enable the representations from different
+levels of granularity to control the translation cooperatively. Experiments on
+three translation tasks demonstrate that our proposed models outperform the
+standard word-based model, the subword-based model, and a strong
+character-based model.
+Author{1}{Firstname}#=%=#Huadong
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#chenhd@nlp.nju.edu.cn
+Author{1}{Affiliation}#=%=#Nanjing University
+Author{2}{Firstname}#=%=#Shujian
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#huangshujian@gmail.com
+Author{2}{Affiliation}#=%=#Nanjing University
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Chiang
+Author{3}{Email}#=%=#dchiang@nd.edu
+Author{3}{Affiliation}#=%=#University of Notre Dame
+Author{4}{Firstname}#=%=#XIN-YU
+Author{4}{Lastname}#=%=#Dai
+Author{4}{Email}#=%=#daixinyu@nju.edu.cn
+Author{4}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{5}{Firstname}#=%=#Jiajun
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#chenjj@nju.edu.cn
+Author{5}{Affiliation}#=%=#Nanjing University
+
+==========

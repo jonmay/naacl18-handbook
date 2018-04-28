@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#381
+FinalPaperTitle#=%=#SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation
+ShortPaperTitle#=%=#SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nan Ding
+JobTitle#==#
+Organization#==#Google
+340 Main Street, Venice, CA, 90291.
+Abstract#==#Supervised training of abstractive language generation models results in learning conditional probabilities over language sequences based on the supervised training signal. When the training signal contains a variety of writing styles, such models may end up learning an 'average' style that is directly influenced by the training data make-up and cannot be controlled by the needs of an application. We describe a family of model architectures capable of capturing both generic language characteristics via shared model parameters, as well as particular style characteristics via private model parameters. Such models are able to generate language according to a specific learned style, while still taking advantage of their power to model generic language phenomena. Furthermore, we describe an extension that uses a mixture of output distributions from all learned styles to perform on-the-fly style adaptation based on the textual input alone. Experimentally, we find that the proposed models consistently outperform models that encapsulate single-style or average-style language generation capabilities.
+Author{1}{Firstname}#=%=#Ye
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#yezhang@utexas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Austin
+Author{2}{Firstname}#=%=#Nan
+Author{2}{Lastname}#=%=#Ding
+Author{2}{Email}#=%=#dingnan@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Radu
+Author{3}{Lastname}#=%=#Soricut
+Author{3}{Email}#=%=#radu.soricut@gmail.com
+Author{3}{Affiliation}#=%=#Google Inc
+
+==========

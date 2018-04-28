@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#854
+FinalPaperTitle#=%=#Multimodal Emoji Prediction
+ShortPaperTitle#=%=#Multimodal Emoji Prediction
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Francesco Barbieri
+JobTitle#==#
+Organization#==#Upf barcelona
+Abstract#==#Emojis are small images that are commonly included in social media text
+messages. The combination of visual and textual content in the same message
+builds up a modern way of communication, that automatic systems are not used to
+deal with. 
+In this paper we extend recent advances in emoji prediction by putting forward
+a multimodal approach that is able to predict emojis in Instagram posts.
+Instagram posts are composed of pictures together with texts which  sometimes
+include emojis. We show that these emojis can be predicted by using the text,
+but also using the picture. Our main finding is that incorporating the two
+synergistic modalities, in a combined model, improves accuracy in an emoji
+prediction task. This result demonstrates that these two modalities (text and
+images) encode different information on the use of emojis and therefore  can
+complement each other.
+Author{1}{Firstname}#=%=#Francesco
+Author{1}{Lastname}#=%=#Barbieri
+Author{1}{Email}#=%=#francesco.barbieri@upf.edu
+Author{1}{Affiliation}#=%=#Pompeu Fabra University, Barcelona
+Author{2}{Firstname}#=%=#Miguel
+Author{2}{Lastname}#=%=#Ballesteros
+Author{2}{Email}#=%=#miguel.ballesteros@ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Francesco
+Author{3}{Lastname}#=%=#Ronzano
+Author{3}{Email}#=%=#francesco.ronzano@upf.edu
+Author{3}{Affiliation}#=%=#Integrative Biomedical Informatics Group (IBI), Universitat Pompeu Fabra, Barcelona
+Author{4}{Firstname}#=%=#Horacio
+Author{4}{Lastname}#=%=#Saggion
+Author{4}{Email}#=%=#horacio.saggion@upf.edu
+Author{4}{Affiliation}#=%=#Universitat Pompeu Fabra
+
+==========

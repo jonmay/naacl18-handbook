@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#467
+FinalPaperTitle#=%=#The Timing of Lexical Memory Retrievals in Language Production
+ShortPaperTitle#=%=#The Timing of Lexical Memory Retrievals in Language Production
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jeremy Cole
+JobTitle#==#
+Organization#==#Penn State
+Abstract#==#This paper explores the time course of lexical memory retrieval by modeling
+fluent language production. The duration of retrievals is predicted using the
+ACT-R cognitive architecture. In a large-scale observational study of a spoken
+corpus, we find that language production at a time point preceding a word is
+sped up or slowed down depending on activation of that word. This computational
+analysis has consequences for the theoretical model of language production. The
+results point to interference between lexical and phonological stages as well
+as a quantifiable buffer for lexical information that opens up the possibility
+of non-sequential retrievals.
+Author{1}{Firstname}#=%=#Jeremy
+Author{1}{Lastname}#=%=#Cole
+Author{1}{Email}#=%=#jrcole@psu.edu
+Author{1}{Affiliation}#=%=#Penn State
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Reitter
+Author{2}{Email}#=%=#reitter@psu.edu
+Author{2}{Affiliation}#=%=#Penn State University
+
+==========

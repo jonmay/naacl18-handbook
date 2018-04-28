@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#338
+FinalPaperTitle#=%=#Detecting Denial-of-Service Attacks from Social Media Text: Applying NLP to Computer Security
+ShortPaperTitle#=%=#Detecting Denial-of-Service Attacks from Social Media Text
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#United States Naval Academy
+572M Holloway Rd. Stop 9F
+Annapolis, MD 21402-5002
+Abstract#==#This paper describes a novel application of NLP models to detect denial of service attacks using only social media as evidence.  Individual networks are often slow in reporting attacks, so a detection system from public data could better assist a response to a broad attack across multiple services.  We explore NLP methods to use social media as an indirect measure of network service status.  We describe two learning frameworks for this task: a feed-forward neural network and a partially labeled LDA model.
+  Both models outperform previous work by significant margins (20% F1 score).  We further show that the topic-based model enables the first fine-grained analysis of how the public reacts to ongoing network attacks, discovering multiple "stages" of observation.  This is the first model that both detects network attacks (with best performance) and provides an analysis of when and how the public interprets service outages.  We describe the models, present experiments on the largest twitter DDoS corpus to date, and conclude with an analysis of public reactions based on the learned model's output.
+Author{1}{Firstname}#=%=#Nathanael
+Author{1}{Lastname}#=%=#Chambers
+Author{1}{Email}#=%=#nchamber@usna.edu
+Author{1}{Affiliation}#=%=#US Naval Academy
+Author{2}{Firstname}#=%=#Ben
+Author{2}{Lastname}#=%=#Fry
+Author{2}{Email}#=%=#milehighfry405@gmail.com
+Author{2}{Affiliation}#=%=#US Navy
+Author{3}{Firstname}#=%=#James
+Author{3}{Lastname}#=%=#McMasters
+Author{3}{Email}#=%=#jrmzelda@gmail.com
+Author{3}{Affiliation}#=%=#US Navy
+
+==========

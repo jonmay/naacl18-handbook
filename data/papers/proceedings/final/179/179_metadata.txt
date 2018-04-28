@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#179
+FinalPaperTitle#=%=#Early Text Classification Using Multi-Resolution Concept Representations
+ShortPaperTitle#=%=#Early Text Classification Using Multi-Resolution Concept Representations
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#ADRIAN PASTOR LOPEZ MONROY
+JobTitle#==#
+Organization#==#University of Houston
+4800 Calhoun Rd, Houston, TX 77004
+Abstract#==#The intensive use of e-communications in everyday life has given rise to new
+threats and risks. When the vulnerable asset is the user, detecting these
+potential attacks before they cause serious damages is extremely important.
+This paper proposes a novel document representation to improve the early
+detection of risks in social media sources. The goal is to effectively identify
+the potential risk using as few text as possible and with as much anticipation
+as possible. Accordingly, we devise a Multi-Resolution Representation (MulR),
+which allows us to generate multiple ``views" of the analyzed text. These views
+capture different semantic meanings for words and documents at different levels
+of detail, which is very useful in early scenarios to model the variable
+amounts of evidence. Intuitively, the representation captures better the
+content of short documents (very early stages) in low resolutions, whereas
+large documents (medium/large stages) are better modeled with higher
+resolutions. We evaluate the proposed ideas in two different tasks where
+anticipation is critical: sexual predator detection and depression detection.
+The experimental evaluation for these early tasks revealed that the proposed
+approach outperforms previous methodologies by a considerable margin.
+Author{1}{Firstname}#=%=#Adrian Pastor
+Author{1}{Lastname}#=%=#López Monroy
+Author{1}{Email}#=%=#beiceman@gmail.com
+Author{1}{Affiliation}#=%=#University of Houston
+Author{2}{Firstname}#=%=#Fabio A.
+Author{2}{Lastname}#=%=#González
+Author{2}{Email}#=%=#fagonzalezo@unal.edu.co
+Author{2}{Affiliation}#=%=#Universidad Nacional de Colombia
+Author{3}{Firstname}#=%=#Hugo Jair
+Author{3}{Lastname}#=%=#Escalante
+Author{3}{Email}#=%=#hugo.jair@gmail.com
+Author{3}{Affiliation}#=%=#INAOE
+Author{4}{Firstname}#=%=#Manuel
+Author{4}{Lastname}#=%=#Montes
+Author{4}{Email}#=%=#mmontesg@inaoep.mx
+Author{4}{Affiliation}#=%=#INAOE
+Author{5}{Firstname}#=%=#Thamar
+Author{5}{Lastname}#=%=#Solorio
+Author{5}{Email}#=%=#thamar.solorio@gmail.com
+Author{5}{Affiliation}#=%=#UH
+
+==========

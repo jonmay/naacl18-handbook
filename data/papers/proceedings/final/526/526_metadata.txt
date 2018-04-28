@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#526
+FinalPaperTitle#=%=#Generating Bilingual Pragmatic Color References
+ShortPaperTitle#=%=#Generating Bilingual Pragmatic Color References
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#William Monroe
+JobTitle#==#
+Organization#==#Stanford University
+450 Serra Mall
+Stanford, CA 94305
+Abstract#==#Contextual influences on language often exhibit substantial cross-lingual regularities; for example, we are more verbose in situations that require finer distinctions. However, these regularities are sometimes obscured by semantic and syntactic differences. Using a newly-collected dataset of color reference games in Mandarin Chinese (which we release to the public), we confirm that a variety of constructions display the same sensitivity to contextual difficulty in Chinese and English. We then show that a neural speaker agent trained on bilingual data with a simple multitask learning approach displays more human-like patterns of context dependence and is more pragmatically informative than its monolingual Chinese counterpart. Moreover, this is not at the expense of language-specific semantic understanding: the resulting speaker model learns the different basic color term systems of English and Chinese (with noteworthy cross-lingual influences), and it can identify synonyms between the two languages using vector analogy operations on its output layer, despite having no exposure to parallel data.
+Author{1}{Firstname}#=%=#Will
+Author{1}{Lastname}#=%=#Monroe
+Author{1}{Email}#=%=#wmonroe4@cs.stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Jennifer
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Email}#=%=#jenniferhu@college.harvard.edu
+Author{2}{Affiliation}#=%=#Harvard University
+Author{3}{Firstname}#=%=#Andrew
+Author{3}{Lastname}#=%=#Jong
+Author{3}{Email}#=%=#andrewjong87@gmail.com
+Author{3}{Affiliation}#=%=#San Jose State University
+Author{4}{Firstname}#=%=#Christopher
+Author{4}{Lastname}#=%=#Potts
+Author{4}{Email}#=%=#cgpotts@stanford.edu
+Author{4}{Affiliation}#=%=#Stanford University
+
+==========

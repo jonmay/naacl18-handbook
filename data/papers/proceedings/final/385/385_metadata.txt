@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#385
+FinalPaperTitle#=%=#Joint Bootstrapping Machines for High Confidence Relation Extraction
+ShortPaperTitle#=%=#Joint Bootstrapping Machines for High Confidence Relation Extraction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Pankaj Gupta
+JobTitle#==#
+Organization#==#University of Munich (LMU)
+Center for Information and Language Processing
+Oettingenstr 67
+80538 Munich, Germany
+
+Siemens AG
+CT-Machine Intelligence (MIC)
+Otto-hahn ring 6
+Munich, Germany
+Abstract#==#Semi-supervised bootstrapping techniques for
+relationship extraction from text iteratively expand a set of initial seed instances. Due to the
+lack of labeled data, a key challenge in bootstrapping is semantic drift: if a false positive
+instance is added during an iteration, then all
+following iterations are contaminated. We introduce BREX, a new bootstrapping method
+that protects against such contamination by
+highly effective confidence assessment. This
+is achieved by using entity and template seeds
+jointly (as opposed to just one as in previous
+work), by expanding entities and templates in
+parallel and in a mutually constraining fashion in each iteration and by introducing higherquality similarity measures for templates. Experimental results show that BREX achieves
+an F1 that is 0.13 (0.87 vs. 0.74) better than
+the state of the art for four relationships.
+Author{1}{Firstname}#=%=#Pankaj
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Email}#=%=#pankaj_gupta96@yahoo.com
+Author{1}{Affiliation}#=%=#LMU, Siemens
+Author{2}{Firstname}#=%=#Benjamin
+Author{2}{Lastname}#=%=#Roth
+Author{2}{Email}#=%=#beroth@cis.uni-muenchen.de
+Author{2}{Affiliation}#=%=#LMU Munich
+Author{3}{Firstname}#=%=#Hinrich
+Author{3}{Lastname}#=%=#Schütze
+Author{3}{Email}#=%=#inquiries@cislmu.org
+Author{3}{Affiliation}#=%=#Center for Information and Language Processing, University of Munich
+
+==========

@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#475
+FinalPaperTitle#=%=#Lessons from the Bible on Modern Topics: Low-Resource Multilingual Topic Model Evaluation
+ShortPaperTitle#=%=#Low-Resource Multilingual Topic Model Evaluation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jordan Boyd-Graber
+JobTitle#==#
+Organization#==#Jordan Boyd-Graber, University of Maryland
+Abstract#==#Multilingual topic models enable document analysis across languages through coherent multilingual summaries of the data.  
+However, there is no standard and effective metric to evaluate the quality of multilingual topics.
+We introduce a new intrinsic evaluation of multilingual topic models that
+ correlates well with human judgments of multilingual topic coherence as well as performance in downstream applications.
+Importantly, we also study evaluation for low-resource languages.
+Because standard metrics fail to accurately measure topic quality when robust external resources are unavailable,
+we propose an adaptation model that improves the accuracy and reliability of these metrics in low-resource settings.
+Author{1}{Firstname}#=%=#Shudong
+Author{1}{Lastname}#=%=#Hao
+Author{1}{Email}#=%=#shha1721@colorado.edu
+Author{1}{Affiliation}#=%=#University of Colorado Boulder
+Author{2}{Firstname}#=%=#Jordan
+Author{2}{Lastname}#=%=#Boyd-Graber
+Author{2}{Email}#=%=#jbg@umiacs.umd.edu
+Author{2}{Affiliation}#=%=#University of Maryland
+Author{3}{Firstname}#=%=#Michael J.
+Author{3}{Lastname}#=%=#Paul
+Author{3}{Email}#=%=#mpaul39@gmail.com
+Author{3}{Affiliation}#=%=#University of Colorado
+
+==========

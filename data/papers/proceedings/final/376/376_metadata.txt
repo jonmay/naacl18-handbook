@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#376
+FinalPaperTitle#=%=#Deep Contextualized Word Representations
+ShortPaperTitle#=%=#Deep Contextualized Word Representations
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Matthew Peters
+JobTitle#==#
+Organization#==#Allen Institute for Artificial Intelligence
+2157 N Northlake Way Suite 110, Seattle, WA 98103
+Abstract#==#We introduce a new type of deep contextualized word representation that models
+both (1) complex characteristics of word use (e.g., syntax and semantics), and
+(2) how these uses vary across linguistic contexts (i.e., to model polysemy).
+Our word vectors are learned functions of the internal states of a deep
+bidirectional language model (biLM), which is pre-trained on a large text
+corpus.  We show that these representations can be easily added to existing
+models and significantly improve the state of the art across six challenging
+NLP problems, including question answering, textual entailment and sentiment
+analysis. We also present an analysis showing that exposing the deep internals
+of the pre-trained network is crucial, allowing downstream models to mix
+different types of semi-supervision signals.
+Author{1}{Firstname}#=%=#Matthew
+Author{1}{Lastname}#=%=#Peters
+Author{1}{Email}#=%=#matthewp@allenai.org
+Author{1}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Neumann
+Author{2}{Email}#=%=#markn@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{3}{Firstname}#=%=#Mohit
+Author{3}{Lastname}#=%=#Iyyer
+Author{3}{Email}#=%=#mohiti@allenai.org
+Author{3}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{4}{Firstname}#=%=#Matt
+Author{4}{Lastname}#=%=#Gardner
+Author{4}{Email}#=%=#mattg@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{5}{Firstname}#=%=#Christopher
+Author{5}{Lastname}#=%=#Clark
+Author{5}{Email}#=%=#csquared@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+Author{6}{Firstname}#=%=#Kenton
+Author{6}{Lastname}#=%=#Lee
+Author{6}{Email}#=%=#kentonl@google.com
+Author{6}{Affiliation}#=%=#Google Research
+Author{7}{Firstname}#=%=#Luke
+Author{7}{Lastname}#=%=#Zettlemoyer
+Author{7}{Email}#=%=#lsz@cs.washington.edu
+Author{7}{Affiliation}#=%=#University of Washington
+
+==========

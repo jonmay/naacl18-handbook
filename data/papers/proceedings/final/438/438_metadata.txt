@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#438
+FinalPaperTitle#=%=#Querying Word Embeddings for Similarity and Relatedness
+ShortPaperTitle#=%=#Querying Word Embeddings for Similarity and Relatedness
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Fatemeh Torabi Asr
+JobTitle#==#
+Organization#==#Simon Fraser University
+Burnaby, BC, Canada
+Abstract#==#Word embeddings obtained from neural network models such as Word2Vec Skipgram
+have become popular representations of word meaning and have been evaluated on
+a variety of word similarity and relatedness norming data. Skipgram generates a
+set of word and context embeddings, the latter typically discarded after
+training. We demonstrate the usefulness of context embeddings in predicting
+asymmetric association between words from a recently published dataset of
+production norms (Jouravlev & McRae, 2016). Our findings suggest that humans
+respond with words closer to the cue within the context embedding space (rather
+than the word embedding space), when asked to generate thematically related
+words.
+Author{1}{Firstname}#=%=#Fatemeh
+Author{1}{Lastname}#=%=#Torabi Asr
+Author{1}{Email}#=%=#torabiasr@gmail.com
+Author{1}{Affiliation}#=%=#Simon Fraser University
+Author{2}{Firstname}#=%=#Robert
+Author{2}{Lastname}#=%=#Zinkov
+Author{2}{Email}#=%=#zinkov@robots.ox.ac.uk
+Author{2}{Affiliation}#=%=#University of Oxford
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Lastname}#=%=#Jones
+Author{3}{Email}#=%=#jonesmn@indiana.edu
+Author{3}{Affiliation}#=%=#Indiana University
+
+==========

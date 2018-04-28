@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#519
+FinalPaperTitle#=%=#Dear Sir or Madam, May I Introduce the GYAFC Dataset: Corpus, Benchmarks and Metrics for Formality Style Transfer
+ShortPaperTitle#=%=#GYAFC Dataset: Corpus, Benchmarks and Metrics for Formality Style Transfer
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Sudha Rao
+JobTitle#==#PhD Student
+Organization#==#University of Maryland, College Park
+Abstract#==#Style transfer is the task of automatically transforming a piece of text in one
+particular style into another.   A major barrier to progress in this field has
+been a lack of training and evaluation datasets, as well as benchmarks and
+automatic metrics.  In this work, we create the largest corpus for a particular
+stylistic transfer (formality) and show that techniques from the machine
+translation community can serve as strong baselines for future work.  We also
+discuss challenges of using automatic metrics.
+Author{1}{Firstname}#=%=#Sudha
+Author{1}{Lastname}#=%=#Rao
+Author{1}{Email}#=%=#raosudha@cs.umd.edu
+Author{1}{Affiliation}#=%=#University Of Maryland, College Park
+Author{2}{Firstname}#=%=#Joel
+Author{2}{Lastname}#=%=#Tetreault
+Author{2}{Email}#=%=#tetreaul@gmail.com
+Author{2}{Affiliation}#=%=#Grammarly
+
+==========

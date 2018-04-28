@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#710
+FinalPaperTitle#=%=#Si O No, Que Penses? Catalonian Independence and Linguistic Identity on Social Media
+ShortPaperTitle#=%=#Si O No, Que Penses? Catalonian Independence and Linguistic Identity on Social Media
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ian Stewart
+JobTitle#==#
+Organization#==#Georgia Institute of Technology, 801 Atlantic Drive NW, Atlanta, GA 30332
+Abstract#==#Political identity is often manifested in language variation, but the
+relationship between the two is still relatively unexplored from a quantitative
+perspective. This study examines the use of Catalan, a language local to the
+semi-autonomous region of Catalonia in Spain, on Twitter in discourse related
+to the 2017 independence referendum. We corroborate prior findings that
+pro-independence tweets are more likely to include the local language than
+anti-independence tweets. We also find that Catalan is used more often in
+referendum-related discourse than in other contexts, contrary to prior findings
+on language variation. This suggests a strong role for the Catalan language in
+the expression of Catalonian political identity.
+Author{1}{Firstname}#=%=#Ian
+Author{1}{Lastname}#=%=#Stewart
+Author{1}{Email}#=%=#istewart6@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Yuval
+Author{2}{Lastname}#=%=#Pinter
+Author{2}{Email}#=%=#yuvalpinter@gmail.com
+Author{2}{Affiliation}#=%=#Georgia Tech
+Author{3}{Firstname}#=%=#Jacob
+Author{3}{Lastname}#=%=#Eisenstein
+Author{3}{Email}#=%=#jacobe@gmail.com
+Author{3}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

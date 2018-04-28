@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1050
+FinalPaperTitle#=%=#Determining Event Durations: Models and Error Analysis
+ShortPaperTitle#=%=#Determining Event Durations: Models and Error Analysis
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Alakananda Vempala
+JobTitle#==#
+Organization#==#University Of North Texas
+Abstract#==#This paper presents models to predict event durations. We introduce aspectual
+features that capture deeper linguistic information than previous work, and
+experiment with neural networks. Our analysis shows that tense, aspect and
+temporal structure of the clause provide useful clues, and that an LSTM
+ensemble captures relevant context around the event.
+Author{1}{Firstname}#=%=#Alakananda
+Author{1}{Lastname}#=%=#Vempala
+Author{1}{Email}#=%=#alakanandavempala@my.unt.edu
+Author{1}{Affiliation}#=%=#University Of North Texas
+Author{2}{Firstname}#=%=#Eduardo
+Author{2}{Lastname}#=%=#Blanco
+Author{2}{Email}#=%=#eduardo.blanco@unt.edu
+Author{2}{Affiliation}#=%=#University of North Texas
+Author{3}{Firstname}#=%=#Alexis
+Author{3}{Lastname}#=%=#Palmer
+Author{3}{Email}#=%=#alexis.palmer@unt.edu
+Author{3}{Affiliation}#=%=#University of North Texas
+
+==========

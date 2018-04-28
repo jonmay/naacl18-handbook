@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#125
+FinalPaperTitle#=%=#Mining Evidences for Concept Stock Recommendation
+ShortPaperTitle#=%=#Mining Evidences for Concept Stock Recommendation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Qi Liu
+JobTitle#==#
+Organization#==#Singapore University of Technology and Design, 8 Somapah Rd, Singapore 487372
+Abstract#==#We investigate the task of mining relevant stocks given a topic of concern on emerging capital markets, for which there is lack of structural understanding. Deep learning is leveraged to mine evidences from large scale textual data, which contain valuable market information. In particular, distributed word similarities trained over large scale raw texts are taken as a basis of relevance measuring, and deep reinforcement learning is leveraged to learn a strategy of topic expansion, given a small amount of manually labeled data from financial analysts. Results on two Chinese stock market datasets show that our method outperforms a strong baseline using information retrieval techniques.
+Author{1}{Firstname}#=%=#Qi
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#t-qili@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

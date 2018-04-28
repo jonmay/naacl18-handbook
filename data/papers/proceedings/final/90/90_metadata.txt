@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#90
+FinalPaperTitle#=%=#Nested Named Entity Recognition Revisited
+ShortPaperTitle#=%=#Nested Named Entity Recognition Revisited
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Arzoo Katiyar
+JobTitle#==#
+Organization#==#Cornell University, Ithaca, NY, 14853, USA
+Abstract#==#We propose a novel recurrent neural network-based approach to simultaneously handle nested named entity recognition and nested entity mention detection. The model learns a hypergraph representation for nested entities using features extracted from a recurrent neural network. In evaluations on three standard data sets, we show that our approach significantly outperforms existing state-of-the-art methods, which are feature-based. The approach is also efficient: it operates linearly in the number of tokens and the number of possible output labels at any token. Finally, we present an extension of our model that jointly learns the head of each entity mention.
+Author{1}{Firstname}#=%=#Arzoo
+Author{1}{Lastname}#=%=#Katiyar
+Author{1}{Email}#=%=#ak979@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Claire
+Author{2}{Lastname}#=%=#Cardie
+Author{2}{Email}#=%=#cardie@cs.cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+
+==========

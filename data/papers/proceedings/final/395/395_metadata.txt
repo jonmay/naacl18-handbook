@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#395
+FinalPaperTitle#=%=#Colorless Green Recurrent Networks Dream Hierarchically
+ShortPaperTitle#=%=#Colorless Green RNNs
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kristina Gulordava
+JobTitle#==#
+Organization#==#University of Geneva
+Abstract#==#Recurrent neural networks (RNNs) achieved impressive results in  a variety of
+linguistic processing tasks, suggesting that they can  induce non-trivial
+properties of language. We  investigate to what extent RNNs learn to track
+abstract hierarchical syntactic structure. We test whether RNNs trained with a
+generic   language modeling objective in four languages (Italian, English, 
+Hebrew, Russian) can predict long-distance number agreement in                       
+
+various
+constructions. We include in our evaluation nonsensical sentences where RNNs
+cannot rely on semantic or lexical  cues (``The colorless green ideas I ate
+with the chair sleep furiously''), and, for Italian, we compare model 
+performance to human intuitions. Our language-model-trained RNNs  make reliable
+predictions about long-distance  agreement, and do not lag much behind human
+performance. We thus  bring support to the hypothesis that RNNs are not just 
+shallow-pattern extractors, but they also acquire deeper grammatical 
+competence.
+Author{1}{Firstname}#=%=#Kristina
+Author{1}{Lastname}#=%=#Gulordava
+Author{1}{Email}#=%=#kgulordava@gmail.com
+Author{1}{Affiliation}#=%=#University of Geneva
+Author{2}{Firstname}#=%=#Piotr
+Author{2}{Lastname}#=%=#Bojanowski
+Author{2}{Email}#=%=#bojanowski@fb.com
+Author{2}{Affiliation}#=%=#facebook
+Author{3}{Firstname}#=%=#Edouard
+Author{3}{Lastname}#=%=#Grave
+Author{3}{Email}#=%=#edouard.grave@gmail.com
+Author{3}{Affiliation}#=%=#Facebook
+Author{4}{Firstname}#=%=#Tal
+Author{4}{Lastname}#=%=#Linzen
+Author{4}{Email}#=%=#tal.linzen@jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+Author{5}{Firstname}#=%=#Marco
+Author{5}{Lastname}#=%=#Baroni
+Author{5}{Email}#=%=#marco.baroni@unitn.it
+Author{5}{Affiliation}#=%=#University of Trento
+
+==========

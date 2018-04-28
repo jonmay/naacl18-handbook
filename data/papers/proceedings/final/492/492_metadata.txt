@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#492
+FinalPaperTitle#=%=#The Importance of Calibration for Estimating Proportions from Annotations
+ShortPaperTitle#=%=#The Importance of Calibration for Estimating Proportions from Annotations
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Dallas Card
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA, 15213, USA
+Abstract#==#Estimating label proportions in a target corpus is a type of measurement that is useful for answering certain types of social-scientific questions. While past work has described a number of relevant approaches, nearly all are based on an assumption which we argue is invalid for many problems, particularly when dealing with human annotations. In this paper, we identify and differentiate between two relevant data generating scenarios (intrinsic vs. extrinsic labels), introduce a simple but novel method which emphasizes the importance of calibration, and then analyze and experimentally validate the appropriateness of various methods for each of the two scenarios.
+Author{1}{Firstname}#=%=#Dallas
+Author{1}{Lastname}#=%=#Card
+Author{1}{Email}#=%=#dcard@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Noah A.
+Author{2}{Lastname}#=%=#Smith
+Author{2}{Email}#=%=#nasmith@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+
+==========

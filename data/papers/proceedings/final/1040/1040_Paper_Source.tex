@@ -1,0 +1,399 @@
+%
+% File acl2017.tex
+%
+%% Based on the style files for ACL-2015, with some improvements
+%%  taken from the NAACL-2016 style
+%% Based on the style files for ACL-2014, which were, in turn,
+%% based on ACL-2013, ACL-2012, ACL-2011, ACL-2010, ACL-IJCNLP-2009,
+%% EACL-2009, IJCNLP-2008...
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt,a4paper]{article}
+\usepackage{naaclhlt2018}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{booktabs}
+\usepackage{adjustbox}
+\usepackage{tipa}
+\usepackage{phonrule}
+\usepackage{paralist}
+\usepackage{pifont}
+\newtheorem{proposition}{Proposition}
+\usepackage{cleveref}
+\crefname{section}{\S}{\S\S}
+\Crefname{section}{\S}{\S\S}
+\crefname{table}{Table}{}
+\crefname{figure}{Figure}{}
+\crefname{algorithm}{alg.}{}
+\crefname{equation}{eq.}{}
+\crefname{appendix}{app.}{}
+\crefname{proposition}{Proposition}{Propositions}
+\crefformat{section}{\S#2#1#3}  % remove space between section symbol and the number
+
+\usepackage{url}
+
+\aclfinalcopy % Uncomment this line for the final submission
+\def\aclpaperid{1040} %  Enter the acl Paper ID here
+
+%\setlength\titlebox{5cm}
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+\newcommand\BibTeX{B{\sc ib}\TeX}
+
+\title{The Computational Complexity of Distinctive Feature Minimization in Phonology}
+
+\author{Hubie Chen \\
+  Computer Science and Information Systems \\
+  Birkbeck, University of London \\
+  {\tt hubie@dcs.bbk.ac.uk} \\\And
+Mans Hulden \\
+  Department of Linguistics \\
+  University of Colorado \\
+  {\tt mans.hulden@colorado.edu} \\}
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+We analyze the complexity of the problem of determining whether a set of phonemes forms a natural class and, if so, that of finding the minimal feature specification for the class. A standard assumption in phonology is that finding a minimal feature specification is an automatic part of acquisition and generalization.  We find that the natural class decision problem is tractable (i.e. is in $\mathcal{P}$), while the  minimization problem is not; the decision version of the problem which determines whether a natural class can be defined with $k$ features or less is $\mathcal{NP}$-complete. We also show that, empirically, a greedy algorithm for finding minimal feature specifications will sometimes fail, and thus cannot be assumed to be the basis for human performance in solving the problem.
+\end{abstract}
+
+\section{Introduction}
+
+The \textbf{distinctive feature} is held by many phonologists, independently of theoretical orientation, to be the fundamental unit of analysis of sound patterns in language.  The underlying working assumption of most phonological approaches is that a single sound or a set of sounds is expressed through a combination of positive or negative features and that these features are in some sense universal across languages \citep{mielke2008}. The exact makeup of the feature set employed has varied over time, ranging from the limited, more acoustic-oriented features of \newcite{jakobson1951}, to the richer model presented in \newcite{chomsky1968}, to more complex hierarchically organized features in \newcite{clements1985}.  The concept of \textbf{natural class} is intimately tied to such feature systems and is taken to be any set of segments that share some number of distinctive features.  Furthermore, phonological alternations that do not target natural classes are hypothesized not to occur.
+
+Another assumption that is found in phonological literature---often less explicit---is that whenever a phonological process targets a group of sounds, that group is to be expressed nonredundantly by the {\it minimum number of features} required to do so.  In general, one can find a multitude of ways in which a set of phonemes can be specified using positive or negative features.  For example, using the feature system shown in \cref{examplefeatures}, the set \{m,n\} has the obvious minimal description $[\textrm{+nas}]$, since m and n are the only nasals.  But that set could also be specified non-minimally as:
+
+\begin{equation}
+\phonfeat{+cons\\ -cnt \\ -hi \\ -bk \\ +voi \\ +son}
+\end{equation}
+
+The potential complexity of this problem, finding a minimal specification, is not addressed in the phonological literature. Yet, finding such a minimal specification is not trivial. Using more realistic feature systems such as the ones given in \newcite{hayes2011}, there are, for example, 208 distinct solutions to specifying the set \{e,i\} in English, only four of which have the minimum length of 3 features.  While such modern feature systems work with 25--30 features, one can actually assume more features are needed to cover more cross-linguistically exotic contrasts such as those produced by including click consonants \cite{miller2011}.  The P-base 3 resource \cite{mielkepbase} lists 398 features over 8 feature systems, covering 629 languages.
+
+The general notion of {\bf feature economy} has a long tradition in phonology \cite{jakobson1942,martinet1955,clements2003}, mostly targeting entire feature systems in a language, i.e. advocating that on the grammar level, individual languages make maximal use of the feature inventory available \cite{fant1966}.  Equally prominent is the assumption that any specification of phonological alternations be made with the minimal number of features necessary: ``one should use the minimum number of features required to specify all and only the sounds in the class.'' \cite[p.282]{zsiga2012}.  \newcite{hayes2011}, among others, argues, following Ockham's Razor, that this is how generalization can take place and that phonological hypotheses are made in precisely this way---witnessing alternations that target a set of sounds, learners find the minimal feature specification that is consistent with the alternating sounds, generalizing from there to other sounds that may enter the language. \newcite{halle1962} also proposes a mechanism of ``feature counting'' as a methodology to rule out spurious generalizations one might propose---a process which implicitly includes the capability of feature minimization.
+
+Similar arguments of feature minimization are used to perform an optimization of an entire phonological grammar. In Radical Underspecification, \newcite{archangeli1984} refers to what is termed \textsc{Feature Minimization Principle}: ``A grammar is most highly valued when underlying representations include the minimal number of features necessary to make the different phonemes of the language'' \citep[p. 48]{archangeli1984}.
+
+Given such claims concerning acquisition and phonological analysis, it is of some interest to assess the actual computational complexity of feature minimization.  This entails answering how difficult it is in the worst case to determine whether a set of segments represents a natural class, and also how to find the minimal feature specification.
+
+\begin{table}
+\begin{adjustbox}{width=\columnwidth}
+\setlength{\tabcolsep}{0.1em}
+{\renewcommand{\arraystretch}{0.8}
+\begin{tabular}{c|cccccccccccccc}
+\toprule
+\multicolumn{1}{c}{} & cons & son & syl & voi & cnt  & nas & lat & ant & cor & hi & bk & lo & rd \\
+           \midrule
+\textbf{p} &  +   &  -  &  -  &  -  &  -   &  -  &  -  &  +  &  -  & -  & -  & -  & - \\ 
+\textbf{t} &  +   &  -  &  -  &  -  &  -   &  -  &  -  &  +  &  +  & -  & -  & -  & - \\  
+\textbf{k} &  +   &  -  &  -  &  -  &  -   &  -  &  -  &  -  &  -  & +  & +  & -  & - \\  
+\textbf{b} &  +   &  -  &  -  &  +  &  -   &  -  &  -  &  +  &  -  & -  & -  & -  & - \\  
+\textbf{d} &  +   &  -  &  -  &  +  &  -   &  -  &  -  &  +  &  +  & -  & -  & -  & - \\  
+\textbf{g} &  +   &  -  &  -  &  +  &  -   &  -  &  -  &  -  &  -  & +  & +  & -  & - \\  
+\textbf{f} &  +   &  -  &  -  &  -  &  +   &  -  &  -  &  +  &  -  & -  & -  & -  & - \\  
+\textbf{s} &  +   &  -  &  -  &  -  &  +   &  -  &  -  &  +  &  +  & -  & -  & -  & - \\ 
+\textbf{x} &  +   &  -  &  -  &  -  &  +   &  -  &  -  &  -  &  -  & +  & +  & -  & - \\ 
+\textbf{v} &  +   &  -  &  -  &  +  &  +   &  -  &  -  &  +  &  -  & -  & -  & -  & - \\ 
+\textbf{\textipa{G}} &  +   &  -  &  -  &  +  &  +   &  -  &  -  &  -  &  -  & +  & +  & -  & - \\
+\textbf{w} &  -   &  +  &  -  &  +  &  +   &  -  &  -  &  -  &  -  & +  & +  & -  & + \\ 
+\textbf{j} &  -   &  +  &  -  &  +  &  +   &  -  &  -  &  -  &  -  & +  & -  & -  & - \\ 
+\textbf{l} &  +   &  +  &  -  &  +  &  +   &  -  &  +  &  +  &  +  & -  & -  & -  & - \\ 
+\textbf{m} &  +   &  +  &  -  &  +  &  -   &  +  &  -  &  +  &  -  & -  & -  & -  & - \\ 
+\textbf{n} &  +   &  +  &  -  &  +  &  -   &  +  &  -  &  +  &  +  & -  & -  & -  & - \\ 
+\textbf{a} &  -   &  +  &  +  &  +  &  +   &  -  &  -  &  -  &  -  & -  & +  & +  & - \\ 
+\textbf{e} &  -   &  +  &  +  &  +  &  +   &  -  &  -  &  -  &  -  & -  & -  & -  & - \\ 
+\textbf{i} &  -   &  +  &  +  &  +  &  +   &  -  &  -  &  -  &  -  & +  & -  & -  & - \\ 
+\textbf{o} &  -   &  +  &  +  &  +  &  +   &  -  &  -  &  -  &  -  & -  & +  & -  & + \\ 
+\textbf{u} &  -   &  +  &  +  &  +  &  +   &  -  &  -  &  -  &  -  & +  & +  & -  & + \\ 
+\textbf{y} &  -   &  +  &  +  &  +  &  +   &  -  &  -  &  -  &  -  & +  & -  & -  & + \\ 
+\bottomrule
+\end{tabular}
+}
+\end{adjustbox}
+\caption{An example typical feature system (truncated to 13 features).}
+\label{examplefeatures}
+\end{table}
+
+\section{Overview}
+
+\newcommand{\fancyc}{\mathcal{C}}
+\newcommand{\fancyf}{\mathcal{F}}
+\newcommand{\fancys}{\mathcal{S}}
+
+We will assume a set of phonemes $P$---the phoneme inventory---and another set $Q$, our target set that we want to express through a combination of features, and a feature system $\fancyf$ such as the one shown in \cref{examplefeatures}.  The first problem we address is that of determining whether a set of phonemes $Q$ forms a {\it natural class}, which we call the {\it feature description problem}. We show that this is decidable in polynomial time.  
+Further, we will show that 
+a minimization version of the problem, which we call the {\it feature minimization problem} is $\mathcal{NP}$-complete \cite{garey1979,sipser2013}.  We will show this by reduction from the well known set covering problem \citep{karp1972}.
+
+Many phonologists espouse a combination of binary (equipollent) and privative (univalent) features \cite{trubetzkoy1969,ewen1985,goldsmith1985}.  The rationale is that, for example, the feature [$\pm$labial] has rarely, if ever, been found to play a role in a phonological system as [$-$labial], i.e. phonological processes that target non-labials seem to be absent. Hence, many phonologists favor the use of a single possibility [{\sc labial}] in a specification that includes the labials. For this reason, we analyze separately both the complexity of using only such privative features (positive features only), which we call the {\it positive feature description problem} (is $Q$ a natural class if we only use positive features?) and the corresponding {\it positive feature minimization problem}. 
+
+\section{Notation and terms}
+
+Throughout, when $A$ is a set, we use $\wp(A)$ to denote the power set of $A$.
+
+Relative to a set $P$ of phonemes, we define a \emph{feature system} to be a 
+subset $\fancyf \subseteq \wp(P)$. When $Q \subseteq P$, we define a \emph{$\fancyf$-description of $Q$}
+to be a sequence $G_1, \ldots, G_m \subseteq P$ such that there exist pairwise distinct elements
+$F_1, \ldots, F_m \in \fancyf$ where:
+
+\begin{itemize}
+\item each $G_i$ is equal to either $F_i$ or $P \setminus F_i$,
+and
+
+\item $Q = G_1 \cap \cdots \cap G_m$.
+
+\end{itemize}
+
+We refer to $m$ as the \emph{size} of the description. We say that such a description is \emph{positive} 
+if each $G_i$ is an element of $\fancyf$.
+
+We define the \emph{feature description problem} as follows. An instance consists of
+a set $P$ of phonemes, a feature system $\fancyf$, and a non-empty subset $Q \subseteq P$;
+the problem is to decide whether or not there exists a $\fancyf$-description of $Q$.
+
+We define the \emph{feature minimization problem} as follows. An instance consists of a tuple 
+$(P, \fancyf, Q, k)$ where $P$, $\fancyf$, and $Q$ are an instance of the
+feature description problem, and $k \geq 1$ is a natural number. The problem is to decide
+whether or not there exists a $\fancyf$-description of $Q$ having size less than or equal to $k$.
+
+We define the \emph{positive feature description problem}
+to have the same instances as the 
+\emph{feature description problem},
+but where the problem is to decide
+whether or not there exists a positive $\fancyf$-description of $Q$.
+Analogously, we define the 
+\emph{positive feature minimization problem}
+to have the same instances as the
+\emph{feature minimization problem},
+but where the problem is to decide
+whether or not there exists a positive $\fancyf$-description
+of $Q$ obeying the size restriction.
+
+\subsection{The feature description problems}
+\label{sec:featuredescription}
+
+We will first show that the feature description problems are decidable in polynomial time.
+
+\begin{proposition}
+	\label{prop:description}
+The feature description problem 
+and the positive feature description problem
+are each polynomial-time decidable.
+\end{proposition}
+
+\begin{proof}
+The algorithm for the feature description problem
+is as follows.  Given an instance
+$(P, \fancyf, Q)$,
+compute a set $\fancyc \subseteq \wp(P)$
+as follows.
+For each $F \in \fancyf$, place $F$ in $\fancyc$ if $Q \subseteq F$,
+and place $P \setminus F$ in $\fancyc$ if 
+$Q \subseteq P \setminus F$.
+Then, check if $\bigcap \fancyc = Q$; if so, accept,
+otherwise, reject.
+It suffices to argue that if there exists a $\fancyf$-description
+of $Q$, then the elements of $\fancyc$ constitute such a description.
+If there exists a $\fancyf$-description of $Q$,
+say, $G_1, \ldots, G_m$,
+we have $Q \subseteq G_i$ for each $i$;
+thus, $G_1, \ldots, G_m \in \fancyc$
+and we have
+$$Q \subseteq \bigcap \fancyc \subseteq G_1 \cap \cdots \cap G_m
+= Q,$$
+implying that the elements of $\fancyc$ 
+provide a $\fancyf$-description of $Q$.
+
+For the positive feature description problem,
+the algorithm computes $\fancyc^{+}$ to contain
+each $F \in \fancyf$ such that $Q \subseteq F$,
+and accepts if and only if $\bigcap \fancyc^{+} = Q$.
+The proof of correctness is similar to that given
+for the general feature description problem.
+\end{proof}
+
+
+\subsection{The minimization problems}
+
+An instance $(U, \fancys, k)$ of the
+set cover problem consists of a non-empty set $U$,
+a subset $\fancys \subseteq \wp(U)$, and a natural number
+$k \geq 1$.  
+A \emph{set cover}
+$S_1, \ldots, S_m$ is a sequence of sets 
+from $\fancys$ such that $S_1 \cup \cdots \cup S_m = U$;
+$m$ is said to be its size.
+The problem is to decide
+whether or not there exists a set cover 
+of size less than or equal to $k$ \citep{karp1972}.
+We prove that both the 
+feature minimization problem
+and the
+positive feature minimization problem
+are $\mathcal{NP}$-complete, by reducing from set cover.
+
+The reduction is the same for both of these problems,
+and is as follows.  
+Given an instance $(U,\fancys,k)$ of set cover,
+let $x$ be a fresh element not in $U$.
+
+Define
+
+\bigskip
+
+$P = U \cup \{ x \}$
+
+$\fancyf = \{ (U \setminus S) \cup \{ x \} ~|~ S \in \fancys \}$
+
+$Q = \{ x \}$
+
+\bigskip
+
+The resulting instance is $(P,\fancyf,Q,k)$.
+
+The following establishes the correctness of this reduction.
+
+\begin{proposition}
+The following are equivalent:
+\end{proposition}
+
+\begin{enumerate}
+\item There exists a size $m$ set cover of $U$.
+\item The set $Q = \{ x \}$ has a positive $\fancyf$-description
+of size $m$.
+\item The set $Q = \{ x \}$ has a  $\fancyf$-description
+of size $m$.
+\end{enumerate}
+
+\begin{proof}
+1 $\Rightarrow$ 2: Let $(S_i)$ be such a set cover,
+so that $S_1 \cup \cdots \cup S_m = U$.
+Then, by DeMorgan's laws,
+$(U \setminus S_1) \cap \cdots \cap (U \setminus S_m) = \emptyset$,
+and so
+$((U \setminus S_1) \cup \{ x \}) \cap \cdots \cap 
+ ((U \setminus S_m) \cup \{ x \}) = \{x\}$.
+
+2 $\Rightarrow$ 3 is immediate.
+
+3 $\Rightarrow$ 1:
+Suppose that $G_1, \ldots, G_m$ is such a description.
+Since $x \in G_i$ for each $i$, it follows that
+each $G_i$ is an element of $\fancyf$.
+Define $S_1, \ldots, S_m$ to be the sets such that
+$G_i = (U \setminus S_i) \cup \{ x \}$.
+By reversing the argumentation in the 1 $\Rightarrow$ 2
+case, we obtain that $S_1, \ldots, S_m$ is a set cover of
+$U$.
+\end{proof}
+
+In the just-given reduction, the parameter $k$ is not changed.
+We show that there in fact exists a reduction in the other 
+direction, from set cover to each of the minimization
+problems, that likewise does not change the parameter $k$.
+This indicates a tight relationship between
+these minimization problems and the set cover problem.
+
+\begin{proposition}
+Let $(P,\fancyf,Q,k)$ be an instance of the
+feature minimization problem; let $\fancyc$
+be the set (from \cref{prop:description}).
+The mapping which, upon being given this instance, returns $(U, \fancys, k)$
+where $U = P \setminus Q$ and $\fancys = \{ \overline{G \setminus Q} ~|~ G \in \fancyc \}$,
+is a reduction to the set cover problem; here, the complement is with respect to $U$.
+Likewise, one obtains a reduction from the positive feature minimization problem to the set cover problem, by using $\fancyc^{+}$ in place of $\fancyc$.
+\end{proposition}
+
+\begin{proof}
+We argue this for the feature minimization problem as follows (the positive minimization case is analogous).
+It was seen in the proof of \cref{prop:description} that $(P,\fancyf,Q,k)$ is a `yes' instance
+if and only if there exist $G_1, \ldots, G_m \in \fancyc$, with $m \leq k$,
+such that $G_1 \cap \cdots \cap G_m = Q$.
+This equality holds if and only if
+$(G_1 \setminus Q) \cap \cdots \cap (G_m \setminus Q) = \emptyset$,
+which holds if and only if
+$(\overline{G_1 \setminus Q}) \cup \cdots \cup 
+(\overline{G_m \setminus Q}) = U$.
+\end{proof}
+
+\paragraph{Parametrized complexity} The set cover problem, with the value $k$ taken to be parameter, is known to be W[2]-complete
+in parameterized complexity theory~\cite[Theorem 13.21]{cygan15}.  
+As we have given polynomial-time reductions
+between set cover and each of the minimization problems
+that do not change the value $k$, we obtain the following.
+
+\begin{proposition}
+Both the feature minimization problem and the 
+positive feature minimization problem
+are W[2]-complete,
+when
+viewed as parameterized problems with $k$ taken to be the parameter.
+\end{proposition}
+
+
+\begin{figure}
+\begin{center}
+\fbox{\includegraphics[width=\columnwidth]{reductionillustration.pdf}}
+\end{center}
+\caption{Illustration of the reduction from \textsc{setcovering}: we can solve an instance of the set cover problem (\textsc{setcovering}) by a call to a solver for the feature minimization problem (\textsc{minphonfeat}).  There are reductions both from and to the set cover problem.}
+\label{reductionillustration}
+\end{figure}
+
+\section{Empirical concerns}
+
+Many $\mathcal{NP}$-hard problems can in practice often be solved by either a greedy algorithm \cite{chvatal1979} or a branch-and-bound algorithm \cite{land1960} that recursively explores the search space, terminating search branches as soon as some defined limit is exceeded.
+
+\paragraph{Greedy Search} We have implemented a greedy search strategy that starts with no features, and then picks a single ($\pm$) feature from the known, possibly non-minimal description $\fancyc$ discussed in \cref{sec:featuredescription} in such a way as to rule out the majority of phonemes not in the desired set $Q$. Features are added to the description until only the set $Q$ is described. For example, in describing the set \{m\} using the example in \cref{examplefeatures}, the greedy approach would first pick the feature [+nas] since this cuts down the number of corresponding phonemes to just two (m and n), less than any other feature choice. This is essentially an analogue to the well-known greedy approximation algorithm for set cover \cite{chvatal1979}. 
+
+\begin{table*}
+\begin{center}
+\begin{tabular}{lllllll}
+\toprule
+\textbf{Set} & $\{h\}$ & $\{i,e\}$  &  $\{r\}$   &   $\{j\}$  &  $\{m,n\}$ &  $\{p,t,k\}$ \\
+\midrule
+\textbf{BF} & 32,768 & 262,144 & 131,072 & 524,288 & 2048  &  4,096 \\
+\textbf{B\&B} & 3,432  & 11,482  &  3,444  &  4,790  & 1,450   &  1,315 \\
+\bottomrule
+\\
+\end{tabular}
+\end{center}
+\caption{The number of search nodes explored during a brute-force search (BF) for finding a minimal solution for various sets of phonemes, or a branch-and-bound search (B\&B). The feature inventory is one used for English \cite{vanvugt2012,hayes2011}.}
+\label{searchspace}
+\end{table*}
+
+This greedy algorithm, however, in many practical cases fails to find the correct minimal specification, and is therefore not a viable candidate for efficient feature minimization. A simple example is finding the featural specification for the set \{\textipa{@}\} in English under the fairly standard featural system provided in \newcite{hayes2011} and \newcite{vanvugt2012}: the algorithm recovers the features [-tense, -back, -front, -coronal] while the minimal specification is [-back, -front, -coronal].
+
+\paragraph{Branch \& Bound} We also implemented a branch-and-bound algorithm with a recursive component that explores, exhaustively, all combinations of features in the full description $\fancyc$, bounding the search whenever the current search tree contains more features than in the shortest solution found so far. The branch-and-bound algorithm is efficient in practice in finding minimal feature specifications, but still needs to explore a reasonably large search space (see \cref{searchspace}).
+
+\section{Discussion}
+
+Humans have been noted to outperform simple, low-polynomial time heuristic algorithms for some intractable problems such as the traveling salesman problem \cite{macgregor1996} using intuition and visual inspection of the problem structure. It is, however, unclear if such performance carries over to other problems of a different structure, such as \textsc{minphonfeat}, or whether the hypothesis that a phonological acquisition process should include this type of minimization is too strong.
+
+An important point to address in the complexity analysis is whether we are operating in a bounded domain.  With a fixed, finite set of features to choose from and a fixed finite phoneme inventory, the problem can be considered static and solvable in constant time by memorizing or pre-calculating all the possible patterns of feature combinations and their corresponding phoneme sets.  Such counter-arguments have been leveled \cite{kornai2006} at other $\mathcal{NP}$-completeness analyses, such as those that have shown that Optimality Theory is potentially intractable \cite{eisner2000,idsardi2006}.  In the case at hand, however, such an argument has less traction since the domain in question is rather large (potentially hundreds of features) and it seems inevitable that some search method must be used by speakers (or phonologists) to discover the minimum number of features required.  The fact that simple greedy algorithms do not always find the minimum specification, and that branch-and-bound algorithms, while efficient for practical computational use, still need to explore a large search space, prompts the question whether some alternative  strategy would work particularly well with phonological feature structures proposed in the literature.  This could address the problem that this intractability poses to phonological learning.
+
+\section{Conclusion}
+
+We have shown that one of the commonly assumed subtasks of acquisition of phonological generalizations---distinctive feature minimization---is computationally intractable. The decision version of the minimization problem is $\mathcal{NP}$-complete, and it follows that the optimization version $\mathcal{NP}$-hard. This is true even if one limits oneself to using only positive features, i.e. a privative feature system.  Furthermore, a simple greedy strategy for solving the problem can not be attributed to purported human performance in finding minimal feature specifications since such a strategy will sometimes fail to find a minimal description with commonly proposed feature systems and phonological inventories. The problem of simply deciding whether a set of phonemes constitutes a natural class---the feature description problem---is solvable in polynomial time.
+
+\section*{Reproducibility}
+
+Our feature systems data and code for the feature description and minimization problems is available at \url{https://github.com/mhulden/minphonfeat}.
+
+\section*{Acknowledgements}
+
+Chen was partially supported by the Spanish Project TIN2017-86727-C2-2-R. We wish to thank Miikka Silfverberg for comments on an earlier version on the paper. Thanks also to participants in LING 5410 (Phonology) and LING 7410 (Phonological Theory) at The University of Colorado, whose work and feedback on various feature minimization problems prompted part of this research.
+
+\nocite{kornai1993}
+
+\bibliography{acl2017}
+\bibliographystyle{acl_natbib}
+
+\end{document}

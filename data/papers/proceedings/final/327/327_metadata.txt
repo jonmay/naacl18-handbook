@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#327
+FinalPaperTitle#=%=#Recurrent Neural Networks as Weighted Language Recognizers
+ShortPaperTitle#=%=#Recurrent Neural Networks as Weighted Language Recognizers
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jonathan May
+JobTitle#==#
+Organization#==#Information Sciences Institute
+4676 Admiralty Way
+Marina del Rey, CA 90292
+Abstract#==#We investigate the computational complexity of various problems for simple
+recurrent neural networks (RNNs) as formal models for recognizing weighted
+languages.  We focus on the single-layer, ReLU-activation, rational-weight RNNs
+with softmax, which are commonly used in natural language processing
+applications.  We show that most problems for such RNNs are undecidable,
+including consistency, equivalence, minimization, and the determination of the
+highest-weighted string. However, for consistent RNNs the last problem becomes
+decidable, although the solution length can surpass all computable bounds.  If
+additionally the string is limited to polynomial length, the problem becomes
+NP-complete. In summary, this shows that approximations and
+heuristic algorithms are necessary in practical applications of those RNNs.
+Author{1}{Firstname}#=%=#Yining
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#yining.chen.18@dartmouth.edu
+Author{1}{Affiliation}#=%=#Dartmouth College
+Author{2}{Firstname}#=%=#Sorcha
+Author{2}{Lastname}#=%=#Gilroy
+Author{2}{Email}#=%=#s.gilroy@sms.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Andreas
+Author{3}{Lastname}#=%=#Maletti
+Author{3}{Email}#=%=#andreas.maletti@uni-leipzig.de
+Author{3}{Affiliation}#=%=#Universitat Leipzig
+Author{4}{Firstname}#=%=#Jonathan
+Author{4}{Lastname}#=%=#May
+Author{4}{Email}#=%=#jonmay@gmail.com
+Author{4}{Affiliation}#=%=#USC Information Sciences Institute
+Author{5}{Firstname}#=%=#Kevin
+Author{5}{Lastname}#=%=#Knight
+Author{5}{Email}#=%=#knight@isi.edu
+Author{5}{Affiliation}#=%=#USC/ISI
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#448
+FinalPaperTitle#=%=#Monte Carlo Syntax Marginals for Exploring and Using Dependency Parses
+ShortPaperTitle#=%=#Monte Carlo Syntax Marginals for Exploring and Using Dependency Parses
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Katherine Keith
+JobTitle#==#
+Organization#==#University of Massachusetts Amherst
+College of Information and Computer Sciences
+140 Governors Dr, Amherst, MA 01002
+Abstract#==#Dependency parsing research, which has made significant gains in recent years, typically focuses on improving the accuracy of single-tree predictions. However, ambiguity is inherent to natural language syntax, and communicating such ambiguity is important for error analysis and better-informed downstream applications. In this work, we propose a transition sampling algorithm to sample from the full joint distribution of parse trees defined by a transition-based parsing model, and demonstrate the use of the samples in probabilistic dependency analysis. First, we define the new task of dependency path prediction, inferring syntactic substructures over part of a sentence, and provide the first analysis of performance on this task. Second, we demonstrate the usefulness of our Monte Carlo syntax marginal method for parser error analysis and calibration. Finally, we use this method to propagate parse uncertainty to two downstream information extraction applications: identifying persons killed by police and semantic role assignment.
+Author{1}{Firstname}#=%=#Katherine
+Author{1}{Lastname}#=%=#Keith
+Author{1}{Email}#=%=#kkeith@cs.umass.edu
+Author{1}{Affiliation}#=%=#Univ. of Massachusetts, Amherst
+Author{2}{Firstname}#=%=#Su Lin
+Author{2}{Lastname}#=%=#Blodgett
+Author{2}{Email}#=%=#blodgett@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Brendan
+Author{3}{Lastname}#=%=#O'Connor
+Author{3}{Email}#=%=#brenocon@cs.umass.edu
+Author{3}{Affiliation}#=%=#Univ. of Massachusetts, Amherst
+
+==========

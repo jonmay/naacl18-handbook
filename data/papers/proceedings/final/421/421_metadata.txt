@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#421
+FinalPaperTitle#=%=#EMR Coding with Semi-Parametric Multi-Head Matching Networks
+ShortPaperTitle#=%=#EMR Coding with Semi-Parametric Multi-Head Matching Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Anthony Rios
+JobTitle#==#
+Organization#==#University of Kentucky
+Department of Computer Science
+Davis Marksbury Building
+329 Rose Street
+Lexington, KY 40506-0633
+Abstract#==#Coding EMRs with diagnosis and procedure codes is an indispensable task for
+billing, secondary data analyses, and monitoring health trends. Both speed and
+accuracy of coding are critical. While coding errors could lead to more
+patient-side financial burden and misinterpretation of a patient's well-being,
+timely coding is also needed to avoid backlogs and additional costs for the
+healthcare facility. In this paper, we present a new neural network
+architecture that combines ideas from few-shot learning matching networks,
+multi-label loss functions, and convolutional neural networks for text
+classification to significantly outperform other state-of-the-art models. Our
+evaluations are conducted using a well known de-identified EMR dataset (MIMIC)
+with a variety of multi-label performance measures.
+Author{1}{Firstname}#=%=#Anthony
+Author{1}{Lastname}#=%=#Rios
+Author{1}{Email}#=%=#anthony.rios1@uky.edu
+Author{1}{Affiliation}#=%=#University of Kentucky
+Author{2}{Firstname}#=%=#Ramakanth
+Author{2}{Lastname}#=%=#Kavuluru
+Author{2}{Email}#=%=#rvkavu2@uky.edu
+Author{2}{Affiliation}#=%=#University of Kentucky
+
+==========

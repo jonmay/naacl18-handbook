@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#362
+FinalPaperTitle#=%=#Fast Lexically Constrained Decoding with Dynamic Beam Allocation for Neural Machine Translation
+ShortPaperTitle#=%=#Fast Lexically Constrained Decoding with Dynamic Beam Allocation for NMT
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Matt Post
+JobTitle#==#
+Organization#==#Amazon Research
+Krausenstraße 38
+10117 Berlin
+Germany
+Abstract#==#The end-to-end nature of neural machine translation (NMT) removes many ways of manually guiding the translation process that were available in older paradigms.
+Recent work, however, has introduced a new capability: lexically constrained or guided decoding, a modification to beam search that forces the inclusion of pre-specified words and phrases in the output.
+However, while theoretically sound, existing approaches have computational complexities that are either linear (Hokamp and Liu, 2017) or exponential (Anderson et al., 2017) in the number of constraints.
+We present a algorithm for lexically constrained decoding with a complexity of O(1) in the number of constraints.
+We demonstrate the algorithm's remarkable ability to properly place these constraints, and use it to explore the shaky relationship between model and BLEU scores.
+Our implementation is available as part of Sockeye.
+Author{1}{Firstname}#=%=#Matt
+Author{1}{Lastname}#=%=#Post
+Author{1}{Email}#=%=#post@cs.jhu.edu
+Author{1}{Affiliation}#=%=#Amazon Research
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Vilar
+Author{2}{Email}#=%=#david.vilar@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+
+==========

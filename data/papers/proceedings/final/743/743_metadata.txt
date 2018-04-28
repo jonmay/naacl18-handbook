@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#743
+FinalPaperTitle#=%=#Non-Projective Dependency Parsing with Non-Local Transitions
+ShortPaperTitle#=%=#Non-Projective Dependency Parsing with Non-Local Transitions
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Daniel Fernández-González
+JobTitle#==#
+Organization#==#Universidade da Coruña
+FASTPARSE Lab, LyS Research Group, Departamento de Computación
+Campus de Elviña, s/n, 15071 A Coruña, Spain
+Abstract#==#We present a novel transition system, based on the Covington non-projective
+parser, introducing non-local transitions that can directly create arcs
+involving nodes to the left of the current focus positions. This avoids the
+need for long sequences of No-Arcs transitions to create long-distance arcs,
+thus alleviating error propagation. The resulting parser outperforms the
+original version and achieves the best accuracy on the Stanford Dependencies
+conversion of the Penn Treebank among greedy transition-based parsers.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Fernández-González
+Author{1}{Email}#=%=#danifg@uvigo.es
+Author{1}{Affiliation}#=%=#Universidade de Vigo
+Author{2}{Firstname}#=%=#Carlos
+Author{2}{Lastname}#=%=#Gómez-Rodríguez
+Author{2}{Email}#=%=#cgomezr@udc.es
+Author{2}{Affiliation}#=%=#Universidade da Coruña
+
+==========

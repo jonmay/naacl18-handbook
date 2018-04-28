@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#440
+FinalPaperTitle#=%=#Unified Pragmatic Models for Generating and Following Instructions
+ShortPaperTitle#=%=#Unified Pragmatic Models for Generating and Following Instructions
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Daniel Fried
+JobTitle#==#
+Organization#==#UC Berkeley
+Berkeley, CA 94720
+Abstract#==#We show that explicit pragmatic inference aids in correctly generating and following natural language instructions for complex, sequential tasks.  Our pragmatics-enabled models reason about why speakers produce certain instructions, and about how listeners will react upon hearing them.  Like previous pragmatic models, we use learned base listener and speaker models to build a pragmatic speaker that uses the base listener to simulate the interpretation of candidate descriptions, and a pragmatic listener that reasons counterfactually about alternative descriptions. We extend these models to tasks with sequential structure.  Evaluation of language generation and interpretation shows that pragmatic inference improves state-of-the-art listener models (at correctly interpreting human instructions) and speaker models (at producing instructions correctly interpreted by humans) in diverse settings.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Fried
+Author{1}{Email}#=%=#dfried@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#Jacob
+Author{2}{Lastname}#=%=#Andreas
+Author{2}{Email}#=%=#jda@cs.berkeley.edu
+Author{2}{Affiliation}#=%=#Berkeley
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Klein
+Author{3}{Email}#=%=#klein@cs.berkeley.edu
+Author{3}{Affiliation}#=%=#UC Berkeley
+
+==========

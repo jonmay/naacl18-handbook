@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#957
+FinalPaperTitle#=%=#RankME: Reliable Human Ratings for Natural Language Generation
+ShortPaperTitle#=%=#RankME: Reliable Human Ratings for Natural Language Generation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jekaterina Novikova
+JobTitle#==#
+Organization#==#Heriot-Watt University
+Abstract#==#Human evaluation for natural language generation (NLG) often suffers from inconsistent user ratings. While previous research tends to attribute this problem to individual user preferences, we show that the quality of human judgements can also be improved by experimental design. We present a novel rank-based magnitude estimation method (RankME), which combines the use of continuous scales and relative assessments. We show that RankME significantly improves the reliability and consistency of human ratings compared to traditional evaluation methods. In addition, we show that it is possible to evaluate NLG systems according to multiple, distinct criteria, which is important for error analysis. Finally, we demonstrate that RankME, in combination with Bayesian estimation of system quality, is a cost-effective alternative for ranking multiple NLG systems.
+Author{1}{Firstname}#=%=#Jekaterina
+Author{1}{Lastname}#=%=#Novikova
+Author{1}{Email}#=%=#novikova.jekaterina@gmail.com
+Author{1}{Affiliation}#=%=#Heriot Watt University
+Author{2}{Firstname}#=%=#Ondřej
+Author{2}{Lastname}#=%=#Dušek
+Author{2}{Email}#=%=#o.dusek@hw.ac.uk
+Author{2}{Affiliation}#=%=#Heriot-Watt University
+Author{3}{Firstname}#=%=#Verena
+Author{3}{Lastname}#=%=#Rieser
+Author{3}{Email}#=%=#v.t.rieser@hw.ac.uk
+Author{3}{Affiliation}#=%=#Heriot-Watt University
+
+==========

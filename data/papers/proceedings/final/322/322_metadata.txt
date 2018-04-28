@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#322
+FinalPaperTitle#=%=#Binarized LSTM Language Model
+ShortPaperTitle#=%=#Binarized LSTM Language Model
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Xuan Liu
+JobTitle#==#
+Organization#==#Shanghai Jiao Tong University
+No. 800, Dongchuan Road, Minhang District, Shanghai 200240, China
+Abstract#==#Long short-term memory (LSTM) language model (LM) has been widely investigated
+for automatic speech recognition (ASR) and natural language processing (NLP).
+Although excellent performance is obtained for large vocabulary tasks,
+tremendous memory consumption prohibits the use of LSTM LM in low-resource
+devices. The memory consumption mainly comes from the word embedding layer. In
+this paper, a novel binarized LSTM LM is proposed to address the problem. Words
+are encoded into binary vectors and other LSTM parameters are further binarized
+to achieve high memory compression. This is the first effort to investigate
+binary LSTM for large vocabulary LM. Experiments on both English and Chinese LM
+and ASR tasks showed that can achieve a compression ratio of 11.3 without any
+loss of LM and ASR performances and a compression ratio of 31.6 with acceptable
+minor performance degradation.
+Author{1}{Firstname}#=%=#Xuan
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liuxuan0526@gmail.com
+Author{1}{Affiliation}#=%=#No
+Author{2}{Firstname}#=%=#Di
+Author{2}{Lastname}#=%=#Cao
+Author{2}{Email}#=%=#caodi0207@gmail.com
+Author{2}{Affiliation}#=%=#No
+Author{3}{Firstname}#=%=#Kai
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Email}#=%=#ky219.cam@gmail.com
+Author{3}{Affiliation}#=%=#No
+
+==========

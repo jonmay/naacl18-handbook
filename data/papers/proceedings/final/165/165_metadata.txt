@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#165
+FinalPaperTitle#=%=#Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss
+ShortPaperTitle#=%=#Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Peng Xu
+JobTitle#==#
+Organization#==#University of Alberta, 116 St & 85 Ave, Edmonton, AB, Canada, T6G 2R3
+Abstract#==#The task of Fine-grained Entity Type Classification (FETC) consists of assigning types from a hierarchy to entity mentions in text. Existing methods rely on distant supervision and are thus susceptible to noisy labels that can be out-of-context or overly-specific for the training sentence. Previous methods that attempt to address these issues do so with heuristics or with the help of hand-crafted features. Instead, we propose an end-to-end solution with a neural network model that uses a variant of cross- entropy loss function to handle out-of-context labels, and hierarchical loss normalization to cope with overly-specific ones. Also, previous work solve FETC a multi-label classification followed by ad-hoc post-processing. In contrast, our solution is more elegant: we use public word embeddings to train a single-label that jointly learns representations for entity mentions and their context. We show experimentally that our approach is robust against noise and consistently outperforms the state-of-the-art on established benchmarks for the task.
+Author{1}{Firstname}#=%=#Peng
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#pxu4@ualberta.ca
+Author{1}{Affiliation}#=%=#University of Alberta
+Author{2}{Firstname}#=%=#Denilson
+Author{2}{Lastname}#=%=#Barbosa
+Author{2}{Email}#=%=#denilson@ualberta.ca
+Author{2}{Affiliation}#=%=#University of Alberta
+
+==========

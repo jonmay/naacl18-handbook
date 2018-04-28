@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#307
+FinalPaperTitle#=%=#Deep Temporal-Recurrent-Replicated-Softmax for Topical Trends over Time
+ShortPaperTitle#=%=#Deep Temporal-Recurrent-Replicated-Softmax for Topical Trends over Time
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Pankaj Gupta
+JobTitle#==#
+Organization#==#University of Munich (LMU)
+Center for Information and Language Processing
+Oettingenstr 67
+80538 Munich, Germany
+
+Siemens AG
+CT-Machine Intelligence (MIC)
+Otto-hahn ring 6
+Munich, Germany
+Abstract#==#Dynamic topic modeling facilitates the identification of topical trends over time in temporal collections of unstructured documents.
+We introduce a novel unsupervised neural dynamic topic model named as Recurrent Neural
+Network-Replicated Softmax Model (RNNRSM), where the discovered topics at each
+time influence the topic discovery in the subsequent time steps. We account for the temporal ordering of documents by explicitly modeling a joint distribution of latent topical dependencies over time, using distributional estimators with temporal recurrent connections.
+Applying RNN-RSM to 19 years of articles
+on NLP research, we demonstrate that compared to state-of-the art topic models, RNNRSM shows better generalization, topic interpretation, evolution and trends. We also introduce a metric (named as SPAN) to quantify the
+capability of dynamic topic model to capture
+word evolution in topics over time.
+Author{1}{Firstname}#=%=#Pankaj
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Email}#=%=#pankaj_gupta96@yahoo.com
+Author{1}{Affiliation}#=%=#LMU, Siemens
+Author{2}{Firstname}#=%=#Subburam
+Author{2}{Lastname}#=%=#Rajaram
+Author{2}{Email}#=%=#subburam.rajaram@tum.de
+Author{2}{Affiliation}#=%=#Technical University of Munich
+Author{3}{Firstname}#=%=#Bernt
+Author{3}{Lastname}#=%=#Andrassy
+Author{3}{Email}#=%=#bernt.andrassy@siemens.com
+Author{3}{Affiliation}#=%=#Siemens
+Author{4}{Firstname}#=%=#Hinrich
+Author{4}{Lastname}#=%=#Schütze
+Author{4}{Email}#=%=#inquiries@cislmu.org
+Author{4}{Affiliation}#=%=#university of munich
+
+==========

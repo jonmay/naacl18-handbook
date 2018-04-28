@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1070
+FinalPaperTitle#=%=#Neural Models for Reasoning over Multiple Mentions Using Coreference
+ShortPaperTitle#=%=#Neural Models for Reasoning with Coreference
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Bhuwan Dhingra
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Ave, Pittsburgh, USA
+Abstract#==#Many problems in NLP require aggregating information from multiple mentions of the same entity which may be far apart in the text. Existing Recurrent Neural Network (RNN) layers are biased towards short-term dependencies and hence not suited to such tasks. We present a recurrent layer which is instead biased towards coreferent dependencies. The layer uses coreference annotations extracted from an external system to connect entity mentions belonging to the same cluster. Incorporating this layer into a state-of-the-art reading comprehension model improves performance on three datasets -- Wikihop, LAMBADA and the bAbi AI tasks -- with large gains when training data is scarce.
+Author{1}{Firstname}#=%=#Bhuwan
+Author{1}{Lastname}#=%=#Dhingra
+Author{1}{Email}#=%=#bdhingra@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Qiao
+Author{2}{Lastname}#=%=#Jin
+Author{2}{Email}#=%=#qij9@pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+Author{3}{Firstname}#=%=#Zhilin
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Email}#=%=#zhiliny@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#William
+Author{4}{Lastname}#=%=#Cohen
+Author{4}{Email}#=%=#wcohen@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Ruslan
+Author{5}{Lastname}#=%=#Salakhutdinov
+Author{5}{Email}#=%=#rsalakhu@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

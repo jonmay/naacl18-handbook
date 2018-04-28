@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#566
+FinalPaperTitle#=%=#Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions
+ShortPaperTitle#=%=#Learning to Generate Court Views from Fact Descriptions
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#HAI YE
+JobTitle#==#
+Organization#==#School of Computer Science and Engineering, Beihang University, Beijing, China
+Abstract#==#In this paper, we propose to study the problem of court view generation from the fact description in a criminal case. The task aims to improve the interpretability of charge prediction systems and help automatic legal document generation. We formulate this task as a text-to-text natural language generation (NLG) problem. Sequence-to-sequence model has achieved cutting-edge performances in many NLG tasks. However, due to the non-distinctions of fact descriptions, it is hard for Seq2Seq model to generate charge-discriminative court views. In this work, we explore charge labels to tackle this issue. We propose a label-conditioned Seq2Seq model with attention for this problem, to decode court views conditioned on encoded charge labels. Experimental results show the effectiveness of our method.
+Author{1}{Firstname}#=%=#Hai
+Author{1}{Lastname}#=%=#Ye
+Author{1}{Email}#=%=#yehai@buaa.edu.cn
+Author{1}{Affiliation}#=%=#Beihang University
+Author{2}{Firstname}#=%=#Xin
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Email}#=%=#xinjiang@buaa.edu.cn
+Author{2}{Affiliation}#=%=#Beihang University
+Author{3}{Firstname}#=%=#Zhunchen
+Author{3}{Lastname}#=%=#Luo
+Author{3}{Email}#=%=#zhunchenluo@gmail.com
+Author{3}{Affiliation}#=%=#PLA Academy of Military Science
+Author{4}{Firstname}#=%=#Wenhan
+Author{4}{Lastname}#=%=#Chao
+Author{4}{Email}#=%=#chaowenhan@buaa.edu.cn
+Author{4}{Affiliation}#=%=#Beihang University
+
+==========

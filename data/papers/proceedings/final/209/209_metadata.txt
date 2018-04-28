@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#209
+FinalPaperTitle#=%=#Dense Information Flow for Neural Machine Translation
+ShortPaperTitle#=%=#Dense Information Flow for Neural Machine Translation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yanyao Shen
+JobTitle#==#
+Organization#==#University of Texas at Austin
+Austin, TX 78712, USA
+Abstract#==#Recently, neural machine translation has achieved remarkable progress by introducing well-designed deep neural networks into its encoder-decoder framework. From the optimization perspective, residual connections are adopted to improve learning performance for both encoder and decoder in most of these deep architectures, and advanced attention connections are applied as well. Inspired by the success of the DenseNet model in computer vision problems, in this paper, we propose a densely connected NMT architecture (DenseNMT) that is able to train more efficiently for NMT. The proposed DenseNMT not only allows dense connection in creating new features for both encoder and decoder, but also uses the dense attention structure to improve attention quality. Our experiments on multiple datasets show that DenseNMT structure is more competitive and efficient.
+Author{1}{Firstname}#=%=#Yanyao
+Author{1}{Lastname}#=%=#Shen
+Author{1}{Email}#=%=#shenyanyao@utexas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Austin
+Author{2}{Firstname}#=%=#Xu
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Email}#=%=#xuta@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Di
+Author{3}{Lastname}#=%=#He
+Author{3}{Email}#=%=#dihe@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research Asia
+Author{4}{Firstname}#=%=#Tao
+Author{4}{Lastname}#=%=#Qin
+Author{4}{Email}#=%=#taoqin@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research Asia
+Author{5}{Firstname}#=%=#Tie-Yan
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Email}#=%=#tyliu@microsoft.com
+Author{5}{Affiliation}#=%=#
+
+==========

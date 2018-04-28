@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#626
+FinalPaperTitle#=%=#Global Relation Embedding for Relation Extraction
+ShortPaperTitle#=%=#Global Relation Embedding for Relation Extraction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yu Su
+JobTitle#==#
+Organization#==#University of California, Santa Barbara
+Goleta, CA 93106, United States
+Abstract#==#We study the problem of textual relation embedding with distant supervision. To combat the wrong labeling problem of distant supervision, we propose to embed textual relations with global statistics of relations, i.e., the co-occurrence statistics of textual and knowledge base relations collected from the entire corpus. This approach turns out to be more robust to the training noise introduced by distant supervision. On a popular relation extraction dataset, we show that the learned textual relation embedding can be used to augment existing relation extraction models and significantly improve their performance. Most remarkably, for the top 1,000 relational facts discovered by the best existing model, the precision can be improved from 83.9% to 89.3%.
+Author{1}{Firstname}#=%=#Yu
+Author{1}{Lastname}#=%=#Su
+Author{1}{Email}#=%=#ysu@cs.ucsb.edu
+Author{1}{Affiliation}#=%=#University of California Santa Barbara
+Author{2}{Firstname}#=%=#Honglei
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#honglei@cs.ucsb.edu
+Author{2}{Affiliation}#=%=#University of California Santa Barbara
+Author{3}{Firstname}#=%=#Semih
+Author{3}{Lastname}#=%=#Yavuz
+Author{3}{Email}#=%=#syavuz@cs.ucsb.edu
+Author{3}{Affiliation}#=%=#University of California Santa Barbara
+Author{4}{Firstname}#=%=#Izzeddin
+Author{4}{Lastname}#=%=#Gur
+Author{4}{Email}#=%=#izzeddingur@cs.ucsb.edu
+Author{4}{Affiliation}#=%=#UC Santa Barbara
+Author{5}{Firstname}#=%=#Huan
+Author{5}{Lastname}#=%=#Sun
+Author{5}{Email}#=%=#sun.397@osu.edu
+Author{5}{Affiliation}#=%=#The Ohio State University
+Author{6}{Firstname}#=%=#Xifeng
+Author{6}{Lastname}#=%=#Yan
+Author{6}{Email}#=%=#xyan@cs.ucsb.edu
+Author{6}{Affiliation}#=%=#University of California Santa Barbara
+
+==========

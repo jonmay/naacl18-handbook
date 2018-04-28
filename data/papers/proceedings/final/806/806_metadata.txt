@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#806
+FinalPaperTitle#=%=#Sluice Resolution without Hand-crafted Features over Brittle Syntax Trees
+ShortPaperTitle#=%=#Sluice Resolution without Hand-crafted Features over Brittle Syntax Trees
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ola Rønning
+JobTitle#==#
+Organization#==#University of Copenhagen, Nørregade 10, 1165 København
+Abstract#==#Sluice resolution in English is the problem of finding antecedents of {\em
+wh}-fronted ellipses. Previous work has relied on hand-crafted features over
+syntax trees that scale poorly to other languages and domains; in particular,
+to dialogue, which is one of the most interesting applications of sluice
+resolution. Syntactic information is arguably important for sluice resolution,
+but we show that multi-task learning with partial parsing as auxiliary tasks
+effectively closes the gap and buys us an additional 9\%~error reduction over
+previous work. Since we are not directly relying on features from partial
+parsers, our system is more robust to domain shifts, giving a 26\%~error
+reduction on embedded sluices in dialogue.
+Author{1}{Firstname}#=%=#Ola
+Author{1}{Lastname}#=%=#Rønning
+Author{1}{Email}#=%=#ronning@protonmail.com
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Daniel
+Author{2}{Lastname}#=%=#Hardt
+Author{2}{Email}#=%=#dh.itm@cbs.dk
+Author{2}{Affiliation}#=%=#Copenhagen Business School
+Author{3}{Firstname}#=%=#Anders
+Author{3}{Lastname}#=%=#Søgaard
+Author{3}{Email}#=%=#soegaard@di.ku.dk
+Author{3}{Affiliation}#=%=#University of Copenhagen
+
+==========

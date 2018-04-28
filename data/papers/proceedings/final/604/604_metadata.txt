@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#604
+FinalPaperTitle#=%=#Hierarchical Structured Model for Fine-to-coarse Manifesto Text Analysis
+ShortPaperTitle#=%=#Hierarchical Structured Model for Fine-to-coarse Manifesto Text Analysis
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shivashankar Subramanian
+JobTitle#==#
+Organization#==#Computing and Information Systems
+The University of Melbourne 
+VIC 3010, Australia
+Abstract#==#Election manifestos document the intentions, motives, and views of political parties.
+They are often used for analysing a party's fine-grained position on a particular issue, as well as for coarse-grained positioning of a party on the left--right spectrum. 
+In this paper we propose a two-stage model for automatically performing both levels of analysis over manifestos. In the first step we employ a hierarchical multi-task structured deep model to predict fine- and coarse-grained positions, and in the second step we perform post-hoc calibration of coarse-grained positions using probabilistic soft logic. We empirically show that the proposed model outperforms state-of-art approaches at both granularities using manifestos from twelve countries, written in ten different languages.
+Author{1}{Firstname}#=%=#Shivashankar
+Author{1}{Lastname}#=%=#Subramanian
+Author{1}{Email}#=%=#shivashankar@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#University of Melbourne
+Author{2}{Firstname}#=%=#Trevor
+Author{2}{Lastname}#=%=#Cohn
+Author{2}{Email}#=%=#t.cohn@unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Timothy
+Author{3}{Lastname}#=%=#Baldwin
+Author{3}{Email}#=%=#tbaldwin@unimelb.edu.au
+Author{3}{Affiliation}#=%=#University of Melbourne
+
+==========

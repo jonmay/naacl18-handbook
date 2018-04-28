@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1095
+FinalPaperTitle#=%=#Integrating Stance Detection and Fact Checking in a Unified Corpus
+ShortPaperTitle#=%=#Integrating Stance Detection and Fact Checking in a Unified Corpus
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Ramy Baly
+JobTitle#==#Postdoctoral Associate
+Organization#==#MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA 02139
+Abstract#==#A reasonable approach for fact checking a claim involves retrieving potentially relevant documents from different sources (e.g., news websites, social media, etc.), determining the stance of each document with respect to the claim, and finally making a prediction about the claim’s factuality by aggregating the strength of the stances, while taking the reliability of the source into account. Moreover, a fact checking system should be able to explain its decision by providing relevant extracts (rationales) from the documents. Yet, this setup is not directly supported by existing datasets, which treat fact checking, document retrieval, source credibility, stance detection and rationale extraction as independent tasks. In this paper, we support the interdependencies between these tasks as annotations in the same corpus. We implement this setup on an Arabic fact checking corpus, the first of its kind.
+Author{1}{Firstname}#=%=#Ramy
+Author{1}{Lastname}#=%=#Baly
+Author{1}{Email}#=%=#baly@mit.edu
+Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{2}{Firstname}#=%=#Mitra
+Author{2}{Lastname}#=%=#Mohtarami
+Author{2}{Email}#=%=#mitra@csail.mit.edu
+Author{2}{Affiliation}#=%=#MIT Computer Science and Artificial Intelligence Lab
+Author{3}{Firstname}#=%=#James
+Author{3}{Lastname}#=%=#Glass
+Author{3}{Email}#=%=#glass@mit.edu
+Author{3}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{4}{Firstname}#=%=#Lluís
+Author{4}{Lastname}#=%=#Màrquez
+Author{4}{Email}#=%=#lluismv@amazon.com
+Author{4}{Affiliation}#=%=#Amazon Core ML
+Author{5}{Firstname}#=%=#Alessandro
+Author{5}{Lastname}#=%=#Moschitti
+Author{5}{Email}#=%=#amoschitti@gmail.com
+Author{5}{Affiliation}#=%=#Amazon (prof. in Computer Science at University of Trento)
+Author{6}{Firstname}#=%=#Preslav
+Author{6}{Lastname}#=%=#Nakov
+Author{6}{Email}#=%=#preslav.nakov@gmail.com
+Author{6}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+
+==========

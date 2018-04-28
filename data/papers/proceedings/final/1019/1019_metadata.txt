@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1019
+FinalPaperTitle#=%=#Guiding Generation for Abstractive Text Summarization Based on Key Information Guide Network
+ShortPaperTitle#=%=#Guiding Generation for Abstractive Text Summarization Based on Key Information Guide Network
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chenliang Li
+JobTitle#==#
+Organization#==#Beijing University of Posts and Telecommunications
+No.10 Xitucheng Road, Haidian District, Beijing, China
+Abstract#==#Neural network models, based on the attentional encoder-decoder model, have
+good capability in abstractive text summarization. However, these models are
+hard to be controlled in the process of generation, which leads to a lack of
+key information. We propose a guiding generation model that combines the
+extractive method and the abstractive method. Firstly, we obtain keywords from
+the text by a extractive model. Then, we introduce a Key Information Guide
+Network (KIGN), which encodes the keywords to the key information
+representation, to guide the process of generation. In addition, we use a
+prediction-guide mechanism, which can obtain the long-term value for future
+decoding, to further guide the summary generation. We evaluate our model on the
+CNN/Daily Mail dataset. The experimental results show that our model leads to
+significant improvements.
+Author{1}{Firstname}#=%=#Chenliang
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#chenliangli@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Weiran
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#xuweiran@bupt.edu.cn
+Author{2}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{3}{Firstname}#=%=#Si
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#lisi@bupt.edu.cn
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{4}{Firstname}#=%=#Sheng
+Author{4}{Lastname}#=%=#GAO
+Author{4}{Email}#=%=#gaosheng@bupt.edu.cn
+Author{4}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+
+==========

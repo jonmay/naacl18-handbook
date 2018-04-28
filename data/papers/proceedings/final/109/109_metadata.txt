@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#109
+FinalPaperTitle#=%=#Supervised and Unsupervised Transfer Learning for Question Answering
+ShortPaperTitle#=%=#QA Transfer Learning
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yu-An Chung
+JobTitle#==#
+Organization#==#MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA 02139, USA
+Abstract#==#Although transfer learning has been shown to be successful for tasks like
+object and speech recognition, its applicability to question answering (QA) has
+yet to be well-studied. In this paper, we conduct extensive experiments to
+investigate the transferability of knowledge learned from a source QA dataset
+to a target dataset using two QA models. The performance of both models on a
+TOEFL listening comprehension test (Tseng et al., 2016) and MCTest (Richardson
+et al., 2013) is significantly improved via a simple transfer learning
+technique from MovieQA (Tapaswi et al., 2016). In particular, one of the models
+achieves the state-of-the-art on all target datasets; for the TOEFL listening
+comprehension test, it outperforms the previous best model by 7%. Finally, we
+show that transfer learning is helpful even in unsupervised scenarios when
+correct answers for target QA dataset examples are not available.
+Author{1}{Firstname}#=%=#Yu-An
+Author{1}{Lastname}#=%=#Chung
+Author{1}{Email}#=%=#andyyuan@mit.edu
+Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{2}{Firstname}#=%=#Hung-yi
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#tlkagkb93901106@gmail.com
+Author{2}{Affiliation}#=%=#National Taiwan University (NTU)
+Author{3}{Firstname}#=%=#James
+Author{3}{Lastname}#=%=#Glass
+Author{3}{Email}#=%=#glass@mit.edu
+Author{3}{Affiliation}#=%=#Massachusetts Institute of Technology
+
+==========

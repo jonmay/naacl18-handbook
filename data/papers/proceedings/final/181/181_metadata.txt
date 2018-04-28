@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#181
+FinalPaperTitle#=%=#Collective Entity Disambiguation with Structured Gradient Tree Boosting
+ShortPaperTitle#=%=#Collective Entity Disambiguation with Structured Gradient Tree Boosting
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yi Yang
+JobTitle#==#
+Organization#==#Bloomberg LP
+Lexington 731, New York, NY 10022
+Abstract#==#We present a gradient-tree-boosting-based structured learning model for
+jointly disambiguating named entities in a document. Gradient tree boosting is
+a widely used machine learning algorithm that underlies many top-performing
+natural language processing systems. Surprisingly, most works limit the use of
+gradient tree boosting as a tool for regular classification or regression
+problems, despite the structured nature of language. To the best of our
+knowledge, our work is the first one that employs the structured gradient tree
+boosting (SGTB) algorithm for collective entity disambiguation. By defining
+global features over previous disambiguation decisions and jointly modeling
+them with local features, our system is able to produce globally optimized
+entity assignments for mentions in a document. Exact inference is prohibitively
+expensive for our globally normalized model. To solve this problem, we propose
+Bidirectional Beam Search with Gold path (BiBSG), an approximate inference
+algorithm that is a variant of the standard beam search algorithm. BiBSG makes
+use of global information from both past and future to perform better local
+search. Experiments on standard benchmark datasets show that SGTB significantly
+improves upon published results. Specifically, SGTB outperforms the previous
+state-of-the-art neural system by near 1\% absolute accuracy on the popular
+AIDA-CoNLL dataset.
+Author{1}{Firstname}#=%=#Yi
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yiyangnlp@gmail.com
+Author{1}{Affiliation}#=%=#Bloomberg LP
+Author{2}{Firstname}#=%=#Ozan
+Author{2}{Lastname}#=%=#Irsoy
+Author{2}{Email}#=%=#oirsoy@bloomberg.net
+Author{2}{Affiliation}#=%=#Bloomberg LP
+Author{3}{Firstname}#=%=#Kazi Shefaet
+Author{3}{Lastname}#=%=#Rahman
+Author{3}{Email}#=%=#krahman7@bloomberg.net
+Author{3}{Affiliation}#=%=#Bloomberg LP
+
+==========

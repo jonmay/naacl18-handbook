@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#855
+FinalPaperTitle#=%=#Natural Language to Structured Query Generation via Meta-Learning
+ShortPaperTitle#=%=#Natural Language to Structured Query Generation via Meta-Learning
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Po-Sen Huang
+JobTitle#==#
+Organization#==#Microsoft Research
+1 Microsoft Way, Redmond, WA 98052
+Abstract#==#In conventional supervised training, a model is trained to fit all the training examples. However, having a monolithic model may not always be the best strategy, as examples could vary widely. In this work, we explore a different learning protocol that treats each example as a unique pseudo-task, by reducing the original learning problem to a few-shot meta-learning scenario with the help of a domain-dependent relevance function. When evaluated on the WikiSQL dataset, our approach leads to faster convergence and achieves 1.1%--5.4% absolute accuracy gains over the non-meta-learning counterparts.
+Author{1}{Firstname}#=%=#Po-Sen
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#huang146@illinois.edu
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#Chenglong
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#clwang@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Rishabh
+Author{3}{Lastname}#=%=#Singh
+Author{3}{Email}#=%=#risin@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Wen-tau
+Author{4}{Lastname}#=%=#Yih
+Author{4}{Email}#=%=#scottyih@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{5}{Firstname}#=%=#Xiaodong
+Author{5}{Lastname}#=%=#He
+Author{5}{Email}#=%=#xiaohe@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+
+==========

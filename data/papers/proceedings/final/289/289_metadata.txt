@@ -1,0 +1,62 @@
+SubmissionNumber#=%=#289
+FinalPaperTitle#=%=#Sentiment Analysis: It’s Complicated!
+ShortPaperTitle#=%=#Sentiment Analysis: It’s Complicated!
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kian Kenyon-Dean
+JobTitle#==#
+Organization#==#McGill University - 845 Sherbrooke St W, Montreal, QC H3A 0G4
+Abstract#==#Sentiment analysis is used as a proxy to mea- sure human emotion, where the objective is to categorize text according to some predefined notion of sentiment. Sentiment analysis datasets are typically constructed with gold-standard sentiment labels, assigned based on the results of manual annotations. When working with such annotations, it is common for dataset constructors to discard “noisy” or “controversial” data where there is significant disagreement on the proper label. In datasets constructed for the purpose of Twitter sentiment analysis (TSA), these controversial examples can compose over 30% of the originally annotated data. We argue that the removal of such data is a problematic trend because, when performing real-time sentiment classification of short-text, an automated system cannot know a priori which samples would fall into this category of disputed sentiment. We therefore propose the notion of a “complicated” class of sentiment to categorize such text, and argue that its inclusion in the short-text sentiment analysis framework will improve the quality of automated sentiment analysis systems as they are implemented in real-world settings. We motivate this argument by building and analyzing a new publicly available TSA dataset of over 7,000 tweets annotated with 5x coverage, named MTSA. Our analysis of classifier performance over our dataset offers insights into sentiment analysis dataset and model design, how current techniques would perform in the real world, and how researchers should handle difficult data.
+Author{1}{Firstname}#=%=#Kian
+Author{1}{Lastname}#=%=#Kenyon-Dean
+Author{1}{Email}#=%=#kian.kenyon-dean@mail.mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#Eisha
+Author{2}{Lastname}#=%=#Ahmed
+Author{2}{Email}#=%=#eisha.ahmed@mail.mcgill.ca
+Author{2}{Affiliation}#=%=#McGill University
+Author{3}{Firstname}#=%=#Scott
+Author{3}{Lastname}#=%=#Fujimoto
+Author{3}{Email}#=%=#scott.fujimoto@mail.mcgill.ca
+Author{3}{Affiliation}#=%=#McGill University
+Author{4}{Firstname}#=%=#Jeremy
+Author{4}{Lastname}#=%=#Georges-Filteau
+Author{4}{Email}#=%=#jeremy.georges-filteau@mail.mcgill.ca
+Author{4}{Affiliation}#=%=#McGill University
+Author{5}{Firstname}#=%=#Christopher
+Author{5}{Lastname}#=%=#Glasz
+Author{5}{Email}#=%=#christopher.glasz@mail.mcgill.ca
+Author{5}{Affiliation}#=%=#McGill University
+Author{6}{Firstname}#=%=#Barleen
+Author{6}{Lastname}#=%=#Kaur
+Author{6}{Email}#=%=#barleen.kaur@mail.mcgill.ca
+Author{6}{Affiliation}#=%=#McGill University
+Author{7}{Firstname}#=%=#Auguste
+Author{7}{Lastname}#=%=#Lalande
+Author{7}{Email}#=%=#auguste.lalande@mail.mcgill.ca
+Author{7}{Affiliation}#=%=#McGill University
+Author{8}{Firstname}#=%=#Shruti
+Author{8}{Lastname}#=%=#Bhanderi
+Author{8}{Email}#=%=#shruti.bhanderi@mail.mcgill.ca
+Author{8}{Affiliation}#=%=#McGill University
+Author{9}{Firstname}#=%=#Robert
+Author{9}{Lastname}#=%=#Belfer
+Author{9}{Email}#=%=#robert.belfer@mail.mcgill.ca
+Author{9}{Affiliation}#=%=#McGill University
+Author{10}{Firstname}#=%=#Nirmal
+Author{10}{Lastname}#=%=#Kanagasabai
+Author{10}{Email}#=%=#nirmal.kanagasabai@mail.mcgill.ca
+Author{10}{Affiliation}#=%=#McGill University
+Author{11}{Firstname}#=%=#Roman
+Author{11}{Lastname}#=%=#Sarrazingendron
+Author{11}{Email}#=%=#roman.sarrazingendron@mail.mcgill.ca
+Author{11}{Affiliation}#=%=#McGill University
+Author{12}{Firstname}#=%=#Rohit
+Author{12}{Lastname}#=%=#Verma
+Author{12}{Email}#=%=#rohit.verma@mail.mcgill.ca
+Author{12}{Affiliation}#=%=#McGill University
+Author{13}{Firstname}#=%=#Derek
+Author{13}{Lastname}#=%=#Ruths
+Author{13}{Email}#=%=#derek.ruths@mcgill.ca
+Author{13}{Affiliation}#=%=#McGill University
+
+==========

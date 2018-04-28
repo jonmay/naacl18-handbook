@@ -1,0 +1,61 @@
+SubmissionNumber#=%=#477
+FinalPaperTitle#=%=#DR-BiLSTM: Dependent Reading Bidirectional LSTM for Natural Language Inference
+ShortPaperTitle#=%=#DR-BiLSTM: Dependent Reading Bidirectional LSTM for Natural Language Inference
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Reza Ghaeini
+JobTitle#==#
+Organization#==#Oregon State University, 2500 NW Monroe Ave, Corvallis, OR, 97331
+Philips Research North America, 2 Canal Park, Cambridge, MA, 02141
+Abstract#==#We present a novel deep learning architecture to address the natural language
+inference (NLI) task. Existing approaches mostly rely on simple reading
+mechanisms for independent encoding of the premise and hypothesis. Instead, we
+propose a novel dependent reading bidirectional LSTM network (DR-BiLSTM) to
+efficiently model the relationship between a premise and a hypothesis during
+encoding and inference. We also introduce a sophisticated ensemble strategy to
+combine our proposed models, which noticeably improves final predictions.
+Finally, we demonstrate how the results can be improved further with an
+additional preprocessing step. Our evaluation shows that DR-BiLSTM obtains the
+best single model and ensemble model results achieving the new state-of-the-art
+scores on the Stanford NLI dataset.
+Author{1}{Firstname}#=%=#Reza
+Author{1}{Lastname}#=%=#Ghaeini
+Author{1}{Email}#=%=#ghaeinim@oregonstate.edu
+Author{1}{Affiliation}#=%=#Oregon State University
+Author{2}{Firstname}#=%=#Sadid A.
+Author{2}{Lastname}#=%=#Hasan
+Author{2}{Email}#=%=#sadid.hasan@philips.com
+Author{2}{Affiliation}#=%=#Philips Research North America
+Author{3}{Firstname}#=%=#Vivek
+Author{3}{Lastname}#=%=#Datla
+Author{3}{Email}#=%=#vivek.datla@philips.com
+Author{3}{Affiliation}#=%=#Philips Research North America
+Author{4}{Firstname}#=%=#Joey
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#joey.liu@philips.com
+Author{4}{Affiliation}#=%=#Philips Research North America
+Author{5}{Firstname}#=%=#Kathy
+Author{5}{Lastname}#=%=#Lee
+Author{5}{Email}#=%=#kathy.lee_1@philips.com
+Author{5}{Affiliation}#=%=#Philips Research North America
+Author{6}{Firstname}#=%=#Ashequl
+Author{6}{Lastname}#=%=#Qadir
+Author{6}{Email}#=%=#ashequl.qadir@philips.com
+Author{6}{Affiliation}#=%=#Philips Research North America
+Author{7}{Firstname}#=%=#Yuan
+Author{7}{Lastname}#=%=#Ling
+Author{7}{Email}#=%=#yuan.ling@philips.com
+Author{7}{Affiliation}#=%=#Philips Research North America
+Author{8}{Firstname}#=%=#Aaditya
+Author{8}{Lastname}#=%=#Prakash
+Author{8}{Email}#=%=#aaditya.prakash@philips.com
+Author{8}{Affiliation}#=%=#Philips Research North America
+Author{9}{Firstname}#=%=#Xiaoli
+Author{9}{Lastname}#=%=#Fern
+Author{9}{Email}#=%=#xfern@eecs.oregonstate.edu
+Author{9}{Affiliation}#=%=#Oregon State University
+Author{10}{Firstname}#=%=#Oladimeji
+Author{10}{Lastname}#=%=#Farri
+Author{10}{Email}#=%=#dimeji.farri@philips.com
+Author{10}{Affiliation}#=%=#Philips Research NA
+
+==========

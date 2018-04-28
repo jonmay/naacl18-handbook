@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#778
+FinalPaperTitle#=%=#Neural Machine Translation Decoding with Terminology Constraints
+ShortPaperTitle#=%=#Neural Machine Translation Decoding with Terminology Constraints
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Eva Hasler
+JobTitle#==#
+Organization#==#SDL Research, Cambridge, UK
+Abstract#==#Despite the impressive quality improvements yielded by neural machine
+translation (NMT) systems, controlling their translation output to adhere to
+user-provided terminology constraints remains an open problem. We describe our
+approach to constrained neural decoding based on finite-state machines and
+multi-stack decoding which supports target-side constraints as well as
+constraints with corresponding aligned input text spans. We demonstrate the
+performance of our framework on multiple translation tasks and motivate the
+need for constrained decoding with attentions as a means of reducing
+misplacement and duplication when translating user constraints.
+Author{1}{Firstname}#=%=#Eva
+Author{1}{Lastname}#=%=#Hasler
+Author{1}{Email}#=%=#evahasler@gmail.com
+Author{1}{Affiliation}#=%=#SDL Research
+Author{2}{Firstname}#=%=#Adrià
+Author{2}{Lastname}#=%=#de Gispert
+Author{2}{Email}#=%=#agispert@sdl.com
+Author{2}{Affiliation}#=%=#SDL Research
+Author{3}{Firstname}#=%=#Gonzalo
+Author{3}{Lastname}#=%=#Iglesias
+Author{3}{Email}#=%=#gonzalo.iglesias.iglesias@gmail.com
+Author{3}{Affiliation}#=%=#SDL
+Author{4}{Firstname}#=%=#Bill
+Author{4}{Lastname}#=%=#Byrne
+Author{4}{Email}#=%=#bill.byrne@eng.cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+
+==========

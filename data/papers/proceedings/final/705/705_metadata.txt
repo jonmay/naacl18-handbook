@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#705
+FinalPaperTitle#=%=#Leveraging Context Information for Natural Question Generation
+ShortPaperTitle#=%=#Leveraging Context Information for Natural Question Generation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Linfeng Song
+JobTitle#==#
+Organization#==#University of Rochester, Rochester, NY, 14627
+Abstract#==#The task of natural question generation is to generate a corresponding question given the input passage (fact) and answer.
+It is useful for enlarging the training set of QA systems.
+Previous work has adopted sequence-to-sequence models that take a passage with an additional bit to indicate answer position as input.
+However, they do not explicitly model the information between answer and other context within the passage.
+We propose a model that matches the answer with the passage before generating the question. 
+Experiments show that our model outperforms the existing state of the art using rich features.
+Author{1}{Firstname}#=%=#Linfeng
+Author{1}{Lastname}#=%=#Song
+Author{1}{Email}#=%=#freesunshine0316@gmail.com
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#Zhiguo
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#zgw.tomorrow@gmail.com
+Author{2}{Affiliation}#=%=#IBM Watson Research Center
+Author{3}{Firstname}#=%=#Wael
+Author{3}{Lastname}#=%=#Hamza
+Author{3}{Email}#=%=#whamza@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM Watson Research Center
+Author{4}{Firstname}#=%=#Yue
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{4}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{5}{Firstname}#=%=#Daniel
+Author{5}{Lastname}#=%=#Gildea
+Author{5}{Email}#=%=#gildea@cs.rochester.edu
+Author{5}{Affiliation}#=%=#University of Rochester
+
+==========

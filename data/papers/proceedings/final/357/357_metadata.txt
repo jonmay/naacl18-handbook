@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#357
+FinalPaperTitle#=%=#Polyglot Semantic Parsing in APIs
+ShortPaperTitle#=%=#Polyglot Semantic Parsing in APIs
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kyle Richardson
+JobTitle#==#
+Organization#==#IMS,University of Stuttgart
+Pfaffenwaldring 5b, 
+Stuttgart,DE
+Abstract#==#Traditional approaches to semantic parsing (SP) work by training individual
+models for each available parallel dataset of text-meaning pairs. In this
+paper, we explore the idea of polyglot semantic translation, or learning
+semantic parsing models that are trained on multiple datasets and natural
+languages.  In particular, we focus on translating text to code signature
+representations using the software component datasets of Richardson and Kuhn
+(2017b,a). The advantage of such models is that they can be used for parsing  a
+wide variety of input natural languages and output programming languages, or
+mixed input languages, using a single unified model. To facilitate modeling of
+this type, we develop a novel graph-based decoding framework that achieves
+state-of-the-art performance on the above datasets, and apply this method to
+two other benchmark SP tasks.
+Author{1}{Firstname}#=%=#Kyle
+Author{1}{Lastname}#=%=#Richardson
+Author{1}{Email}#=%=#kyle@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Jonathan
+Author{2}{Lastname}#=%=#Berant
+Author{2}{Email}#=%=#joberant@cs.tau.ac.il
+Author{2}{Affiliation}#=%=#Tel Aviv University
+Author{3}{Firstname}#=%=#Jonas
+Author{3}{Lastname}#=%=#Kuhn
+Author{3}{Email}#=%=#jonas@ims.uni-stuttgart.de
+Author{3}{Affiliation}#=%=#Stuttgart University
+
+==========

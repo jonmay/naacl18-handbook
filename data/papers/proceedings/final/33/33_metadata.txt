@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#A Hierarchical Latent Structure for Variational Conversation Modeling
+ShortPaperTitle#=%=#A Hierarchical Latent Structure for Variational Conversation Modeling
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yookoon Park
+JobTitle#==#
+Organization#==#Seoul National University. Seoul, South Korea.
+Abstract#==#Variational autoencoders (VAE) combined with hierarchical RNNs have emerged as a powerful framework for conversation modeling. However, they suffer from the notorious degeneration problem, where the decoders learn to ignore latent variables and reduce
+to vanilla RNNs. We empirically show that this degeneracy occurs mostly due to two reasons. First, the expressive power of hierarchical RNN decoders is often high enough to model the data using only its decoding distributions without relying on the latent variables. Second, the conditional VAE structure whose generation process is conditioned on a context, makes the range of training targets very sparse; that is, the RNN decoders can easily overfit to the training data ignoring the latent variables. To solve the degeneration problem, we propose a novel model named Variational Hierarchical Conversation RNNs (VHCR), involving two key ideas of (1) using a hierarchical
+structure of latent variables, and (2) exploiting an utterance drop regularization. With evaluations on two datasets of Cornell Movie Dialog and Ubuntu Dialog Corpus, we show that our VHCR successfully utilizes latent variables and outperforms state-of-the-art models for conversation generation. Moreover, it can perform several new utterance control tasks, thanks to its hierarchical latent structure.
+Author{1}{Firstname}#=%=#Yookoon
+Author{1}{Lastname}#=%=#Park
+Author{1}{Email}#=%=#yookoonpark@vision.snu.ac.kr
+Author{1}{Affiliation}#=%=#Seoul National University
+Author{2}{Firstname}#=%=#Jaemin
+Author{2}{Lastname}#=%=#Cho
+Author{2}{Email}#=%=#jaemin895@snu.ac.kr
+Author{2}{Affiliation}#=%=#Seoul National University
+Author{3}{Firstname}#=%=#Gunhee
+Author{3}{Lastname}#=%=#Kim
+Author{3}{Email}#=%=#gunhee@snu.ac.kr
+Author{3}{Affiliation}#=%=#Seoul National University
+
+==========

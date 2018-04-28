@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#437
+FinalPaperTitle#=%=#Noise-Robust Morphological Disambiguation for Dialectal Arabic
+ShortPaperTitle#=%=#Noise-Robust Morphological Disambiguation for Dialectal Arabic
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Nasser Zalmout
+JobTitle#==#Graduate Research Assistant
+Organization#==#NYU Abu Dhabi, Saadiyat Island, Abu Dhabi, UAE
+Abstract#==#User-generated text tends to be noisy with many lexical and orthographic inconsistencies, making natural language processing (NLP) tasks more challenging. The challenging nature of noisy text processing is exacerbated for dialectal content, where in addition to spelling and lexical differences, dialectal text is characterized with morpho-syntactic and phonetic variations. These issues increase sparsity in NLP models and reduce accuracy. We present a neural morphological tagging and disambiguation model for Egyptian Arabic, with various extensions to handle noisy and inconsistent content. Our models achieve about 5% relative error reduction (1.1% absolute improvement) for full morphological analysis, and around 22% relative error reduction (1.8% absolute improvement) for part-of-speech tagging, over a state-of-the-art baseline.
+Author{1}{Firstname}#=%=#Nasser
+Author{1}{Lastname}#=%=#Zalmout
+Author{1}{Email}#=%=#nasser.zalmout@gmail.com
+Author{1}{Affiliation}#=%=#NYU Abu Dhabi
+Author{2}{Firstname}#=%=#Alexander
+Author{2}{Lastname}#=%=#Erdmann
+Author{2}{Email}#=%=#ae1541@nyu.edu
+Author{2}{Affiliation}#=%=#Ohio State University
+Author{3}{Firstname}#=%=#Nizar
+Author{3}{Lastname}#=%=#Habash
+Author{3}{Email}#=%=#nizar.habash@nyu.edu
+Author{3}{Affiliation}#=%=#New York University Abu Dhabi
+
+==========
