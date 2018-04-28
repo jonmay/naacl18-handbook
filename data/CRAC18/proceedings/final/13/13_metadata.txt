@@ -1,0 +1,79 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Anaphora Resolution with the ARRAU Corpus
+ShortPaperTitle#=%=#Anaphora Resolution with the ARRAU Corpus
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Massimo Poesio
+JobTitle#==#
+Organization#==#Queen Mary University of London
+Abstract#==#The ARRAU corpus is an anaphorically annotated corpus of English
+  providing rich linguistic information about anaphora
+  resolution.
+  The most distinctive feature of the corpus is
+  the annotation of a wide range of anaphoric relations,
+  including bridging references  and discourse deixis in addition to
+  identity (coreference).
+  Other distinctive  features include
+  treating all NPs as markables, including non-referring NPs;
+  and the annotation of a variety of morphosyntactic and semantic
+  mention and entity attributes, including
+  the genericity status of the entities referred to by markables.
+  The corpus however has not been extensively used for anaphora resolution
+  research so far.
+  In this paper,
+  we discuss three datasets extracted
+  from the ARRAU  corpus to support the three
+  subtasks of the CRAC 2018 Shared Task--identity anaphora resolution over
+  ARRAU-style markables,
+  bridging references resolution,
+  and discourse deixis;
+  the evaluation scripts assessing system performance on those
+  datasets;
+  and preliminary results on these
+  three tasks that may serve as baseline for subsequent research in
+  these phenomena.
+Author{1}{Firstname}#=%=#Massimo
+Author{1}{Lastname}#=%=#Poesio
+Author{1}{Email}#=%=#m.poesio@qmul.ac.uk
+Author{1}{Affiliation}#=%=#Queen Mary University of London
+Author{2}{Firstname}#=%=#Yulia
+Author{2}{Lastname}#=%=#Grishina
+Author{2}{Email}#=%=#grishina@uni-potsdam.de
+Author{2}{Affiliation}#=%=#University of Potsdam
+Author{3}{Firstname}#=%=#Varada
+Author{3}{Lastname}#=%=#Kolhatkar
+Author{3}{Email}#=%=#varada.kolhatkar@gmail.com
+Author{3}{Affiliation}#=%=#Simon Fraser University
+Author{4}{Firstname}#=%=#Nafise
+Author{4}{Lastname}#=%=#Moosavi
+Author{4}{Email}#=%=#Nafise.Moosavi@h-its.org
+Author{4}{Affiliation}#=%=#HITS, Heidelberg
+Author{5}{Firstname}#=%=#Ina
+Author{5}{Lastname}#=%=#Roesiger
+Author{5}{Email}#=%=#roesigia@ims.uni-stuttgart.de
+Author{5}{Affiliation}#=%=#University of Stuttgart
+Author{6}{Firstname}#=%=#Adam
+Author{6}{Lastname}#=%=#Roussel
+Author{6}{Email}#=%=#roussel@linguistics.rub.de
+Author{6}{Affiliation}#=%=#Ruhr Universitaet Bochum
+Author{7}{Firstname}#=%=#Fabian
+Author{7}{Lastname}#=%=#Simonjetz
+Author{7}{Email}#=%=#fabian.simonjetz@rub.de
+Author{7}{Affiliation}#=%=#Ruhr-Universität Bochum
+Author{8}{Firstname}#=%=#Alexandra
+Author{8}{Lastname}#=%=#Uma
+Author{8}{Email}#=%=#a.n.uma@qmul.ac.uk
+Author{8}{Affiliation}#=%=#Queen Mary University of London
+Author{9}{Firstname}#=%=#Olga
+Author{9}{Lastname}#=%=#Uryupina
+Author{9}{Email}#=%=#uryupina@gmail.com
+Author{9}{Affiliation}#=%=#University of Trento
+Author{10}{Firstname}#=%=#Juntao
+Author{10}{Lastname}#=%=#Yu
+Author{10}{Email}#=%=#juntao.cn@gmail.com
+Author{10}{Affiliation}#=%=#Queen Mary University of London
+Author{11}{Firstname}#=%=#Heike
+Author{11}{Lastname}#=%=#Zinsmeister
+Author{11}{Email}#=%=#heike.zinsmeister@uni-hamburg.de
+Author{11}{Affiliation}#=%=#Universität Hamburg
+
+==========

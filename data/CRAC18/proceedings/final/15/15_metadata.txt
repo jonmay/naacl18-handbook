@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Anaphora Resolution for Twitter Conversations: An Exploratory Study
+ShortPaperTitle#=%=#Anaphora Resolution for Twitter Conversations: An Exploratory Study
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Berfin Aktaş
+JobTitle#==#
+Organization#==#University of Potsdam, Karl-Liebknecht-Straße 24-25, 14476 Potsdam, Germany
+Abstract#==#We present a corpus study of pronominal anaphora on Twitter conversations. After outlining the specific features of this genre, with respect to reference resolution, we explain the construction of our corpus and the annotation steps. From this we derive a list of phenomena that need to be considered when performing anaphora resolution on this type of data. Finally, we test the performance of an off-the-shelf resolution system, and provide some qualitative error analysis.
+Author{1}{Firstname}#=%=#Berfin
+Author{1}{Lastname}#=%=#Aktaş
+Author{1}{Email}#=%=#berfinaktas@uni-potsdam.de
+Author{1}{Affiliation}#=%=#University of Potsdam
+Author{2}{Firstname}#=%=#Tatjana
+Author{2}{Lastname}#=%=#Scheffler
+Author{2}{Email}#=%=#tatjana.scheffler@uni-potsdam.de
+Author{2}{Affiliation}#=%=#University of Potsdam
+Author{3}{Firstname}#=%=#Manfred
+Author{3}{Lastname}#=%=#Stede
+Author{3}{Email}#=%=#stede@uni-potsdam.de
+Author{3}{Affiliation}#=%=#University of Potsdam
+
+==========

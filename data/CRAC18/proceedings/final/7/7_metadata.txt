@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Rule- and Learning-based Methods for Bridging Resolution in the ARRAU Corpus
+ShortPaperTitle#=%=#Rule- and Learning-based Methods for Bridging Resolution in the ARRAU Corpus
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ina Rösiger
+JobTitle#==#
+Organization#==#Institute for Natural Language Processing, University of Stuttgart
+Pfaffenwaldring 5b, 70569 Stuttgart, Germany
+Abstract#==#We present two systems for bridging resolution, which we submitted to the CRAC shared task on bridging anaphora resolution in the ARRAU corpus (track 2): a rule-based approach following Hou et al. 2014 and a learning-based approach. The re-implementation of Hou et al. 2014 achieves very poor performance when being applied to ARRAU. We found that the reasons for this lie in the different bridging annotations: whereas the rule-based system suggests many referential bridging pairs, ARRAU contains mostly lexical bridging. We describe the differences between these two types of bridging and adapt the rule-based approach to be able to handle lexical bridging. The modified rule-based approach achieves reasonable performance on all (sub)-tasks and outperforms a simple learning-based approach.
+Author{1}{Firstname}#=%=#Ina
+Author{1}{Lastname}#=%=#Roesiger
+Author{1}{Email}#=%=#roesigia@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#University of Stuttgart
+
+==========

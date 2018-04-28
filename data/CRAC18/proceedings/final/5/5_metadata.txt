@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Modeling Brain Activity Associated with Pronoun Resolution in English and Chinese
+ShortPaperTitle#=%=#Modeling Brain Activity Associated with Pronoun Resolution in English and Chinese
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jixing Li
+JobTitle#==#
+Organization#==#Cornell University, Ithaca, New York, 14850
+Abstract#==#Typological differences between English and Chinese suggest stronger reliance on salience of the antecedent during pronoun resolution in Chinese. We examined this hypothesis by correlating a difficulty measure of pronoun resolution derived by the activation-based ACT-R model with the brain activity of English and Chinese participants listening to a same audiobook during fMRI recording. The ACT-R model predicts higher overall difficulty for English speakers, which is supported at the brain level in left Broca's area. More generally, it confirms that computational modeling approach is able to dissociate different dimensions that are involved in the complex process of pronoun resolution in the brain.
+Author{1}{Firstname}#=%=#Jixing
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#jl2939@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Murielle
+Author{2}{Lastname}#=%=#Fabre
+Author{2}{Email}#=%=#mf684@cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+Author{3}{Firstname}#=%=#Wen-Ming
+Author{3}{Lastname}#=%=#Luh
+Author{3}{Email}#=%=#wl358@cornell.edu
+Author{3}{Affiliation}#=%=#Cornell University
+Author{4}{Firstname}#=%=#John
+Author{4}{Lastname}#=%=#Hale
+Author{4}{Email}#=%=#jthale@cornell.edu
+Author{4}{Affiliation}#=%=#Cornell University and Google DeepMind
+
+==========

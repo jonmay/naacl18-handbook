@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Event versus entity co-reference: Effects of context and form of referring expression
+ShortPaperTitle#=%=#Event versus entity co-reference: Effects of context and form of referring expression
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sharid Loáiciga
+JobTitle#==#
+Organization#==#University of Gothenburg, Sweden
+Abstract#==#Anaphora resolution systems require both an enumeration of possible candidate antecedents and an identification process of the antecedent.  This paper focuses on (i) the impact of the form of referring expression on entity-vs-event preferences and (ii) how properties of the passage interact with referential form. Two crowd-sourced story-continuation experiments were conducted, using constructed and naturally-occurring passages, to see how participants interpret \textit{It} and \textit{This} pronouns following a context sentence that makes available event and entity referents.  Our participants show a strong, but not categorical, bias to use \textit{This} to refer to events and \textit{It} to refer to entities.  However, these preferences vary with passage characteristics such as verb class (a proxy in our constructed examples for the number of explicit and implicit entities) and more subtle author intentions regarding subsequent re-mention (the original event-vs-entity re-mention of our corpus items).
+Author{1}{Firstname}#=%=#Sharid
+Author{1}{Lastname}#=%=#Loáiciga
+Author{1}{Email}#=%=#sharid.loaiciga@gu.se
+Author{1}{Affiliation}#=%=#Gothenburg University
+Author{2}{Firstname}#=%=#Luca
+Author{2}{Lastname}#=%=#Bevacqua
+Author{2}{Email}#=%=#s1668701@sms.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Hannah
+Author{3}{Lastname}#=%=#Rohde
+Author{3}{Email}#=%=#hr@hannahrohde.org
+Author{3}{Affiliation}#=%=#University of Edinburgh
+Author{4}{Firstname}#=%=#Christian
+Author{4}{Lastname}#=%=#Hardmeier
+Author{4}{Email}#=%=#christian.hardmeier@lingfil.uu.se
+Author{4}{Affiliation}#=%=#Uppsala universitet
+
+==========

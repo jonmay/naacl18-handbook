@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#A Fine-grained Large-scale Analysis of Coreference Projection
+ShortPaperTitle#=%=#A Fine-grained Large-scale Analysis of Coreference Projection
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Michal Novák
+JobTitle#==#
+Organization#==#Charles University
+Faculty of Mathematics and Physics
+Institute of Formal and Applied Linguistics
+Malostranské náměstí 25
+118 00 Praha
+Czech Republic
+Abstract#==#We perform a fine-grained large-scale analysis of coreference projection. By projecting gold coreference from Czech to English and vice versa on Prague Czech-English Dependency Treebank 2.0 Coref, we set an upper bound of a proposed projection approach for these two languages. We undertake a detailed thorough analysis that combines the analysis of projection's subtasks with analysis of performance on individual mention types. The findings are accompanied with examples from the corpus.
+Author{1}{Firstname}#=%=#Michal
+Author{1}{Lastname}#=%=#Novák
+Author{1}{Email}#=%=#mnovak@ufal.mff.cuni.cz
+Author{1}{Affiliation}#=%=#Charles University in Prague, Faculty of Mathematics and Physics
+
+==========

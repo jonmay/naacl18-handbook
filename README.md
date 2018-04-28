@@ -33,27 +33,27 @@ NAACL 2018 handbook can be compiled:
 
 # current proceedings pull report
 ```
-tacl not yet uploaded; skipping
-papers not yet uploaded; skipping
-getting naacl-2018-industrial-track
-naacl2018-SRW not yet uploaded; skipping
-tutorials not yet uploaded; skipping
-naacl2018-demos not yet uploaded; skipping
-winlp18 not yet uploaded; skipping
-getting SemEval-2018
-starsem2018 not yet uploaded; skipping
+**tacl not yet uploaded; skipping**
+**papers not yet uploaded; skipping**
+No change to naacl-2018-industrial-track; skipping
+**naacl2018-SRW not yet uploaded; skipping**
+**tutorials not yet uploaded; skipping**
+**naacl2018-demos not yet uploaded; skipping**
+**winlp18 not yet uploaded; skipping**
+No change to SemEval-2018; skipping
+**starsem2018 not yet uploaded; skipping**
 getting Gen-Deep18
 getting Education-NLP18
-Ethics-NLP18 not yet uploaded; skipping
-getting CLPsych18 -- ERROR IN TAR
+**Ethics-NLP18 not yet uploaded; skipping**
+**CLPsych18 not yet uploaded; skipping**
 getting SemBEaR18
-Style-Var18 not yet uploaded; skipping
-getting Story-NLP18
-getting SCLeM18
+**Style-Var18 not yet uploaded; skipping**
+No change to Story-NLP18; skipping
+No change to SCLeM18; skipping
 getting TextGraphs-12
 getting Fig-Lang18
 getting PEOPLES18
-CRAC18 not yet uploaded; skipping
+getting CRAC18
 SpLU18 not yet uploaded; skipping
 ```
 

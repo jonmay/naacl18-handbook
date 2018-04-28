@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Towards Bridging Resolution in German: Data Analysis and Rule-based Experiments
+ShortPaperTitle#=%=#Towards Bridging Resolution in German
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Janis Pagel
+JobTitle#==#
+Organization#==#Universität Stuttgart
+Institut für Maschinelle Sprachverarbeitung
+Pfaffenwaldring 5 b
+D-70569 Stuttgart
+Abstract#==#Bridging resolution is the task of recognising bridging anaphors and linking them to their antecedents. While there is some work
+on bridging resolution for English, there is
+only little work for German. We present two
+datasets which contain bridging annotations,
+namely DIRNDL and GRAIN, and compare
+the performance of a rule-based system with
+a simple baseline approach on these two corpora. The performance for full bridging resolution ranges between an F1 score of 13.6%
+for DIRNDL and 11.8% for GRAIN. An analysis using oracle lists suggests that the system could, to a certain extent, benefit from ranking
+and re-ranking antecedent candidates. Furthermore, we investigate the importance of single features and show that the features used in our
+work seem promising for future bridging resolution approaches.
+Author{1}{Firstname}#=%=#Janis
+Author{1}{Lastname}#=%=#Pagel
+Author{1}{Email}#=%=#pageljs@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Ina
+Author{2}{Lastname}#=%=#Roesiger
+Author{2}{Email}#=%=#roesigia@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#University of Stuttgart
+
+==========

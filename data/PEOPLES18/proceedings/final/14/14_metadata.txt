@@ -4,7 +4,7 @@ ShortPaperTitle#=%=#Predicting Authorship and Author Traits from Keystroke Dynam
 NumberOfPages#=%=#7
 CopyrightSigned#=%=#Barbara Plank
 JobTitle#==#
-Organization#==#University of Groningen / IT University of Copenhagen
+Organization#==#IT University of Copenhagen
 Abstract#==#Written text transmits a good deal of nonverbal information related to the author’s identity
 and social factors, such as age, gender and personality. However, it is less known to
 what extent behavioral biometric traces transmit such information. We use typist data to

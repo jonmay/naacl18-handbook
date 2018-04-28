@@ -1,0 +1,21 @@
+* Wednesday June 6 2018
+= 09:00--10:30 Session 1
+! 09:00--09:10 Welcome %by Massimo Poesio, Vincent Ng, Maciej Ogrodniczuk
+! 09:10--10:00 Invited Talk %by Ana Marasovic
+15 10:00--10:30  # Anaphora Resolution for Twitter Conversations: An Exploratory Study
+= 10:30--11:00 Break
+= 11:00--12:30 Session 2: Shared Task, Plural Reference
+13 11:00--11:30  # Anaphora Resolution with the ARRAU Corpus
+7 11:30--12:00  # Rule- and Learning-based Methods for Bridging Resolution in the ARRAU Corpus
+1 12:00--12:30  # A Predictive Model for Notional Anaphora in English
+= 12:30--14:00 Lunch
+= 14:00--15:30 Session 3: Bridging, Discourse deixis, Anaphora in German,  Corpus annotation 1
+8 14:00--14:20  # Integrating Predictions from Neural-Network Relation Classifiers into Coreference and Bridging Resolution
+9 14:20--14:50  # Towards Bridging Resolution in German: Data Analysis and Rule-based Experiments
+11 14:50--15:10  # Detecting and Resolving Shell Nouns in German
+3 15:10--15:30  # PAWS: A Multi-lingual Parallel Treebank with Anaphoric Relations
+= 15:30--16:00 Break
+= 16:00--17:30 Session 4: Corpus Annotation 2, Cognitive Models
+6 16:00--16:30  # A Fine-grained Large-scale Analysis of Coreference Projection
+5 16:30--17:00  # Modeling Brain Activity Associated with Pronoun Resolution in English and Chinese
+10 17:00--17:30  # Event versus entity co-reference: Effects of context and form of referring expression
