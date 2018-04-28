@@ -5,7 +5,7 @@ naacl2018-SRW|https://www.softconf.com/naacl2018/naacl2018-SRW/pub/aclpub/procee
 tutorials|https://www.softconf.com/naacl2018/tutorials/pub/aclpub/proceedings.tgz|foo
 naacl2018-demos|https://www.softconf.com/naacl2018/naacl2018-demos/pub/aclpub/proceedings.tgz|foo
 winlp18|https://www.softconf.com/naacl2018/winlp18/pub/aclpub/proceedings.tgz|foo
-SemEval-2018|https://www.softconf.com/naacl2018/SemEval-2018/pub/aclpub/proceedings.tgz|"19a48d7-94f8811-56ad8b510ec27"
+SemEval-2018|https://www.softconf.com/naacl2018/SemEval-2018/pub/aclpub/proceedings.tgz|"19a54f7-94f94e5-56aeceabff3bd"
 starsem2018|https://www.softconf.com/naacl2018/starsem2018/pub/aclpub/proceedings.tgz|foo
 Gen-Deep18|https://www.softconf.com/naacl2018/Gen-Deep18/pub/aclpub/proceedings.tgz|"1ca388b-260661-56adb1fe5ceac"
 Education-NLP18|https://www.softconf.com/naacl2018/Education-NLP18/pub/aclpub/proceedings.tgz|"1c03ecf-3b1971f-56adc59f3891a"
