@@ -68,7 +68,11 @@ for line in sys.stdin:
         sessions[session_name] = Session(line, (day, date, year))
 
     elif line.startswith('+') or line.startswith('!'):
+        print ("Unusual line is "+line)
         timerange, title = line[2:].split(' ', 1)
+        print ("got timerange ["+timerange+"] title "+title)
+        if len(timerange) == 0:
+            timerange = time_range
         title, keys = extract_keywords(title)
         if keys.has_key('by'):
             title = "%s (%s)" % (title.strip(), keys['by'])
@@ -82,12 +86,13 @@ for line in sys.stdin:
 for session in sorted(sessions.keys()):
     day, date, year = sessions[session].date
     timerange = sessions[session].time
-#    print >> sys.stderr, "SESSION", session, day, date, year, timerange
+    print >> sys.stderr, "SESSION", session, day, date, year, timerange
     if not schedule[(day, date, year)].has_key(timerange):
         schedule[(day, date, year)][timerange] = []
     schedule[(day, date, year)][timerange].append(sessions[session])
 
 def sort_times(a, b):
+    print >> sys.stderr, "comparing {} and {}".format(a,b)
     ahour, amin = a[0].split('--')[0].split(':')
     bhour, bmin = b[0].split('--')[0].split(':')
     if ahour == bhour:
@@ -111,6 +116,7 @@ for date in dates:
     print >>out, '\\section*{Overview}'
     print >>out, '\\renewcommand{\\arraystretch}{1.2}'
     print >>out, '\\begin{SingleTrackSchedule}'
+    print >> sys.stderr, "{} items".format(len(schedule[date]))
     for timerange, events in sorted(schedule[date].iteritems(), cmp=sort_times):
         start, stop = timerange.split('--')
 

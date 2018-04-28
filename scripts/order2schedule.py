@@ -136,7 +136,8 @@ for date in dates:
         
         parallel_sessions = filter(lambda x: isinstance(x, Session) and not x.poster, events)
         poster_sessions = filter(lambda x: isinstance(x, Session) and x.poster, events)
-        print("{} parallel sessions
+        print("{} parallel sessions".format(len(parallel_sessions)))
+        print("{} poster sessions".format(len(poster_sessions)))
         # PARALLEL SESSIONS
 
         # Print the Session overview (single-page at-a-glance grid)
