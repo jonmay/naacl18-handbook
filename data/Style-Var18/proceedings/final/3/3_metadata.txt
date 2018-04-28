@@ -1,0 +1,16 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Stylistic variation over 200 years of court proceedings according to gender and social class
+ShortPaperTitle#=%=#Stylistic variation over 200 years of court proceedings according to gender and social class
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Stefania Degaetano-Ortlieb
+JobTitle#==#
+Organization#==#Saarland University
+Campus A2.2
+66123 Saarbrücken
+Abstract#==#We present an approach to detect stylistic variation across social variables (here:\ gender and social class), considering also diachronic change in language use. For detection of stylistic variation, we use relative entropy, measuring the difference between probability distributions at different linguistic levels (here:\ lexis and grammar). In addition, by relative entropy, we can determine which linguistic units are related to stylistic variation.
+Author{1}{Firstname}#=%=#Stefania
+Author{1}{Lastname}#=%=#Degaetano-Ortlieb
+Author{1}{Email}#=%=#s.degaetano@mx.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+
+==========

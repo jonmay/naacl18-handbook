@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import re
+import sys
 from csv import DictReader
 
 def extract_keywords(title):
@@ -67,7 +68,9 @@ class Session:
             self.desc = self.name[colonpos+2:]
             self.name = self.name[:colonpos]
             self.num = self.name.split(' ')[-1][:-1]
-        # print >> sys.stderr, "LINE %s NAME %s DESC %s" % (line, self.name, self.desc)
+            print >> sys.stderr, "LINE %s NAME %s DESC %s NUM %s" % (line, self.name, self.desc, self.num)
+        else:
+            print >> sys.stderr, "LINE %s NAME %s" % (line, self.name)
 
         self.poster = False
         l = self.name.lower()

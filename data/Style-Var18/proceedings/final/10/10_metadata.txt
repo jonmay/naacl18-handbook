@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Cross-corpus Native Language Identification via Statistical Embedding
+ShortPaperTitle#=%=#Cross-corpus Native Language Identification via Statistical Embedding
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Julian Brooke
+JobTitle#==#
+Organization#==#Thomson Reuters
+120 Bremner Blvd, 
+Toronto, ON
+Canada
+Abstract#==#In this paper, we approach the task of native language identification in a realistic cross-corpus scenario where a model is trained with available data and has to predict the native language from data of a different corpus. The motivation behind this study is to investigate native language identification in the Australian academic scenario where a majority of students come from China, Indonesia, and Arabic-speaking nations.  We have proposed a statistical embedding representation reporting a significant improvement over common single-layer approaches of the state of the art, identifying Chinese, Arabic, and Indonesian in a cross-corpus scenario. The proposed approach was shown to be competitive even when the data is scarce and imbalanced.
+Author{1}{Firstname}#=%=#Francisco
+Author{1}{Lastname}#=%=#Rangel
+Author{1}{Email}#=%=#kico.rangel@gmail.com
+Author{1}{Affiliation}#=%=#Universitat Politècnica de València
+Author{2}{Firstname}#=%=#Paolo
+Author{2}{Lastname}#=%=#Rosso
+Author{2}{Email}#=%=#prosso@dsic.upv.es
+Author{2}{Affiliation}#=%=#Universitat Politècnica de València
+Author{3}{Firstname}#=%=#Julian
+Author{3}{Lastname}#=%=#Brooke
+Author{3}{Email}#=%=#julian.brooke@gmail.com
+Author{3}{Affiliation}#=%=#Thomson Reuters
+Author{4}{Firstname}#=%=#Alexandra
+Author{4}{Lastname}#=%=#Uitdenbogerd
+Author{4}{Email}#=%=#sandrau@rmit.edu.au
+Author{4}{Affiliation}#=%=#RMIT University
+
+==========

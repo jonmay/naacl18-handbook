@@ -1,0 +1,20 @@
+# Edit this file: 
+# reorder the lines that correspond to papers 
+#   and modify time slot, e.g. 9:00--9:30 
+# add lines for 
+#   start of new day, format: * DAY
+#   session headline, format: = HEADLINE 
+#   additional items, format: + TIME DESCRIPTION
+* Tuesday, June 5, 2018
++ 9:15--9:30 Opening Remarks
++ 9:30--10:30 Invited Talk by James W. Pennebaker: Measuring Linguistic Variation with Function Words
+= 10:30--11:00 Break
+3 11:00--11:30 # Stylistic Variation over 200 Years of Court Proceedings According to Gender and Social Class
+9 11:30--12:00 # Stylistic Variation in Social Media Part-of-Speech Tagging
+5 12:00--12:30 # Detecting Syntactic Features of Translated Chinese
+= 12:30--14:00 Lunch
++ 14:00--15:00 Invited Talk by Rada Mihalcea: What Men Say, What Women Hear: Using Semantics To Make Better Sense of Gender Differences in Social Media
+11 15:00--15:30 # Evaluating Creative Language Generation: The Case of Rap Lyrics Ghostwriting
+= 15:30--16:00 Break
++ 16:00--17:00 Invited Talk by Barbara Plank: Author Profiling from Text and Beyond
+10 17:00--17:30 # Cross-corpus Native Language Identification via Statistical Embedding

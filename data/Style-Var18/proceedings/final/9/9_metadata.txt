@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Stylistic Variation in Social Media Part-of-Speech Tagging
+ShortPaperTitle#=%=#Stylistic Variation in Social Media Part-of-Speech Tagging
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Murali Raghu Babu Balusu
+JobTitle#==#
+Organization#==#School of Interactive Computing,
+Georgia Institute of Technology,
+Atlanta, GA, USA.
+Abstract#==#Social media features substantial stylistic variation, raising new challenges for syntactic analysis of online writing. However, this variation is often aligned with author attributes such as age, gender, and geography, as well as more readily-available social network metadata. In this paper, we report new evidence on the link between language and social networks in the task of part-of-speech tagging. We find that tagger error rates are correlated with network structure, with high accuracy in some parts of the network, and lower accuracy elsewhere. As a result, tagger accuracy depends on training from a balanced sample of the network, rather than training on texts from a narrow subcommunity. We also describe our attempts to add robustness to stylistic variation, by building a mixture-of-experts model in which each expert is associated with a region of the social network. While prior work found that similar approaches yield performance improvements in sentiment analysis and entity linking, we were unable to obtain performance improvements in part-of-speech tagging, despite strong evidence for the link between part-of-speech error rates and social network structure.
+Author{1}{Firstname}#=%=#Murali Raghu Babu
+Author{1}{Lastname}#=%=#Balusu
+Author{1}{Email}#=%=#muraliraghubabu1994@gmail.com
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Taha
+Author{2}{Lastname}#=%=#Merghani
+Author{2}{Email}#=%=#tahayagoub98.3@gmail.com
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{3}{Firstname}#=%=#Jacob
+Author{3}{Lastname}#=%=#Eisenstein
+Author{3}{Email}#=%=#jacobe@gmail.com
+Author{3}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Evaluating Creative Language Generation: The Case of Rap Lyric Ghostwriting
+ShortPaperTitle#=%=#Evaluating Creative Language Generation: The Case of Rap Lyric Ghostwriting
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Peter Potash
+JobTitle#==#
+Organization#==#University of Massachusetts Lowell
+1 University Ave
+Lowell, MA 01854
+Abstract#==#Language generation tasks that seek to mimic human ability to use language creatively are difficult to evaluate, since one must consider creativity, style, and other non-trivial aspects of the generated text. The goal of this paper is to develop evaluations methods for one such task, ghostwriting of rap lyrics, and to provide an explicit, quantifiable foundation for the goals and future directions for this task. Ghostwriting must produce text that is similar in style to the emulated artist, yet distinct in content. We develop a novel evaluation methodology that addresses several complementary aspects of this task, and illustrate how such evaluation can be used to meaning fully analyze system performance. We provide a corpus of lyrics for 13 rap artists, annotated for stylistic similarity, which allows us to assess the feasibility of manual evaluation for generated verse.
+Author{1}{Firstname}#=%=#Peter
+Author{1}{Lastname}#=%=#Potash
+Author{1}{Email}#=%=#ppotash@cs.uml.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Lowell
+Author{2}{Firstname}#=%=#Alexey
+Author{2}{Lastname}#=%=#Romanov
+Author{2}{Email}#=%=#jgc128@outlook.com
+Author{2}{Affiliation}#=%=#UMass Lowell
+Author{3}{Firstname}#=%=#Anna
+Author{3}{Lastname}#=%=#Rumshisky
+Author{3}{Email}#=%=#arumshisky@gmail.com
+Author{3}{Affiliation}#=%=#University of Massachusetts Lowell
+
+==========

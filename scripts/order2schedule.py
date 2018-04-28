@@ -61,7 +61,7 @@ for file in args.order_files:
     for line in open(file):
         line = line.rstrip()
 
-        print "LINE", line
+        #print "LINE", line
 
         if line.startswith('*'):
             # This sets the day
@@ -99,7 +99,7 @@ for file in args.order_files:
 for session in sorted(sessions.keys()):
     day, date, year = sessions[session].date
     timerange = sessions[session].time
-#    print >> sys.stderr, "SESSION", session, day, date, year, timerange
+    print >> sys.stderr, "SESSION", session, day, date, year, timerange
     if not schedule[(day, date, year)].has_key(timerange):
         schedule[(day, date, year)][timerange] = []
     schedule[(day, date, year)][timerange].append(sessions[session])
@@ -129,13 +129,13 @@ for date in dates:
     day, num, year = date
     for timerange, events in sorted(schedule[date].iteritems(), cmp=sort_times):
         start, stop = timerange.split('--')
-
+        print >> sys.stderr, "SESSION", day, num, year, timerange
         if not isinstance(events, list):
             continue
-
+        
         parallel_sessions = filter(lambda x: isinstance(x, Session) and not x.poster, events)
         poster_sessions = filter(lambda x: isinstance(x, Session) and x.poster, events)
-
+        
         # PARALLEL SESSIONS
 
         # Print the Session overview (single-page at-a-glance grid)

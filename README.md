@@ -462,12 +462,12 @@ Directories:
 - Generate the paper and poster session files (which you'll have to edit a bit afterwards):
 
        for name in tacl demos papers srw; do
-           cat data/$name/order | ./scripts/order2schedule.perl $name
+           cat data/$name/proceedings/order | ./scripts/order2schedule.perl $name
        done
 
 - Generate the daily overviews, munge them a bit, pull them in
 
-        cat data/{papers,shortpapers,demos,tacl,srw}/order | ./scripts/order2schedule_overview.py
+        cat data/{papers,shortpapers,demos,tacl,srw}/proceedings/order | ./scripts/order2schedule_overview.py
 
 - Email Dragomir Radev, who will run your index against
   [the ACL Anthology Network](http://clair.eecs.umich.edu/aan/index.php),
