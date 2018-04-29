@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#3051
+FinalPaperTitle#=%=#End-to-End Learning of Task-Oriented Dialogs
+ShortPaperTitle#=%=#End-to-End Learning of Task-Oriented Dialogs
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Bing Liu
+JobTitle#==#
+Organization#==#Carnegie Mellon University  
+5000 Forbes Avenue, Pittsburgh, PA 15213, USA
+Abstract#==#In this thesis proposal, we address the limitations of conventional pipeline design of task-oriented dialog systems and propose end-to-end learning solutions. We design neural network based dialog system that is able to robustly track dialog state, interface with knowledge bases, and incorporate structured query results into system responses to successfully complete task-oriented dialog. In learning such neural network based dialog systems, we propose hybrid offline training and online interactive learning methods. We introduce a multi-task learning method in pre-training the dialog agent in a supervised manner using task-oriented dialog corpora. The supervised training agent can further be improved via interacting with users and learning online from user demonstration and feedback with imitation and reinforcement learning. In addressing the sample efficiency issue with online policy learning, we further propose a method by combining the learning-from-user and learning-from-simulation approaches to improve the online interactive learning efficiency.
+Author{1}{Firstname}#=%=#Bing
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liubing@cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

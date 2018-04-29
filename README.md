@@ -42,11 +42,25 @@ No change to naacl-2018-industrial-track; skipping
 **tutorials not yet uploaded; skipping**
 **naacl2018-demos not yet uploaded; skipping**
 **winlp18 not yet uploaded; skipping**
-No change to SemEval-2018; skipping
+SemEval-2018 ok
 **starsem2018 not yet uploaded; skipping**
-getting Gen-Deep18
+Gen-Deep18 minimal schedule but ok
+CLPsych18 sked ok
+CRAC18 sked ok
+Education-NLP18 sked ok
+Ethics-NLP18 NO SKED
+Fig-Lang18 sked ok
+Gen-Deep18 sked miimal but ok
+PEOPLES18 sked mostly ok
+SCLeM18 sked ok
+SemBEaR18 not really correct; check with them to see if they're planing on changing it
+SpLU18 NO SKED
+Story-NLP18 NO SKED
+Style-Var18  sked ok
+TextGraphs-12 sked ok but manually formatted
+
 getting Education-NLP18
-**Ethics-NLP18 not yet uploaded; skipping**
+Ethics-NLP18: no schedule
 **CLPsych18 not yet uploaded; skipping**
 getting SemBEaR18
 **Style-Var18 not yet uploaded; skipping**

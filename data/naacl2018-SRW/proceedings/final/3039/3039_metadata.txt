@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#3039
+FinalPaperTitle#=%=#A Deeper Look into Dependency-Based Word Embeddings
+ShortPaperTitle#=%=#A Deeper Look into Dependency-Based Word Embeddings
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sean MacAvaney
+JobTitle#==#
+Organization#==#Georgetown University
+3700 O St NW
+Washington, DC 20057
+United States
+Abstract#==#We investigate the effect of various dependency-based word embeddings on distinguishing between functional and domain similarity, word similarity rankings, and two downstream tasks in English. Variations include word embeddings trained using context windows from Stanford and Universal dependencies at several levels of enhancement (ranging from unlabeled, to Enhanced++ dependencies). Results are compared to basic linear contexts and evaluated on several datasets. We found that embeddings trained with Universal and Stanford dependency contexts excel at different tasks, and that enhanced dependencies often improve performance.
+Author{1}{Firstname}#=%=#Sean
+Author{1}{Lastname}#=%=#MacAvaney
+Author{1}{Email}#=%=#sean@ir.cs.georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Amir
+Author{2}{Lastname}#=%=#Zeldes
+Author{2}{Email}#=%=#amir.zeldes@georgetown.edu
+Author{2}{Affiliation}#=%=#Georgetown University
+
+==========

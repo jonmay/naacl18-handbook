@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3052
+FinalPaperTitle#=%=#ListOps: A Diagnostic Dataset for Latent Tree Learning
+ShortPaperTitle#=%=#ListOps
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Nikita Nangia
+JobTitle#==#
+Organization#==#Center for Data Science
+New York University
+60 Fifth Avenue New York, NY 10011
+Abstract#==#Latent tree learning models learn to parse a sentence without syntactic supervision, and use that parse to build the sentence representation. Existing work on such models has shown that, while they perform well on tasks like sentence classification, they do not learn grammars that conform to any plausible semantic or syntactic formalism (Williams et al., 2018a). Studying the parsing ability of such models in natural language can be challenging due to the inherent complexities of natural language, like having several valid parses for a single sentence. In this paper we introduce ListOps, a toy dataset created to study the parsing ability of latent tree models. ListOps sequences are in the style of prefix arithmetic. The dataset is designed to have a single correct parsing strategy that a system needs to learn to succeed at the task. We show that the current leading latent tree models are unable to learn to parse and succeed at ListOps. These models achieve accuracies worse than purely sequential RNNs.
+Author{1}{Firstname}#=%=#Nikita
+Author{1}{Lastname}#=%=#Nangia
+Author{1}{Email}#=%=#nikitanangia@nyu.edu
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Samuel
+Author{2}{Lastname}#=%=#Bowman
+Author{2}{Email}#=%=#bowman@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+
+==========

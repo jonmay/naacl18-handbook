@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3037
+FinalPaperTitle#=%=#Towards Qualitative Word Embeddings Evaluation: Measuring Neighbors Variation
+ShortPaperTitle#=%=#Towards Qualitative Word Embeddings Evaluation: Measuring Neighbors Variation
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Benedicte Pierrejean
+JobTitle#==#
+Organization#==#CLLE: CNRS & Universite de Toulouse
+Maison de la Recherche, Universite Toulouse Jean Jaures
+5, Allées Antonio Machado, 31058 Toulouse Cedex 9, France
+Abstract#==#We propose a method to study the variation lying between different word embeddings models trained with different parameters. We explore the variation between models trained with only one varying parameter by observing the distributional neighbors variation and show how changing only one parameter can have a massive impact on a given semantic space. We show that the variation is not affecting all words of the semantic space equally. Variation is influenced by parameters such as setting a parameter to its minimum or maximum value but it also depends on the corpus intrinsic features such as the frequency of a word. We identify semantic classes of words remaining stable across the models trained and specific words having high variation.
+Author{1}{Firstname}#=%=#Benedicte
+Author{1}{Lastname}#=%=#Pierrejean
+Author{1}{Email}#=%=#benedicte.pierrejean@univ-tlse2.fr
+Author{1}{Affiliation}#=%=#CLLE: CNRS & Universite de Toulouse
+Author{2}{Firstname}#=%=#Ludovic
+Author{2}{Lastname}#=%=#Tanguy
+Author{2}{Email}#=%=#ludovic.tanguy@univ-tlse2.fr
+Author{2}{Affiliation}#=%=#CLLE: University of Toulouse & CNRS
+
+==========

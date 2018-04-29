@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#3031
+FinalPaperTitle#=%=#Learning Word Embeddings for Data Sparse and Sentiment Rich Data Sets
+ShortPaperTitle#=%=#Learning Word Embeddings for Data Sparse and Sentiment Rich Data Sets
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#prathusha kameswara sarma
+JobTitle#==#
+Organization#==#University of Wisconsin-Madison,
+Madison, WI, 53706
+Abstract#==#This research proposal describes two algorithms that are aimed at learning word embeddings for data sparse and sentiment rich data sets. The goal is to use word embeddings adapted for domain specific data sets in downstream applications such as sentiment classification. The first approach learns word embeddings in a supervised fashion via SWESA (Supervised Word Embeddings for Sentiment Analysis), an algorithm for sentiment analysis on data sets that are of modest size. SWESA leverages document labels to jointly learn polarity-aware word embeddings and a classifier to classify unseen documents. In the second approach domain adapted (DA) word embeddings are learned by exploiting the specificity of domain specific data sets and the breadth of generic word embeddings. The new embeddings are formed by aligning corresponding word vectors using Canonical Correlation Analysis (CCA) or the related nonlinear Kernel CCA. Experimental results on binary sentiment classification tasks using both approaches for standard data sets are presented.
+Author{1}{Firstname}#=%=#Prathusha
+Author{1}{Lastname}#=%=#Kameswara Sarma
+Author{1}{Email}#=%=#prathyushaks.21@gmail.com
+Author{1}{Affiliation}#=%=#University of Wisconsin - Madison
+
+==========

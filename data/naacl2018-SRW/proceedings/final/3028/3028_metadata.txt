@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3028
+FinalPaperTitle#=%=#Corpus Creation and Emotion Prediction for Hindi-English Code-Mixed Social Media Text
+ShortPaperTitle#=%=#Corpus Creation and Emotion Prediction for Hindi-English Code-Mixed Social Media Text
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Deepanshu Vijay
+JobTitle#==#
+Organization#==#International Institute of Information Technology, Hyderabad, India
+Abstract#==#Emotion Prediction is a Natural Language Processing (NLP) task dealing with detection and classification of emotions in various monolingual and bilingual texts. While some work has been done on code-mixed social media text and in emotion prediction separately, our work is the first attempt which aims at identifying the emotion associated with Hindi-English code-mixed social media text. In this paper, we analyze the problem of emotion identification in code-mixed content and present a Hindi-English code-mixed corpus extracted from twitter and annotated with the associated emotion. For every tweet in the dataset, we annotate the source language of all the words present, and also the causal language of the expressed emotion. Finally, we propose a supervised classification system which uses various machine learning techniques for detecting the emotion associated with the text using a variety of character level, word level, and lexicon based features.
+Author{1}{Firstname}#=%=#Deepanshu
+Author{1}{Lastname}#=%=#Vijay
+Author{1}{Email}#=%=#deepanshuvijay01995@gmail.com
+Author{1}{Affiliation}#=%=#International Institute of Information Technology Hyderabad
+Author{2}{Firstname}#=%=#Aditya
+Author{2}{Lastname}#=%=#Bohra
+Author{2}{Email}#=%=#aadityabohra1994@gmail.com
+Author{2}{Affiliation}#=%=#International Institue of Information Technology, Hyderabad
+Author{3}{Firstname}#=%=#Vinay
+Author{3}{Lastname}#=%=#Singh
+Author{3}{Email}#=%=#vinay.singh@research.iiit.ac.in
+Author{3}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{4}{Firstname}#=%=#Syed Sarfaraz
+Author{4}{Lastname}#=%=#Akhtar
+Author{4}{Email}#=%=#syedsarfarazakhtar@gmail.com
+Author{4}{Affiliation}#=%=#International Institute of Information Technology - Hyderabad
+Author{5}{Firstname}#=%=#Manish
+Author{5}{Lastname}#=%=#Shrivastava
+Author{5}{Email}#=%=#m.shrivastava@iiit.ac.in
+Author{5}{Affiliation}#=%=#International Institute of Information Technology Hyderabad
+
+==========
