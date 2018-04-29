@@ -5,7 +5,7 @@ naacl2018-SRW|https://www.softconf.com/naacl2018/naacl2018-SRW/pub/aclpub/procee
 tutorials|https://www.softconf.com/naacl2018/tutorials/pub/aclpub/proceedings.tgz|foo
 naacl2018-demos|https://www.softconf.com/naacl2018/naacl2018-demos/pub/aclpub/proceedings.tgz|foo
 winlp18|https://www.softconf.com/naacl2018/winlp18/pub/aclpub/proceedings.tgz|foo
-SemEval-2018|https://www.softconf.com/naacl2018/SemEval-2018/pub/aclpub/proceedings.tgz|"19a54f7-94f94e5-56aeceabff3bd"
+SemEval-2018|https://www.softconf.com/naacl2018/SemEval-2018/pub/aclpub/proceedings.tgz|"19a48d7-94f9c0b-56af284f64d7d"
 starsem2018|https://www.softconf.com/naacl2018/starsem2018/pub/aclpub/proceedings.tgz|foo
 Gen-Deep18|https://www.softconf.com/naacl2018/Gen-Deep18/pub/aclpub/proceedings.tgz|"1ca388b-260661-56adb1fe5ceac"
 Education-NLP18|https://www.softconf.com/naacl2018/Education-NLP18/pub/aclpub/proceedings.tgz|"1c03ecf-3b1971f-56adc59f3891a"
@@ -14,7 +14,7 @@ CLPsych18|https://www.softconf.com/naacl2018/CLPsych18/pub/aclpub/proceedings.tg
 SemBEaR18|https://www.softconf.com/naacl2018/SemBEaR18/pub/aclpub/proceedings.tgz|"202c56-a7cfb8-56ae434d9e58d"
 Style-Var18|https://www.softconf.com/naacl2018/Style-Var18/pub/aclpub/proceedings.tgz|"24c35f0-4afd1f-56aea345ed5fd"
 Story-NLP18|https://www.softconf.com/naacl2018/Story-NLP18/pub/aclpub/proceedings.tgz|"1c2bf7-932b01-56acf2fafd73f"
-SCLeM18|https://www.softconf.com/naacl2018/SCLeM18/pub/aclpub/proceedings.tgz|"1c2b85-5f8760-56ab7589ce593"
+SCLeM18|https://www.softconf.com/naacl2018/SCLeM18/pub/aclpub/proceedings.tgz|"20300c-5f9f0a-56af15808d538"
 TextGraphs-12|https://www.softconf.com/naacl2018/TextGraphs-12/pub/aclpub/proceedings.tgz|"1ba6561-569754-56ae3758abeed"
 Fig-Lang18|https://www.softconf.com/naacl2018/Fig-Lang18/pub/aclpub/proceedings.tgz|"1da24a8-d482f9-56adca3f49469"
 PEOPLES18|https://www.softconf.com/naacl2018/PEOPLES18/pub/aclpub/proceedings.tgz|"202cc8-11e088e-56ae6c1719d6f"
