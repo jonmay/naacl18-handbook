@@ -1,22 +1,22 @@
 * Saturday, June 2, 2018
-= 07:30--08:45 Breakfast # %room Empire Foyer
-= 08:45--09:00 Welcome from the Chairs # %room Empire Ballroom %chair1 Marilyn Walker
-= 09:00--10:00 Session Keynote: Keynote 1 # %room Empire Ballroom %chair1 Marilyn Walker %aff1 University of California Santa Cruz
+= 07:30--08:45 Breakfast  %room Empire Foyer
+= 08:45--09:00 Welcome from the Chairs  %room Empire Ballroom %chair1 Marilyn Walker
+= 09:00--10:00 Session Keynote: Keynote 1  %room Empire Ballroom %chair1 Marilyn Walker %aff1 University of California Santa Cruz
 !  Why 72? %by Charles Yang
-= 10:00--10:30 Morning Coffee # %room Empire Foyer
-= 10:30--11:30 Session 1A Oral: Information Extraction 1 # %room Empire A %chair1 Dan Bikel %aff1 Google
+= 10:00--10:30 Morning Coffee  %room Empire Foyer
+= 10:30--11:30 Session 1A Oral: Information Extraction 1  %room Empire A %chair1 Dan Bikel %aff1 Google
 69 10:30--10:47  # Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition
 165 10:48--11:05  # Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss
 309 11:06--11:23  # Variable Typing: Assigning Meaning to Variables in Mathematical Text
-= 10:30--11:30 Session 1B Oral: Phonology Morphology and Word Segmentation # %room Empire B %chair1 Barbara Plank
+= 10:30--11:30 Session 1B Oral: Phonology Morphology and Word Segmentation  %room Empire B %chair1 Barbara Plank
 44 10:30--10:47  # A Deep Generative Model of Vowel Formant Typology
 94 10:48--11:05  # Fortification of Neural Morphological Segmentation Models for Polysynthetic Minimal-Resource Languages
 136 11:06--11:23  # Improving Character-based Decoding Using Target-Side Morphological Information for Neural Machine Translation
-= 10:30--11:30 Session 1C Oral: Speech # %room Empire C %chair1 Dilek Hakkani-Tur
+= 10:30--11:30 Session 1C Oral: Speech  %room Empire C %chair1 Dilek Hakkani-T\"{u}r
 199 10:30--10:47  # Parsing Speech: a Neural Approach to Integrating Lexical and Acoustic-Prosodic Information
 430 10:48--11:05  # Tied Multitask Learning for Neural Speech Translation
 596 11:06--11:23  # Please Clap: Modeling Applause in Campaign Speeches
-= 10:30--12:00 Session 1D Posters and Demos: Discourse and Pragmatics # %room Elite Hall B %chair1 Laura Perez
+= 10:30--12:00 Session 1D Posters and Demos: Discourse and Pragmatics %room Elite Hall B %chair1 Laura Perez
 353   # Automatic Focus Annotation: Bringing Formal Pragmatics Alive in Analyzing the Information Structure of Authentic Data
 508   # Attentive Interaction Model: Modeling Changes in View in Argumentation
 519   # Dear Sir or Madam, May I Introduce the GYAFC Dataset: Corpus, Benchmarks and Metrics for Formality Style Transfer
