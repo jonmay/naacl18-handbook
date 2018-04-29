@@ -1,8 +1,21 @@
-1   # Lexical Conceptual Structure of Literal and Metaphorical Spatial Language: A Case Study of "Push"
-3   # The Case for Systematically Derived Spatial Language Usage
-4   # Building and Learning Structures in a Situated Blocks World Through Deep Language Understanding
-6   # Computational Models for Spatial Prepositions
-7   # Exploring the Functional and Geometric Bias of Spatial Relations Using Neural Language Models
-8   # Points, Paths, and Playscapes: Large-scale Spatial Language Understanding Tasks Set in the Real World
-9   # Representing Spatial Relations in FrameNet
-10   # Anaphora Resolution for Improving Spatial Relation Extraction from Text
+* 43257
+= Session 1
+! 09:00--09:10 Opening remarks %by Parisa Kordjamshidi
+! 09:10--10:10 Keynote talk: Natural Language Acquisition and Grounding for Embodied Robotic Systems %by Anthony G. Cohn
+7 10:10--10:30  # Exploring the Functional and Geometric Bias of Spatial Relations Using Neural Language Models
+= 10:30--11:00 Coffee Break
+= Session 2
+4 11:00--11:20  # Building and Learning Structures in a Situated Blocks World Through Deep Language Understanding
+6 11:20--11:40  # Computational Models for Spatial Prepositions
+1 11:40--12:00  # Lexical Conceptual Structure of Literal and Metaphorical Spatial Language: A Case Study of "Push"
+9 12:00--12:20  # Representing Spatial Relations in FrameNet
+= 12:20--02:10 Lunch Break
+= Session 3
+! 02:10--03:10 Keynote talk: Understanding Spatial Expressions %by James F. Allen
+8 03:10--03:30  # Points, Paths, and Playscapes: Large-scale Spatial Language Understanding Tasks Set in the Real World
+= 03:30--04:00 Coffee Break
+= Session 4
+10 04:00--04:20  # Anaphora Resolution for Improving Spatial Relation Extraction from Text
+3 04:20--04:40  # The Case for Systematically Derived Spatial Language Usage
+! 04:40--05:30 Panel %by James Pustejovsky, Marie-Francine Moens, James F. Allen, Bonnie Dorr, Anthony G. Cohn
+! 05:30--05:40 Concluding remarks %by Archna Bhatia
