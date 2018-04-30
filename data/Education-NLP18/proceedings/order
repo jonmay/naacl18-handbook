@@ -1,18 +1,18 @@
 * Tuesday, June 5, 2018
-! 08:30--09:00  %by Loading of Oral Presentations
-= 09:00--10:30 Oral Presentations  (Speech, Dialogue & Reading)
-! 09:00--09:15  %by Opening Remarks
++ 08:30--09:00  Loading of Oral Presentations
+= 09:00--10:30 Oral Presentations  (Speech, Dialogue \& Reading)
++ 09:00--09:15  Opening Remarks
 31 09:15--09:40  # Using exemplar responses for training and evaluating automated speech scoring systems
 44 09:40--10:05  # Using Paraphrasing and Memory-Augmented Models to Combat Data Sparsity in Question Interpretation with a Virtual Patient Dialogue System
 32 10:05--10:30  # Predicting misreadings from gaze in children with reading difficulties
 = 10:30--11:00 Mid-morning coffee/decaf/tea refresh
-= 11:00--12:30 Oral Presentations  (Passage Selection, Text Complexity & Reading; Shared Task Reports)
+= 11:00--12:30 Oral Presentations  (Passage Selection, Text Complexity \& Reading; Shared Task Reports)
 38 11:00--11:25  # Automatic Input Enrichment for Selecting Reading Material: An Online Study with English Teachers
 39 11:25--11:50  # Estimating Linguistic Complexity for Science Texts
 68 11:50--12:10  # Second Language Acquisition Modeling
 69 12:10--12:30  # A Report on the Complex Word Identification Shared Task 2018
 = 12:30--14:00 Lunch
-= 14:00--15:30 BEA & Shared Task Poster and Demo Session
+= 14:00--15:30 BEA \& Shared Task Poster and Demo Session
 = 14:00--14:45 Poster Session A
 = 14:00--14:45 BEA papers
 30 14:00--14:45  # Towards Single Word Lexical Complexity Prediction
@@ -62,8 +62,8 @@
 58 14:45--15:30  # CLUF: a Neural Model for Second Language Acquisition Modeling
 56 14:45--15:30  # Neural sequence modelling for learner error prediction
 = 15:30--16:00 Mid-afternoon Snacks
-= 16:00--17:30 Oral Presentations  (Item Generation, Essay/Content Scoring, & Writing)
+= 16:00--17:30 Oral Presentations  (Item Generation, Essay/Content Scoring, \& Writing)
 23 16:00--16:25  # Automatic Distractor Suggestion for Multiple-Choice Tests Using Concept Embeddings and Information Retrieval
 37 16:25--16:50  # Co-Attention Based Neural Network for Source-Dependent Essay Scoring
 20 16:50--17:15  # Cross-Lingual Content Scoring
-! 17:15--17:30  %by Closing Remarks
++ 17:15--17:30  Closing Remarks
