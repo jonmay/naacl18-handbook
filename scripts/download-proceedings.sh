@@ -69,3 +69,4 @@ for name in $(cat input/conferences.txt); do
   cd $basefolder
   echo "$x|$url|$remotemd5" | sed 's/\r//' >> newcon.txt
 done
+cp newcon.txt input/conferences.txt

@@ -2,7 +2,7 @@ SubmissionNumber#=%=#64
 FinalPaperTitle#=%=#CTSys at SemEval-2018 Task 3: Irony in Tweets
 ShortPaperTitle#=%=#CTSys at SemEval-2018 Task 3: Irony in Tweets
 NumberOfPages#=%=#5
-CopyrightSigned#=%=#Wegdan
+CopyrightSigned#=%=#Wegdan Ghazi
 JobTitle#==#Student
 Organization#==#Faculty of Engineering, Alexandria University.
 Abstract#==#The objective of this paper is to provide a description for a system built as our participation in SemEval-2018 Task 3 on Irony detection in English tweets. This system classifies a tweet as either ironic or non-ironic through a supervised learning approach. Our approach is to implement three feature models, and to then improve the performance of the supervised learning classification of tweets by combining many data features and using a voting system on four different classifiers. We describe the process of 

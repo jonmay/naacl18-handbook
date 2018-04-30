@@ -1,27 +1,42 @@
-1716   # What we need to learn if we want to do and not just talk
-1719   # Selecting Machine-Translated Data for Quick Bootstrapping of a Natural Language Understanding System
-1721   # Practical Application of Domain Dependent Confidence Measurement for Spoken Language Understanding Systems
-1729   # Quality Estimation for Automatically Generated Titles of eCommerce Browse Pages
-1731   # Can Neural Machine Translation be Improved with User Feedback?
-1733   # Document-based Recommender System for Job Postings using Dense Representations
-1742   # Prediction for the Newsroom: Which Articles Will Get the Most Comments?
-1744   # Accelerating NMT Batched Beam Decoding with LMBR Posteriors for Deployment
-1746   # Atypical Inputs in Educational Applications
+* Saturday, June 2
+= 10:30--11:30 Machine Learning -- Classification # %room Empire D
 1749   # Scalable Wide and Deep Learning for Computer Assisted Coding
-1750   # Demand-Weighted Completeness Prediction for a Knowledge Base
 1751   # Neural Network based Extreme Classification and Similarity Models for Product Matching
-1753   # Multi-lingual neural title generation for e-Commerce browse pages
-1754   # Pieces of Eight: 8-bit Neural Machine Translation
-1755   # A Novel Approach to Part Name Discovery in Noisy Text
-1760   # Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents
-1761   # The Alexa Meaning Representation Language
-1762   # Data Collection for Dialogue System: A Startup Perspective
 1769   # A Scalable Neural Shortlisting-Reranking Approach for Large-Scale Domain Classification in Natural Language Understanding
+= 11:30--12:30 Dialog # %room Empire D %chair1 Christine Doran %aff1 Interactions LLC
+1716   # What we need to learn if we want to do and not just talk
+1762   # Data Collection for Dialogue System: A Startup Perspective
+1788   # Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning
+= 10:30am--12:30pm Posters - Industry # %room Elite Hall B
+1729   # Quality Estimation for Automatically Generated Titles of eCommerce Browse Pages
+1746   # Atypical Inputs in Educational Applications
 1776   # Using Aspect Extraction Approaches to Generate Review Summaries and User Profiles
 1779   # SystemT: Declarative Text Understanding for Enterprise
+1792   # Construction of the Literature Graph in Semantic Scholar
+= 14:00--15:00 Industry Track Keynote - 1 # %room Empire Ballroom %chair1 Yunyao Li %aff1 IBM Research - Almaden
+= 15:30--17:00 Careers in the Industry Panel # %room Empire D %chair1 Philip Resnik %aff1 University of Maryland, College Park
+= 17:00--18:30 Machine Translation # %room Empire D %chair1 Kenneth Heafiled %aff1 University of Edinburgh
+1731   # Can Neural Machine Translation be Improved with User Feedback?
+1744   # Accelerating NMT Batched Beam Decoding with LMBR Posteriors for Deployment
+1754   # Pieces of Eight: 8-bit Neural Machine Translation
+1786   # From dictations to clinical reports using machine translation
+* Sunday, June 3
+= 10:30--11:30 Machine Learning -- Domain Adaptation # %room Empire D %chair1 Mohit Bansal %aff1 University of North Carolina at Chapel Hill
+1719   # Selecting Machine-Translated Data for Quick Bootstrapping of a Natural Language Understanding System
+1760   # Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents
+1785   # Bag of Experts Architectures for Model Reuse in Conversational Language Understanding
+= 11:30--12:30 Named Entity and Language Generation # %room Empire D
+1753   # Multi-lingual neural title generation for e-Commerce browse pages
+1755   # A Novel Approach to Part Name Discovery in Noisy Text
+1761   # The Alexa Meaning Representation Language
+= 14:00--15:00 Industry Keynote 2 # %room Empire Ballroom %chair1 Jennifer Chu-Carroll %aff1 Elemental Cognition
+= 15:30--17:00 Ethics in NLP Panel # %chair1 Dirk Hovy %aff1 Universita Bocconi
+= 15:30--17:00 Posters - Industry # %room Elite Hall B
+1721   # Practical Application of Domain Dependent Confidence Measurement for Spoken Language Understanding Systems
+* Monday, June 4
+1733   # Document-based Recommender System for Job Postings using Dense Representations
+1742   # Prediction for the Newsroom: Which Articles Will Get the Most Comments?
+1750   # Demand-Weighted Completeness Prediction for a Knowledge Base
 1782   # Personalized neural language models for real-world query auto completion
 1783   # Benchmarks and models for entity-oriented polarity detection
-1785   # Bag of Experts Architectures for Model Reuse in Conversational Language Understanding
-1786   # From dictations to clinical reports using machine translation
-1788   # Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning
-1792   # Construction of the Literature Graph in Semantic Scholar
+= Please enter a title here

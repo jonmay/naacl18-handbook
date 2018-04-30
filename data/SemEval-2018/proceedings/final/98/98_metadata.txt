@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#98
 FinalPaperTitle#=%=#Amobee at SemEval-2018 Task 1: GRU Neural Network with a CNN Attention Mechanism for Sentiment Classification
-ShortPaperTitle#=%=#Amobee at SemEval-2018 Task 1: GRU Neural Network with a CNN Attention Mechanism for Sentiment Classification
+ShortPaperTitle#=%=#Amobee at SemEval 2018 Task 1: GRU Network with CNN Attention Mechanism for Sentiment Classification
 NumberOfPages#=%=#8
 CopyrightSigned#=%=#Daniel Fleischer
 JobTitle#==#

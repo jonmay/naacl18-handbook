@@ -2,9 +2,9 @@ SubmissionNumber#=%=#208
 FinalPaperTitle#=%=#SemEval-2018 Task 9: Hypernym Discovery
 ShortPaperTitle#=%=#SemEval-2018 Task 9: Hypernym Discovery
 NumberOfPages#=%=#13
-CopyrightSigned#=%=#Jose
+CopyrightSigned#=%=#Jose Camacho Collados
 JobTitle#==#
-Organization#==#Jose, CU
+Organization#==#Cardiff University, UK
 Abstract#==#This paper describes the SemEval 2018 Shared Task on Hypernym Discovery. We put forward this task as a complementary benchmark for modeling hypernymy, a problem which has traditionally been cast as a binary classification task, taking a pair of candidate words as input. 
 Instead, our reformulated task is defined as follows: given an input term, retrieve (or discover) its suitable hypernyms from a target corpus. We proposed five different subtasks covering three languages (English, Spanish, and Italian), and two specific domains of knowledge in English (Medical and Music). Participants were allowed to compete in any or all of the subtasks. Overall, a total of 11 teams participated, with a total of 39 different systems submitted through all subtasks. Data, results and further information about the task can be found at https://competitions.codalab.org/competitions/17119.
 Author{1}{Firstname}#=%=#Jose
@@ -30,7 +30,7 @@ Author{5}{Affiliation}#=%=#Sapienza University of Rome
 Author{6}{Firstname}#=%=#Enrico
 Author{6}{Lastname}#=%=#Santus
 Author{6}{Email}#=%=#esantus@mit.edu
-Author{6}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{6}{Affiliation}#=%=#MIT
 Author{7}{Firstname}#=%=#Vered
 Author{7}{Lastname}#=%=#Shwartz
 Author{7}{Email}#=%=#vered1986@gmail.com

@@ -2,7 +2,7 @@ SubmissionNumber#=%=#44
 FinalPaperTitle#=%=#KNU CI System at SemEval-2018 Task4: Character Identification by Solving Sequence-Labeling Problem
 ShortPaperTitle#=%=#KNU CI System at SemEval-2018 Task4
 NumberOfPages#=%=#5
-CopyrightSigned#=%=#Cheoneum
+CopyrightSigned#=%=#CHUNEUM PARK
 JobTitle#==#
 Organization#==#Kangwon National University
 302, Hanbit-kwan, 1, Gangwondaehak-gil Chuncheon-si Gangwon-do South Korea

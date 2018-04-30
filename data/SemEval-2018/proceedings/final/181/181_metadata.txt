@@ -2,7 +2,7 @@ SubmissionNumber#=%=#181
 FinalPaperTitle#=%=#ARB-SEN at SemEval-2018 Task1: A New Set of Features for Enhancing the Sentiment Intensity Prediction in Arabic Tweets
 ShortPaperTitle#=%=#Enhancing the Sentiment Intensity Prediction in Arabic Tweets
 NumberOfPages#=%=#5
-CopyrightSigned#=%=#NAGOUDI
+CopyrightSigned#=%=#El Moatez Billah Nagoudi
 JobTitle#==#
 Organization#==#Laboratoire d’Informatique et de Mathématiques LIM, Laghouat, Algeria 
 Echahid Hamma Lakhdar University, El Oued, Algeria

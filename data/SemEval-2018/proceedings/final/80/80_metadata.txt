@@ -4,7 +4,9 @@ ShortPaperTitle#=%=#CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym D
 NumberOfPages#=%=#7
 CopyrightSigned#=%=#Gabriel Bernier-Colborne
 JobTitle#==#
-Organization#==#
+Organization#==#Computer Research Institute of Montréal
+405 Ogilvy Avenue, suite 101
+Montréal (QC) Canada, H3N 1M3
 Abstract#==#This report describes the system developed by the CRIM team for the hypernym discovery task at SemEval 2018. This system exploits a combination of supervised projection learning and unsupervised pattern-based hypernym discovery. It was ranked first on the 3 sub-tasks for which we submitted results.
 Author{1}{Firstname}#=%=#Gabriel
 Author{1}{Lastname}#=%=#Bernier-Colborne

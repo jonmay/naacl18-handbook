@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#21
 FinalPaperTitle#=%=#NLPZZX at SemEval-2018 Task 1: Using Ensemble Method for Emotion and Sentiment Intensity Determination
-ShortPaperTitle#=%=#NLPZZX at SemEval-2018 Task 1: Using Ensemble Method for Emotion and Sentiment Intensity Determination
+ShortPaperTitle#=%=#Using Ensemble Method for Emotion and Sentiment Intensity Determination
 NumberOfPages#=%=#7
 CopyrightSigned#=%=#Zhengxin Zhang
 JobTitle#==#

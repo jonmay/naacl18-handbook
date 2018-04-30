@@ -2,7 +2,7 @@ SubmissionNumber#=%=#34
 FinalPaperTitle#=%=#Epita at SemEval-2018 Task 1: Sentiment Analysis Using Transfer Learning Approach
 ShortPaperTitle#=%=#Sentiment Analysis Using Transfer Learning Approach
 NumberOfPages#=%=#5
-CopyrightSigned#=%=#Bouchekif
+CopyrightSigned#=%=#Abdesselam Bouchekif
 JobTitle#==#
 Organization#==#Graduate school of computer science, EPITA
 14-16 Rue Voltaire, 94270 
