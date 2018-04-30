@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#132
+FinalPaperTitle#=%=#Learning distributed event representations with a multi-task approach
+ShortPaperTitle#=%=#Learning distributed event representations with a multi-task approach
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xudong Hong, Asad Sayeed and Vera Demberg
+JobTitle#==#
+Organization#==#Dept. of Language Science and Technology, Saarland University
+Dept. of Philosophy, Linguistics, and Theory of Science, University of Gothenburg
+Abstract#==#Human world knowledge contains information about prototypical events and their participants and locations. In this paper, we train the first models using multi-task learning that can both predict missing event participants and also perform semantic role classification based on semantic plausibility. Our best-performing model is an improvement over the previous state-of-the-art on thematic fit modelling tasks. The event embeddings learned by the model can additionally be used effectively in an event similarity task, also outperforming the state-of-the-art.
+Author{1}{Firstname}#=%=#Xudong
+Author{1}{Lastname}#=%=#Hong
+Author{1}{Email}#=%=#xhong@coli.uni-sb.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Asad
+Author{2}{Lastname}#=%=#Sayeed
+Author{2}{Email}#=%=#asayeed@mbl.ca
+Author{2}{Affiliation}#=%=#University of Gothenburg
+Author{3}{Firstname}#=%=#Vera
+Author{3}{Lastname}#=%=#Demberg
+Author{3}{Email}#=%=#vera@coli.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+
+==========

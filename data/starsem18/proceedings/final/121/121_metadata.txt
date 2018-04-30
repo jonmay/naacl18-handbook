@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#121
+FinalPaperTitle#=%=#Multiplicative Tree-Structured Long Short-Term Memory Networks for Semantic Representations
+ShortPaperTitle#=%=#Multiplicative Tree-Structured Long Short-Term Memory Networks for Semantic Representations
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Weiwei Cheng
+JobTitle#==#
+Organization#==#Amazon Development Center Germany
+Krausenstr. 38
+Berlin, 10117
+Germany
+Abstract#==#Tree-structured LSTMs have shown advantages in learning semantic representations by exploiting syntactic information. Most existing methods model tree structures by bottom-up combinations of constituent nodes using the same shared compositional function and often making use of input word information only. The inability to capture the richness of compositionality makes these models lack expressive power. In this paper, we propose multiplicative tree-structured LSTMs to tackle this problem. Our model makes use of not only word information but also relation information between words. It is more expressive, as different combination functions can be used for each child node. In addition to syntactic trees, we also investigate the use of Abstract Meaning Representation in tree-structured models, in order to incorporate both syntactic and semantic information from the sentence. Experimental results on common NLP tasks show the proposed models lead to better sentence representation and AMR brings benefits in complex tasks.
+Author{1}{Firstname}#=%=#Nam Khanh
+Author{1}{Lastname}#=%=#Tran
+Author{1}{Email}#=%=#ntran@l3s.de
+Author{1}{Affiliation}#=%=#L3S Research Center
+Author{2}{Firstname}#=%=#Weiwei
+Author{2}{Lastname}#=%=#Cheng
+Author{2}{Email}#=%=#roywwcheng@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+
+==========

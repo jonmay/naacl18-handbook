@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#163
+FinalPaperTitle#=%=#Hypothesis Only Baselines in Natural Language Inference
+ShortPaperTitle#=%=#Hypothesis Only Baselines in Natural Language Inference
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Adam Poliak
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N. Charles St. Baltimore, MD. 21218
+Abstract#==#We propose a hypothesis only baseline for diagnosing Natural Language Inference (NLI).  Especially when an NLI dataset assumes inference is occurring based purely on the relationship between a context and a hypothesis, it follows that assessing entailment relations while ignoring the provided context is a degenerate solution.  Yet, through experiments on 10 distinct NLI datasets, we find that this approach, which we refer to as a hypothesis-only model, is able to significantly outperform a majority-class baseline across a number of NLI datasets.  Our analysis suggests that statistical irregularities may allow a model to perform NLI in some datasets beyond what should be achievable without access to the context.
+Author{1}{Firstname}#=%=#Adam
+Author{1}{Lastname}#=%=#Poliak
+Author{1}{Email}#=%=#azpoliak@cs.jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Jason
+Author{2}{Lastname}#=%=#Naradowsky
+Author{2}{Email}#=%=#jason.narad@gmail.com
+Author{2}{Affiliation}#=%=#University College London
+Author{3}{Firstname}#=%=#Aparajita
+Author{3}{Lastname}#=%=#Haldar
+Author{3}{Email}#=%=#aparajitah@gmail.com
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Rachel
+Author{4}{Lastname}#=%=#Rudinger
+Author{4}{Email}#=%=#rudinger@jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+Author{5}{Firstname}#=%=#Benjamin
+Author{5}{Lastname}#=%=#Van Durme
+Author{5}{Email}#=%=#vandurme@cs.jhu.edu
+Author{5}{Affiliation}#=%=#JHU
+
+==========

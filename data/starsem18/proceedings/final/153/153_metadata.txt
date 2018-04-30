@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#153
+FinalPaperTitle#=%=#Quality Signals in Generated Stories
+ShortPaperTitle#=%=#Quality Signals in Generated Stories
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kevin Gimpel
+JobTitle#==#
+Organization#==#Toyota Technological Institute at Chicago
+6045 S. Kenwood Ave.
+Chicago, IL 60637
+Abstract#==#We study the problem of measuring the quality of automatically-generated stories. We focus on the setting in which a few sentences of a story are provided and the task is to generate the next sentence ("continuation") in the story. We seek to identify what makes a story continuation interesting, relevant, and have high overall quality. We crowdsource annotations along these three criteria for the outputs of story continuation systems, design features, and train models to predict the annotations. Our trained scorer can be used as a rich feature function for story generation, a reward function for systems that use reinforcement learning to learn to generate stories, and as a partial evaluation metric for story generation.
+Author{1}{Firstname}#=%=#Manasvi
+Author{1}{Lastname}#=%=#Sagarkar
+Author{1}{Email}#=%=#manasvisagarkar@gmail.com
+Author{1}{Affiliation}#=%=#University of Chicago
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Wieting
+Author{2}{Email}#=%=#jwieting@cs.cmu.edu
+Author{2}{Affiliation}#=%=#University of Illinois; TTI-Chicago; CMU
+Author{3}{Firstname}#=%=#Lifu
+Author{3}{Lastname}#=%=#Tu
+Author{3}{Email}#=%=#lifu@ttic.edu
+Author{3}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{4}{Firstname}#=%=#Kevin
+Author{4}{Lastname}#=%=#Gimpel
+Author{4}{Email}#=%=#kgimpel@ttic.edu
+Author{4}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+
+==========

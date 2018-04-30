@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#99
+FinalPaperTitle#=%=#Agree or Disagree: Predicting Judgments on Nuanced Assertions
+ShortPaperTitle#=%=#Agree or Disagree: Predicting Judgments on Nuanced Assertions
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Michael Wojatzki
+JobTitle#==#
+Organization#==#University of Duisburg-Essen
+Abstract#==#Being able to predict whether people agree or disagree with an assertion (i.e. an explicit, self-contained statement) has several applications ranging from predicting how many people will like or dislike a social media post to classifying posts based on whether they are in accordance with a particular point of view. We formalize this as two NLP tasks: predicting judgments
+of (i) individuals and (ii) groups based on the text of the assertion and previous judgments.
+We evaluate a wide range of approaches on a crowdsourced data set containing over 100,000 judgments on over 2,000 assertions. We find that predicting individual judgments is a hard task with our best results only slightly exceeding a majority baseline, but that judgments of groups can be more reliably predicted using a Siamese neural network, which outperforms all other approaches by a wide margin.
+Author{1}{Firstname}#=%=#Michael
+Author{1}{Lastname}#=%=#Wojatzki
+Author{1}{Email}#=%=#michael.wojatzki@uni-due.de
+Author{1}{Affiliation}#=%=#Language Technology Lab, University of Duisburg-Essen
+Author{2}{Firstname}#=%=#Torsten
+Author{2}{Lastname}#=%=#Zesch
+Author{2}{Email}#=%=#torsten.zesch@uni-due.de
+Author{2}{Affiliation}#=%=#Language Technology Lab, University of Duisburg-Essen
+Author{3}{Firstname}#=%=#Saif
+Author{3}{Lastname}#=%=#Mohammad
+Author{3}{Email}#=%=#saif.mohammad@nrc-cnrc.gc.ca
+Author{3}{Affiliation}#=%=#NRC
+Author{4}{Firstname}#=%=#Svetlana
+Author{4}{Lastname}#=%=#Kiritchenko
+Author{4}{Email}#=%=#svetlana.kiritchenko@nrc-cnrc.gc.ca
+Author{4}{Affiliation}#=%=#NRC
+
+==========

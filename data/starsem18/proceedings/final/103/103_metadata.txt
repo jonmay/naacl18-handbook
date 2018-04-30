@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#103
+FinalPaperTitle#=%=#Exploiting Partially Annotated Data in Temporal Relation Extraction
+ShortPaperTitle#=%=#Exploiting Partially Annotated Data in Temporal Relation Extraction
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Qiang Ning
+JobTitle#==#
+Organization#==#University of Illinois at Urbana-Champaign
+201 N Goodwin Ave, Urbana, IL 61801
+Abstract#==#Annotating temporal relations (TempRel) between events described in natural language is known to be labor intensive, partly because the total number of TempRels is quadratic in the number of events. As a result, only a small number of documents are typically annotated, limiting the coverage of various lexical/semantic phenomena. In order to improve existing approaches, one possibility is to make use of the readily available, partially annotated data (P as in partial) that cover more documents. However, missing annotations in P are known to hurt, rather than help, existing systems. This work is a case study in exploring various usages of P for TempRel extraction. Results show that despite missing annotations, P is still a useful supervision signal for this task within a constrained bootstrapping learning framework. The system described in this system is publicly available.
+Author{1}{Firstname}#=%=#Qiang
+Author{1}{Lastname}#=%=#Ning
+Author{1}{Email}#=%=#qning2@illinois.edu
+Author{1}{Affiliation}#=%=#Univ. of Illinois, Urbana-Champaign
+Author{2}{Firstname}#=%=#Zhongzhi
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Email}#=%=#zyu19@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Urbana Champaign
+Author{3}{Firstname}#=%=#Chuchu
+Author{3}{Lastname}#=%=#Fan
+Author{3}{Email}#=%=#chuchufan1990@gmail.com
+Author{3}{Affiliation}#=%=#University of Illinois  at Urbana Champaign
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Roth
+Author{4}{Email}#=%=#danr@illinois.edu
+Author{4}{Affiliation}#=%=#University of Illinois
+
+==========

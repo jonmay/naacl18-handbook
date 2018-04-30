@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#118
+FinalPaperTitle#=%=#Resolving Event Coreference with Supervised Representation Learning and Clustering-Oriented Regularization
+ShortPaperTitle#=%=#Resolving Event Coreference with Representation Learning and Clustering-Oriented Regularization
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kian Kenyon-Dean
+JobTitle#==#
+Organization#==#McGill University, 845 Sherbrooke St W, H3A 0G4, Montreal QC
+Abstract#==#We present an approach to event coreference resolution by developing a general framework for clustering that uses supervised representation learning. We propose a neural network architecture with novel Clustering-Oriented Regularization (CORE) terms in the objective function. These terms encourage the model to create embeddings of event mentions that are amenable to clustering. We then use agglomerative clustering on these embeddings to build event coreference chains. For both within- and cross-document coreference on the ECB+ corpus, our model obtains better results than models that require significantly more pre-annotated information. This work provides insight and motivating results for a new general approach to solving coreference and clustering problems with representation learning.
+Author{1}{Firstname}#=%=#Kian
+Author{1}{Lastname}#=%=#Kenyon-Dean
+Author{1}{Email}#=%=#kian.kenyon-dean@mail.mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#Jackie Chi Kit
+Author{2}{Lastname}#=%=#Cheung
+Author{2}{Email}#=%=#jcheung@cs.mcgill.ca
+Author{2}{Affiliation}#=%=#McGill University
+Author{3}{Firstname}#=%=#Doina
+Author{3}{Lastname}#=%=#Precup
+Author{3}{Email}#=%=#dprecup@cs.mcgill.ca
+Author{3}{Affiliation}#=%=#McGill University
+
+==========

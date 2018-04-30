@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#129
+FinalPaperTitle#=%=#Coarse Lexical Frame Acquisition at the Syntax–Semantics Interface Using a Latent-Variable PCFG Model
+ShortPaperTitle#=%=#Coarse Lexical Frame Acquisition at the Syntax–Semantics Interface Using Latent-Variable PCFG
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Behrang QasemiZadeh
+JobTitle#==#
+Organization#==#Heinrich-Heine-Universität Düsseldorf
+Universität Str. 1
+Dusseldorf
+Germany
+Abstract#==#We present a method for unsupervised lexical frame acquisition at the syntax--semantics interface. Given a set of input strings derived from dependency parses, our method generates a set of clusters that resemble lexical frame structures. Our work is motivated not only by its practical applications (e.g., to build, or expand the coverage of lexical frame databases), but also to gain linguistic insight into frame structures with respect to lexical distributions in relation to grammatical structures. We model our task using a hierarchical Bayesian network and employ tools and methods from latent variable probabilistic context free grammars (L-PCFGs) for statistical inference and parameter fitting, for which we propose a new split and merge procedure. We show that our model outperforms several baselines on a portion of the Wall Street Journal sentences that we have newly annotated for evaluation purposes.
+Author{1}{Firstname}#=%=#Laura
+Author{1}{Lastname}#=%=#Kallmeyer
+Author{1}{Email}#=%=#kallmeyer@phil.uni-duesseldorf.de
+Author{1}{Affiliation}#=%=#University of Duesseldorf
+Author{2}{Firstname}#=%=#Behrang
+Author{2}{Lastname}#=%=#QasemiZadeh
+Author{2}{Email}#=%=#zadeh@phil.hhu.de
+Author{2}{Affiliation}#=%=#Computational Linguistics Department, University of Düsseldorf
+Author{3}{Firstname}#=%=#Jackie Chi Kit
+Author{3}{Lastname}#=%=#Cheung
+Author{3}{Email}#=%=#jcheung@cs.mcgill.ca
+Author{3}{Affiliation}#=%=#McGill University
+
+==========

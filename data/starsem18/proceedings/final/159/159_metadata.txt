@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#159
+FinalPaperTitle#=%=#Deep Affix Features Improve Neural Named Entity Recognizers
+ShortPaperTitle#=%=#Deep Affix Features Improve Neural Named Entity Recognizers
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Vikas Yadav
+JobTitle#==#
+Organization#==#University of Arizona, Tucson, Arizona, USA- 85719
+Abstract#==#We propose a practical model for named entity recognition (NER) that combines word and character-level information with a specific learned representation of the prefixes and suffixes of the word. We apply this approach to multilingual and multi-domain NER and show that it achieves state of the art results on the CoNLL 2002 Spanish and Dutch and CoNLL 2003 German NER datasets, consistently
+achieving 1.5-2.3 percent over the state of the art without relying on any dictionary features. Additionally, we show improvement on SemEval 2013 task 9.1 DrugNER, achieving state of the art results on the MedLine dataset and the second best results overall (-1.3% from state of the art). We also establish a new benchmark on the I2B2 2010 Clinical NER dataset with 84.70 F-score.
+Author{1}{Firstname}#=%=#Vikas
+Author{1}{Lastname}#=%=#Yadav
+Author{1}{Email}#=%=#vikasy@email.arizona.edu
+Author{1}{Affiliation}#=%=#University of Arizona, Tucson
+Author{2}{Firstname}#=%=#Rebecca
+Author{2}{Lastname}#=%=#Sharp
+Author{2}{Email}#=%=#bsharp@email.arizona.edu
+Author{2}{Affiliation}#=%=#University of Arizona
+Author{3}{Firstname}#=%=#Steven
+Author{3}{Lastname}#=%=#Bethard
+Author{3}{Email}#=%=#bethard@email.arizona.edu
+Author{3}{Affiliation}#=%=#University of Arizona
+
+==========

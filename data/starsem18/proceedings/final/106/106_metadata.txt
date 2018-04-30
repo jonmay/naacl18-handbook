@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#106
+FinalPaperTitle#=%=#Integrating Multiplicative Features into Supervised Distributional Methods for Lexical Entailment
+ShortPaperTitle#=%=#Integrating Multiplicative Features into Supervised Distributional Methods for Lexical Entailment
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Tu Vu
+JobTitle#==#
+Organization#==#College of Information and Computer Sciences 
+University of Massachusetts Amherst
+
+140 Governors Drive, Amherst, MA 01003, USA
+Abstract#==#Supervised distributional methods are applied successfully in lexical entailment, but recent work questioned whether these methods actually learn a relation between two words. Specifically, Levy et al. (2015) claimed that linear classifiers learn only separate properties of each word. We suggest a cheap and easy way to boost the performance of these methods by integrating multiplicative features into commonly used representations. We provide an extensive evaluation with different classifiers and evaluation setups, and suggest a suitable evaluation setup for the task, eliminating biases existing in previous ones.
+Author{1}{Firstname}#=%=#Tu
+Author{1}{Lastname}#=%=#Vu
+Author{1}{Email}#=%=#tuvu@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Vered
+Author{2}{Lastname}#=%=#Shwartz
+Author{2}{Email}#=%=#vered1986@gmail.com
+Author{2}{Affiliation}#=%=#Bar-Ilan University
+
+==========

@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#158
+FinalPaperTitle#=%=#Putting Semantics into Semantic Roles
+ShortPaperTitle#=%=#Putting Semantics into Semantic Roles
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Choh Man Teng
+JobTitle#==#
+Organization#==#Institute for Human and Machine Cognition
+40 South Alcaniz Street, Pensacola FL 32502, USA
+Abstract#==#While there have been many proposals for theories of semantic roles over the years, these models are mostly justified by intuition and the only evaluation methods have been inter-annotator agreement. We explore three different ideas for providing more rigorous theories of semantic roles.  These ideas give rise to more objective criteria for designing role sets, and lend themselves to some experimental evaluation. We illustrate the discussion by examining the semantic roles in TRIPS.
+Author{1}{Firstname}#=%=#James
+Author{1}{Lastname}#=%=#Allen
+Author{1}{Email}#=%=#james@cs.rochester.edu
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#Choh Man
+Author{2}{Lastname}#=%=#Teng
+Author{2}{Email}#=%=#cmteng@ihmc.us
+Author{2}{Affiliation}#=%=#Institute for Human and Machine Cognition
+
+==========

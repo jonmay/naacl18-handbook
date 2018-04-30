@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#96
+FinalPaperTitle#=%=#Graph Algebraic Combinatory Categorial Grammar
+ShortPaperTitle#=%=#Graph Algebraic Combinatory Categorial Grammar
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sebastian Beschke
+JobTitle#==#
+Organization#==#University of Hamburg
+Department of Informatics
+Vogt-Kölln-Straße 30, 22527 Hamburg, Germany
+Abstract#==#This paper describes CCG/AMR, a novel grammar for semantic parsing of Abstract Meaning Representations. CCG/AMR equips Combinatory Categorial Grammar derivations with graph semantics by assigning each CCG combinator an interpretation in terms of a graph algebra.
+
+We provide an algorithm that induces a CCG/AMR from a corpus and show that it creates a compact lexicon with low ambiguity and achieves a robust coverage of 78% of the examined sentences under ideal conditions.
+
+We also identify several phenomena that affect any approach relying either on CCG or graph algebraic approaches for AMR parsing. This includes differences of representation between CCG and AMR, as well as non-compositional constructions that are not expressible through a monotonous construction process. To our knowledge, this paper provides the first analysis of these corpus issues.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Beschke
+Author{1}{Email}#=%=#beschke@informatik.uni-hamburg.de
+Author{1}{Affiliation}#=%=#University of Hamburg
+Author{2}{Firstname}#=%=#Wolfgang
+Author{2}{Lastname}#=%=#Menzel
+Author{2}{Email}#=%=#menzel@informatik.uni-hamburg.de
+Author{2}{Affiliation}#=%=#University of Hamburg
+
+==========

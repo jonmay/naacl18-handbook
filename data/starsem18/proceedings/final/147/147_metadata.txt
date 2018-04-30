@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#147
+FinalPaperTitle#=%=#Learning Neural Word Salience Scores
+ShortPaperTitle#=%=#Learning Neural Word Salience Scores
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Danushka Bollegala
+JobTitle#==#
+Organization#==#University of Liverpool
+Abstract#==#Measuring the salience of a word is an essential step in numerous NLP tasks.
+Heuristic approaches such as tfidf have been used so far to estimate the salience of words. 
+We propose \emph{Neural Word Salience} (NWS) scores, unlike heuristics, are learnt from a corpus.
+Specifically, we learn word salience scores such that, using pre-trained word embeddings as the input, can accurately predict the words that appear in a sentence, given the words that appear in the sentences preceding or succeeding that sentence.
+Experimental results on sentence similarity prediction show that the learnt word salience scores perform comparably or better than some of the state-of-the-art approaches for representing sentences on benchmark datasets for sentence similarity, while using only a fraction of the training and prediction times required by prior methods.
+Moreover, our NWS scores positively correlate with psycholinguistic measures such as concreteness, and imageability implying a close connection to the salience as perceived by humans.
+Author{1}{Firstname}#=%=#Krasen
+Author{1}{Lastname}#=%=#Samardzhiev
+Author{1}{Email}#=%=#krasensam@gmail.com
+Author{1}{Affiliation}#=%=#University of Liverpool
+Author{2}{Firstname}#=%=#Andrew
+Author{2}{Lastname}#=%=#Gargett
+Author{2}{Email}#=%=#andrew.gargett@stfc.ac.uk
+Author{2}{Affiliation}#=%=#STFC
+Author{3}{Firstname}#=%=#Danushka
+Author{3}{Lastname}#=%=#Bollegala
+Author{3}{Email}#=%=#danushka@liverpool.ac.uk
+Author{3}{Affiliation}#=%=#University of Liverpool
+
+==========

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#138
+FinalPaperTitle#=%=#Robust Handling of Polysemy via Sparse Representations
+ShortPaperTitle#=%=#Robust Handling of Polysemy via Sparse Representations
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Abhijit Mahabal
+JobTitle#==#
+Organization#==#Google, 1600 Ampithetre Pkwy, Mountain View, CA 94043
+Abstract#==#Words are polysemous and multi-faceted, with many shades of meanings. We suggest that sparse distributed representations are more suitable than other, commonly used, (dense) representations to express these multiple facets, and present Category Builder, a working system that, as we show, makes use of sparse representations to support multi-faceted lexical representations. We argue that the set expansion task is well suited to study these meaning distinctions since a word may belong to multiple sets with a different reason for membership in each. We therefore exhibit the performance of Category Builder on this task, while showing that our representation captures at the same time analogy problems such as “the Ganga of Egypt” or “the Voldemort of Tolkien”. Category Builder is shown to be a more expressive lexical representation and to outperform dense representations such as Word2Vec in some analogy classes despite being shown only two of the three input terms.
+Author{1}{Firstname}#=%=#Abhijit
+Author{1}{Lastname}#=%=#Mahabal
+Author{1}{Email}#=%=#amahabal@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Dan
+Author{2}{Lastname}#=%=#Roth
+Author{2}{Email}#=%=#danr@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois
+Author{3}{Firstname}#=%=#Sid
+Author{3}{Lastname}#=%=#Mittal
+Author{3}{Email}#=%=#sidmitt@yahoo.com
+Author{3}{Affiliation}#=%=#Google AI
+
+==========

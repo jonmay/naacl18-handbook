@@ -1,0 +1,60 @@
+# Edit this file: 
+# reorder the lines that correspond to papers 
+#   and modify time slot, e.g. 9:00--9:30 
+# add lines for 
+#   start of new day, format: * DAY
+#   session headline, format: = HEADLINE 
+#   additional items, format: + TIME DESCRIPTION
+* June 5th, 2018
+! 9:15--9:30 Opening Remarks
+= 9:00--10:30 Session 1
+! 9:30--10:30 Invited Talk by Ellie Pavlick (Brown University): Why Should we Care about Linguistics?
+! 10:30--11:00 Coffee Break
+= 11:30--12:30 Session 2
+118 11:00--11:30 # Kian Kenyon-Dean, Jackie Chi Kit Cheung and Doina Precup - "Resolving Event Coreference with Supervised Representation Learning and Clustering-Oriented Regularization"
+132 11:30--12:00 # Xudong Hong, Asad Sayeed and Vera Demberg - "Learning Distributed Event Representations with a Multi-task Approach"
+110 12:00--12:15 # Sabine Schulte im Walde, Maximilian Köper and Sylvia Springorum - "Assessing Meaning Components in German Complex Verbs: a Collection of Source-Target Domains and Directionality"
+147 12:15--12:30 # Krasen Samardzhiev, Andrew Gargett and Danushka Bollegala - "Learning Neural Word Salience Scores"
+! 12:30--14:00 Lunch Break
+= 14:00--15:30 Session 3
+151 14:00--14:30 # Svetlana Kiritchenko and Saif Mohammad - "Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems"
+96 14:30--15:00 # Sebastian Beschke and Wolfgang Menzel - "Graph Algebraic Combinatory Categorial Grammar"
+100 15:00--15:15 # Daniil Sorokin and Iryna Gurevych - "Mixing Context Granularities for Improved Entity Linking on Question Answering Data across Entity Categories"
+141 15:15--15:30 # Daniela Naumann, Diego Frassinelli and Sabine Schulte im Walde - "Quantitative Semantic Variation in the Contexts of Concrete and Abstract Words"
+! 15:30--16:00 Coffee Break
+= 16:00--18:00 Session 4
++ 16:00--16:50 Poster Booster
++ 16:50--18:00 Poster Session
+109 # Gilbert Badaro, Hussein Jundi, Hazem Hajj and Wassim El-Hajj - "EmoWordNet: Automatic Expansion of Emotion Lexicon Using English WordNet"
+7 # Amir Bakarov, Roman Suvorov and Ilya Sochenkov - "The Limitations of Cross-language Word Embeddings Evaluation"S
+144 # Francesco Barbieri and Jose Camacho-Collados - "How Gender and Skin Tone Modifiers Affect Emoji Semantics in Twitter"
+164 # Jihun Choi, Taeuk Kim and Sang-goo Lee- "Element-wise Bilinear Interaction for Sentence Matching"
+143 # Richard Crouch and Aikaterini-Lida Kalouli - "Named Graphs for Semantic Representation"
+93 # Dmitriy Dligach and Timothy Miller - "Learning Patient Representations from Text"
+111 # Hai Hu and Larry Moss - "Polarity Computations in Flexible Categorial Grammar"
+129 # Laura Kallmeyer, Behrang QasemiZadeh and Jackie Chi Kit Cheung - "Coarse Lexical Frame Acquisition at the Syntax–Semantics Interface Using a Latent-Variable PCFG Model"
+104 # Hongyuan Mei, Sheng Zhang, Kevin Duh and Benjamin Van Durme - "Halo: Learning Semantics-Aware Representations for Cross-Lingual Information Extraction"
+103 # Qiang Ning, Zhongzhi Yu, Chuchu Fan and Dan Roth - "Exploiting Partially Annotated Data in Temporal Relation Extraction"
+142 # Benedicte Pierrejean and Ludovic Tanguy - "Predicting Word Embeddings Variability"
+106 # Tu Vu and Vered Shwartz - "Integrating Multiplicative Features into Supervised Distributional Methods for Lexical Entailment"
+159 # Vikas Yadav, Rebecca Sharp and Steven Bethard - "Deep Affix Features Improve Neural Named Entity Recognizers"
+135 # Sheng Zhang, Kevin Duh and Benjamin Van Durme - "Fine-grained Entity Typing through Increased Discourse Context and Adaptive Classification Thresholds"
+
+* June 6th, 2018
+= 9:00--10:30 Session 5
+! 9:00--10:00 Invited Talk by Christopher Potts (Stanford University): Linguists for Deep Learning; or How I Learned to Stop Worrying and Love Neural Networks
+163 10:00--10:30 # Adam Poliak, Jason Naradowsky, Aparajita Haldar, Rachel Rudinger and Benjamin Van Durme - "Hypothesis Only Baselines in Natural Language Inference"
+! 10:30--11:00 Coffee Break
+= 11:00--12:15 Session 6
+153 11:00-11:30 # Manasvi Sagarkar, John Wieting, Lifu Tu and Kevin Gimpel - "Quality Signals in Generated Stories"
+115 11:30-12:00 # Wenpeng Yin and Dan Roth - "Term Definitions Help Hypernymy Detection"
+99 12:00-12:15 # Michael Wojatzki, Torsten Zesch, Saif Mohammad and Svetlana Kiritchenko - "Agree or Disagree: Predicting Judgments on Nuanced Assertions"
+! 12:15--14:00 Lunch Break
+= 14:00--15:30 Session 7
+112 14:00-14:30 # Hatem Mousselly Sergieh, Teresa Botschen, Iryna Gurevych and Stefan Roth - "A Multimodal Translation-based Approach for Knowledge Graph Representation Learning"
+158 14:30-15:30 # James Allen and Choh Man Teng - "Putting Semantics into Semantic Roles"
+139 15:00-15:30 # Valerio Basile, Roque Lopez Condori and Elena Cabrio - "Measuring Frame Instance Relatedness"
+! 15:30--16:00 Coffee Break
+130 16:00-16:30 # Xia Cui, Sadamori Kojaku, Naoki Masuda and Danushka Bollegala - "Solving Feature Sparseness in Text Classification Using Core-Periphery Decomposition"
+138 16:30-17:00 # Abhijit Mahabal, Dan Roth and Sid Mittal - "Robust Handling of Polysemy via Sparse Representations"
+121 17:00-17:30 # Nam Khanh Tran and Weiwei Cheng - "Multiplicative Tree-Structured Long Short-Term Memory Networks for Semantic Representations"

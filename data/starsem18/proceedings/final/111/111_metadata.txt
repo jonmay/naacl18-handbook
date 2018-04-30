@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#111
+FinalPaperTitle#=%=#Polarity Computations in Flexible Categorial Grammar
+ShortPaperTitle#=%=#Polarity Computations in Flexible Categorial Grammar
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hai Hu
+JobTitle#==#
+Organization#==#Department of Linguistics,
+Ballantine Hall 844,
+1020 E. Kirkwood Avenue,
+Bloomington, IN, USA
+Abstract#==#This paper shows how to take parse trees in CCG and algorithmically find the polarities of all the constituents. Our work uses the well-known polarization principle corresponding to function application, and we have extended this with principles for type raising and composition. We provide an algorithm, extending the polarity marking algorithm of van Benthem. We discuss how our system works in practice, taking input from the C&C parser.
+Author{1}{Firstname}#=%=#Hai
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Email}#=%=#huhai@indiana.edu
+Author{1}{Affiliation}#=%=#Indiana University
+Author{2}{Firstname}#=%=#Larry
+Author{2}{Lastname}#=%=#Moss
+Author{2}{Email}#=%=#lsm@cs.indiana.edu
+Author{2}{Affiliation}#=%=#Indiana University, Bloomington
+
+==========

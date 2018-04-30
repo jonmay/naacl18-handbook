@@ -1,5 +1,5 @@
 * Tuesday June 5, 2018
-= 09:00--9:15 Opening Remarks %chair1 Philip Resnik, Rebecca Resnik, Kate Niederhoffer, Kate Loveys, Emily Prud'hommeaux
+= 9:00--9:15 Opening Remarks # %chair1 Philip Resnik, Rebecca Resnik, Kate Niederhoffer, Kate Loveys, Emily Prud'hommeaux
 = 9:15--10:35 Workshop Session I: Presentations with Discussant Commentary
 111   # What type of happiness are you looking for? - A closer look at detecting mental health from language
 102   # A Linguistically-Informed Fusion Approach for Multimodal Depression Detection
@@ -9,7 +9,7 @@
 = 11:40--12:40 Workshop Session II: Shared Task Presentations with Discussant Commentary
 129   # CLPsych 2018 Shared Task: Predicting Current and Future Psychological Health from Childhood Essays
 130   # An Approach to the CLPsych 2018 Shared Task Using Top-Down Text Representation and Simple Bottom-Up Model Selection
-= 12:40--2:00 Lunch and Poster Session
+= 12:40--14:00 Lunch and Poster Session
 100   # Using contextual information for automatic triage of posts in a peer-support forum
 101   # Hierarchical neural model with attention mechanisms for the classification of social media text related to mental health
 113   # Cross-cultural differences in language markers of depression online
@@ -19,15 +19,15 @@
 124   # A Psychologically Informed Approach to CLPsych Shared Task 2018
 126   # Predicting Psychological Health from Childhood Essays. The UGent-IDLab CLPsych 2018 Shared Task System.
 127   # Can adult mental health be predicted by childhood future-self narratives? Insights from the CLPsych 2018 Shared Task
-= 2:00--3:00 Workshop Session III: Presentations with Discussant Commentary
+= 14:00--15:00 Workshop Session III: Presentations with Discussant Commentary
 104   # Automatic Detection of Incoherent Speech for Diagnosing Schizophrenia
 105   # Oral-Motor and Lexical Diversity During Naturalistic Conversations in Adults with Autism Spectrum Disorder
-= 3:00--3:30 Workshop Session IV: Short Presentations
+= 15:00--15:30 Workshop Session IV: Short Presentations
 114   # Dynamics of an idiostyle of a Russian suicidal blogger
 110   # RSDD-Time: Temporal Annotation of Self-Reported Mental Health Diagnoses
-= 3:30--4:00 Break
-= 4:00--4:45 Workshop Session V: Short Presentations
+= 15:30--16:00 Break
+= 16:00--16:45 Workshop Session V: Short Presentations
 117   # Predicting Human Trustfulness from Facebook Language
 121   # Within and Between-Person Differences in Language Used Across Anxiety Support and Neutral Reddit Communities
 115   # Helping or Hurting? Predicting Changes in Users' Risk of Self-Harm Through Online Community Interactions
-= 4:45--5:30 Workshop General Discussion and Closing Remarks %chair1 Philip Resnik, Rebecca Resnik, Kate Niederhoffer, Kate Loveys, Emily Prud'hommeaux
+= 16:45--17:30 Workshop General Discussion and Closing Remarks # %chair1 Philip Resnik, Rebecca Resnik, Kate Niederhoffer, Kate Loveys, Emily Prud'hommeaux

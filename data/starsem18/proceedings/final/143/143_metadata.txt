@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#143
+FinalPaperTitle#=%=#Named Graphs for Semantic Representation
+ShortPaperTitle#=%=#Named Graphs for Semantic Representation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Richard Crouch
+JobTitle#==#
+Organization#==#A9, 101 Lytton Ave, Palo Alto, CA
+Abstract#==#A position paper arguing that purely graphical representations for natural language semantics lack a fundamental degree of expressiveness, and cannot deal with even basic Boolean operations like negation or disjunction. Moving from graphs to named graphs leads to representations that stand some chance of having sufficient expressive power. Named $\pazocal{FL}_0$ graphs are of particular interest.
+Author{1}{Firstname}#=%=#Richard
+Author{1}{Lastname}#=%=#Crouch
+Author{1}{Email}#=%=#dick.crouch@gmail.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Aikaterini-Lida
+Author{2}{Lastname}#=%=#Kalouli
+Author{2}{Email}#=%=#aikaterini-lida.kalouli@uni-konstanz.de
+Author{2}{Affiliation}#=%=#University of Konstanz
+
+==========

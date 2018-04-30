@@ -14,8 +14,8 @@ Author{2}{Firstname}#=%=#Patricia
 Author{2}{Lastname}#=%=#M.Davies
 Author{2}{Email}#=%=#patricia.davies@wlv.ac.uk
 Author{2}{Affiliation}#=%=#University of Wolverhampton
-Author{3}{Firstname}#=%=#Rebecca
-Author{3}{Lastname}#=%=#J. Passonneau
+Author{3}{Firstname}#=%=#Rebecca J.
+Author{3}{Lastname}#=%=#Passonneau
 Author{3}{Email}#=%=#rjp49@cse.psu.edu
 Author{3}{Affiliation}#=%=#Penn State University
 

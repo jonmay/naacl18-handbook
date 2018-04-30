@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#109
+FinalPaperTitle#=%=#EmoWordNet: Automatic Expansion of Emotion Lexicon Using English WordNet
+ShortPaperTitle#=%=#EmoWordNet: Automatic Expansion of Emotion Lexicon Using English WordNet
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Gilbert Badaro
+JobTitle#==#
+Organization#==#American University of Beirut, Riad El Solh, Beirut, Lebanon
+Abstract#==#Nowadays, social media have become a platform where people can easily express their opinions and emotions about any topic such as politics, movies, music, electronic products and many others. On the other hand, politicians, companies, and businesses are interested in analyzing automatically people's opinions and emotions. In the last decade, a lot of efforts has been put into extracting sentiment polarity from texts. Recently, the focus has expanded to also cover emotion recognition from texts. In this work, we expand an existing emotion lexicon, DepecheMood, by leveraging semantic knowledge from English WordNet (EWN). We create an expanded lexicon, EmoWordNet, consisting of 67K terms aligned with EWN, almost 1.8 times the size of DepecheMood. We also evaluate EmoWordNet in an emotion recognition task using SemEval 2007 news headlines dataset and we achieve an improvement compared to the use of DepecheMood. EmoWordNet is publicly available to speed up research in the field on http://oma-project.com.
+Author{1}{Firstname}#=%=#Gilbert
+Author{1}{Lastname}#=%=#Badaro
+Author{1}{Email}#=%=#ggb05@aub.edu.lb
+Author{1}{Affiliation}#=%=#American University of Beirut
+Author{2}{Firstname}#=%=#Hussein
+Author{2}{Lastname}#=%=#Jundi
+Author{2}{Email}#=%=#haj14@mail.aub.edu
+Author{2}{Affiliation}#=%=#American University of Beirut
+Author{3}{Firstname}#=%=#Hazem
+Author{3}{Lastname}#=%=#Hajj
+Author{3}{Email}#=%=#hh63@aub.edu.lb
+Author{3}{Affiliation}#=%=#American University of Beirut
+Author{4}{Firstname}#=%=#Wassim
+Author{4}{Lastname}#=%=#El-Hajj
+Author{4}{Email}#=%=#we07@aub.edu.lb
+Author{4}{Affiliation}#=%=#American University of Beirut
+
+==========

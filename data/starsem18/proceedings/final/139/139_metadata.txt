@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#139
+FinalPaperTitle#=%=#Measuring Frame Instance Relatedness
+ShortPaperTitle#=%=#Measuring Frame Instance Relatedness
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Valerio Basile
+JobTitle#==#
+Organization#==#University of Turin
+Abstract#==#Frame semantics is a well-established framework to represent the meaning of natural language in computational terms. 
+
+In this work, we aim to propose a quantitative measure of relatedness between pairs of frame instances. We test our method on a dataset of sentence pairs, highlighting the correlation between our metric and human judgments of semantic similarity. Furthermore, we propose an application of our measure for clustering frame instances to extract prototypical knowledge from natural language.
+Author{1}{Firstname}#=%=#Valerio
+Author{1}{Lastname}#=%=#Basile
+Author{1}{Email}#=%=#basile@di.unito.it
+Author{1}{Affiliation}#=%=#University of Turin
+Author{2}{Firstname}#=%=#Roque
+Author{2}{Lastname}#=%=#Lopez Condori
+Author{2}{Email}#=%=#roque.lopez-condori@inria.fr
+Author{2}{Affiliation}#=%=#Université Côte d’Azur, Inria, CNRS, I3S
+Author{3}{Firstname}#=%=#Elena
+Author{3}{Lastname}#=%=#Cabrio
+Author{3}{Email}#=%=#elena.cabrio@unice.fr
+Author{3}{Affiliation}#=%=#Université Côte d’Azur, Inria, CNRS, I3S
+
+==========

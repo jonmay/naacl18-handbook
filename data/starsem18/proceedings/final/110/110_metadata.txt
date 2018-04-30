@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#110
+FinalPaperTitle#=%=#Assessing Meaning Components in German Complex Verbs: A Collection of Source-Target Domains and Directionality
+ShortPaperTitle#=%=#A Collection of Source-Target Domains and Directionality for German Complex Verbs
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sabine Schulte im Walde
+JobTitle#==#
+Organization#==#Institute for Natural Language Processing, University of Stuttgart
+Abstract#==#This paper presents a collection to assess meaning components in
+  German complex verbs, which frequently undergo meaning shifts. We
+  use a novel strategy to obtain source and target domain
+  characterisations via sentence generation rather than sentence
+  annotation. A selection of arrows adds spatial directional
+  information to the generated contexts. We provide a broad
+  qualitative description of the dataset, and a series of standard
+  classification experiments verifies the quantitative reliability of
+  the presented resource. The setup for collecting the meaning
+  components is applicable also to other languages, regarding complex
+  verbs as well as other language-specific targets that involve
+  meaning shifts.
+Author{1}{Firstname}#=%=#Sabine
+Author{1}{Lastname}#=%=#Schulte im Walde
+Author{1}{Email}#=%=#schulte@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Maximilian
+Author{2}{Lastname}#=%=#Köper
+Author{2}{Email}#=%=#koepermn@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{3}{Firstname}#=%=#Sylvia
+Author{3}{Lastname}#=%=#Springorum
+Author{3}{Email}#=%=#sylvia.springorum@ims.uni-stuttgart.de
+Author{3}{Affiliation}#=%=#IMS, Universität Stuttgart
+
+==========
