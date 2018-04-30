@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#1533
+FinalPaperTitle#=%=#CL Scholar: The ACL Anthology Knowledge Graph Miner
+ShortPaperTitle#=%=#CL Scholar: The ACL Anthology Knowledge Graph Miner
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Mayank Singh
+JobTitle#==#
+Organization#==#Mayank Singh
+IIT Kharagpur
+Abstract#==#We present CL Scholar, the ACL Anthology knowledge graph miner to facilitate
+high-quality search and exploration of current research progress in the
+computational linguistics community. In contrast to previous works,
+periodically crawling, indexing and processing of new incoming articles is
+completely automated in the current system. CL Scholar utilizes both textual
+and network information for knowledge graph construction. As an additional
+novel initiative, CL Scholar supports more than 1200 scholarly natural language
+queries along with standard keyword-based search on constructed knowledge
+graph. It answers binary, statistical and list based natural language queries.
+The current system is deployed at http://cnerg.iitkgp.ac.in/aclakg. We also
+provide REST API support along with bulk download facility. Our code and data are available at https://github.com/CLScholar.
+Author{1}{Firstname}#=%=#Mayank
+Author{1}{Lastname}#=%=#Singh
+Author{1}{Email}#=%=#mayank.singh@cse.iitkgp.ernet.in
+Author{1}{Affiliation}#=%=#IIT Kharagpur
+Author{2}{Firstname}#=%=#Pradeep
+Author{2}{Lastname}#=%=#Dogga
+Author{2}{Email}#=%=#pradeepdogga@gmail.com
+Author{2}{Affiliation}#=%=#IIT Kharagpur
+Author{3}{Firstname}#=%=#Sohan
+Author{3}{Lastname}#=%=#Patro
+Author{3}{Email}#=%=#sohanpatro2014@gmail.com
+Author{3}{Affiliation}#=%=#IIT Kharagpur
+Author{4}{Firstname}#=%=#Dhiraj
+Author{4}{Lastname}#=%=#Barnwal
+Author{4}{Email}#=%=#sumankumaribarnwal@gmail.com
+Author{4}{Affiliation}#=%=#IIT Kharagpur
+Author{5}{Firstname}#=%=#Ritam
+Author{5}{Lastname}#=%=#Dutt
+Author{5}{Email}#=%=#ritam.dutt@gmail.com
+Author{5}{Affiliation}#=%=#IIT Kharagpur
+Author{6}{Firstname}#=%=#Rajarshi
+Author{6}{Lastname}#=%=#Haldar
+Author{6}{Email}#=%=#rajarshihal@gmail.com
+Author{6}{Affiliation}#=%=#IIT Kharagpur
+Author{7}{Firstname}#=%=#Pawan
+Author{7}{Lastname}#=%=#Goyal
+Author{7}{Email}#=%=#pawang@cse.iitkgp.ernet.in
+Author{7}{Affiliation}#=%=#IIT Kharagpur
+Author{8}{Firstname}#=%=#Animesh
+Author{8}{Lastname}#=%=#Mukherjee
+Author{8}{Email}#=%=#animeshm@cse.iitkgp.ernet.in
+Author{8}{Affiliation}#=%=#IIT Kharagpur
+
+==========

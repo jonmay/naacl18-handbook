@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1536
+FinalPaperTitle#=%=#Sounding Board: A User-Centric and Content-Driven Social Chatbot
+ShortPaperTitle#=%=#Sounding Board: A User-Centric and Content-Driven Social Chatbot
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Hao Fang
+JobTitle#==#
+Organization#==#University of Washington
+Department of Electrical Engineering
+185 Steven Way
+Seattle, WA 98195-2500
+Abstract#==#We present Sounding Board, a social chatbot that won the 2017 Amazon Alexa Prize. The system architecture consists of several components including spoken language processing, dialogue management, language generation, and content management, with emphasis on user-centric and content-driven design. We also share insights gained from large-scale online logs based on 160,000 conversations with real-world users.
+Author{1}{Firstname}#=%=#Hao
+Author{1}{Lastname}#=%=#Fang
+Author{1}{Email}#=%=#hfang@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Cheng
+Author{2}{Email}#=%=#chenghao@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Maarten
+Author{3}{Lastname}#=%=#Sap
+Author{3}{Email}#=%=#msap@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Elizabeth
+Author{4}{Lastname}#=%=#Clark
+Author{4}{Email}#=%=#eaclark07@gmail.com
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Firstname}#=%=#Ari
+Author{5}{Lastname}#=%=#Holtzman
+Author{5}{Email}#=%=#ahai@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+Author{6}{Firstname}#=%=#Yejin
+Author{6}{Lastname}#=%=#Choi
+Author{6}{Email}#=%=#yejin@cs.washington.edu
+Author{6}{Affiliation}#=%=#University of Washington
+Author{7}{Firstname}#=%=#Noah A.
+Author{7}{Lastname}#=%=#Smith
+Author{7}{Email}#=%=#nasmith@cs.washington.edu
+Author{7}{Affiliation}#=%=#University of Washington
+Author{8}{Firstname}#=%=#Mari
+Author{8}{Lastname}#=%=#Ostendorf
+Author{8}{Email}#=%=#ostendor@u.washington.edu
+Author{8}{Affiliation}#=%=#University of Washington
+
+==========

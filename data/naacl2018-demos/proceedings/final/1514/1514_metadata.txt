@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1514
+FinalPaperTitle#=%=#ELISA-EDL: A Cross-lingual Entity Extraction, Linking and Localization System
+ShortPaperTitle#=%=#ELISA-EDL: A Cross-lingual Entity Extraction, Linking and Localization System
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ying Lin
+JobTitle#==#
+Organization#==#Rensselaer Polytechnic Institute, 110 8th St, Troy, NY 12180
+Abstract#==#We demonstrate ELISA-EDL, a state-of-the-art re-trainable system to extract
+entity mentions from low-resource languages, link them to external English
+knowledge bases, and visualize locations related to disaster topics on a world
+heatmap. We make all of our data sets, resources and system training and
+testing APIs publicly available for research purpose.
+Author{1}{Firstname}#=%=#Boliang
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#boliangzhang85@gmail.com
+Author{1}{Affiliation}#=%=#Rensselaer Polytechnic Institue
+Author{2}{Firstname}#=%=#Ying
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Email}#=%=#liny9@rpi.edu
+Author{2}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{3}{Firstname}#=%=#Xiaoman
+Author{3}{Lastname}#=%=#Pan
+Author{3}{Email}#=%=#panx2@rpi.edu
+Author{3}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{4}{Firstname}#=%=#Di
+Author{4}{Lastname}#=%=#Lu
+Author{4}{Email}#=%=#lud2@rpi.edu
+Author{4}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{5}{Firstname}#=%=#Jonathan
+Author{5}{Lastname}#=%=#May
+Author{5}{Email}#=%=#jonmay@gmail.com
+Author{5}{Affiliation}#=%=#USC Information Sciences Institute
+Author{6}{Firstname}#=%=#Kevin
+Author{6}{Lastname}#=%=#Knight
+Author{6}{Email}#=%=#knight@isi.edu
+Author{6}{Affiliation}#=%=#USC/ISI
+Author{7}{Firstname}#=%=#Heng
+Author{7}{Lastname}#=%=#Ji
+Author{7}{Email}#=%=#jih@rpi.edu
+Author{7}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+
+==========

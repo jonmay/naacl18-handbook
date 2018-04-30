@@ -1,19 +1,29 @@
 \begin{tutorial}
-  {Deep Learning for Semantic Composition}
+  {Scalable Construction and Reasoning of Massive Knowledge Bases}
   {tutorial-003}
   {\daydateyear, \tutorialmorningtime}
   {\TutLocC}
 \end{tutorial}
 
-Learning representation to model the meaning of text has been a core problem in NLP. The last several years have seen extensive interests on distributional approaches, in which text spans of different granularities are encoded as vectors of numerical values. If properly learned, such representation has showed to achieve the state-of-the-art performance on a wide range of NLP problems.
- 
-In this tutorial, we will cover the fundamentals and the state-of-the-art research on neural network-based modeling for semantic composition, which aims to learn distributed representation for different granularities of text, e.g., phrases, sentences, or even documents, from their sub-component meaning representation, e.g., word embedding.
+ In today's information-based society, there is abundant knowledge out there carried in the form of natural language texts (e.g., news articles, social media posts, scientific publications), which spans across various domains (e.g., corporate documents, advertisements, legal acts, medical reports), which grows at an astonishing rate. Yet this knowledge is mostly inaccessible to computers and overwhelming for human experts to absorb. How to turn such massive and unstructured text data into structured, actionable knowledge, and furthermore, how to teach machines learn to reason and complete the extracted knowledge is a grand challenge to the research community.
+
+Traditional IE systems assume abundant human annotations for training high quality machine learning models, which is impractical when trying to deploy IE systems to a broad range of domains, settings and languages.
+
+In the first part of the tutorial, we introduce how to extract structured facts (i.e., entities and their relations for types of interest) from text corpora to construct knowledge bases, with a focus on methods that are weakly-supervised and domain-independent for timely knowledge base construction across various application domains.
+
+In the second part, we introduce how to leverage other knowledge, such as the distributional statistics of characters and words, the annotations for other tasks and other domains, and the linguistics and problem structures, to combat the problem of inadequate supervision, and conduct low-resource information extraction.
+
+In the third part, we describe recent advances in knowledge base reasoning. We start with the gentle introduction to the literature, focusing on path-based and embedding based methods. We then describe DeepPath, a recent attempt of using deep reinforcement learning to combine the best of both worlds for knowledge base reasoning.
 
 \vspace{2ex}\centerline{\rule{.5\linewidth}{.5pt}}\vspace{2ex}
 \setlength{\parskip}{1ex}\setlength{\parindent}{0ex}
 
-  {\bfseries Xiaodan Zhu} is an Assistant Professor of the Department of Electrical and Computer Engineering of Queen’s University, Canada. Before that, he was a Research Officer of the National Research Council Canada. His research interests are in Natural Language Processing and Machine Learning. His recent work has focused on deep learning, semantic composition, sentiment analysis, and natural language inference.
-  \index{Zhu, Xiaodan}
+  {\bfseries Xiang Ren} (xiangren@usc.edu, http://www-bcf.usc.edu/~xiangren/), Assistant Professor, Department of Computer Science, University of Southern California. His research focuses on creating computational tools for better understanding and exploring massive text data. He has published over 25 papers in major conferences. He received Google PhD Fellowship, KDD Rising Star by Microsoft, Yahoo!-DAIS Research Excellence Award, C. W. Gear Outstanding Graduate Student Award by UIUC and Yelp Dataset Challenge Award. Mr. Ren has rich experiences in delivering tutorials in major conferences, including SIGKDD 2015, SIGMOD 2016 and WWW 2017. 
+  \index{Ren, Xiang}
 
-  {\bfseries Edward Grefenstette} is a Staff Research Scientist at DeepMind. His research covers the intersection of Machine Learning, Computer Reasoning, and Natural Language Understanding. Recent publications cover the topics of neural computation, representation learning at the sentence level, recognising textual entailment, and machine reading. 
-  \index{Grefenstette, Edward}
+  {\bfseries Nanyun Peng} (npeng@isi.edu, http://www.vnpeng.net), Computer Scientist, Information Sciences Institute, University of Southern California. She is broadly interested in Natural Language Processing, Machine Learning, and Information Extraction. Her research focuses on low-resource information extraction, creative language generation, and phonology/morphology modeling. Nanyun is the recipient of the Johns Hopkins University 2016 Fred Jelinek Fellowship. She has a background in computational linguistics and economics and holds BAs in both.
+  \index{Peng, Nanyun}
+
+  {\bfseries William Yang Wang} (william@cs.ucsb.edu, http://www. cs.ucsb.edu/~william/) is an Assistant Professor at the Department of Computer Science, University of California, Santa Barbara. He received his PhD from Carnegie Mellon University, where he worked on scalable probabilistic reasoning language ProPPR with William Cohen. He focuses on information extraction and he is the faculty author of DeepPath—the first deep reinforcement learning system for multi-hop knowledge reasoning. He has published more than 40 papers at leading conferences and journals including ACL, EMNLP, NAACL, COLING, IJCAI, CIKM, SIGDIAL, IJCNLP, INTERSPEECH, ICASSP, ASRU, SLT, Machine Learning, and Computer Speech & Language, and he has received paper awards and honors from CIKM, ASRU, and EMNLP.
+  \index{Wang, William Yang}
+  

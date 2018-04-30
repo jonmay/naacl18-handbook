@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#1502
+FinalPaperTitle#=%=#Know Who Your Friends Are: Understanding Social Connections from Unstructured Text
+ShortPaperTitle#=%=#Know Who Your Friends Are: Understanding Social Connections from Unstructured Text
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Lea Deleris
+JobTitle#==#
+Organization#==#IBM Research- Ireland
+Mulhuddart, Dublin 15
+Ireland
+Abstract#==#Having an understanding of interpersonal relationships is helpful in many contexts. Our system seeks to assist humans with that task, using textual information (e.g., case notes, speech transcripts, posts, books) as input. Specifically, our system first extracts qualitative and quantitative information elements (which we call signals) about interactions among persons, aggregates those to provide a condensed view of relationships and then enables users to explore all facets of the resulting social (multi-)graph through a visual interface.
+Author{1}{Firstname}#=%=#Lea
+Author{1}{Lastname}#=%=#Deleris
+Author{1}{Email}#=%=#lea.deleris@ie.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Francesca
+Author{2}{Lastname}#=%=#Bonin
+Author{2}{Email}#=%=#fbonin@ie.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research Ireland
+Author{3}{Firstname}#=%=#Elizabeth
+Author{3}{Lastname}#=%=#Daly
+Author{3}{Email}#=%=#elizabeth.daly@ie.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Stephane
+Author{4}{Lastname}#=%=#Deparis
+Author{4}{Email}#=%=#Stephane.deparis@ie.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research
+Author{5}{Firstname}#=%=#Yufang
+Author{5}{Lastname}#=%=#Hou
+Author{5}{Email}#=%=#bnuxiaofang@gmail.com
+Author{5}{Affiliation}#=%=#IBM Research Ireland
+Author{6}{Firstname}#=%=#Charles
+Author{6}{Lastname}#=%=#Jochim
+Author{6}{Email}#=%=#charlesj@ie.ibm.com
+Author{6}{Affiliation}#=%=#IBM Research
+Author{7}{Firstname}#=%=#Yassine
+Author{7}{Lastname}#=%=#Lassoued
+Author{7}{Email}#=%=#ylassoue@ie.ibm.com
+Author{7}{Affiliation}#=%=#IBM Research
+Author{8}{Firstname}#=%=#Killian
+Author{8}{Lastname}#=%=#Levacher
+Author{8}{Email}#=%=#killian.levacher@ibm.com
+Author{8}{Affiliation}#=%=#IBM Research
+
+==========

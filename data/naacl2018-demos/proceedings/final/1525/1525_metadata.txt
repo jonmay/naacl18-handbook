@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1525
+FinalPaperTitle#=%=#RiskFinder: A Sentence-level Risk Detector for Financial Reports
+ShortPaperTitle#=%=#RiskFinder: A Sentence-level Risk Detector for Financial Reports
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Chuan-Ju Wang
+JobTitle#==#
+Organization#==#Research Center for Information Technology Innovation, Academia Sinica
+128 Academia Road, Section 2, Nankang, Taipei 115, Taiwan
+Abstract#==#This paper presents a web-based information system, RiskFinder, for
+facilitating the analyses of soft and hard information in financial reports. 
+In particular, the system broadens the analyses from the word level to sentence
+level, which makes the system useful for practitioner communities and
+unprecedented among financial academics.  The proposed system has four main
+components: 1) a Form 10-K risk-sentiment dataset, consisting of a set of
+risk-labeled financial sentences and pre-trained sentence embeddings; 2)
+metadata, including basic information on each company that published the Form
+10-K financial report as well as several relevant financial measures; 3) an
+interface that highlights risk-related sentences in the financial reports based
+on the latest sentence embedding techniques; 4) a visualization of financial
+time-series data for a corresponding company.  This paper also conducts some
+case studies to showcase that the system can be of great help in capturing
+valuable insight within large amounts of textual information.  The system is
+now online available at https://cfda.csie.org/RiskFinder/.
+Author{1}{Firstname}#=%=#Yu-Wen
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#g10435@cs.nccu.edu.tw
+Author{1}{Affiliation}#=%=#National Chengchi University
+Author{2}{Firstname}#=%=#Liang-Chih
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#lcliu@ntut.edu.tw
+Author{2}{Affiliation}#=%=#National Taipei University of Technology
+Author{3}{Firstname}#=%=#Chuan-Ju
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#cjwang@citi.sinica.edu.tw
+Author{3}{Affiliation}#=%=#Academia Sinica
+Author{4}{Firstname}#=%=#Ming-Feng
+Author{4}{Lastname}#=%=#Tsai
+Author{4}{Email}#=%=#mftsai@nccu.edu.tw
+Author{4}{Affiliation}#=%=#National Chengchi University
+
+==========

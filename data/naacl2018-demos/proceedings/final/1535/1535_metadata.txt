@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#1535
+FinalPaperTitle#=%=#An automated medical scribe for documenting clinical encounters
+ShortPaperTitle#=%=#An automated medical scribe for documenting clinical encounters
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Gregory Finley
+JobTitle#==#
+Organization#==#EMR.AI Inc.
+90 New Montgomery St.
+San Francisco, CA 94105
+Abstract#==#A medical scribe is a clinical professional who charts patient–physician encounters in real time, relieving physicians of most of their administrative burden and substantially increasing productivity and job satisfaction. We present a complete implementation of an automated medical scribe. Our system can serve either as a scalable, standardized, and economical alternative to human scribes; or as an assistive tool for them, providing a first draft of a report along with a convenient means to modify it. This solution is, to our knowledge, the first automated scribe ever presented and relies upon multiple speech and language technologies, including speaker diarization, medical speech recognition, knowledge extraction, and natural language generation.
+Author{1}{Firstname}#=%=#Gregory
+Author{1}{Lastname}#=%=#Finley
+Author{1}{Email}#=%=#gregpfinley@gmail.com
+Author{1}{Affiliation}#=%=#EMR.AI
+Author{2}{Firstname}#=%=#Erik
+Author{2}{Lastname}#=%=#Edwards
+Author{2}{Email}#=%=#erik.edwards@emr.ai
+Author{2}{Affiliation}#=%=#EMR.AI
+Author{3}{Firstname}#=%=#Amanda
+Author{3}{Lastname}#=%=#Robinson
+Author{3}{Email}#=%=#amanda.robinson@emr.ai
+Author{3}{Affiliation}#=%=#EMR.AI
+Author{4}{Firstname}#=%=#Michael
+Author{4}{Lastname}#=%=#Brenndoerfer
+Author{4}{Email}#=%=#michael.brenndoerfer@emr.ai
+Author{4}{Affiliation}#=%=#University of California
+Author{5}{Firstname}#=%=#Najmeh
+Author{5}{Lastname}#=%=#Sadoughi
+Author{5}{Email}#=%=#najmeh.sadoughi@emr.ai
+Author{5}{Affiliation}#=%=#EMR.AI
+Author{6}{Firstname}#=%=#James
+Author{6}{Lastname}#=%=#Fone
+Author{6}{Email}#=%=#james.fone@emr.ai
+Author{6}{Affiliation}#=%=#EMR.AI
+Author{7}{Firstname}#=%=#Nico
+Author{7}{Lastname}#=%=#Axtmann
+Author{7}{Email}#=%=#nico.axtmann@emr.ai
+Author{7}{Affiliation}#=%=#DHBW
+Author{8}{Firstname}#=%=#Mark
+Author{8}{Lastname}#=%=#Miller
+Author{8}{Email}#=%=#mark.miller@emr.ai
+Author{8}{Affiliation}#=%=#EMR.AI
+Author{9}{Firstname}#=%=#David
+Author{9}{Lastname}#=%=#Suendermann-Oeft
+Author{9}{Email}#=%=#david@suendermann.com
+Author{9}{Affiliation}#=%=#ETS
+
+==========

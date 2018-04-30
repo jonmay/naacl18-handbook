@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#1508
+FinalPaperTitle#=%=#NLP Lean Programming Framework: Developing NLP Applications More Effectively
+ShortPaperTitle#=%=#NLP Lean Programming Framework: Developing NLP Applications More Effectively
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Marc Schreiber
+JobTitle#==#
+Organization#==#FH Aachen Campus Jülich
+Heinrich-Mußmann-Str.1
+52428 Jülich
+Germany
+Abstract#==#This paper presents NLP Lean Programming framework (NLPf), a new framework for
+creating custom Natural Language Processing (NLP) models and pipelines by
+utilizing common software development build systems. This approach allows
+developers to train and integrate domain-specific NLP pipelines into their
+applications seamlessly. Additionally, NLPf provides an annotation tool which
+improves the annotation process significantly by providing a well-designed GUI
+and sophisticated way of using input devices. Due to NLPf’s properties
+developers and domain experts are able to build domain-specific NLP application
+more effectively.
+
+Project page:   https://gitlab.com/schrieveslaach/NLPf
+Video Tutorial: https://www.youtube.com/watch?v=44UJspVebTA (Demonstration
+starts at 11:40 min)
+
+This paper is related to:
+
+- Interfaces and resources to support linguistic annotation
+- Software architectures and reusable components
+- Software tools for evaluation or error analysis
+Author{1}{Firstname}#=%=#Marc
+Author{1}{Lastname}#=%=#Schreiber
+Author{1}{Email}#=%=#marc.schreiber@fh-aachen.de
+Author{1}{Affiliation}#=%=#FH Aachen, University of Applied Sciences
+Author{2}{Firstname}#=%=#Bodo
+Author{2}{Lastname}#=%=#Kraft
+Author{2}{Email}#=%=#kraft@fh-aachen.de
+Author{2}{Affiliation}#=%=#FH Aachen, University of Applied Sciences
+Author{3}{Firstname}#=%=#Albert
+Author{3}{Lastname}#=%=#Zündorf
+Author{3}{Email}#=%=#zuendorf@uni-kassel.de
+Author{3}{Affiliation}#=%=#University of Kassel
+
+==========

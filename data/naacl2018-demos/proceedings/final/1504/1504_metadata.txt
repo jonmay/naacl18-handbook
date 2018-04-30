@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1504
+FinalPaperTitle#=%=#360° Stance Detection
+ShortPaperTitle#=%=#360° Stance Detection
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Sebastian Ruder
+JobTitle#==#
+Organization#==#Aylien Ltd., Dublin, Ireland
+Abstract#==#The proliferation of fake news and filter bubbles makes it increasingly
+difficult to form an unbiased, balanced opinion towards a topic. To ameliorate
+this, we propose 360° Stance Detection, a tool that aggregates news with
+multiple perspectives on a topic. It presents them on a spectrum ranging from
+support to opposition, enabling the user to base their opinion on multiple
+pieces of diverse evidence.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Ruder
+Author{1}{Email}#=%=#ruder.sebastian@gmail.com
+Author{1}{Affiliation}#=%=#National University of Ireland, Galway
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Glover
+Author{2}{Email}#=%=#john@aylien.com
+Author{2}{Affiliation}#=%=#Aylien Ltd., Dublin, Ireland
+Author{3}{Firstname}#=%=#Afshin
+Author{3}{Lastname}#=%=#Mehrabani
+Author{3}{Email}#=%=#afshin@aylien.com
+Author{3}{Affiliation}#=%=#Aylien Ltd., Dublin, Ireland
+Author{4}{Firstname}#=%=#Parsa
+Author{4}{Lastname}#=%=#Ghaffari
+Author{4}{Email}#=%=#parsa@aylien.com
+Author{4}{Affiliation}#=%=#Aylien Ltd., Dublin, Ireland
+
+==========

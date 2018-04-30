@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#1515
+FinalPaperTitle#=%=#Pay-Per-Request Deployment of Neural Network Models Using Serverless Architectures
+ShortPaperTitle#=%=#Pay-Per-Request Deployment of Neural Network Models Using Serverless Architectures
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jimmy Lin
+JobTitle#==#
+Organization#==#University of Waterloo
+Waterloo, Ontario, Canada
+Abstract#==#We demonstrate the serverless deployment of neural networks for model inferencing in NLP applications using Amazon's Lambda service for feedforward evaluation and DynamoDB for storing word embeddings. Our architecture realizes a pay-per-request pricing model, requiring zero ongoing costs for maintaining server instances. All virtual machine management is handled behind the scenes by the cloud provider without any direct developer intervention. We describe a number of techniques that allow efficient use of serverless resources, and evaluations confirm that our design is both scalable and inexpensive.
+Author{1}{Firstname}#=%=#Zhucheng
+Author{1}{Lastname}#=%=#Tu
+Author{1}{Email}#=%=#z3tu@uwaterloo.ca
+Author{1}{Affiliation}#=%=#University of Waterloo
+Author{2}{Firstname}#=%=#Mengping
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#m282li@uwaterloo.ca
+Author{2}{Affiliation}#=%=#University of Waterloo
+Author{3}{Firstname}#=%=#Jimmy
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{3}{Affiliation}#=%=#University of Waterloo
+
+==========

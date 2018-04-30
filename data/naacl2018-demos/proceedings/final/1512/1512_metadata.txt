@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1512
+FinalPaperTitle#=%=#SMILEE: Symmetric Multi-modal Interactions with Language-gesture Enabled (AI) Embodiment
+ShortPaperTitle#=%=#SMILEE: Symmetric Multi-modal Interactions with Language-gesture Enabled (AI) Embodiment
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Sujeong Kim
+JobTitle#==#Advanced computer scientist
+Organization#==#SRI International
+201 Washington Rd, Princeton, NJ, 08540
+Abstract#==#We demonstrate an intelligent conversational agent system designed for
+advancing human-machine collaborative tasks. The agent is able to interpret a
+user's communicative intent from both their verbal utterances and non-verbal
+behaviors, such as gestures. The agent is also itself able to communicate both
+with natural language and gestures, through its embodiment as an avatar thus
+facilitating natural symmetric multi-modal interactions. We demonstrate two
+intelligent agents with specialized skills in the Blocks World as use-cases of
+our system.
+Author{1}{Firstname}#=%=#Sujeong
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Email}#=%=#sujeong.kim@sri.com
+Author{1}{Affiliation}#=%=#SRI International
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Salter
+Author{2}{Email}#=%=#david.salter@sri.com
+Author{2}{Affiliation}#=%=#SRI International
+Author{3}{Firstname}#=%=#Luke
+Author{3}{Lastname}#=%=#DeLuccia
+Author{3}{Email}#=%=#luke.deluccia@sri.com
+Author{3}{Affiliation}#=%=#SRI International
+Author{4}{Firstname}#=%=#Kilho
+Author{4}{Lastname}#=%=#Son
+Author{4}{Email}#=%=#kilho.son@sri.com
+Author{4}{Affiliation}#=%=#SRI International
+Author{5}{Firstname}#=%=#Mohamed R.
+Author{5}{Lastname}#=%=#Amer
+Author{5}{Email}#=%=#mohamed.amer@sri.com
+Author{5}{Affiliation}#=%=#SRI International
+Author{6}{Firstname}#=%=#Amir
+Author{6}{Lastname}#=%=#Tamrakar
+Author{6}{Email}#=%=#amir.tamrakar@sri.com
+Author{6}{Affiliation}#=%=#SRI International
+
+==========

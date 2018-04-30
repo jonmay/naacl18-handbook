@@ -6,11 +6,11 @@
 #   session headline, format: = HEADLINE 
 #   additional items, format: + TIME DESCRIPTION
 * June 5th, 2018
-! 9:15--9:30 Opening Remarks
 = 9:00--10:30 Session 1
+! 9:15--9:30 Opening Remarks
 ! 9:30--10:30 Invited Talk by Ellie Pavlick (Brown University): Why Should we Care about Linguistics?
 ! 10:30--11:00 Coffee Break
-= 11:30--12:30 Session 2
+= 11:00--12:30 Session 2
 118 11:00--11:30 # Kian Kenyon-Dean, Jackie Chi Kit Cheung and Doina Precup - "Resolving Event Coreference with Supervised Representation Learning and Clustering-Oriented Regularization"
 132 11:30--12:00 # Xudong Hong, Asad Sayeed and Vera Demberg - "Learning Distributed Event Representations with a Multi-task Approach"
 110 12:00--12:15 # Sabine Schulte im Walde, Maximilian Köper and Sylvia Springorum - "Assessing Meaning Components in German Complex Verbs: a Collection of Source-Target Domains and Directionality"
@@ -46,15 +46,15 @@
 163 10:00--10:30 # Adam Poliak, Jason Naradowsky, Aparajita Haldar, Rachel Rudinger and Benjamin Van Durme - "Hypothesis Only Baselines in Natural Language Inference"
 ! 10:30--11:00 Coffee Break
 = 11:00--12:15 Session 6
-153 11:00-11:30 # Manasvi Sagarkar, John Wieting, Lifu Tu and Kevin Gimpel - "Quality Signals in Generated Stories"
-115 11:30-12:00 # Wenpeng Yin and Dan Roth - "Term Definitions Help Hypernymy Detection"
-99 12:00-12:15 # Michael Wojatzki, Torsten Zesch, Saif Mohammad and Svetlana Kiritchenko - "Agree or Disagree: Predicting Judgments on Nuanced Assertions"
+153 11:00--11:30 # Manasvi Sagarkar, John Wieting, Lifu Tu and Kevin Gimpel - "Quality Signals in Generated Stories"
+115 11:30--12:00 # Wenpeng Yin and Dan Roth - "Term Definitions Help Hypernymy Detection"
+99 12:00--12:15 # Michael Wojatzki, Torsten Zesch, Saif Mohammad and Svetlana Kiritchenko - "Agree or Disagree: Predicting Judgments on Nuanced Assertions"
 ! 12:15--14:00 Lunch Break
 = 14:00--15:30 Session 7
-112 14:00-14:30 # Hatem Mousselly Sergieh, Teresa Botschen, Iryna Gurevych and Stefan Roth - "A Multimodal Translation-based Approach for Knowledge Graph Representation Learning"
-158 14:30-15:30 # James Allen and Choh Man Teng - "Putting Semantics into Semantic Roles"
-139 15:00-15:30 # Valerio Basile, Roque Lopez Condori and Elena Cabrio - "Measuring Frame Instance Relatedness"
+112 14:00--14:30 # Hatem Mousselly Sergieh, Teresa Botschen, Iryna Gurevych and Stefan Roth - "A Multimodal Translation-based Approach for Knowledge Graph Representation Learning"
+158 14:30--15:30 # James Allen and Choh Man Teng - "Putting Semantics into Semantic Roles"
+139 15:00--15:30 # Valerio Basile, Roque Lopez Condori and Elena Cabrio - "Measuring Frame Instance Relatedness"
 ! 15:30--16:00 Coffee Break
-130 16:00-16:30 # Xia Cui, Sadamori Kojaku, Naoki Masuda and Danushka Bollegala - "Solving Feature Sparseness in Text Classification Using Core-Periphery Decomposition"
-138 16:30-17:00 # Abhijit Mahabal, Dan Roth and Sid Mittal - "Robust Handling of Polysemy via Sparse Representations"
-121 17:00-17:30 # Nam Khanh Tran and Weiwei Cheng - "Multiplicative Tree-Structured Long Short-Term Memory Networks for Semantic Representations"
+130 16:00--16:30 # Xia Cui, Sadamori Kojaku, Naoki Masuda and Danushka Bollegala - "Solving Feature Sparseness in Text Classification Using Core-Periphery Decomposition"
+138 16:30--17:00 # Abhijit Mahabal, Dan Roth and Sid Mittal - "Robust Handling of Polysemy via Sparse Representations"
+121 17:00--17:30 # Nam Khanh Tran and Weiwei Cheng - "Multiplicative Tree-Structured Long Short-Term Memory Networks for Semantic Representations"

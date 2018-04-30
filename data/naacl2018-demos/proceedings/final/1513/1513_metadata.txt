@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1513
+FinalPaperTitle#=%=#Generating Continuous Representations of Medical Texts
+ShortPaperTitle#=%=#Generating Continuous Representations of Medical Texts
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Graham Spinks
+JobTitle#==#
+Organization#==#KU Leuven, Department of Computer Science
+Celestijnenlaan 200a - box 2402
+3001 Leuven, Belgium
+Abstract#==#We present an architecture that generates medical texts while
+learning an informative, continuous representation with discriminative
+features. During training the input to the system is a dataset of captions for
+medical X-Rays. The acquired continuous representations are of particular
+interest for use in many machine learning techniques where the discrete and
+high-dimensional nature of textual input is an obstacle. We use an
+Adversarially Regularized Autoencoder to create realistic text in both an
+unconditional and conditional setting. We show that this technique is
+applicable to medical texts which often contain syntactic and domain-specific
+shorthands. A quantitative evaluation shows that we achieve a lower model
+perplexity than a traditional LSTM generator.
+Author{1}{Firstname}#=%=#graham
+Author{1}{Lastname}#=%=#spinks
+Author{1}{Email}#=%=#graham.spinks@cs.kuleuven.be
+Author{1}{Affiliation}#=%=#KU Leuven
+Author{2}{Firstname}#=%=#Marie-Francine
+Author{2}{Lastname}#=%=#Moens
+Author{2}{Email}#=%=#sien.moens@cs.kuleuven.be
+Author{2}{Affiliation}#=%=#KU Leuven
+
+==========

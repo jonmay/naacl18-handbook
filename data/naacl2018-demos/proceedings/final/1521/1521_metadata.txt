@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1521
+FinalPaperTitle#=%=#CNNs for NLP in the Browser: Client-Side Deployment and Visualization Opportunities
+ShortPaperTitle#=%=#CNNs for NLP in the Browser
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jimmy Lin
+JobTitle#==#
+Organization#==#University of Waterloo
+Waterloo, Ontario, Canada
+Abstract#==#We demonstrate a JavaScript implementation of a convolutional neural network that performs feedforward inference completely in the browser. Such a deployment means that models can run completely on the client, on a wide range of devices, without making backend server requests. This design is useful for applications with stringent latency requirements or low connectivity. Our evaluations show the feasibility of JavaScript as a deployment target. Furthermore, an in-browser implementation enables seamless integration with the JavaScript ecosystem for information visualization, providing opportunities to visually inspect neural networks and better understand their inner workings.
+Author{1}{Firstname}#=%=#Yiyun
+Author{1}{Lastname}#=%=#Liang
+Author{1}{Email}#=%=#y76liang@uwaterloo.ca
+Author{1}{Affiliation}#=%=#University of Waterloo
+Author{2}{Firstname}#=%=#Zhucheng
+Author{2}{Lastname}#=%=#Tu
+Author{2}{Email}#=%=#z3tu@uwaterloo.ca
+Author{2}{Affiliation}#=%=#University of Waterloo
+Author{3}{Firstname}#=%=#Laetitia
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Email}#=%=#laetitia.huang@uwaterloo.ca
+Author{3}{Affiliation}#=%=#University of Waterloo
+Author{4}{Firstname}#=%=#Jimmy
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{4}{Affiliation}#=%=#University of Waterloo
+
+==========
