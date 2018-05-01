@@ -8,10 +8,13 @@ NAACL 2018 handbook can be compiled:
 - Add more things
 
 - All workshops
-- Workshop schedules
+-~~ Workshop schedules~~
+- Workshop date consistencies
 - workshop locations
+- registration hours and days
 - Manual citations for workshop invited talks
-- workshop main citations not last year's
+-~~workshop main citations not last year's~~
+- Breakfast with tutorials?
 - Main schedules
 - Main Papers
 - tacl papers
