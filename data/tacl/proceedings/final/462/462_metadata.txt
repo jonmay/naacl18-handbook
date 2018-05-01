@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#462
+FinalPaperTitle#=%=#Do Latent Tree Learning Models Identify Meaningful Structure in Sentences? (TACL)
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent work on the problem of latent tree learning has made it possible to train neural networks that learn to both parse a sentence and use the resulting parse to interpret the sentence, all without exposure to ground-truth parse trees at training time. Surprisingly, these models often perform better at sentence understanding tasks than models that use parse trees from conventional parsers. This paper aims to investigate what these latent tree learning models learn. We replicate two such models in a shared codebase and find that (i) only one of these models outperforms conventional tree-structured models on sentence classification, (ii) its parsing strategies are not especially consistent across random restarts, (iii) the parses it produces tend to be shallower than standard Penn Treebank (PTB) parses, and (iv) they do not resemble those of PTB or any other semantic or syntactic formalism that the authors are aware of. 
+Author{1}{Firstname}#=%=#Adina
+Author{1}{Lastname}#=%=#Williams
+Author{1}{Email}#=%=#adinawilliams@nyu.edu
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Andrew
+Author{2}{Lastname}#=%=#Drozdov
+Author{2}{Email}#=%=#apd283@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#Samuel
+Author{3}{Lastname}#=%=#Bowman
+Author{3}{Email}#=%=#bowman@nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+
+==========

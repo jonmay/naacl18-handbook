@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#455
+FinalPaperTitle#=%=#Towards Evaluating Narrative Quality In Student Writing (TACL)
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#This work lays the foundation for automated assessments of narrative quality in student writing. We first  manually  score  essays for narrative-relevant traits and sub-traits, and measure inter-annotator agreement. We then explore linguistic features that are indicative of good narrative writing and use them to build an automated scoring system. Experiments show that our features are more effective in scoring specific aspects of narrative quality than a state-of-the-art feature set.
+Author{1}{Firstname}#=%=#Swapna
+Author{1}{Lastname}#=%=#Somasundaran
+Author{1}{Email}#=%=#swapna.sundaran@gmail.com
+Author{1}{Affiliation}#=%=#Educational Testing Services
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Flor
+Author{2}{Email}#=%=#mflor@ets.org
+Author{2}{Affiliation}#=%=#Educational Testing Service
+Author{3}{Firstname}#=%=#Martin
+Author{3}{Lastname}#=%=#Chodorow
+Author{3}{Email}#=%=#martin.chodorow@gmail.com
+Author{3}{Affiliation}#=%=#Hunter College of CUNY
+Author{4}{Firstname}#=%=#Hillary
+Author{4}{Lastname}#=%=#Molloy
+Author{4}{Email}#=%=#hmolloy@ets.org
+Author{4}{Affiliation}#=%=#Educational Testing Service
+Author{5}{Firstname}#=%=#Binod
+Author{5}{Lastname}#=%=#Gyawali
+Author{5}{Email}#=%=#bgyawali@ets.org
+Author{5}{Affiliation}#=%=#Educational Testing Service
+Author{6}{Firstname}#=%=#Laura
+Author{6}{Lastname}#=%=#McCulla
+Author{6}{Email}#=%=#lmcculla@ets.org
+Author{6}{Affiliation}#=%=#Educational Testing Service
+
+==========

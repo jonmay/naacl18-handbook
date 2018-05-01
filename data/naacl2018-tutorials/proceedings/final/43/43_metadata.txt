@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#43
+FinalPaperTitle#=%=#Socially Responsible NLP
+ShortPaperTitle#=%=#Socially Responsible NLP
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Stephanie Lukin
+JobTitle#==#NAACL 2018 Publication Chair
+Organization#==#Uploading the original submission to the 'final' page.
+Abstract#==#As language technologies have become increasingly prevalent, there is a growing
+awareness that decisions we make about our data, methods, and tools are often
+tied up with their impact on people and societies. This tutorial will provide
+an overview of real-world applications of language technologies and the
+potential ethical implications associated with them. We will discuss
+philosophical foundations of ethical research along with state of the art
+techniques. Through this tutorial, we intend to provide the NLP researcher with
+an overview of tools to ensure that the data, algorithms, and models that they
+build are socially responsible. These tools will include a checklist of common
+pitfalls that one should avoid (e.g., demographic bias in data collection), as
+well as methods to adequately mitigate these issues (e.g., adjusting sampling
+rates or de-biasing through regularization). The tutorial is based on a new
+course on Ethics and NLP developed at Carnegie Mellon University.
+Author{1}{Firstname}#=%=#Yulia
+Author{1}{Lastname}#=%=#Tsvetkov
+Author{1}{Email}#=%=#yulia.tsvetkov@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Vinodkumar
+Author{2}{Lastname}#=%=#Prabhakaran
+Author{2}{Email}#=%=#vinod@cs.stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Rob
+Author{3}{Lastname}#=%=#Voigt
+Author{3}{Email}#=%=#robvoigt@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+
+==========

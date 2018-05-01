@@ -12,9 +12,11 @@ NAACL 2018 handbook can be compiled:
 - Workshop date consistencies
 - workshop locations
 - registration hours and days
+- fix to order2schedule to allow poster parallel
+- ad mockups
 - Manual citations for workshop invited talks
 -~~workshop main citations not last year's~~
-- Breakfast with tutorials?
+-~~Breakfast with tutorials? (yes, 730-9 each day)~~
 - Main schedules
 - Main Papers
 - tacl papers

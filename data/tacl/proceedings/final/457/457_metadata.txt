@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#457
+FinalPaperTitle#=%=#Evaluating the Stability of Embedding-based Word Similarities (TACL)
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Word embeddings are increasingly being used as a tool to study word associations in specific corpora. However, it is unclear whether such embeddings reflect enduring properties of language or if they are sensitive to inconsequential variations in the source documents. We find that nearest-neighbor distances are highly sensitive to small changes in the training corpus for a variety of algorithms. For all methods, including specific documents in the training set can result in substantial variations. We show that these effects are more prominent for smaller training corpora. We recommend that users never rely on single embedding models for distance calculations, but rather average over multiple bootstrap samples, especially for small corpora.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Antoniak
+Author{1}{Email}#=%=#maa343@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Mimno
+Author{2}{Email}#=%=#david.mimno@gmail.com
+Author{2}{Affiliation}#=%=#Cornell University
+
+==========

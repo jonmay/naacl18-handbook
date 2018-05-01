@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#463
+FinalPaperTitle#=%=#Unsupervised Acquisition of Comprehensive Multiword Lexicons using Competition in an N-Gram Lattice (TACL)
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a new model for acquiring comprehensive multiword lexicons from large corpora based on competition among n-gram candidates. In contrast to the standard approach of simple ranking by association measure, in our model n-grams are arranged in a lattice structure based on subsumption and overlap relationships, with nodes inhibiting other nodes in their vicinity when they are selected as a lexical item. We show how the configuration of such a lattice can be optimized tractably, and demonstrate using annotations of sampled n-grams that our method consistently outperforms alternatives by at least 0.05 F-score across several corpora and languages.
+Author{1}{Firstname}#=%=#Julian
+Author{1}{Lastname}#=%=#Brooke
+Author{1}{Email}#=%=#julian.brooke@gmail.com
+Author{1}{Affiliation}#=%=#Thomson Reuters
+Author{2}{Firstname}#=%=#Jan
+Author{2}{Lastname}#=%=#Šnajder
+Author{2}{Email}#=%=#jan.snajder@fer.hr
+Author{2}{Affiliation}#=%=#University of Zagreb, Faculty of Electrical Engineering and Computing, Unska 3, 10000 Zagreb
+Author{3}{Firstname}#=%=#Timothy
+Author{3}{Lastname}#=%=#Baldwin
+Author{3}{Email}#=%=#tb@ldwin.net
+Author{3}{Affiliation}#=%=#The University of Melbourne
+
+==========

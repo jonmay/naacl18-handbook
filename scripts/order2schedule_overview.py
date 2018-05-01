@@ -51,11 +51,11 @@ dates = []
 schedule = defaultdict(defaultdict)
 sessions = defaultdict()
 session_times = defaultdict()
-
+lasttime=""
 for line in sys.stdin:
     line = line.rstrip()
 
-    # print "LINE", line
+    print "LINE", line
 
     if line.startswith('*'):
         day, date, year = line[2:].split(', ')
@@ -65,22 +65,27 @@ for line in sys.stdin:
     elif line.startswith('='):
         str = line[2:]
         time_range, session_name = str.split(' ', 1)
+        lasttime=time_range
         sessions[session_name] = Session(line, (day, date, year))
 
-    elif line.startswith('+') or line.startswith('!'):
+    elif line.startswith('+'):# or line.startswith('!'):
         print ("Unusual line is "+line)
         timerange, title = line[2:].split(' ', 1)
         print ("got timerange ["+timerange+"] title "+title)
         if len(timerange) == 0:
-            timerange = time_range
+            timerange = lasttime
+        else:
+            lasttime = timerange
         title, keys = extract_keywords(title)
         if keys.has_key('by'):
             title = "%s (%s)" % (title.strip(), keys['by'])
         session_name = None
 
+        # faked session
+        event = {'name':title, 'keywords':keys}
         if not schedule[(day, date, year)].has_key(timerange):
             schedule[(day, date, year)][timerange] = []
-        schedule[(day, date, year)][timerange].append(title)
+        schedule[(day, date, year)][timerange].append(event)
 
 # Take all the sessions and place them at their time
 for session in sorted(sessions.keys()):
@@ -101,10 +106,12 @@ def sort_times(a, b):
 
 def minus12(time):
     hours, minutes = time.split(':')
-    if hours.startswith('0'):
-        hours = hours[1:]
-    if int(hours) >= 13:
-        hours = `int(hours) - 12`
+    # no-op
+
+    # if hours.startswith('0'):
+    #     hours = hours[1:]
+    # if int(hours) >= 13:
+    #     hours = `int(hours) - 12`
 
     return '%s:%s' % (hours, minutes)
 
@@ -125,9 +132,15 @@ for date in dates:
             sessions = [x for x in events]
 
             # turn "Session 9A" to "Session 9"
+            for session in sessions:
+                print session
+
             title = 'Session %s' % (sessions[0].num)
             num_parallel_sessions = len(sessions)
-            rooms = ['\emph{\Track%cLoc}' % (chr(65+x)) for x in range(num_parallel_sessions)]
+            # rooms based on manual entry
+            rooms = ['\emph{%s}' %  session.keywords["room"] for session in sessions]
+            # rooms based on track name
+            # rooms = ['\emph{\Track%cLoc}' % (chr(65+x)) for x in range(num_parallel_sessions)]
             # column width in inches
             width = 3.3 / num_parallel_sessions
             print >>out, '  %s & -- & %s &' % (minus12(start), minus12(stop))
@@ -138,15 +151,19 @@ for date in dates:
             print >>out, '  \\hline\\end{tabular} \\\\'
 
         else:
-
+            print(events)
             for event in events:
                 # A regular event
                 print "DEBUG", start, stop
                 print >>out, '  %s & -- & %s &' % (minus12(start), minus12(stop))
                 print "DEBUG", event
                 # CHRIFE: this needs to be FIXED!!!
-                loc = event.split(' ')[0].capitalize() if hasattr(event, 'split') else 'Unknown'
-                print >>out, '  {\\bfseries %s} \\hfill \emph{\\%sLoc}' % (event, loc)
+                # location based on session name
+                # loc = event.split(' ')[0].capitalize() if hasattr(event, 'split') else 'Unknown'
+                # #print "NAME", event.name
+                # print "DEBUG", loc
+                # print >>out, '  {\\bfseries %s} \\hfill \emph{\\%sLoc}' % (event, loc)
+                print >>out, '  {\\bfseries %s} \\hfill \emph{%s}' % (event['name'], event['keywords']['room'])
                 print >>out, '  \\\\'
 
     print >>out, '\\end{SingleTrackSchedule}'

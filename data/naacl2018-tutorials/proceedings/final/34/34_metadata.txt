@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#34
+FinalPaperTitle#=%=#Deep Learning Approaches to Text Production
+ShortPaperTitle#=%=#Deep Learning Approaches to Text Production
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Stephanie Lukin
+JobTitle#==#NAACL 2018 Publication Chair
+Organization#==#Uploading the original submission to the 'final' page.
+Abstract#==#Text production is a key component of many NLP applications.  In
+data-driven approaches, it is used for instance, to generate dialogue
+turns from dialogue moves, to verbalise the content of Knowledge bases
+or to generate natural English sentences from rich linguistic
+representations, such as dependency trees or Abstract Meaning
+Representations.  In text-driven methods on the other hand, text
+production is at work in sentence compression, sentence fusion,
+paraphrasing, sentence (or text) simplification, text summarisation
+and end-to-end dialogue systems.
+
+Following the success of encoder-decoder models in modeling
+sequence-rewriting tasks such as machine translation, deep learning
+models have successfully been applied to the various text production
+tasks. In this tutorial, we will cover the fundamentals and the
+state-of-the-art research on neural models for text production. Each
+text production task raises a slightly different communication goal
+(e.g, how to take the dialogue context into account when producing a
+dialogue turn; how to detect and merge relevant information when
+summarising a text; or how to produce a well-formed text that
+correctly capture the information contained in some input data in the
+case of data-to-text generation).  We will outline the constraints
+specific to each subtasks and examine how the existing neural models
+account for them.
+Author{1}{Firstname}#=%=#Claire
+Author{1}{Lastname}#=%=#Gardent
+Author{1}{Email}#=%=#claire.gardent@loria.fr
+Author{1}{Affiliation}#=%=#CNRS/LORIA, Nancy
+Author{2}{Firstname}#=%=#Shashi
+Author{2}{Lastname}#=%=#Narayan
+Author{2}{Email}#=%=#shashi.narayan@ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

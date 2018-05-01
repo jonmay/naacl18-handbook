@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#The interplay between lexical resources and Natural Language Processing
+ShortPaperTitle#=%=#The interplay between lexical resources and Natural Language Processing
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Stephanie Lukin
+JobTitle#==#NAACL Publication Chair
+Organization#==#U.S. Army Research Laboratory
+(uploading original submission to the 'final' page)
+Abstract#==#Incorporating linguistic, world and common sense knowledge into AI/NLP systems
+is currently an important research area, with several open problems and
+challenges. At the same time, processing and storing this knowledge in lexical
+resources is not a straightforward task. We propose to address these
+complementary goals from two methodological perspectives: the use of NLP
+methods to help the process of constructing and enriching lexical resources and
+the use of lexical resources for improving NLP applications. This tutorial may
+be useful for two main types of audience: those working on language resources
+who are interested in becoming acquainted with automatic NLP techniques, with
+the end goal of speeding and/or easing up the process of resource curation; and
+on the other hand, researchers in NLP who would like to benefit from the
+knowledge of lexical resources to improve their systems and models.
+Author{1}{Firstname}#=%=#Jose
+Author{1}{Lastname}#=%=#Camacho-Collados
+Author{1}{Email}#=%=#camachocolladosj@cardiff.ac.uk
+Author{1}{Affiliation}#=%=#Cardiff University
+Author{2}{Firstname}#=%=#Luis
+Author{2}{Lastname}#=%=#Espinosa Anke
+Author{2}{Email}#=%=#luis.espinosa83@gmail.com
+Author{2}{Affiliation}#=%=#Cardiff University
+Author{3}{Firstname}#=%=#Mohammad Taher
+Author{3}{Lastname}#=%=#Pilehvar
+Author{3}{Email}#=%=#mp792@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

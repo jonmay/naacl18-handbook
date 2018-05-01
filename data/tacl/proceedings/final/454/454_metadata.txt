@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#454
+FinalPaperTitle#=%=#Unsupervised Word Mapping Using Structural Similarities in Monolingual Embeddings (TACL)
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Most existing methods for automatic bilingual dictionary induction rely on prior alignments between the source and target languages, such as parallel corpora or seed dictionaries. For many language pairs, such supervised alignments are not readily available. We propose an unsupervised approach for learning a bilingual dictionary for a pair of languages given their independently-learned monolingual word embeddings. The proposed method exploits local and global structures in monolingual vector spaces to align them such that similar words are mapped to each other. We show empirically that the performance of bilingual correspondents learned using our proposed unsupervised method is comparable to that of using supervised bilingual correspondents from a seed dictionary.
+Author{1}{Firstname}#=%=#Hanan
+Author{1}{Lastname}#=%=#Aldarmaki
+Author{1}{Email}#=%=#aldarmaki@gwu.edu
+Author{1}{Affiliation}#=%=#The George Washington University
+Author{2}{Firstname}#=%=#Mahesh
+Author{2}{Lastname}#=%=#Mohan
+Author{2}{Email}#=%=#mahesh_mohan@gwu.edu
+Author{2}{Affiliation}#=%=#The George Washington University
+Author{3}{Firstname}#=%=#Mona
+Author{3}{Lastname}#=%=#Diab
+Author{3}{Email}#=%=#mtdiab@gwu.edu
+Author{3}{Affiliation}#=%=#GWU
+
+==========

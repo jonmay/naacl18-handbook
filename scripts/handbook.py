@@ -56,6 +56,8 @@ def threedigits(str):
 
 class Session:
     def __init__(self, line, date):
+        # remove comments
+        line = line[:line.find('#')]
         (self.time, namestr) = line[2:].split(' ', 1)
         self.date = date
         self.papers = []
@@ -67,7 +69,9 @@ class Session:
             colonpos = self.name.find(':')
             self.desc = self.name[colonpos+2:]
             self.name = self.name[:colonpos]
+            print ("Looking for num in name ["+self.name+"], desc ["+self.desc+"]")
             self.num = self.name.split(' ')[-1][:-1]
+            print("Got "+self.num)
             print >> sys.stderr, "LINE %s NAME %s DESC %s NUM %s" % (line, self.name, self.desc, self.num)
         else:
             print >> sys.stderr, "LINE %s NAME %s" % (line, self.name)
@@ -78,7 +82,7 @@ class Session:
             self.poster = True
 
     def __str__(self):
-        return "SESSION [%s/%s] %s %s" % (self.date, self.time, self.name, self.desc)
+        return "SESSION [%s/%s] %s %s %s" % (self.date, self.time, self.name, self.desc, self.keywords)
 
     def add_paper(self,paper):
         self.papers.append(paper)

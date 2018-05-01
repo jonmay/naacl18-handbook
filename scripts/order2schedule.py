@@ -165,10 +165,13 @@ for date in dates:
                     times = [minus12(session.time.split('--')[0]) for p in parallel_sessions[0].papers]
 
             num_papers = len(parallel_sessions[0].papers)
+            print(num_papers)
             for paper_num in range(num_papers):
                 if paper_num > 0:
                     print >>out, '  \\hline'
                 print >>out, '  \\marginnote{\\rotatebox{90}{%s}}[2mm]' % (times[paper_num])
+                print paper_num, len(session.papers)
+                # TODO: JM cover the case where the session has no papers (i.e. all posters)
                 papers = [session.papers[paper_num] for session in parallel_sessions]
                 print >>out, ' ', ' & '.join(['\\papertableentry{%s}' % (p.id) for p in papers])
                 print >>out, '  \\\\'

@@ -1,22 +1,22 @@
 * Saturday, June 2, 2018
-= 07:30--08:45 Breakfast  %room Empire Foyer
-= 08:45--09:00 Welcome from the Chairs  %room Empire Ballroom %chair1 Marilyn Walker
-= 09:00--10:00 Session Keynote: Keynote 1  %room Empire Ballroom %chair1 Marilyn Walker %aff1 University of California Santa Cruz
++ 07:30--08:45 Breakfast # %room Empire Foyer
++ 08:45--09:00 Welcome from the Chairs # %room Empire Ballroom %chair1 Marilyn Walker
++ 09:00--10:00 Session Keynote: Keynote 1 # %room Empire Ballroom %chair1 Marilyn Walker %aff1 University of California Santa Cruz
 !  Why 72? %by Charles Yang
-= 10:00--10:30 Morning Coffee  %room Empire Foyer
-= 10:30--11:30 Session 1A Oral: Information Extraction 1  %room Empire A %chair1 Dan Bikel %aff1 Google
++ 10:00--10:30 Morning Coffee # %room Empire Foyer
+= 10:30--11:30 Session 1A Oral: Information Extraction 1 # %room Empire A %chair1 Dan Bikel %aff1 Google
 69 10:30--10:47  # Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition
 165 10:48--11:05  # Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss
 309 11:06--11:23  # Variable Typing: Assigning Meaning to Variables in Mathematical Text
-= 10:30--11:30 Session 1B Oral: Phonology Morphology and Word Segmentation  %room Empire B %chair1 Barbara Plank
+= 10:30--11:30 Session 1B Oral: Phonology Morphology and Word Segmentation # %room Empire B %chair1 Barbara Plank
 44 10:30--10:47  # A Deep Generative Model of Vowel Formant Typology
 94 10:48--11:05  # Fortification of Neural Morphological Segmentation Models for Polysynthetic Minimal-Resource Languages
 136 11:06--11:23  # Improving Character-based Decoding Using Target-Side Morphological Information for Neural Machine Translation
-= 10:30--11:30 Session 1C Oral: Speech  %room Empire C %chair1 Dilek Hakkani-T\"{u}r
+= 10:30--11:30 Session 1C Oral: Speech # %room Empire C %chair1 Dilek Hakkani-Tur
 199 10:30--10:47  # Parsing Speech: a Neural Approach to Integrating Lexical and Acoustic-Prosodic Information
 430 10:48--11:05  # Tied Multitask Learning for Neural Speech Translation
 596 11:06--11:23  # Please Clap: Modeling Applause in Campaign Speeches
-= 10:30--12:00 Session 1D Posters and Demos: Discourse and Pragmatics %room Elite Hall B %chair1 Laura Perez
+= 10:30--12:00 Session 1D Posters and Demos: Discourse and Pragmatics # %room Elite Hall B %chair1 Laura Perez
 353   # Automatic Focus Annotation: Bringing Formal Pragmatics Alive in Analyzing the Information Structure of Authentic Data
 508   # Attentive Interaction Model: Modeling Changes in View in Argumentation
 519   # Dear Sir or Madam, May I Introduce the GYAFC Dataset: Corpus, Benchmarks and Metrics for Formality Style Transfer
@@ -28,7 +28,7 @@
 1070   # Neural Models for Reasoning over Multiple Mentions Using Coreference
 1095   # Integrating Stance Detection and Fact Checking in a Unified Corpus
 1098   # Multi-Task Learning for Argumentation Mining in Low-Resource Settings
-= 10:30--12:00 2D Session Posters and Demos: Generation # %room Elite Hall B %chair1 Laura Perez
+= 10:30--12:00 Session 1D Posters and Demos: Generation # %room Elite Hall B %chair1 Laura Perez
 287   # Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation
 288   # Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types
 416   # Simplification Using Paraphrases and Context-Based Lexical Substitution
@@ -42,7 +42,7 @@
 1014   # Sentence Simplification with Memory-Augmented Neural Networks
 1019   # Guiding Generation for Abstractive Text Summarization Based on Key Information Guide Network
 1108   # Automatic Dialogue Generation with Expressed Emotions
-= 10:30--12:00 3D Session Posters and Demos: NLP Applications # %room Elite Hall B %chair1 Laura Perez
+= 10:30--12:00 Session 1D Posters and Demos: NLP Applications # %room Elite Hall B %chair1 Laura Perez
 383   # Content-Based Citation Recommendation
 454   # Neural Automated Essay Scoring and Coherence Modeling for Adversarially Crafted Input
 459   # QuickEdit: Editing Text \& Translations by Crossing Words Out
@@ -66,9 +66,9 @@
 78 11:30--11:47  # Improving Lexical Choice in Neural Machine Translation
 446 11:48--12:05  # Universal Neural Machine Translation for Extremely Low Resource Languages
 458 12:06--12:23  # Classical Structured Prediction Losses for Sequence to Sequence Learning
-= 12:30--14:00 Lunch
-= 14:00--15:00 Industry Track Keynote # %room Empire Ballroom
-= 15:00--15:30 Afternoon Coffee # %room Empire Foyer
++ 12:30--14:00 Lunch
++ 14:00--15:00 Industry Track Keynote # %room Empire Ballroom
++ 15:00--15:30 Afternoon Coffee # %room Empire Foyer
 = 15:30--17:00 Session 3A Oral: Machine Learning 2 # %room Empire A
 182 15:30--15:47  # Deep Dirichlet Multinomial Regression
 1039 15:48--16:05  # Training Structured Prediction Energy Networks with Indirect Supervision
@@ -81,7 +81,7 @@
 225 15:48--16:05  # Learning Visually Grounded Sentence Representations
 260 16:06--16:23  # Comparatives, Quantifiers, Proportions: a Multi-Task Model for the Learning of Quantities from Vision
 272 16:24--16:42  # Being Negative but Constructively: Lessons Learnt from Creating Better Visual Question Answering Datasets
-= 15:30--17:00 Session 4D Posters and Demos: Semantics # %room Elite Hall B %chair1 Scott Wen-tau Yih
+= 15:30--17:00 Session 3D Posters and Demos: Semantics # %room Elite Hall B %chair1 Scott Wen-tau Yih
 142   # attr2vec: Jointly Learning Word and Contextual Attribute Embeddings with Factorization Machines
 248   # Abstract Meaning Representation for Paraphrase Detection
 321   # Can Network Embedding of Distributional Thesaurus Be Combined with Word Vectors for Better Representation?
@@ -111,7 +111,7 @@
 1077   # Evaluating bilingual word embeddings on the long tail
 !  Argumentext: Searching Arguments in Heterogeneous Sources (DEMO) %by Christian Stab, Johannes Daxenberger, Chris Stahlhut, Tristan Miller, Benjamin Schiller, Christopher Tauchmann, Steffen Eger and Iryna Gurevych
 !  ClaimRank: Detecting Check-Worthy Claims in Arabic and English (DEMO) %by Israa Jaradat, Pepa Gencheva, Alberto Barrón-Cedeño, Lluís Màrquez and Preslav Nakov
-= 15:30--17:00 Session 5D Posters and Demos: Sentiment Analysis # %room Elite Hall B %chair1 Scott Wen-tau Yih
+= 15:30--17:00 Session 3D Posters and Demos: Sentiment Analysis # %room Elite Hall B %chair1 Scott Wen-tau Yih
 139   # Learning Domain Representation for Multi-Domain Sentiment Classification
 231   # Relevant Emotion Ranking from Text Constrained with Emotion Relationships
 423   # SRL4ORL: Improving Opinion Role Labeling Using Multi-Task Learning with Semantic Role Labeling
@@ -141,19 +141,19 @@
 = 09:00--10:00 Keynote 2 # %room Empire Ballroom %chair1 Amanda Stent
 !  The Moment When the Future Fell Asleep %by Kevin Knight
 = 10:00--10:30 Morning Coffee # %room Empire Foyer
-= 10:30--11:30 Session 5A Oral: Cognitive Modeling and Psycholinguistics # %room Empire A %chair1 Kristy Hollingshead Seitz
+= 10:30--11:30 Session Oral: Cognitive Modeling and Psycholinguistics # %room Empire A %chair1 Kristy Hollingshead Seitz
 373 10:30--10:47  # Fine-grained Temporal Orientation and its Relationship with Psycho-demographic Correlates
 438 10:48--11:05  # Querying Word Embeddings for Similarity and Relatedness
 961 11:06--11:23  # Looking for Structure in Lexical and Acoustic-prosodic Entrainment Behaviors
-= 10:30--11:30 Session 5B Oral: Summarization # %room Empire B %chair1 Rada Mihalcea
+= 10:30--11:30 Session Oral: Summarization # %room Empire B %chair1 Rada Mihalcea
 24 10:30--10:47  # Semantic Structural Evaluation for Text Simplification
 622 10:48--11:05  # Entity Commonsense Representation for Neural Abstractive Summarization
 647 11:06--11:23  # Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies
-= 10:30--11:30 Session 5C Oral: Semantics 1 # %room Empire C %chair1 Jonathan May
+= 10:30--11:30 Session Oral: Semantics 1 # %room Empire C %chair1 Jonathan May
 357 11:30--11:47  # Polyglot Semantic Parsing in APIs
 779 11:48--12:05  # Modeling Semantic Plausibility by Injecting World Knowledge
 399 12:06--12:23  # Neural Models of Factuality
-= 10:30--12:00 Session 6D Posters and Demos: Information Extraction # %room Elite Hall B %chair1 Avirup Sil, Marine Carpuat
+= 10:30--12:00 Session Posters and Demos: Information Extraction # %room Elite Hall B %chair1 Avirup Sil, Marine Carpuat
 56   # Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource
 90   # Nested Named Entity Recognition Revisited
 100   # DeepAlignment: Unsupervised Ontology Matching with Refined Word Vectors
@@ -182,7 +182,7 @@
 1093   # Keep Your Bearings: Lightly-supervised Information Extraction with Ladder Networks That Avoids Semantic Drift
 1128   # Structure Regularized Neural Network for Entity Relation Classification for Chinese Literature Text
 551   # Modeling Noisiness to Recognize Named Entities using Multitask Neural Networks on Social Media
-= 10:30--12:00 Session 7D Posters and Demos: Tagging Chunking Syntax and Parsing # %room Elite Hall B %chair1 Avirup Sil, Marine Carpuat
+= 10:30--12:00 Session Posters and Demos: Tagging Chunking Syntax and Parsing # %room Elite Hall B %chair1 Avirup Sil, Marine Carpuat
 2   # Robust Multilingual Part-of-Speech Tagging via Adversarial Training
 437   # Noise-Robust Morphological Disambiguation for Dialectal Arabic
 648   # Neural Particle Smoothing for Sampling from Conditional Sequence Models
@@ -199,36 +199,36 @@
 948   # Improving Coverage and Runtime Complexity for Exact Inference in Non-Projective Transition-Based Dependency Parsers
 982   # Exploiting Dynamic Oracles to Train Projective Dependency Parsers on Non-projective Trees
 926   # Are Automatic Methods for Cognate Detection Good Enough for Phylogenetic Reconstruction in Historical Linguistics?
-= 11:30--12:30 Session 6A Oral: Machine Learning 3 # %room Empire A %chair1 Yulia Tsvetkov
+= 11:30--12:30 Session Oral: Machine Learning 3 # %room Empire A %chair1 Yulia Tsvetkov
 489 11:30--11:47  # Deep Generative Model for Joint Alignment and Word Representation
 561 12:06--12:23  # Learning Word Embeddings for Low-resource Languages by PU Learning
-= 11:30--12:30 Session 6B Oral: Social Media and Computational Social Science 2 # %room Empire B %chair1 Nanyun Peng
+= 11:30--12:30 Session Oral: Social Media and Computational Social Science 2 # %room Empire B %chair1 Nanyun Peng
 546 11:30--11:47  # Exploring the Role of Prior Beliefs for Argument Persuasion
 547 11:48--12:05  # Predicting Helpful Posts in Open-Ended Discussion Forums: a Neural Architecture
 593 12:06--12:23  # Author Commitment and Social Power: Automatic Belief Tagging to Infer the Social Context of Interactions
-= 11:30--12:30 Session 6C Oral: Vision, Robotics and Other Grounding 2 # %room Empire C
+= 11:30--12:30 Session Oral: Vision, Robotics and Other Grounding 2 # %room Empire C
 951 11:30--11:47  # Defoiling Foiled Image Captions
 964 11:48--12:05  # Pragmatically Informative Image Captioning with Character-Level Inference
 1102 12:06--12:23  # Object Ordering with Bidirectional Matchings for Visual Reasoning
 = 12:30--14:00 Lunch
 = 14:00--15:00 Industry Track Keynote # %room Empire Ballroom
 = 15:00--15:30 Afternoon Coffee # %room Empire Foyer
-= 15:30--17:00 Session 8A Oral: Text Mining # %room Empire A %chair1 Kai-wei Chang
+= 15:30--17:00 Session Oral: Text Mining # %room Empire A %chair1 Kai-wei Chang
 146 15:30--15:47  # Comparing Automatic and Human Evaluation of Local Explanations for Text Classification
 307 15:48--16:05  # Deep Temporal-Recurrent-Replicated-Softmax for Topical Trends over Time
 475 16:06--16:23  # Lessons from the Bible on Modern Topics: Low-Resource Multilingual Topic Model Evaluation
 480 16:24--16:42  # Explainable Prediction of Medical Codes from Clinical Text
-= 15:30--17:00 Session 8B Oral: Semantics 2 # %room Empire B %chair1 Ido Dagan
+= 15:30--17:00 Session Oral: Semantics 2 # %room Empire B %chair1 Ido Dagan
 426 15:30--15:47  # Multimodal Frame Identification with Multilingual Evaluation
 302 15:48--16:05  # Cross-lingual Abstract Meaning Representation Parsing
 172 16:06--16:23  # Filling Missing Paths: Modeling Co-occurrences of Word Pairs and Dependency Paths for Recognizing Lexical Semantic Relations
 285 16:24--16:42  # Specialising Word Vectors for Lexical Entailment
-= 15:30--17:00 Session 8C Oral: Tagging Chunking Syntax and Parsing 1 # %room Empire C %chair1 Michael Collins
+= 15:30--17:00 Session Oral: Tagging Chunking Syntax and Parsing 1 # %room Empire C %chair1 Michael Collins
 212   # Sentences with Gapping: Parsing and Reconstructing Elided Predicates
 499   # A Structured Syntax-Semantics Interface for English-AMR Alignment
 482   # End-to-end Graph-based TAG Parsing with Neural Networks
 395   # Colorless Green Recurrent Networks Dream Hierarchically
-= 15:30--17:00 Session 8D Posters and Demos: Machine Learning # %room Elite Hall B %chair1 Mona Diab
+= 15:30--17:00 Session Posters and Demos: Machine Learning # %room Elite Hall B %chair1 Mona Diab
 58   # Pivot Based Language Modeling for Improved Neural Domain Adaptation
 179   # Early Text Classification Using Multi-Resolution Concept Representations
 183   # The Context-dependent Additive Recurrent Neural Net
@@ -244,7 +244,7 @@
 !  Neural Lattice Language Models (TACL) %by Jacob Buckman and  Graham Neubig
 563   # Tensor Product Generation Networks for Deep NLP Modeling
 !  SetOps: A Diagnostic Dataset for Latent Tree Learning (SRW) %by Nikita Nangia and Samuel Bowman
-= 15:30--17:00 Session 9D Posters and Demos: Machine Translation # %room Elite Hall B %chair1 Mona Diab
+= 15:30--17:00 Session Posters and Demos: Machine Translation # %room Elite Hall B %chair1 Mona Diab
 25   # Evaluating Discourse Phenomena in Neural Machine Translation
 32   # Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets
 61   # Self-Attentive Residual Decoder for Neural Machine Translation
@@ -263,7 +263,7 @@
 885   # Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
 1041   # On the Evaluation of Semantic Phenomena in Neural Machine Translation Using Natural Language Inference
 1114   # Incremental Decoding and Training Methods for Simultaneous Translation in Neural Machine Translation
-= 14:00--15:30 Session 10D Posters and Demos: Phonology Morphology and Word Segmentation # %room Elite Hall B %chair1 Mona Diab
+= 14:00--15:30 Session Posters and Demos: Phonology Morphology and Word Segmentation # %room Elite Hall B %chair1 Mona Diab
 103   # Reusing Weights in Subword-aware Neural Language Models
 304   # Context Sensitive Neural Lemmatization with Lematus
 391   # Simple Models for Word Formation in Slang
@@ -279,21 +279,21 @@
 = 07:45--08:45 Breakfast # %room Empire Foyer
 = 08:45--09:00 Announcements # %chair1 Marilyn Walker
 = 09:00--10:00 Keynote 3 # %room Empire Ballroom %chair1 Heng Ji
-!   %by Dilek Hakkani-Tür
+!  Google Assistant or My Assistant? Towards Personalized Situated Conversational Agents %by Dilek Hakkani-Tür
 = 10:00--10:30 Morning Coffee # %room Empire Foyer
-= 10:30--11:30 Session 9A Oral: Information Extraction 3 # %room Empire A %chair1 Bonan Min
+= 10:30--11:30 Session Oral: Information Extraction 3 # %room Empire A %chair1 Bonan Min
 444 10:30--10:47  # A Neural Layered Model for Nested Named Entity Recognition
 477 10:48--11:05  # DR-BiLSTM: Dependent Reading Bidirectional LSTM for Natural Language Inference
 485 11:06--11:23  # KBGAN: Adversarial Learning for Knowledge Graph Embeddings
-= 10:30--11:30 Session 9B Oral: Semantics 3 # %room Empire B %chair1 Yoav Artzi
+= 10:30--11:30 Session Oral: Semantics 3 # %room Empire B %chair1 Yoav Artzi
 67 10:30--15:47  # A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference
 539 10:48--11:05  # Learning Joint Semantic Parsers from Disjoint Data
 608 11:06--11:23  # Identifying Semantic Divergences in Parallel Text without Annotations
-= 10:30--11:30 Session 9C Oral: Generation 1 # %room Empire C %chair1 Michael White
+= 10:30--11:30 Session Oral: Generation 1 # %room Empire C %chair1 Michael White
 365 10:30--10:47  # Bootstrapping Generators from Noisy Data
 381 10:48--11:05  # SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation
 548 11:06--11:23  # Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization
-= 10:30--12:00 Session 11D Posters and Demos: Question Answering # %room Elite Hall B %chair1 Lu Wang
+= 10:30--12:00 Session Posters and Demos: Question Answering # %room Elite Hall B %chair1 Lu Wang
 109   # Supervised and Unsupervised Transfer Learning for Question Answering
 191   # Learning to Collaborate for Question Answering and Asking
 348   # Learning to Rank Question-Answer Pairs Using Hierarchical Recurrent Encoder with Latent Topic Clustering
@@ -304,7 +304,7 @@
 990   # Crowdsourcing Question-Answer Meaning Representations
 1074   # Robust Machine Comprehension Models via Adversarial Training
 1085   # Simple and Effective Semi-Supervised Question Answering
-= 10:30--12:00 Session 12D Posters and Demos: Social Media and Computational Social Science # %room Elite Hall B %chair1 Lu Wang
+= 10:30--12:00 Session Posters and Demos: Social Media and Computational Social Science # %room Elite Hall B %chair1 Lu Wang
 122   # Inducing a Lexicon of Abusive Words -- a Feature-Based Approach
 198   # Combining Deep Learning and Topic Modeling for Review Understanding in Context-Aware Recommendation
 306   # Deconfounded Lexicon Induction for Interpretable Social Science
@@ -313,7 +313,7 @@
 723   # Predicting Foreign Language Usage from English-Only Social Media Posts
 789   # Cross-Domain Review Helpfulness Prediction Based on Convolutional Neural Networks with Auxiliary Domain Discriminators
 930   # Community Member Retrieval on Social Media Using Textual Information
-= 10:30--12:00 Session 13D Posters and Demos: Summarization # %room Elite Hall B %chair1 Lu Wang
+= 10:30--12:00 Session Posters and Demos: Summarization # %room Elite Hall B %chair1 Lu Wang
 7   # Generating Topic-oriented Summaries Using Neural Attention
 73   # What's this Movie about? A Joint Neural Network Architecture for Movie Content Analysis
 118   # Generative Bridging Network for Neural Sequence Prediction
@@ -337,49 +337,49 @@
 1000   # Where Have I Heard This Story before?: Identifying Narrative Similarity in Movie Remakes
 213   # Encoding Conversation Context for Neural Keyphrase Extraction from Microblog Posts
 715   # Unsupervised Keyphrase Extraction with Multipartite Graphs
-= 11:30--12:30 Session 10A Oral: Dialogue and Interactive Systems # %room Empire A %chair1 Yun-Nung (Vivia) Chen
+= 11:30--12:30 Session Oral: Dialogue and Interactive Systems # %room Empire A %chair1 Yun-Nung (Vivia) Chen
 33 11:30--11:47  # A Hierarchical Latent Structure for Variational Conversation Modeling
 132 11:48--12:05  # Detecting Egregious Conversations between Customers and Virtual Agents
 192 12:06--12:23  # Learning to Disentangle Interleaved Conversational Threads with a Siamese Hierarchical Network and Similarity Ranking
-= 11:30--12:30 Session 10B Oral: Information Extraction 4 # %room Empire B %chair1 Xiang Ren
+= 11:30--12:30 Session Oral: Information Extraction 4 # %room Empire B %chair1 Xiang Ren
 570 10:30--10:47  # Variational Knowledge Graph Reasoning
 623 10:48--11:05  # Inducing Temporal Relations from Time Anchor Annotation
 657 11:06--11:23  # ELDEN: Improved Entity Linking Using Densified Knowledge Graphs
-= 11:30--12:30 Session 10C Oral: Generation 2 # %room Empire C
+= 11:30--12:30 Session Oral: Generation 2 # %room Empire C
 566 11:30--11:47  # Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions
 602 11:48--12:05  # Delete, Retrieve, Generate: a Simple Approach to Sentiment and Style Transfer
 640 12:06--12:23  # Adversarial Example Generation with Syntactically Controlled Paraphrase Networks
 = 12:30--14:00 Lunch
-= 14:00--15:30 Session 11A Oral: Sentiment Analysis # %room Empire A %chair1 Smaranda Muresan (moved!!)
+= 14:00--15:30 Session Oral: Sentiment Analysis # %room Empire A %chair1 Smaranda Muresan (moved!!)
 289 14:00--14:17  # Sentiment Analysis: It___s Complicated!
 388 14:18--14:35  # Multi-task Learning of Pairwise Sequence Classification Tasks over Disparate Label Spaces
 606 14:36--14:53  # Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem
 627 14:54--15:12  # Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data
 854 15:13--15:30  # Multimodal Emoji Prediction
-= 14:00--15:30 Session 11B Oral: Discourse # %room Empire B %chair1 Vincent Ng (moved!!)
+= 14:00--15:30 Session Oral: Discourse # %room Empire B %chair1 Vincent Ng (moved!!)
 143 14:00--14:17  # The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit Warrants
 367 14:18--14:35  # Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
 440 14:36--14:53  # Unified Pragmatic Models for Generating and Following Instructions
 604 14:54--15:12  # Hierarchical Structured Model for Fine-to-coarse Manifesto Text Analysis
 972 15:13--15:30  # Higher-order Coreference Resolution with Coarse-to-fine Inference
-= 14:00--15:30 Session 11C Oral: Tagging Chunking Syntax and Parsing 2 # %room Empire C
+= 14:00--15:30 Session Oral: Tagging Chunking Syntax and Parsing 2 # %room Empire C
 743 14:54--15:12  # Non-Projective Dependency Parsing with Non-Local Transitions
 672 15:13--15:30  # Behavior Analysis of NLI Models: Uncovering the Influence of Three Factors on Robustness
-= 14:00--15:30 Session 14D Posters and Demos: Cognitive Modeling and Psycholinguistics # %room Elite Hall B %chair1 Hannaneh Hajishirzi
+= 14:00--15:30 Session Posters and Demos: Cognitive Modeling and Psycholinguistics # %room Elite Hall B %chair1 Hannaneh Hajishirzi
 290   # Assessing Language Proficiency from Eye Movements in Reading
 409   # Unsupervised Induction of Linguistic Categories with Records of Reading, Speaking, and Writing
 449   # Spotting Spurious Data with Neural Networks
 467   # The Timing of Lexical Memory Retrievals in Language Production
 560   # Comparing Theories of Speaker Choice Using a Model of Classifier Production in Mandarin Chinese
 1063   # Detecting Linguistic Characteristics of Alzheimer's Dementia by Interpreting Neural Models
-= 14:00--15:30 Session 15D Posters and Demos: Dialogue and Interactive Systems # %room Elite Hall B %chair1 Hannaneh Hajishirzi
+= 14:00--15:30 Session Posters and Demos: Dialogue and Interactive Systems # %room Elite Hall B %chair1 Hannaneh Hajishirzi
 218   # Dialogue Learning with Human Teaching and Feedback in End-to-End Trainable Task-Oriented Dialogue Systems
 299   # Dialog Generation Using Multi-turn Reasoning Neural Networks
 613   # Challenging Reading Comprehension on Daily Conversation: Passage Completion on Multiparty Dialog
 621   # LSDSCC: a Large Scale Domain-Specific Conversational Corpus for Response Generation with Diversity Oriented Evaluation Metrics
 804   # Feudal Reinforcement Learning for Dialogue Management in Large Domains
 856   # Deep Dungeons and Dragons: Learning Character-Action Interactions from Role-Playing Game Transcripts
-= 15:00--15:30 Session 16D Posters and Demos: Text Mining # %room Elite Hall B %chair1 Hannaneh Hajishirzi
+= 15:00--15:30 Session Posters and Demos: Text Mining # %room Elite Hall B %chair1 Hannaneh Hajishirzi
 156   # Multinomial Adversarial Networks for Multi-Domain Text Classification
 125   # Mining Evidences for Concept Stock Recommendation
 421   # EMR Coding with Semi-Parametric Multi-Head Matching Networks
@@ -387,14 +387,14 @@
 855   # Natural Language to Structured Query Generation via Meta-Learning
 866   # Gated Multi-Task Network for Text Classification
 905   # Smaller Text Classifiers with Discriminative Cluster Embeddings
-= 14:00--15:30 Session 17D Posters and Demos: Speech # %room Elite Hall B %chair1 Hannaneh Hajishirzi
+= 14:00--15:30 Session Posters and Demos: Speech # %room Elite Hall B %chair1 Hannaneh Hajishirzi
 904   # Slot-Gated Modeling for Joint Slot Filling and Intent Prediction
 986   # Role-specific Language Models for Processing Recorded Neuropsychological Exams
 72   # Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos
 84   # Towards Understanding Text Factors in Oral Reading
 276   # How Time Matters: Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues
 322   # Binarized LSTM Language Model
-= 14:00--15:30 Session 18D Posters and Demos: Vision, Robotics and Other Grounding # %room Elite Hall B %chair1 Hannaneh Hajishirzi
+= 14:00--15:30 Session Posters and Demos: Vision, Robotics and Other Grounding # %room Elite Hall B %chair1 Hannaneh Hajishirzi
 81   # Stacking with Auxiliary Features for Visual Question Answering
 185   # Learning with Latent Language
 461   # Quantifying the Visual Concreteness of Words and Topics in Multimodal Datasets
