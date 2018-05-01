@@ -61,7 +61,7 @@ class Session:
         (self.time, namestr) = line[2:].split(' ', 1)
         self.date = date
         self.papers = []
-        self.desc = None
+        self.desc = ""
 
         (self.name, self.keywords) = extract_keywords(namestr)
         

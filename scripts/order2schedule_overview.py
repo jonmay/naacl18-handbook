@@ -82,7 +82,9 @@ for line in sys.stdin:
         session_name = None
 
         # faked session
-        event = {'name':title, 'keywords':keys}
+        event = Session(line, (day, date, year))
+        event.name = title
+        #event = {'name':title, 'keywords':keys}
         if not schedule[(day, date, year)].has_key(timerange):
             schedule[(day, date, year)][timerange] = []
         schedule[(day, date, year)][timerange].append(event)
@@ -130,12 +132,14 @@ for date in dates:
         if len(events) >= 3:
             # Parallel sessions (assume there are at least 3)
             sessions = [x for x in events]
-
+            print(sessions)
             # turn "Session 9A" to "Session 9"
+            thenum = ""
             for session in sessions:
-                print session
-
-            title = 'Session %s' % (sessions[0].num)
+                if hasattr(session, num):
+                    thenum = session.num
+                    break
+            title = 'Session %s' % (thenum)
             num_parallel_sessions = len(sessions)
             # rooms based on manual entry
             rooms = ['\emph{%s}' %  session.keywords["room"] for session in sessions]
@@ -163,7 +167,9 @@ for date in dates:
                 # #print "NAME", event.name
                 # print "DEBUG", loc
                 # print >>out, '  {\\bfseries %s} \\hfill \emph{\\%sLoc}' % (event, loc)
-                print >>out, '  {\\bfseries %s} \\hfill \emph{%s}' % (event['name'], event['keywords']['room'])
+                print >>out, '  {\\bfseries %s}'% (event.name)#['name'])
+                if 'room' in event.keywords:#['keywords']:
+                    print >>out, '  {\\hfill \emph{%s}' % (event.keywords['room'])#['keywords']['room'])
                 print >>out, '  \\\\'
 
     print >>out, '\\end{SingleTrackSchedule}'
