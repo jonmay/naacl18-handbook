@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#64
+FinalPaperTitle#=%=#Differences in the Acquisition of Polysemy vs. Ambiguity
+ShortPaperTitle#=%=#Differences in the Acquisition of Polysemy vs. Ambiguity
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Samantha Floyd
+JobTitle#==#
+Organization#==#Psychology Department, Princeton University, Washington Rd. Princeton, NJ
+Abstract#==#Learning vocabulary is essential to successful
+communication. Complicating the task is
+the underappreciated fact that most common
+words are associated with multiple senses.
+While a relatively low proportion of words
+have senses that are unrelated to one another
+(e.g., flying bat vs. baseball bat), very many
+words evoke distinct but related senses (are
+polysemous) (e.g., baseball cap vs. cap of a
+bottle). Models of human word learning have
+thus far failed to represent this level of naturalistic
+complexity. We propose an an extension
+to a feature-based computational model that
+allows word senses to be represented distinctly
+(by a set of structured features), while also allowing
+overlap among senses to be captured
+(by comparisons of sets of sets). The model
+is shown to closely match human performance
+on a novel word learning task, in which people
+learn polysemous senses more easily than
+ambiguous meanings.
+Author{1}{Firstname}#=%=#Sammy
+Author{1}{Lastname}#=%=#Floyd
+Author{1}{Email}#=%=#sfloyd@princeton.edu
+Author{1}{Affiliation}#=%=#Princeton University
+Author{2}{Firstname}#=%=#Libby
+Author{2}{Lastname}#=%=#Barak
+Author{2}{Email}#=%=#libby.berk@gmail.com
+Author{2}{Affiliation}#=%=#Princeton Univesrity
+Author{3}{Firstname}#=%=#Adele
+Author{3}{Lastname}#=%=#Goldberg
+Author{3}{Email}#=%=#adele@princeton.edu
+Author{3}{Affiliation}#=%=#Princeton University
+
+==========

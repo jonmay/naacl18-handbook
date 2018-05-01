@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#82
+FinalPaperTitle#=%=#WitWise: A Funny Proverb Generator
+ShortPaperTitle#=%=#WitWise: A Funny Proverb Generator
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Geetanjali Rakshit
+JobTitle#==#
+Organization#==#UC Santa Cruz
+1156 High Street
+Santa Cruz,
+CA 95064
+Abstract#==#Humor holds an important place in every day conversations, and as we create smarter computers, we can’t ignore the need for building intelligent systems that come equipped with a sense of humor. In this work, we present WitWise,
+a novel funny proverb generator, that attempts to produce humorous versions of common, everyday English proverbs by applying simple transformations.
+Author{1}{Firstname}#=%=#Geetanjali
+Author{1}{Lastname}#=%=#Rakshit
+Author{1}{Email}#=%=#grakshit@ucsc.edu
+Author{1}{Affiliation}#=%=#UC Santa Cruz
+
+==========

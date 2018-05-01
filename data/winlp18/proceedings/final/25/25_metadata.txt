@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Multimodal Multilingual Representation Learning
+ShortPaperTitle#=%=#Multimodal Multilingual Representation Learning
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#Univeristy of Edinburgh, UK
+Abstract#==#In this paper we propose a model to learn joint representations for images and
+sentences in different languages, with the aim of advancing multilingual
+versions of image search and image understanding.
+Our model learns a common representations for
+images and their descriptions in two different languages (which need not be
+parallel) by considering the image 
+as a bridge between two languages. We evaluate our models on image-description
+ranking for German and English.
+Author{1}{Firstname}#=%=#Spandana
+Author{1}{Lastname}#=%=#Gella
+Author{1}{Email}#=%=#spandanagella@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+
+==========

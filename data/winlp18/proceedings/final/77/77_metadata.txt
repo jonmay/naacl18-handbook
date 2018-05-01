@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#77
+FinalPaperTitle#=%=#Cross-Situational Word Learning under Uncertainty: an Algorithmic-Level Analysis
+ShortPaperTitle#=%=#Cross-Situational Word Learning under Uncertainty: an Algorithmic-Level Analysis
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Aida Nematzadeh
+JobTitle#==#
+Organization#==#Aida Nematzadeh
+UC Berkeley
+Abstract#==#Children learn word meanings by tapping into the commonalities across different situations in which words are used. However, early word learning experiences have a high level of uncertainty. For a word, there are many possible meanings in the environment (referential uncertainty) and for a meaning, there are multiple possible words in the utterance (linguistic uncertainty). Is keeping track of the co-occurrence of words and meanings enough to learn the correct meanings of words? Through a set of computational studies, we show that to successfully learn word meanings in the face of uncertainty, a model needs to implement two types of competitions: words competing for association to a meaning helps with linguistic uncertainty, and features competing for a word limits referential uncertainty. Our results also confirm that a model that does not implement any types of competition can only learn high-frequency words where the uncertainty is limited.
+Author{1}{Firstname}#=%=#Aida
+Author{1}{Lastname}#=%=#Nematzadeh
+Author{1}{Email}#=%=#nematzadeh@berkeley.edu
+Author{1}{Affiliation}#=%=#University of California, Berkeley
+Author{2}{Firstname}#=%=#Zahra
+Author{2}{Lastname}#=%=#Shekarchi
+Author{2}{Email}#=%=#zahra@cs.toronto.edu
+Author{2}{Affiliation}#=%=#University of Toronto
+Author{3}{Firstname}#=%=#Suzanne
+Author{3}{Lastname}#=%=#Stevenson
+Author{3}{Email}#=%=#suzanne@cs.toronto.edu
+Author{3}{Affiliation}#=%=#University of  Toronto
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Sentence Level Amharic Text Sentiment Analysis Model: A Combined Approach
+ShortPaperTitle#=%=#Amharic Sentiment Analysis Model
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Bitseat
+JobTitle#==#Programmer
+Organization#==#iCog-Labs
+Addis Ababa
+Ethiopia
+Abstract#==#This paper presents the development of Amharic Sentiment Analysis model. In this work, we completely remove the need of annotated data and propose a novel method by combining lexicon based technique with supervised machine learning. Experimental results show that the proposed combined method performs well with an accuracy of 82.5%. Though the proposed approach does not still beat the lexicon based approach with the small data set used, it is a breakthrough in Amharic sentiment analysis, and opens exciting opportunities for future research.
+Author{1}{Firstname}#=%=#Bitseat
+Author{1}{Lastname}#=%=#Aragaw
+Author{1}{Email}#=%=#bitseatt@gmail.com
+Author{1}{Affiliation}#=%=#iCog-Labs
+Author{2}{Firstname}#=%=#Tensae
+Author{2}{Lastname}#=%=#Ayalew
+Author{2}{Email}#=%=#tesaberae@gmail.com
+Author{2}{Affiliation}#=%=#iCog-Labs
+Author{3}{Firstname}#=%=#Tibebe
+Author{3}{Lastname}#=%=#Beshah
+Author{3}{Email}#=%=#tibebe.beshah@gmail.com
+Author{3}{Affiliation}#=%=#Addis Ababa University
+
+==========

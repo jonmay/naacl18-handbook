@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#74
+FinalPaperTitle#=%=#Sentiment Based Word Substitutions to Generate Humorous Phrases in Hindi
+ShortPaperTitle#=%=#Sentiment Based Word Substitutions to Generate Humorous Phrases in Hindi
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Srishti Aggarwal
+JobTitle#==#
+Organization#==#Language Technologies Research Centre, IIIT Hyderabad,
+Gachibowli, Hyderabad - 500032
+Abstract#==#Modelling a complex human phenomenon like humour in AI systems is a hard problem. In this paper, we consider the task of designing short humorous texts in the Hindi language and propose a method to generate humour by single word substitutions in a given non-humorous input text on the basis of phonetic similarity and sentiment opposition. We perform human evaluation on the resulting outputs to show that our method is able to come up with funny instances. We also compare and analyze the performance of our model with past models (for the English language) from related literature.
+Author{1}{Firstname}#=%=#Srishti
+Author{1}{Lastname}#=%=#Aggarwal
+Author{1}{Email}#=%=#srishti.aggarwal@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#LTRC, KCIS, IIIT, Hyderabad
+Author{2}{Firstname}#=%=#Kritik
+Author{2}{Lastname}#=%=#Mathur
+Author{2}{Email}#=%=#krt.mat@gmail.com
+Author{2}{Affiliation}#=%=#Manipal Institute of Technology
+Author{3}{Firstname}#=%=#Radhika
+Author{3}{Lastname}#=%=#Mamidi
+Author{3}{Email}#=%=#radhika.mamidi@iiit.ac.in
+Author{3}{Affiliation}#=%=#IIIT Hyderabad
+
+==========

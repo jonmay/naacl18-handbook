@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Emotionality in Patients and Therapists speaking German
+ShortPaperTitle#=%=#Emotionality in Patients and Therapists speaking German
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Mieskes
+JobTitle#==#
+Organization#==#University of Applied Sciences, Darmstadt
+Haardtring 100
+64295 Darmstadt 
+Germany
+Abstract#==#We present work on a data set of real recordings
+from psychotherapeutic sessions in German.
+In order to semi-automatically judge the
+therapy quality we use information about emotionality
+in the therapist and the patient. Our
+hypothesis is that patients and therapists show
+their emotions differently and also show different
+emotions. Before adding these features to
+a machine-learning setup, we conduct a qualitative
+study guided by language-specific phenomena,
+which indicate aspects of attitude and
+emotionality.
+Author{1}{Firstname}#=%=#Margot
+Author{1}{Lastname}#=%=#Mieskes
+Author{1}{Email}#=%=#margot.mieskes@h-da.de
+Author{1}{Affiliation}#=%=#University of Applied Sciences, Darmstadt
+Author{2}{Firstname}#=%=#Svetlana
+Author{2}{Lastname}#=%=#Shutyi
+Author{2}{Email}#=%=#svetlana.shutyi@stud.h-da.de
+Author{2}{Affiliation}#=%=#Ulyanovsk State Technical University and University of Applied Sciences, Darmstadt
+
+==========

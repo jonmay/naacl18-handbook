@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=##MeToo Alexa: Sexual Harassment and Conversational AI
+ShortPaperTitle#=%=##MeToo Alexa: Sexual Harassment and Conversational AI
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Amanda Cercas Curry
+JobTitle#==#
+Organization#==#Heriot-Watt University, Edinburgh EH14 4AS
+Abstract#==#Conversational AI systems, such as Amazon's Alexa, are rapidly  developing from purely transactional systems to social chatbots, which can respond to a wide variety of user requests. This now opens questions about ethical issues on how these systems should respond to socially sensitive topics. In this article, we focus on sexual harassment, which is one of the most frequent social issues in our corpus. We ground our observations in (anonymised) customer data gathered during the Amazon Alexa Challenge 2017. We evaluate how different approaches to building social bots handle these issues, focusing on rule-based versus data-driven models. Our results show that systems generally avoid answering or deflect. Data-driven systems are often non-coherent, but also run the risk of being interpreted as flirtatious and sometimes react with counter-aggression.
+Author{1}{Firstname}#=%=#Amanda
+Author{1}{Lastname}#=%=#Cercas Curry
+Author{1}{Email}#=%=#ac293@hw.ac.uk
+Author{1}{Affiliation}#=%=#Heriot-Watt University
+Author{2}{Firstname}#=%=#Verena
+Author{2}{Lastname}#=%=#Rieser
+Author{2}{Email}#=%=#v.t.rieser@hw.ac.uk
+Author{2}{Affiliation}#=%=#Heriot-Watt University
+
+==========

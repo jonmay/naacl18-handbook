@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Predicting Glosses in Interlinear Glossed Text
+ShortPaperTitle#=%=#Predicting Glosses in Interlinear Glossed Text
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Angelina McMillan-Major
+JobTitle#==#
+Organization#==#University of Washington
+Seattle, WA 98195
+Abstract#==#Interlinear Glossed Text (IGT) is a format for presenting a sample of a language, its linguistic analysis, and its translation in the audience's language. Using the ODIN database of enriched IGT, I leverage the linguistic annotations of the language-specific morphology and the translation of the phrase as features to predict the glosses of the words in the source language. I compare the predictions of a Naive Bayes (NB) classifier baseline to those a Conditional Random Field (CRF) model to highlight the differences between the methods when a task has a large set of labels. The models are trained and tested on annotated data from eleven languages from 6 language families. The CRF model performs dramatically better than the NB system across all languages by taking advantage of the additional contextual information provided by the structure of the phrases.
+Author{1}{Firstname}#=%=#Angelina
+Author{1}{Lastname}#=%=#McMillan-Major
+Author{1}{Email}#=%=#aymm@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+
+==========

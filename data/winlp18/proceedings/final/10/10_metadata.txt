@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Human vs Automatic Metrics: on the Importance of Correlation Design
+ShortPaperTitle#=%=#Human vs Automatic Metrics: on the Importance of Correlation Design
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Anastasia Shimorina
+JobTitle#==#
+Organization#==#Lorraine University / LORIA,
+Campus Scientifique, 615 Rue du Jardin-Botanique, 54506 Vandœuvre-lès-Nancy, France
+Abstract#==#This paper discusses two existing approaches to the correlation analysis between automatic evaluation metrics and human scores in the area of natural language generation. Our experiments show that depending on the usage of a system- or sentence-level correlation analysis, correlation results between automatic scores and human judgments are inconsistent.
+Author{1}{Firstname}#=%=#Anastasia
+Author{1}{Lastname}#=%=#Shimorina
+Author{1}{Email}#=%=#anastasia.shimorina@loria.fr
+Author{1}{Affiliation}#=%=#Lorraine University / LORIA
+
+==========

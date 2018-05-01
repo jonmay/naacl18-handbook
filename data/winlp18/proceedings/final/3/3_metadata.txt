@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Context-Sensitive Normalization of Social Media Text in Bahasa Indonesia Based on Neural Word Embeddings
+ShortPaperTitle#=%=#Normalization of Social Media Text in Bahasa Indonesia Based on Neural Word Embeddings
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Renny Pradina Kusumawardani
+JobTitle#==#
+Organization#==#Department of Information Systems
+Institut Teknologi Sepuluh Nopember (ITS)
+Kampus ITS, Jl. Raya ITS, Keputih-Sukolilo
+Surabaya 60111
+Indonesia
+Abstract#==#We present our work in the normalization of social media texts in Bahasa Indonesia. We combine the degree of similarity of the input token to standard words in the embeddings space with their orthographical similarity to generate normalization for the token. For individual words, we observe that detecting whether a token actually represents an incorrectly spelled word is as important as finding the correct substitute. However, in the normalization of entire messages, the system achieves an accuracy of 79.59%, suggesting that our approach is worthy of further exploration.
+Author{1}{Firstname}#=%=#Renny Pradina
+Author{1}{Lastname}#=%=#Kusumawardani
+Author{1}{Email}#=%=#renny.pradina@gmail.com
+Author{1}{Affiliation}#=%=#Department of Information Systems, Institut Teknologi Sepuluh Nopember
+Author{2}{Firstname}#=%=#Stezar
+Author{2}{Lastname}#=%=#Priansya
+Author{2}{Email}#=%=#stezarpriansya@gmail.com
+Author{2}{Affiliation}#=%=#Department of Information Systems, Institut Teknologi Sepuluh Nopember
+
+==========

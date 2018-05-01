@@ -4,12 +4,11 @@ naacl-2018-industrial-track|https://www.softconf.com/naacl2018/naacl2018-industr
 naacl2018-SRW|https://www.softconf.com/naacl2018/naacl2018-SRW/pub/aclpub/proceedings.tgz|"18a00de-1787cdb-56b11686f505d"
 tutorials|https://www.softconf.com/naacl2018/tutorials/pub/aclpub/proceedings.tgz|foo
 naacl2018-demos|https://www.softconf.com/naacl2018/naacl2018-demos/pub/aclpub/proceedings.tgz|"18422fa-23adeed-56b0a7b4bab4b"
-winlp18|https://www.softconf.com/naacl2018/winlp18/pub/aclpub/proceedings.tgz|foo
 SemEval-2018|https://www.softconf.com/naacl2018/SemEval-2018/pub/aclpub/proceedings.tgz|"19a557d-950268d-56b13b3997b8c"
-starsem18|https://www.softconf.com/naacl2018/starsem18/pub/aclpub/proceedings.tgz|"19623b6-1c697d2-56b0a3e3e4ffd"
+starsem18|https://www.softconf.com/naacl2018/starsem18/pub/aclpub/proceedings.tgz|"19623a1-1c665a5-56b16d1d19047"
 Gen-Deep18|https://www.softconf.com/naacl2018/Gen-Deep18/pub/aclpub/proceedings.tgz|"1ca38a3-263a5f-56b0a8c78809b"
-Education-NLP18|https://www.softconf.com/naacl2018/Education-NLP18/pub/aclpub/proceedings.tgz|"1be1c03-3b17b26-56b0a53a42f44"
-Ethics-NLP18|https://www.softconf.com/naacl2018/Ethics-NLP18/pub/aclpub/proceedings.tgz|"1be1198-177164-56b0a9a46b5fe"
+Education-NLP18|https://www.softconf.com/naacl2018/Education-NLP18/pub/aclpub/proceedings.tgz|"1be1cda-3b32410-56b18f2397e80"
+Ethics-NLP18|https://www.softconf.com/naacl2018/Ethics-NLP18/pub/aclpub/proceedings.tgz|"1be1254-182ac6-56b16d4b48fc8"
 CLPsych18|https://www.softconf.com/naacl2018/CLPsych18/pub/aclpub/proceedings.tgz|"2032ae-1c39e33-56b0a445c3acd"
 SemBEaR18|https://www.softconf.com/naacl2018/SemBEaR18/pub/aclpub/proceedings.tgz|"20307a-a7cce4-56afed0ffcbc5"
 Style-Var18|https://www.softconf.com/naacl2018/Style-Var18/pub/aclpub/proceedings.tgz|"2209eae-4b318b-56b14ddf3c5e6"

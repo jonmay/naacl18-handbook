@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Building on Word Animacy to Determine Coreference Chain Animacy in Cultural Narratives
+ShortPaperTitle#=%=#Building on Word Animacy to Determine Coreference Chain Animacy in Cultural Narratives
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Labiba Jahan
+JobTitle#==#
+Organization#==#Florida International University
+11200 SW 8th St, Miami, FL 33199
+Abstract#==#Animacy is the characteristic of being able to independently carry out actions in a story world (e.g., movement, communication). It is a necessary property of characters in stories, and so detecting animacy is a useful step in automatic story understanding. Prior approaches to animacy detection have conceived of animacy as a word- or phrase-level property, without explicitly connecting it to characters. In this work we compute the animacy of referring expressions directly using a statistical approach incorporating useful features. We then compute the animacy of coreference chains via a majority vote of the animacy of the chain’s constituent referring expressions. We also reimplement prior approaches to word-level animacy to compare performance. We demonstrate these results on a small set of folktales with gold-standard annotations for coreference structure and animacy (15 Russian folktales translated into English). We achieve an F1 measure 0.90 for the referring expression animacy model, and 0.86 for the coreference chain model.
+Author{1}{Firstname}#=%=#Labiba
+Author{1}{Lastname}#=%=#Jahan
+Author{1}{Email}#=%=#ljaha002@fiu.edu
+Author{1}{Affiliation}#=%=#Florida International University
+Author{2}{Firstname}#=%=#Geeticka
+Author{2}{Lastname}#=%=#Chauhan
+Author{2}{Email}#=%=#gchau005@fiu.edu
+Author{2}{Affiliation}#=%=#Florida International University
+Author{3}{Firstname}#=%=#Mark A.
+Author{3}{Lastname}#=%=#Finlayson
+Author{3}{Email}#=%=#markaf@fiu.edu
+Author{3}{Affiliation}#=%=#Florida International University
+
+==========

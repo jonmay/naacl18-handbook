@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#79
+FinalPaperTitle#=%=#Learning Lexico-Functional Patterns for First-Person Affect
+ShortPaperTitle#=%=#Learning Lexico-Functional Patterns for First-Person Affect
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Lena Reed
+JobTitle#==#
+Organization#==#University of California, Santa Cruz
+1156 High St, Santa Cruz, CA 95064
+Abstract#==#Informal first-person narratives are a unique resource for computational models of everyday events and people's affective reactions to them.  People blogging about their day tend not to explicitly say "I am happy". Instead they describe situations from which other humans can readily infer their affect. However current sentiment dictionaries are missing much of the information needed to make similar inferences. We construct a novel fine-grained test set, and show that the patterns we learn improve our ability to predict first-person affective reactions to everyday events.
+Author{1}{Firstname}#=%=#Lena
+Author{1}{Lastname}#=%=#Reed
+Author{1}{Email}#=%=#lireed@ucsc.edu
+Author{1}{Affiliation}#=%=#University of California, Santa Cruz
+Author{2}{Firstname}#=%=#Marilyn
+Author{2}{Lastname}#=%=#Walker
+Author{2}{Email}#=%=#maw@soe.ucsc.edu
+Author{2}{Affiliation}#=%=#University of California Santa Cruz
+
+==========

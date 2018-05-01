@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#A novel Post-editing algorithm to optimize Amharic speech recognition for speech translation
+ShortPaperTitle#=%=#A novel Post-editing algorithm to optimize Amharic speech recognition for speech translation
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Michael Melese
+JobTitle#==#
+Organization#==#Michael Melese Woldeyohannis
+PoBox 43196
+Addis Ababa, Ethiopia
+Abstract#==#In this study an attempt is made to optimize the output of Amharic speech
+recognizer using n-gram based post-edit algorithm without human intervention.
+Experimental result shows that the integration of post-editing algorithm with
+the recognizer improve the accuracy of recognition. Now we are working towards
+connecting the optimized speech recognition to Amharic-English speech
+translation.
+Author{1}{Firstname}#=%=#Michael
+Author{1}{Lastname}#=%=#Melese
+Author{1}{Email}#=%=#michael.melese@aau.edu.et
+Author{1}{Affiliation}#=%=#Addis Ababa University, Addis Ababa, Ethiopia
+Author{2}{Firstname}#=%=#Laurent
+Author{2}{Lastname}#=%=#Besacier
+Author{2}{Email}#=%=#laurent.basacier@imag.fr
+Author{2}{Affiliation}#=%=#LIG Laboratory, UJF, Grenoble, France
+Author{3}{Firstname}#=%=#Million
+Author{3}{Lastname}#=%=#Meshesha
+Author{3}{Email}#=%=#million.meshesha@aau.edu.et
+Author{3}{Affiliation}#=%=#Addis Ababa University, Addis Ababa, Ethiopia
+
+==========

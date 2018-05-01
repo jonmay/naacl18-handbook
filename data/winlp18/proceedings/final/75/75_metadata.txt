@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#75
+FinalPaperTitle#=%=#Faster Pace in Human-Robot Dialogue Leads to Fewer Dialogue Overlaps
+ShortPaperTitle#=%=#Faster Pace in Human-Robot Dialogue Leads to Fewer Dialogue Overlaps
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#U.S. Army Research Laboratory
+2800 Powder Mill Rd 
+Adelphi, MD 20783
+Abstract#==#In this paper, dialogue overlap at the transaction unit structure level is examined. In particular we investigate a corpus of multi-floor dialogue in a human-robot navigation domain. Two conditions are contrasted: a human wizard typing with a keyboard vs using a constricted GUI. The GUI condition leads to more utterances and transaction units, but leads to less overlap at the transaction unit level.
+Author{1}{Firstname}#=%=#Cassidy
+Author{1}{Lastname}#=%=#Henry
+Author{1}{Email}#=%=#cassidy.henry@ucla.edu
+Author{1}{Affiliation}#=%=#U.S. Army Research Laboratory, West // UCLA
+Author{2}{Firstname}#=%=#Carla
+Author{2}{Lastname}#=%=#Gordon
+Author{2}{Email}#=%=#cgordon@ict.usc.edu
+Author{2}{Affiliation}#=%=#USC Institute for Creative Technologies
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Traum
+Author{3}{Email}#=%=#traum@ict.usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California Institute for Creative Technologies
+Author{4}{Firstname}#=%=#Stephanie
+Author{4}{Lastname}#=%=#Lukin
+Author{4}{Email}#=%=#stephanie.m.lukin.civ@mail.mil
+Author{4}{Affiliation}#=%=#US Army Research Laboratory
+Author{5}{Firstname}#=%=#Kimberly A.
+Author{5}{Lastname}#=%=#Pollard
+Author{5}{Email}#=%=#kimberly.a.pollard.civ@mail.mil
+Author{5}{Affiliation}#=%=#U.S. Army Research Laboratory
+Author{6}{Firstname}#=%=#Ron
+Author{6}{Lastname}#=%=#Artstein
+Author{6}{Email}#=%=#artstein@ict.usc.edu
+Author{6}{Affiliation}#=%=#USC Institute for Creative Technologies
+Author{7}{Firstname}#=%=#Claire
+Author{7}{Lastname}#=%=#Bonial
+Author{7}{Email}#=%=#claire.n.bonial.civ@mail.mil
+Author{7}{Affiliation}#=%=#US Army Research Lab
+Author{8}{Firstname}#=%=#Clare
+Author{8}{Lastname}#=%=#Voss
+Author{8}{Email}#=%=#crvoss@acm.org
+Author{8}{Affiliation}#=%=#ARL
+Author{9}{Firstname}#=%=#Ashley
+Author{9}{Lastname}#=%=#Foots
+Author{9}{Email}#=%=#ashley.n.foots.civ@mail.mil
+Author{9}{Affiliation}#=%=#U.S. Army Research Laboratory
+Author{10}{Firstname}#=%=#Matthew
+Author{10}{Lastname}#=%=#Marge
+Author{10}{Email}#=%=#matthew.r.marge.civ@mail.mil
+Author{10}{Affiliation}#=%=#Army Research Laboratory
+
+==========

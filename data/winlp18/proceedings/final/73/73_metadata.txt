@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#73
+FinalPaperTitle#=%=#Hierarchical Neural Model for Tagging Address Queries in Map Search
+ShortPaperTitle#=%=#Tagging Address Queries in Map Search
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Shekoofeh Mokhtari
+JobTitle#==#
+Organization#==#Florida International University
+11200 SW 8th St, Miami, FL 33199
+Abstract#==#The ubiquity of personal digital assistants on smartphones, home or desktop devices is pushing map search to become a fundamental element of search engines. A remarkable fraction of map search trafc is comprised of address queries - queries where the whole query or some terms of it refer to an address. In this study, we demonstrate that thoroughly understanding and labeling these types of queries is essential. We discuss several recurrent sequence architectures for tagging such queries and compare their performance on two subcategories of address queries - single entity (aka single point) addresses and multi-entity (aka multi point) addresses
+Author{1}{Firstname}#=%=#Shekoofeh
+Author{1}{Lastname}#=%=#Mokhtari
+Author{1}{Email}#=%=#smokh004@fiu.edu
+Author{1}{Affiliation}#=%=#Florida International University
+Author{2}{Firstname}#=%=#Ning
+Author{2}{Lastname}#=%=#Xie
+Author{2}{Email}#=%=#nxie@cs.fiu.edu
+Author{2}{Affiliation}#=%=#Florida International University
+Author{3}{Firstname}#=%=#Dragomir
+Author{3}{Lastname}#=%=#Yankov
+Author{3}{Email}#=%=#dragoy@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+
+==========

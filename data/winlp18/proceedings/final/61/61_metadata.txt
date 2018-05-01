@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#61
+FinalPaperTitle#=%=#Comparing the Performance of Crowdworkers and NLP Tools on Named-Entity Recognition and Entity-Level Sentiment Analysis of Political Tweets
+ShortPaperTitle#=%=#Comparing Crowdworkers and an NLP Tool for NER and Targeted Sentiment Analysis of Political Tweets
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Mona Jalal
+JobTitle#==#
+Organization#==#Department of Computer Science, 111 Cummington Mall, Boston, MA 02215
+Abstract#==#We report results of a comparison of the accuracy of crowdworkers and four Natural Language Processing (NLP) toolkits in solving two important NLP tasks, named-entity recognition and entity-level sentiment analysis. We here focus on a challenging dataset, 1,000 political tweets that were collected during the
+U.S. presidential primary election in February 2016. Each tweet refers to at least one of four presidential candidates, i.e., four named entities. The ground truth, established by experts in political communication, has entity-level
+sentiment information for each candidate mentioned in the tweet. We tested one commercial NLP toolkit, Google Cloud NL API, and three academic systems, tensiStrength, TwitterNLP, and Stanford NLP NER. Our experiments show that the commercial NLP tool was more accurate than the academic systems but did not match the accuracy of crowdworkers by a large margin for entity-level sentiment analysis. It performed almost on par with crowdworkers with regards to named-entity recognition in political tweets.
+Author{1}{Firstname}#=%=#Mona
+Author{1}{Lastname}#=%=#Jalal
+Author{1}{Email}#=%=#jalal@bu.edu
+Author{1}{Affiliation}#=%=#Boston University
+Author{2}{Firstname}#=%=#Kate K.
+Author{2}{Lastname}#=%=#Mays
+Author{2}{Email}#=%=#kkmays@bu.edu
+Author{2}{Affiliation}#=%=#Boston University
+Author{3}{Firstname}#=%=#Lei
+Author{3}{Lastname}#=%=#Guo
+Author{3}{Email}#=%=#guolei@bu.edu
+Author{3}{Affiliation}#=%=#Boston University
+Author{4}{Firstname}#=%=#Margrit
+Author{4}{Lastname}#=%=#Betke
+Author{4}{Email}#=%=#betke@bu.edu
+Author{4}{Affiliation}#=%=#Boston University
+
+==========

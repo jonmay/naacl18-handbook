@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Modeling of Policy Frames for Morality Detection on Twitter
+ShortPaperTitle#=%=#Modeling of Policy Frames for Morality Detection on Twitter
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Kristen Johnson
+JobTitle#==#
+Organization#==#Purdue University, West Lafayette, IN
+Abstract#==#Previous works have shown correlations in text between political ideologies and moral foundations expressed in the text. Additional work has shown that policy frames, which are used by politicians to bias the public towards their stance on an issue, are also correlated with political ideology. Based on these associations, we are interested in developing models which combine features of the language used on social media microblogs, specifically Twitter, as well as how politicians frame issues on Twitter, in order to predict the moral foundations used by politicians to express their stances on issues. This abstract presents the details of our annotation process and the resulting dataset, annotated for use in future morality-based prediction tasks. We also present our initial steps towards accurately modeling political discourse on Twitter in terms of language, ideology, and message framing, as well as how these components relate to the moral foundations expressed in tweets.
+Author{1}{Firstname}#=%=#Kristen
+Author{1}{Lastname}#=%=#Johnson
+Author{1}{Email}#=%=#john1187@purdue.edu
+Author{1}{Affiliation}#=%=#Purdue University
+Author{2}{Firstname}#=%=#Dan
+Author{2}{Lastname}#=%=#Goldwasser
+Author{2}{Email}#=%=#goldan55@gmail.com
+Author{2}{Affiliation}#=%=#Purdue University
+
+==========

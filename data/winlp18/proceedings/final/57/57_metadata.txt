@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#57
+FinalPaperTitle#=%=#A finite-state morphological analyzer for Wolaytta
+ShortPaperTitle#=%=#A finite-state morphological analyzer for Wolaytta
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Tewodros Abebe
+JobTitle#==#Student
+Organization#==#Addis Ababa University, Addis Ababa, Ethiopia
+Abstract#==#The work presented in this paper is the development of a free/opensource finite-state morphological transducer for Wolaytta using the Helsinki Finite State Transducer (HFST). Developing a full-fledged morphological analysis tool for a morphologically rich and under_resourced languages like Wolaytta is a challenging task but an important step for developing NLP applications. Wolaytta, being a highly inflectional language, a FST based approach is most efficient for developing a morphological analyzer. While developing the analyzer, a lexicon of root words is created semi-automatically.
+The morphotactics of the language is studied and identified. Rules are then added for generating words. An evaluation is presented demonstrating that the transducer shows 94% precision and 96% recall over a manually verified test set. To the best of our knowledge, this work is the first of its kind on a systematic and exhaustive study of the morphotactics of Wolaytta leading to the development of morphological analyzer.
+Author{1}{Firstname}#=%=#Tewodros
+Author{1}{Lastname}#=%=#Gebreselassie
+Author{1}{Email}#=%=#letedi@gmail.com
+Author{1}{Affiliation}#=%=#Addis Ababa University
+
+==========

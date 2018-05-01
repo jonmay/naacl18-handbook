@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#54
+FinalPaperTitle#=%=#Transfer between Disparate Labels with Weak Supervision
+ShortPaperTitle#=%=#Transfer between Disparate Labels with Weak Supervision
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#dummy
+JobTitle#==#
+Organization#==#dummy
+Abstract#==#In this paper, we present a new approach based on weak supervision for transfer learning when the source and target domains have disparate label sets. motivated by the idea that tasks with semantically related but different labels, the relationship between the source and target labels can provide a rich source of information to enhance the transfer. Specifically, given a bipartite graph to represent the source and target label connections, we assign each source example to a target label set based on the bipartite graph. Learning is then performed on both source and target data with a weak supervision objective.We test our method on the task of event typing (ET). Experiments on several scenarios of label relationships show that our approach outperforms the standard fining
+Author{1}{Firstname}#=%=#Rasha
+Author{1}{Lastname}#=%=#Obeidat
+Author{1}{Email}#=%=#rasha_ob@yahoo.com
+Author{1}{Affiliation}#=%=#Student
+Author{2}{Firstname}#=%=#Xiaoli
+Author{2}{Lastname}#=%=#Fern
+Author{2}{Email}#=%=#xfern@eecs.oregonstate.edu
+Author{2}{Affiliation}#=%=#Associate Professor
+Author{3}{Firstname}#=%=#Prasad
+Author{3}{Lastname}#=%=#Tadepalli
+Author{3}{Email}#=%=#tadepall@engr.orst.edu
+Author{3}{Affiliation}#=%=#Professor
+
+==========

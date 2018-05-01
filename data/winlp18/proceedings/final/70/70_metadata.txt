@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#70
+FinalPaperTitle#=%=#Language Models for Brain Computer Interface as Augmentative and Alternative Communication
+ShortPaperTitle#=%=#Language Models for Brain Computer Interface as Augmentative and Alternative Communication
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Shiran Dudy
+JobTitle#==#
+Organization#==#Center for Spoken Language Understanding
+Oregon Health & Science University
+Portland, OR, USA
+Abstract#==#Language models for assistive technology in the context of Brain Computer Interface introduce different challenges as the acquired signal of the EEG (Electroencephalography) is noisier, which in turn, makes the user intent harder to decipher. In order to adapt to this condition, we propose to maintain ambiguous history for every time step, and to employ, apart from the character language model, word information to produce a more robust prediction system. This work presents preliminary results that compare the Online-Context Language Model (OCLM) to current algorithms that are used in this type of settings. The evaluation of the methods demonstrate a promising direction towards dealing with ambiguous history in order to provide an optimal prior to front end to compute the posterior distribution of the next character the user might intend to type.
+Author{1}{Firstname}#=%=#Shiran
+Author{1}{Lastname}#=%=#Dudy
+Author{1}{Email}#=%=#dudy@ohsu.edu
+Author{1}{Affiliation}#=%=#CSLU / OHSU
+Author{2}{Firstname}#=%=#Steven
+Author{2}{Lastname}#=%=#Bedrick
+Author{2}{Email}#=%=#bedricks@ohsu.edu
+Author{2}{Affiliation}#=%=#CSLU/OHSU
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#dasmith@ccs.neu.edu
+Author{3}{Affiliation}#=%=#Northeastern University
+Author{4}{Firstname}#=%=#Shaobin
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Email}#=%=#shaobinx@ccs.neu.edu
+Author{4}{Affiliation}#=%=#Northeastern University
+
+==========

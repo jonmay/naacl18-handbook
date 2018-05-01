@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Neural Morphological Segmentation for Polysynthetic Minimal-Resource Languages
+ShortPaperTitle#=%=#Neural Morphological Segmentation for Polysynthetic Minimal-Resource Languages
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Katharina Kann
+JobTitle#==#Postdoc
+Organization#==#NYU
+60 5th Ave
+10011 New York
+USA
+Abstract#==#In polysynthetic languages, a word can consist of many individual morphemes, which causes a strong need for morphological segmentation. However, many polysynthetic languages are minimal-resource languages, making the training of state-of-the-art neural segmentation systems difficult. Here, we present a new dataset for morphological segmentation for 4 indigenous Mexican languages, and show that neural sequence-to-sequence models obtain competitive performance even for small amounts of training data. Additionally, we introduce two novel data augmentation and two novel multi-task approaches, which further increase performance.
+Author{1}{Firstname}#=%=#Katharina
+Author{1}{Lastname}#=%=#Kann
+Author{1}{Email}#=%=#kann@nyu.edu
+Author{1}{Affiliation}#=%=#NYU
+Author{2}{Firstname}#=%=#Manuel
+Author{2}{Lastname}#=%=#Mager
+Author{2}{Email}#=%=#pywirrarika@gmail.com
+Author{2}{Affiliation}#=%=#UNAM IIMAS
+Author{3}{Firstname}#=%=#Ivan Vladimir
+Author{3}{Lastname}#=%=#Meza Ruiz
+Author{3}{Email}#=%=#ivanvladimir@gmail.com
+Author{3}{Affiliation}#=%=#Insituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS-UNAM)
+Author{4}{Firstname}#=%=#Hinrich
+Author{4}{Lastname}#=%=#Schütze
+Author{4}{Email}#=%=#inquiries@cislmu.org
+Author{4}{Affiliation}#=%=#Center for Information and Language Processing, University of Munich
+
+==========

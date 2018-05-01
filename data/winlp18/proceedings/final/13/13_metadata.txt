@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Neural Network-based Model for Named Entity Recognition in Low-Resource Settings
+ShortPaperTitle#=%=#Neural Network-based Model for Named Entity Recognition in Low-Resource Settings
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#dummy
+JobTitle#==#
+Organization#==#dummy
+Abstract#==#Named Entities Recognition (NER) is one of the most challenging tasks in
+Natural Language Processing. This task was usually done by the state-of-the-art
+techniques such as Support Vector Machine and Conditional Random Fields. This
+paper investigated an application of neural network-based approach to recognize
+named entities in low-resource language, with application on Vietnamese. We
+constructed a bidirectional neural network-based model with the additional
+information from a pre-trained word embedding model to better recognize new
+named entities, which did not appear in the training data. The experiments
+showed our proposed approach outperformed the state-of-the-art models with the
+significant gains of F1 score.
+Author{1}{Firstname}#=%=#Ngoc Tan
+Author{1}{Lastname}#=%=#Le
+Author{1}{Email}#=%=#letan.dhcn@gmail.com
+Author{1}{Affiliation}#=%=#Université du Québec à Montréal
+Author{2}{Firstname}#=%=#Hong Buu Long
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Email}#=%=#nhblong@gmail.com
+Author{2}{Affiliation}#=%=#University of Science of Ho Chi Minh city
+Author{3}{Firstname}#=%=#Fatiha
+Author{3}{Lastname}#=%=#Sadat
+Author{3}{Email}#=%=#le.ngoc_tan@courrier.uqam.ca
+Author{3}{Affiliation}#=%=#Universite du Quebec a Montreal
+Author{4}{Firstname}#=%=#Dien
+Author{4}{Lastname}#=%=#Dinh
+Author{4}{Email}#=%=#ddien@fit.hcmuns.edu.vn
+Author{4}{Affiliation}#=%=#
+
+==========

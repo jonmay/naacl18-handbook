@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Empirical Evaluation of Preprocessing for Tunisian Dialect ("Darija") Sentiment Analysis
+ShortPaperTitle#=%=#Empirical Evaluation of Preprocessing for Tunisian Dialect ("Darija") Sentiment Analysis
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#hatem haddad
+JobTitle#==#
+Organization#==#Joint group for Artificial Reasoning and Information Retrieval, Tunisia
+Abstract#==#The motivation of the current study is to investigate the impact of several
+preprocessing techniques on Tunisian dialect sentiment analysis using three
+Tunisian datasets of different sizes and multiple domains. Our results
+emphasize the positive impact of preprocessing phase on the evaluation measures
+as the baselines was significantly outperformed when stemming, emoji
+recognition, negation recognition and named entities recognition tasks were
+applied.
+Author{1}{Firstname}#=%=#Hatem
+Author{1}{Lastname}#=%=#Haddad
+Author{1}{Email}#=%=#haddad.hatem@gmail.com
+Author{1}{Affiliation}#=%=#Joint group for Artificial Reasoning and Information Retrieval
+Author{2}{Firstname}#=%=#Hala
+Author{2}{Lastname}#=%=#Mulki
+Author{2}{Email}#=%=#hallamulki@gmail.com
+Author{2}{Affiliation}#=%=#Selcuk University
+
+==========

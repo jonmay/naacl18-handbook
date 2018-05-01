@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Linguistic Accommodation and Codeswitching in Conversation
+ShortPaperTitle#=%=#Linguistic Accommodation and Codeswitching in Conversation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Dummy
+JobTitle#==#
+Organization#==#Dummy
+Abstract#==#In this project we computationally examine the factors underlying codeswitching
+in English-Swahili conversations. We utilize the integration index (I-index),
+which is the ratio switch points to words and gives us insight into how people
+are responding to each others codeswitching behavior. Our analysis shows how
+the word choice at switch points is affected by the topic of the conversation.
+Author{1}{Firstname}#=%=#Rouzbeh
+Author{1}{Lastname}#=%=#Shirvani
+Author{1}{Email}#=%=#rouzbeh.asgharishir@bison.howard.edu
+Author{1}{Affiliation}#=%=#Howard University Department of Electrical Engineering and Computer Science
+Author{2}{Firstname}#=%=#Mario
+Author{2}{Lastname}#=%=#Piergallini
+Author{2}{Email}#=%=#mario.p.piergallini@gmail.com
+Author{2}{Affiliation}#=%=#Howard University
+Author{3}{Firstname}#=%=#Amirsina
+Author{3}{Lastname}#=%=#Torfi
+Author{3}{Email}#=%=#atorfi@vt.edu
+Author{3}{Affiliation}#=%=#Virginia Tech
+Author{4}{Firstname}#=%=#Mugizi
+Author{4}{Lastname}#=%=#Rwebangira
+Author{4}{Email}#=%=#rweba@scs.howard.edu
+Author{4}{Affiliation}#=%=#Howard University
+Author{5}{Firstname}#=%=#Mohamed
+Author{5}{Lastname}#=%=#Chouikha
+Author{5}{Email}#=%=#mchouikha@howard.edu
+Author{5}{Affiliation}#=%=#Howard University
+
+==========

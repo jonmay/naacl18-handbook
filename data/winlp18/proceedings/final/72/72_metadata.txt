@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#72
+FinalPaperTitle#=%=#Lightweight Word-Level Confidence Estimation for Neural Interactive Translation Prediction
+ShortPaperTitle#=%=#Lightweight Word-Level Confidence Estimation for Neural Interactive Translation Prediction
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Rebecca Knowles
+JobTitle#==#
+Organization#==#JOHNS HOPKINS UNIVERSITY
+3400 NORTH CHARLES STREET
+BALTIMORE MARYLAND 21218
+Abstract#==#In neural interactive translation prediction, a system provides translation suggestions ("auto-complete" functionality) for human translators. These translation suggestions may be rejected by the translator in predictable ways; being able to estimate confidence in the quality of translation suggestions could be useful in providing additional information for users of the system. We show that a very small set of features (which are already generated as byproducts of the process of translation prediction) can be used in a simple model to estimate confidence for interactive translation prediction.
+Author{1}{Firstname}#=%=#Rebecca
+Author{1}{Lastname}#=%=#Knowles
+Author{1}{Email}#=%=#rknowles@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Philipp
+Author{2}{Lastname}#=%=#Koehn
+Author{2}{Email}#=%=#phi@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+
+==========

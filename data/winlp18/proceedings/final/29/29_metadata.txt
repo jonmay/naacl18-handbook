@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#A Corpus for the Analysis of Online News Comments
+ShortPaperTitle#=%=#A Corpus for the Analysis of Online News Comments
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Varada Kolhatkar
+JobTitle#==#
+Organization#==#Simon Fraser University
+8888 University Dr, Burnaby, BC V5A 1S6
+Abstract#==#There is a growing interest among journalists, social scientists and computational linguists in studying online interactions and mediating them to improve their quality. We present the SFU Opinion and Comments Corpus which can be used to study online interactions in a systematic way. The corpus comprises 10,339 opinion articles from the Canadian national newspaper \textit{The Globe and Mail} and 663,173 comments posted in response to those articles. We also present a description of four layers of annotations carried out on a subset of the corpus: constructiveness, toxicity, negation, and Appraisal.
+Author{1}{Firstname}#=%=#Varada
+Author{1}{Lastname}#=%=#Kolhatkar
+Author{1}{Email}#=%=#varada.kolhatkar@gmail.com
+Author{1}{Affiliation}#=%=#Simon Fraser University
+Author{2}{Firstname}#=%=#Maite
+Author{2}{Lastname}#=%=#Taboada
+Author{2}{Email}#=%=#mtaboada@sfu.ca
+Author{2}{Affiliation}#=%=#Simon Fraser University
+
+==========

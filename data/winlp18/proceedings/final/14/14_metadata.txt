@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Data Adaptation for Named Entity Recognition in Twitter with Features-Rich CRF
+ShortPaperTitle#=%=#Data Adaptation for Named Entity Recognition in Twitter with Features-Rich CRF
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#dummy
+JobTitle#==#
+Organization#==#dummy
+Abstract#==#Information extraction today faces new challenges with noisy, short,
+unstructured data. These challenges are created in huge proportions on a daily
+basis. This is especially the case for social media messages, such as tweets,
+in which language can be erroneous or cryptic, and contains references to a
+great number of new entities. Traditional NER systems are challenged and need
+to develop new strategies to handle with these data. To this end, we
+experimented the use of both unsupervised word clusters (w2v) and online
+lexicon gathering  (\textit{mediawiki}), to provide lexical groundings to a
+classical CRF system. This system has been tested on both French (CAp'2017) and
+English (WNUT'2016) NER competition datasets. It obtained very good results
+with a minimal training and development cost. The paper describes the method,
+the system design, the evaluation campaign dataset and the obtained results.
+Author{1}{Firstname}#=%=#Ngoc Tan
+Author{1}{Lastname}#=%=#Le
+Author{1}{Email}#=%=#letan.dhcn@gmail.com
+Author{1}{Affiliation}#=%=#Université du Québec à Montréal
+Author{2}{Firstname}#=%=#Fatiha
+Author{2}{Lastname}#=%=#Sadat
+Author{2}{Email}#=%=#le.ngoc_tan@courrier.uqam.ca
+Author{2}{Affiliation}#=%=#Universite du Quebec a Montreal
+
+==========

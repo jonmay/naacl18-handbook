@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#53
+FinalPaperTitle#=%=#Learning Diacritic Embeddings
+ShortPaperTitle#=%=#Learning Diacritic Embeddings
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Ignatius Ezeani
+JobTitle#==#
+Organization#==#Department of Computer Science,
+The University of Sheffield,
+Regent Court, S1 4DP, Sheffield, UK.
+Abstract#==#Many languages have characters with diacritics in their alphabet and orthography. Diacritics, e.g. dot-belows or -aboves (o., i.,u., n), accents (`o.,  ́ı., u  ̄ ), modify some of the usual latin characters in the English alphabet thereby changing the meaning and pronunciation of words. Omitting diacritics in texts leads to lexical ambiguity. Given the success of embedding models in mainstream NLP tasks, we explore the option of using embedding models in restoring diacritics. In this paper, we present a restoration technique based on embedding models. Our technique modifies the vectors of each diacritic form with a combination of the vectors of its most co-occurring words. Our results show over 13% improvement in the accuracy and the basic restoration algorithm.
+Author{1}{Firstname}#=%=#Ignatius
+Author{1}{Lastname}#=%=#Ezeani
+Author{1}{Email}#=%=#ignatius.ezeani@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#The University of Sheffield
+Author{2}{Firstname}#=%=#Ikechukwu
+Author{2}{Lastname}#=%=#Onyenwe
+Author{2}{Email}#=%=#i.onyenwe@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#Dept. of Computer Science, The University of Sheffield
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Hepple
+Author{3}{Email}#=%=#m.hepple@dcs.shef.ac.uk
+Author{3}{Affiliation}#=%=#University of Sheffield
+Author{4}{Firstname}#=%=#Enemouh
+Author{4}{Lastname}#=%=#Chioma
+Author{4}{Email}#=%=#clenemuoh1@sheffield.ac.uk
+Author{4}{Affiliation}#=%=#university of Sheffield
+
+==========

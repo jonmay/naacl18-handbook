@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#The Entrainment of Creaky Voice in Spoken Dialogue
+ShortPaperTitle#=%=#The Entrainment of Creaky Voice in Spoken Dialogue
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Courtney Mansfield
+JobTitle#==#
+Organization#==#Department of Linguistics
+University of Washington
+Guggenheim Hall, 4th Floor
+Box 352425
+Seattle, WA 98195
+Abstract#==#Speakers adapt their speaking style to match that of their interlocutor in a
+process described as linguistic entrainment or accommodation. While previous
+studies have considered the entrainment of acoustic-prosodic features in
+spoken dialogue, the entrainment of phonation has not been examined. Using a
+hand-annotated and automatically classified dataset of phonation labels, I
+examine the entrainment of creaky voice in partners over several dimensions.
+I additionally consider how speaker and partner gender affect both rates of
+creak and entrainment in a cooperative dialogue.
+Author{1}{Firstname}#=%=#Courtney
+Author{1}{Lastname}#=%=#Mansfield
+Author{1}{Email}#=%=#cmansfield8@gmail.com
+Author{1}{Affiliation}#=%=#University of Washington
+
+==========

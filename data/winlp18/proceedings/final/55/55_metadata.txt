@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#55
+FinalPaperTitle#=%=#Unsupervised Sentence Embeddings for Answer Summarization in Non-factoid CQA
+ShortPaperTitle#=%=#Unsupervised Sentence Embeddings for Answer Summarization in Non-factoid CQA
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Thanh Thi Ha
+JobTitle#==#PhD. Student
+Organization#==#Ha Noi University of Science and Technology
+Abstract#==#This paper presents a method for summarizing answers in Community Question Answering. We explore deep Auto-encoder and Long-short-term-memory Auto-encoder for sentence representation. The sentence representations are used to measure similarity in Maximal Marginal Relevance algorithm for extractive summarization. Experimental results on a benchmark dataset show that our unsupervised method achieves state-of-the-art performance while requiring no annotated data.
+Author{1}{Firstname}#=%=#Thi-Thanh
+Author{1}{Lastname}#=%=#Ha
+Author{1}{Email}#=%=#htthanh@ictu.edu.vn
+Author{1}{Affiliation}#=%=#Thai Nguyen University of Information and Communication Technology
+Author{2}{Firstname}#=%=#Nguyen
+Author{2}{Lastname}#=%=#Thanh-Chinh
+Author{2}{Email}#=%=#chinh.fls@outlook.com
+Author{2}{Affiliation}#=%=#HaNoi University of Science and Technology
+Author{3}{Firstname}#=%=#Nguyen
+Author{3}{Lastname}#=%=#Kiem-Hieu
+Author{3}{Email}#=%=#hieunk@soict.hust.edu.vn
+Author{3}{Affiliation}#=%=#HaNoi University of Science and Technology
+Author{4}{Firstname}#=%=#Vu
+Author{4}{Lastname}#=%=#Van-Chung
+Author{4}{Email}#=%=#vanchung1995@gmail.com
+Author{4}{Affiliation}#=%=#HaNoi University of Science and Technology
+
+==========

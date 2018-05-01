@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Development of Pronunciation Lexicons for Amharic Automatic Speech Recognition (ASR)
+ShortPaperTitle#=%=#Development of Pronunciation Lexicons for Amharic Automatic Speech Recognition (ASR)
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Martha Yifiru Tachbelie
+JobTitle#==#
+Organization#==#School of Information Science , College of Natural and Computational Sciences, Addis Ababa University
+Abstract#==#Amharic is the second most spoken Semitic language after Arabic. It has its own
+syllabary writing system, each character representing a consonant and a vowel.
+Automatic Speech Recognition research for Amharic have been conducted on the
+basis of grapheme-based pronunciation lexicon, taking ad-vantage of the nature
+of its writing system. However, the epenthetic vowel and the glottal stop
+consonant represented in the writing system may not be pronounced in all of
+their occurrences. Moreover, the writing system does not differentiate short
+and long (geminated) forms of consonants. Therefore, the grapheme-based
+pronunciation lexicon used so far has limitations with regard to these language
+features. To handle these limitations, we have prepared morph- and word-based
+pronunciation lexicons using data-driven and knowledge-driven expert’s
+transcription. The data-driven transcription has been used for the preparation
+of training pronunciation lexicon while the knowledge-driven has been used to
+prepare morph- and word-based pronunciation lexicons for decoding. When
+morpheme-based knowledge driven lexicons are used, better ASR performance
+(compared with the baseline ASR system that used grapheme-based lexicon) has
+been achieved although the number of phones is much more (60) than the number
+of phones used in the grapheme-based lexicon (37).
+Author{1}{Firstname}#=%=#Martha Yifiru
+Author{1}{Lastname}#=%=#Tachbelie
+Author{1}{Email}#=%=#martha.yifiru@aau.edu.et
+Author{1}{Affiliation}#=%=#Addis Ababa University
+Author{2}{Firstname}#=%=#Solomon Teferra
+Author{2}{Lastname}#=%=#Abate
+Author{2}{Email}#=%=#solomon.teferra@aau.edu.et
+Author{2}{Affiliation}#=%=#School of Information Science, Addis Ababa University
+
+==========

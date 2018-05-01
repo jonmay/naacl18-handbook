@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=##MeToo: Neural Detection and Explanation of Language in Personal Abuse Stories
+ShortPaperTitle#=%=##MeToo: Neural Detection and Explanation of Language in Personal Abuse Stories
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Sweta Karlekar
+JobTitle#==#
+Organization#==#UNC Chapel Hill 
+Chapel Hil, NC
+Abstract#==#The detection and classification of domestic abuse stories shared online has
+ever-increasing importance in today's social activism sphere. With massive
+numbers of stories shared, automatic detection of these stories can help push
+forward the fight against domestic abuse from a social campaign to social
+change. We develop CNN-RNN neural models to detect domestic abuse stories in
+the Reddit Domestic Abuse dataset. We achieved 95.6% accuracy in classifying
+posts as containing abuse stories vs. not containing abuse stories,
+outperforming the current state-of-the-art. More importantly, we next present
+interpretable and explainable analysis of the neural model predictions using
+activation clustering techniques to automatically discover linguistic features.
+Author{1}{Firstname}#=%=#Sweta
+Author{1}{Lastname}#=%=#Karlekar
+Author{1}{Email}#=%=#swetakar@cs.unc.edu
+Author{1}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{2}{Firstname}#=%=#Mohit
+Author{2}{Lastname}#=%=#Bansal
+Author{2}{Email}#=%=#mbansal@cs.unc.edu
+Author{2}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+
+==========

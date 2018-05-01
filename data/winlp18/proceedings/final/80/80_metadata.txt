@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#80
+FinalPaperTitle#=%=#Building a NLI Corpus for Portuguese
+ShortPaperTitle#=%=#Building a NLI Corpus for Portuguese
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#dummy
+JobTitle#==#
+Organization#==#dummy
+Abstract#==#We described the construction of an NLI/RTE corpus for Portuguese, SICK-PT, which is based on and aligned to SICK. We focused on linguistic strategies to guarantee (i.) the reuse of original NLI/relatedness labels of SICK into SICK-PT; (ii.)
+a natural register of Portuguese and (iii.) having the same linguistic phenomena found in SICK.
+Author{1}{Firstname}#=%=#Livy
+Author{1}{Lastname}#=%=#Real
+Author{1}{Email}#=%=#livyreal@gmail.com
+Author{1}{Affiliation}#=%=#São Paulo University
+Author{2}{Firstname}#=%=#Valeria
+Author{2}{Lastname}#=%=#dePaiva
+Author{2}{Email}#=%=#valeria.depaiva@gmail.com
+Author{2}{Affiliation}#=%=#Nuance Communications
+Author{3}{Firstname}#=%=#Bruno
+Author{3}{Lastname}#=%=#Guide
+Author{3}{Email}#=%=#bruno.fguide@gmail.com
+Author{3}{Affiliation}#=%=#GLIC/USP
+Author{4}{Firstname}#=%=#Bruna
+Author{4}{Lastname}#=%=#Thalenberg
+Author{4}{Email}#=%=#bthalenberg@gmail.com
+Author{4}{Affiliation}#=%=#USP
+Author{5}{Firstname}#=%=#Cindy
+Author{5}{Lastname}#=%=#Silva
+Author{5}{Email}#=%=#cindyevellyn@gmail.com
+Author{5}{Affiliation}#=%=#USP/GLiC
+Author{6}{Firstname}#=%=#Guilherme
+Author{6}{Lastname}#=%=#Oliveira Lima
+Author{6}{Email}#=%=#guilherme.oliveira.lima@usp.br
+Author{6}{Affiliation}#=%=#USP
+Author{7}{Firstname}#=%=#Ana
+Author{7}{Lastname}#=%=#Rodrigues
+Author{7}{Email}#=%=#anabra.sp@gmail.com
+Author{7}{Affiliation}#=%=#USP/GLiC
+Author{8}{Firstname}#=%=#Beatriz
+Author{8}{Lastname}#=%=#Albiero
+Author{8}{Email}#=%=#beatrizalbiero1@gmail.com
+Author{8}{Affiliation}#=%=#USP/GLiC
+Author{9}{Firstname}#=%=#Rodrigo
+Author{9}{Lastname}#=%=#Souza
+Author{9}{Email}#=%=#rodrigo.aparecido.souza@usp.br
+Author{9}{Affiliation}#=%=#USP/GLiC
+Author{10}{Firstname}#=%=#Igor
+Author{10}{Lastname}#=%=#de Camargo e Souza Câmara
+Author{10}{Email}#=%=#igor0csc@gmail.com
+Author{10}{Affiliation}#=%=#UNICAMP
+
+==========

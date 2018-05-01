@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Concept Linking in Medical Domain for Social Media Posts Using RNNs
+ShortPaperTitle#=%=#Concept Linking in Medical Domain for Social Media Posts Using RNNs
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Elena Tutubalina
+JobTitle#==#
+Organization#==#Kazan Federal University, 18 Kremlyovskaya street, Kazan, Russian Federation, 420008
+Abstract#==#The task of mapping a disease mention to a concept in a controlled vocabulary, typically to the standard thesaurus in the Unified Medical Language System (UMLS), is known as medical concept normalization. This task is challenging due to the differences in medical terminology between health care professionals and social media texts coming from the lay public. To bridge this gap, we use sequence learning with recurrent neural networks and semantic representation of one- or multi-word expressions: we develop end-to-end neural architectures directly tailored to the task, including bidirectional LSTM and GRU with an attention mechanism and additional semantic similarity features based on UMLS. Our evaluation over a standard benchmark shows that our model improve results over an effective baseline for classification based on CNNs.
+Author{1}{Firstname}#=%=#Elena
+Author{1}{Lastname}#=%=#Tutubalina
+Author{1}{Email}#=%=#tlenusik@gmail.com
+Author{1}{Affiliation}#=%=#Kazan Federal University
+Author{2}{Firstname}#=%=#Zulfat
+Author{2}{Lastname}#=%=#Miftahutdinov
+Author{2}{Email}#=%=#zulfatmi@gmail.com
+Author{2}{Affiliation}#=%=#Kazan Federal University
+Author{3}{Firstname}#=%=#Valentin
+Author{3}{Lastname}#=%=#Malykh
+Author{3}{Email}#=%=#valentin.malykh@phystech.edu
+Author{3}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+
+==========

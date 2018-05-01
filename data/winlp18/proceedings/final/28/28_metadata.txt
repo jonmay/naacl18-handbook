@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#Text Mining of Student Generated Content for Culturally Relevant Pedagogies in Data Science
+ShortPaperTitle#=%=#Text Mining of Student Generated Content for Culturally Relevant Pedagogies in Data Science
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Jaye Nias
+JobTitle#==#
+Organization#==#Spelman College
+350 Spelman Lane Box 1257
+Atlanta, Georgia 30314
+Abstract#==#Our research proposes the use of culturally significant topics and pedagogy
+that transforms students from technological consumers to producers while
+leveraging both traditional educational methodologies along with access to
+social media data in order to expose students to text based analysis and
+informatics techniques toward a foundation in data science literacy for
+cross-disciplinary applications.
+Author{1}{Firstname}#=%=#Jaye
+Author{1}{Lastname}#=%=#Nias
+Author{1}{Email}#=%=#jnias@spelman.edu
+Author{1}{Affiliation}#=%=#Spelman College
+
+==========

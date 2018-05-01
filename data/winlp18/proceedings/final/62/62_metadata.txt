@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#62
+FinalPaperTitle#=%=#Implicit and Explicit Information for Categorization
+ShortPaperTitle#=%=#Implicit and Explicit Information for Categorization
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Felipe Soares Fagundes Paula
+JobTitle#==#
+Organization#==#Felipe Soares Fagundes Paula, Federal University of Rio Grande do Sul, Address: Paulo Gama, 110, Porto Alegre - Rio Grande do Sul, Brazil, 90040-060
+Abstract#==#The aim of this work is to examine if implicit features from word embeddings can be used to approximate a manually constructed taxonomy. Our hypothesis is that information about semantic relatedness present in these embeddings can be used as basis for clustering similar concepts, capturing to some extent the taxonomic information that goes into a manually curated resource. We also investigate how these implicit features compare with explicitly defined feature norms. The results obtained suggest that word embeddings capture some taxonomic information, and that these implicit features complement those from feature norms.
+Author{1}{Firstname}#=%=#Felipe
+Author{1}{Lastname}#=%=#Paula
+Author{1}{Email}#=%=#felipesfpaula@gmail.com
+Author{1}{Affiliation}#=%=#Institute of Informatics - UFRGS
+Author{2}{Firstname}#=%=#Rodrigo
+Author{2}{Lastname}#=%=#Wilkens
+Author{2}{Email}#=%=#rswilkens@gmail.com
+Author{2}{Affiliation}#=%=#Université catholique de Louvain
+Author{3}{Firstname}#=%=#Marco
+Author{3}{Lastname}#=%=#Idiart
+Author{3}{Email}#=%=#marco.idiart@gmail.com
+Author{3}{Affiliation}#=%=#UFRGS
+Author{4}{Firstname}#=%=#Aline
+Author{4}{Lastname}#=%=#Villavicencio
+Author{4}{Email}#=%=#alinev@gmail.com
+Author{4}{Affiliation}#=%=#University of Essex, UK
+
+==========

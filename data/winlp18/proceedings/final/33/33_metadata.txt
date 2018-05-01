@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Longer Acoustic Units for Amharic Speech Recognition
+ShortPaperTitle#=%=#Longer Acoustic Units for Amharic Speech Recognition
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Adey Edessa
+JobTitle#==#
+Organization#==#Addis Ababa University
+Abstract#==#This study investigated the possibility of developing a large vocabulary
+continuous speech recognizer (LVCSR) for Amharic using the different syllable
+types V, CV, VC, CVC, VCC and CVCC found in the language as acoustic units.
+Syllables as longer length acoustic units are able to embed the spectral and
+temporal dependencies found in speech and thus able to model it well. The
+recognizer was developed using the Hidden Markov Model as a modeling technique.
+The result of the experiments shows that syllables are promising units for
+Amharic LVCSR provided that enough training data is available.
+Author{1}{Firstname}#=%=#Adey
+Author{1}{Lastname}#=%=#Edessa
+Author{1}{Email}#=%=#adey.edessa@aau.edu.et
+Author{1}{Affiliation}#=%=#Addis Ababa University
+Author{2}{Firstname}#=%=#Martha
+Author{2}{Lastname}#=%=#Yifiru
+Author{2}{Email}#=%=#martha.yifiu@aau.edu.et
+Author{2}{Affiliation}#=%=#Addis Ababa University
+
+==========

@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#56
+FinalPaperTitle#=%=#New Entity Identification Approaches in Entity Linking Systems
+ShortPaperTitle#=%=#New Entity Identification Approaches in Entity Linking Systems
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Priya Radhakrishnan
+JobTitle#==#
+Organization#==#IIIT Hyderabad
+Abstract#==#In our day-to-day life, we encounter new and interesting entities (e.g., a person’s name or a geographic location) while reading text. New Entity
+Identification (NEI) is the process of automatically identifying an entity present in text, but not present in a Knowledge Base (KB). Understanding NEI
+approaches is critical in the automatic construction and maintenance of KBs.
+In this study we review the literature on NEI approaches of Entity Linking (EL) systems. We examine recent findings, best-result algorithms,
+and state-of-the-art systems pertinent to NEI research, while assessing the reproducibility of the results. We identify two prominent clusters of NEI
+approaches. Then, we re-implement approaches from both the clusters, and make several observations from our experiments. Our findings answer the following questions: How EL features impact NEI; will the use of a dedicated classifier
+for new entities improve NEI performance; and finally, how the standard EL systems can be improved to achieve better NEI performance.
+Author{1}{Firstname}#=%=#Priya
+Author{1}{Lastname}#=%=#Radhakrishnan
+Author{1}{Email}#=%=#priya.r@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{2}{Firstname}#=%=#Manish
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Email}#=%=#gmanish@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft, India
+Author{3}{Firstname}#=%=#Vasudeva
+Author{3}{Lastname}#=%=#Varma
+Author{3}{Email}#=%=#vv@iiit.ac.in
+Author{3}{Affiliation}#=%=#IIIT Hyderabad
+
+==========

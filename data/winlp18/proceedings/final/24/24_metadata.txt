@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#NeuroSign: a Seq2Seq Model Proposal for Sign Language Translation
+ShortPaperTitle#=%=#NeuroSign: a Seq2Seq Model Proposal for Sign Language Translation
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Héctor Ricardo Murrieta Bello
+JobTitle#==#
+Organization#==#Universidad Nacional Autónoma de México
+
+AV. UNIVERSIDAD Nº 3000, UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO, C.U., CIUDAD DE MÉXICO, 04510
+Abstract#==#This paper present a proposal for translating British Sign Language to English.
+Our model takes video of a person as input and the system generates the
+corresponding translation to written English. We also present the problems of
+this task in the machine translation area.
+Author{1}{Firstname}#=%=#Héctor Ricardo
+Author{1}{Lastname}#=%=#Murrieta Bello
+Author{1}{Email}#=%=#hectormb.9@gmail.com
+Author{1}{Affiliation}#=%=#Instituto de Investigaciones en Matemátticas Aplicadas y en Sistemas (IIMAS-UNAM)
+Author{2}{Firstname}#=%=#Ivan Vladimir
+Author{2}{Lastname}#=%=#Meza Ruiz
+Author{2}{Email}#=%=#ivanvladimir@gmail.com
+Author{2}{Affiliation}#=%=#Insituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS-UNAM)
+
+==========

@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#Using Machine Learning to Detect Potential Child Suicide Bombers
+ShortPaperTitle#=%=#Using Machine Learning to Detect Potential Child Suicide Bombers
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Francisca Onaolapo Oladipo
+JobTitle#==#
+Organization#==#Federal University Lokoja
+Nigeria
+Abstract#==#This presentation describes the research experiences of using Machine Learning (ML) to stop the use of young women, girls and children as suicide bombers by the Boko Haram terrorists in Nigeria through the development of a methodology for detecting radicalization tendencies in inhabitants of an Internally Displaced Persons (IDP) camp in north east Nigeria. Our approach involves developing a lexicon of Jihadist terms in Kanuri language and radicalization giveaways and deploying them as audit information to predict the level of radicalization in each subject. The ML algorithm learns the behavior of a radicalized subject and builds a profile by applying natural language processing and text mining to the Kanuri lexicon dataset. A classification algorithm using this developed profile real-time, predicts the level of radicalization and the likelihood of being a human weapon for each individual subject.
+Author{1}{Firstname}#=%=#Francisca
+Author{1}{Lastname}#=%=#Oladipo
+Author{1}{Email}#=%=#francisca.oladipo@fulokoja.edu.ng
+Author{1}{Affiliation}#=%=#Federal University Lokoja
+Author{2}{Firstname}#=%=#Haruna
+Author{2}{Lastname}#=%=#Abdu
+Author{2}{Email}#=%=#haruna.abdu@fulokoja.edu.ng
+Author{2}{Affiliation}#=%=#Federal University Lokoja
+
+==========

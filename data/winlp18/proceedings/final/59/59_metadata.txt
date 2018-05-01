@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#59
+FinalPaperTitle#=%=#Exploring Morphology Learning of Igbo with Different Degrees of Supervision
+ShortPaperTitle#=%=#Exploring Morphology Learning of Igbo with Different Degrees of Supervision
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Chioma Enemuoh
+JobTitle#==#
+Organization#==#Department of Computer Science
+The University of Sheffield,
+Sheffield, United Kingdom.
+Abstract#==#This paper explores the various degrees of supervision for learning morphology of
+Igbo. This study aims to identify the approach that is most suitable for building a morphological analyser for Igbo and other related languages. This work concentrates on supervised and unsupervised approaches to morphological segmentation of low resource languages. The results indicate that unsupervised methods are better than supervised.
+Author{1}{Firstname}#=%=#Enemouh
+Author{1}{Lastname}#=%=#Chioma
+Author{1}{Email}#=%=#clenemuoh1@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#university of Sheffield
+Author{2}{Firstname}#=%=#Ignatius
+Author{2}{Lastname}#=%=#Ezeani
+Author{2}{Email}#=%=#ignatius.ezeani@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#The University of Sheffield
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Hepple
+Author{3}{Email}#=%=#m.r.hepple@sheffield.ac.uk
+Author{3}{Affiliation}#=%=#The University of Sheffield
+Author{4}{Firstname}#=%=#Ikechukwu
+Author{4}{Lastname}#=%=#Onyenwe
+Author{4}{Email}#=%=#i.onyenwe@sheffield.ac.uk
+Author{4}{Affiliation}#=%=#Dept. of Computer Science, The University of Sheffield
+
+==========
