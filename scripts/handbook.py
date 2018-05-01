@@ -7,12 +7,15 @@ from csv import DictReader
 def extract_keywords(title):
     """Extracts keywords from a title, and returns the title and a dictionary of keys and values"""
     dict = {}
+    print("Starting with {}".format(title))
     for key, value in re.findall('%(\w+) ([^%]+)', title):
+        print("Found {} -> {} in [{}]".format(key, value, title))
         dict[key] = value
 
     if title.find('%') != -1:
         title = title[:title.find('%')].strip()
 
+    print("Extract keywords returning {} -> {}".format(title, dict))
     return title, dict
         
 def latex_escape(str):
@@ -57,12 +60,13 @@ def threedigits(str):
 class Session:
     def __init__(self, line, date):
         # remove comments
-        line = line[:line.find('#')]
+        if line.find('#') > 0:
+            line = line[:line.find('#')]
         (self.time, namestr) = line[2:].split(' ', 1)
         self.date = date
         self.papers = []
         self.desc = ""
-
+        
         (self.name, self.keywords) = extract_keywords(namestr)
         
         if self.name.find(':') != -1:

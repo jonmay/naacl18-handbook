@@ -172,8 +172,12 @@ for date in dates:
                 print >>out, '  \\marginnote{\\rotatebox{90}{%s}}[2mm]' % (times[paper_num])
                 print paper_num, len(session.papers)
                 # TODO: JM cover the case where the session has no papers (i.e. all posters)
-                papers = [session.papers[paper_num] for session in parallel_sessions]
-                print >>out, ' ', ' & '.join(['\\papertableentry{%s}' % (p.id) for p in papers])
+                papers = ['\\papertableentry{%s}' % (session.papers[paper_num].id) if len(session.papers) > paper_num else "" for session in parallel_sessions]
+                print >>out, ' ', ' & '.join(papers)
+#                print >>out, ' ', ' & '.join(['\\papertableentry{%s}' % (p.id) for p in papers])
+
+#                papers = [session.papers[paper_num] for session in parallel_sessions]
+#                print >>out, ' ', ' & '.join(['\\papertableentry{%s}' % (p.id) for p in papers])
                 print >>out, '  \\\\'
 
             print >>out, '\\end{ThreeSessionOverview}\n'

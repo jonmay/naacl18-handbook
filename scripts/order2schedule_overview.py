@@ -76,12 +76,14 @@ for line in sys.stdin:
             timerange = lasttime
         else:
             lasttime = timerange
+        print("Getting keywords direct from title")
         title, keys = extract_keywords(title)
         if keys.has_key('by'):
             title = "%s (%s)" % (title.strip(), keys['by'])
         session_name = None
 
         # faked session
+        print("building faked session from {}".format(line))
         event = Session(line, (day, date, year))
         event.name = title
         #event = {'name':title, 'keywords':keys}
@@ -169,7 +171,7 @@ for date in dates:
                 # print >>out, '  {\\bfseries %s} \\hfill \emph{\\%sLoc}' % (event, loc)
                 print >>out, '  {\\bfseries %s}'% (event.name)#['name'])
                 if 'room' in event.keywords:#['keywords']:
-                    print >>out, '  {\\hfill \emph{%s}' % (event.keywords['room'])#['keywords']['room'])
+                    print >>out, '  {\\hfill \emph{%s}}' % (event.keywords['room'])#['keywords']['room'])
                 print >>out, '  \\\\'
 
     print >>out, '\\end{SingleTrackSchedule}'
