@@ -9,6 +9,7 @@
 \usepackage{longtable}
 \usepackage{combelow}
 \usepackage{newunicodechar}
+\usepackage[hidelinks]{hyperref}
 \newunicodechar{ș}{\cb{s}}
 \newunicodechar{ț}{\cb{t}}
 
@@ -46,6 +47,11 @@
 \renewcommand{\Large}{\fontsize{12}{14}\selectfont}
 \renewcommand{\huge}{\fontsize{14}{17}\selectfont}
 \newcommand{\ie}{i.e.}
+
+\newlength\myheight
+\newlength\mydepth
+\settototalheight\myheight{Xygp}
+\settodepth\mydepth{Xygp}
 
 %%% cfedermann
 %
@@ -107,10 +113,10 @@
 \bibliography{auto/papers/papers.bib}
 \bibliography{auto/naacl2018-SRW/papers.bib}
 
-%\bibliography{auto/naacl2018-demos/papers.bib}
+\bibliography{auto/naacl2018-demos/papers.bib}
 
 % Tutorials bibliography
-%\bibliography{auto/tutorials/papers.bib}
+\bibliography{auto/naacl2018-tutorials/papers.bib}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -121,19 +127,33 @@
 
 %% COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \fancyfoot[C]{}
-\includepdf[pages={1}]{content/fmatter/cover2.pdf}
+\includepdf[pages={1}]{content/fmatter/cover.jpg}
 
 \thispagestyle{empty}
-\vspace*{6in}
+\vspace*{5.7in}
 \noindent
-\emph{Cover design by XXX XXX XXX}\\
+\emph{Cover design by Ying Lin}\\
+
+\noindent
+\emph{Cover photo is a derivative of original work by Peyton Stanton available at \url{https://www.flickr.com/photos/peytonstanton/35496401710/}}
+%\noindent
+%\includepdf{content/fmatter/cc.png}\includepdf{{content/fmatter/cc.large}}
+%\raisebox{-\mydepth{\includepdfmerge[nup=3x1,width=.2in]{content/fmatter/cc.png, content/fmatter/by.png, content/fmatter/nc.png}}}
+\noindent
+\emph{\url{https://creativecommons.org/licenses/by-nc/2.0/}}
+
+\noindent
+\includegraphics[width=.15in]{content/fmatter/cc.png}\includegraphics[width=.15in]{content/fmatter/by.png}\includegraphics[width=.15in]{content/fmatter/nc.png}
+
 \noindent
 \emph{Handbook assembled by Jonathan May}\\
+
 \noindent
 \emph{Printing by Omnipress of Madison, Wisconsin}
 
 \index{May, Jonathan}
-
+\index{Lin, Ying}
+\index{Stanton, Peyton}
 \newpage
 \cleardoublepage
 \fancyfoot[C]{\thepage}
@@ -176,7 +196,7 @@
 
 %% MAIN CONFERENCE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setdaydateyear{Saturday}{June 2}{2018}
-\input{content/day1/day1}
+%\input{content/day1/day1}
 
 \setdaydateyear{Sunday}{June 3}{2018}
 %\input{content/day2/day2}

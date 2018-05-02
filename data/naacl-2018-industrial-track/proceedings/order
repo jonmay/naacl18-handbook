@@ -7,7 +7,7 @@
 1716 11:30--11:50  # What we need to learn if we want to do and not just talk
 1762 11:50--12:10  # Data Collection for Dialogue System: A Startup Perspective
 1788 12:10--12:30  # Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning
-= 10:30am--12:30pm Posters - Industry - 1 # %room Elite Hall B
+= 10:30am--12:00pm Posters - Industry - 1 # %room Elite Hall B
 1729   # Quality Estimation for Automatically Generated Titles of eCommerce Browse Pages
 1746   # Atypical Inputs in Educational Applications
 1776   # Using Aspect Extraction Approaches to Generate Review Summaries and User Profiles
@@ -26,7 +26,7 @@
 1719 10:30--10:50  # Selecting Machine-Translated Data for Quick Bootstrapping of a Natural Language Understanding System
 1760 10:50--11:10  # Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents
 1785 11:10--11:30  # Bag of Experts Architectures for Model Reuse in Conversational Language Understanding
-= 11:30--12:30 Named Entity and Language Generation # %room Empire D
+= 11:30--12:30 Named Entity and Language Generation # %room Empire D %chair1 Owen Rambow %aff1 Elemental Cognition
 1753 11:30--11:50  # Multi-lingual neural title generation for e-Commerce browse pages
 1755 11:50--12:10  # A Novel Approach to Part Name Discovery in Noisy Text
 1761 12:10--12:30  # The Alexa Meaning Representation Language
@@ -40,7 +40,7 @@
 1742 11:30--11:50  # Prediction for the Newsroom: Which Articles Will Get the Most Comments?
 1750 11:50--12:10  # Demand-Weighted Completeness Prediction for a Knowledge Base
 1782 12:10--12:30  # Personalized neural language models for real-world query auto completion
-= 10:30--12:30 Posters - Industry 3
+= 10:30--12:00 Posters - Industry 3
 1733   # Document-based Recommender System for Job Postings using Dense Representations
 = 15:30--17:00 Posters Industry 4
 1783   # Benchmarks and models for entity-oriented polarity detection

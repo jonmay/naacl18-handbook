@@ -10,10 +10,20 @@ NAACL 2018 handbook can be compiled:
 - All workshops
 -~~ Workshop schedules~~
 - Workshop date consistencies
-- workshop locations
+-~~workshop locations~~
 - registration hours and days
 - fix to order2schedule to allow poster parallel
-- ad mockups
+- ebay ad
+- amazon ad
+- polyai ad
+- iMerit ad
+- bloomberg ad
+- grammarly ad
+- ibm ad
+- tulane ad
+- oracle ad
+- kpmg ad
+- Not all the poster abstracts are being incorporated
 - Manual citations for workshop invited talks
 -~~workshop main citations not last year's~~
 -~~Breakfast with tutorials? (yes, 730-9 each day)~~
