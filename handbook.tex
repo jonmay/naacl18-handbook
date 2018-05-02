@@ -130,15 +130,13 @@
 \includepdf[pages={1}]{content/fmatter/cover.jpg}
 
 \thispagestyle{empty}
-\vspace*{5.7in}
+\vspace*{5.5in}
 \noindent
 \emph{Cover design by Ying Lin}\\
 
 \noindent
 \emph{Cover photo is a derivative of original work by Peyton Stanton available at \url{https://www.flickr.com/photos/peytonstanton/35496401710/}}
-%\noindent
-%\includepdf{content/fmatter/cc.png}\includepdf{{content/fmatter/cc.large}}
-%\raisebox{-\mydepth{\includepdfmerge[nup=3x1,width=.2in]{content/fmatter/cc.png, content/fmatter/by.png, content/fmatter/nc.png}}}
+
 \noindent
 \emph{\url{https://creativecommons.org/licenses/by-nc/2.0/}}
 
@@ -162,41 +160,41 @@
 %% TOC %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \addcontentsline{toc}{chapter}{Table of Contents}
 \setcounter{tocdepth}{2}
-\tableofcontents
+%\tableofcontents
 \mainmatter
 \pagestyle{fancy}
 
 %% PREFACE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Conference Information}
 
-\input{content/fmatter/preface-chair}
+%\input{content/fmatter/preface-chair}
 \clearpage
-\input{content/fmatter/preface-pc}
+%\input{content/fmatter/preface-pc}
 
 \clearpage%{\thispagestyle{emptyheader}\cleardoublepage}
-\input{content/fmatter/preface-industrial}
+%\input{content/fmatter/preface-industrial}
 
 \clearpage
 \setheaders{}{}
-\input{content/fmatter/committee}
+%\input{content/fmatter/committee}
 
 \clearpage%{\thispagestyle{emptyheader}\cleardoublepage}
 \setheaders{}{}
-\input{content/meal-info.tex}
+%\input{content/meal-info.tex}
 \clearpage
 
 %% TUTORIALS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setdaydateyear{Friday}{June 1}{2018}
-\input{content/tutorials/tutorials-overview}
+%\input{content/tutorials/tutorials-overview}
 
 %% RECEPTION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
 \addcontentsline{toc}{chapter}{Welcome Reception: \daydate, 18:00}
-\input{content/welcome-reception}
+%\input{content/welcome-reception}
 
 %% MAIN CONFERENCE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setdaydateyear{Saturday}{June 2}{2018}
-%\input{content/day1/day1}
+\input{content/day1/day1}
 
 \setdaydateyear{Sunday}{June 3}{2018}
 %\input{content/day2/day2}
