@@ -117,10 +117,11 @@ def minus12(time):
         return '--'.join(map(lambda x: minus12(x), time.split('--')))
 
     hours, minutes = time.split(':')
-    if hours.startswith('0'):
-        hours = hours[1:]
-    if int(hours) >= 13:
-        hours = `int(hours) - 12`
+    # no-op
+    # if hours.startswith('0'):
+    #     hours = hours[1:]
+    # if int(hours) >= 13:
+    #     hours = `int(hours) - 12`
 
     return '%s:%s' % (hours, minutes)
 

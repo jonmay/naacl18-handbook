@@ -76,14 +76,15 @@ class Session:
             print ("Looking for num in name ["+self.name+"], desc ["+self.desc+"]")
             self.num = self.name.split(' ')[-1][:-1]
             print("Got "+self.num)
-            print >> sys.stderr, "LINE %s NAME %s DESC %s NUM %s" % (line, self.name, self.desc, self.num)
+            self.track = self.name.split(' ')[-1][-1]
+            print >> sys.stderr, "LINE %s NAME %s DESC %s NUM %s TRACK %s" % (line, self.name, self.desc, self.num, self.track)
         else:
             print >> sys.stderr, "LINE %s NAME %s" % (line, self.name)
 
-        self.poster = False
-        l = self.name.lower()
-        if 'poster' in l or 'demo' in l or 'best paper' in l:
-            self.poster = True
+        self.poster = self.track is not None and self.track == "P"
+        # l = self.name.lower()
+        # if 'poster' in l or 'demo' in l or 'best paper' in l:
+        #     self.poster = True
 
     def __str__(self):
         return "SESSION [%s/%s] %s %s %s" % (self.date, self.time, self.name, self.desc, self.keywords)

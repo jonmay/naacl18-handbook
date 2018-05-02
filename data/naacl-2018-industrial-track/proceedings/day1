@@ -1,0 +1,23 @@
+* Saturday, June 2, 2018
+= 10:30--11:30 Session 1D: Machine Learning -- Classification %room Empire D %chair Luke Zettlemoyer %aff1 University of Washington
+1749 10:30--10:50  # Scalable Wide and Deep Learning for Computer Assisted Coding
+1751 10:50--11:10  # Neural Network based Extreme Classification and Similarity Models for Product Matching
+1769 11:10--11:30  # A Scalable Neural Shortlisting-Reranking Approach for Large-Scale Domain Classification in Natural Language Understanding
+= 11:30--12:30 Session 2D: Dialog %room Empire D %chair Christine Doran %aff1 Interactions LLC
+1716 11:30--11:50  # What we need to learn if we want to do and not just talk
+1762 11:50--12:10  # Data Collection for Dialogue System: A Startup Perspective
+1788 12:10--12:30  # Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning
+= 10:30--12:00 Session 1P: Posters - Industry - 1 %room Elite Hall B
+1729   # Quality Estimation for Automatically Generated Titles of eCommerce Browse Pages
+1746   # Atypical Inputs in Educational Applications
+1776   # Using Aspect Extraction Approaches to Generate Review Summaries and User Profiles
+1779   # SystemT: Declarative Text Understanding for Enterprise
+1792   # Construction of the Literature Graph in Semantic Scholar
++ 14:00--15:00 Industry Track Keynote 1 %room Empire Ballroom %chair Yunyao Li %aff1 IBM Research - Almaden
+! 14:00--15:00 Building a Socialbot: Lessons Learned from 10M Conversations %by Mari Ostendorf
++ 15:30--17:00 Careers in the Industry Panel %room Empire D %chair Philip Resnik %aff1 University of Maryland, College Park
++ 17:00--18:30 Session 4D: Machine Translation %room Empire D %chair Kenneth Heafiled %aff1 University of Edinburgh
+1731 17:00--17:22  # Can Neural Machine Translation be Improved with User Feedback?
+1744 17:22--17:44  # Accelerating NMT Batched Beam Decoding with LMBR Posteriors for Deployment
+1754 17:44--18:07  # Pieces of Eight: 8-bit Neural Machine Translation
+1786 18:07--18:30  # From dictations to clinical reports using machine translation
