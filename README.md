@@ -22,7 +22,8 @@ NAACL 2018 handbook can be compiled:
 - ibm ad
 - tulane ad
 - oracle ad
-- kpmg ad
+-~~kpmg ad~~
+- kpmg too small?
 - Not all the poster abstracts are being incorporated
 - Manual citations for workshop invited talks
 -~~workshop main citations not last year's~~

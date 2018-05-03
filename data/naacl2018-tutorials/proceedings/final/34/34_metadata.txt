@@ -1,7 +1,7 @@
 SubmissionNumber#=%=#34
 FinalPaperTitle#=%=#Deep Learning Approaches to Text Production
 ShortPaperTitle#=%=#Deep Learning Approaches to Text Production
-NumberOfPages#=%=#5
+NumberOfPages#=%=#6
 CopyrightSigned#=%=#Stephanie Lukin
 JobTitle#==#NAACL 2018 Publication Chair
 Organization#==#Uploading the original submission to the 'final' page.

@@ -4,7 +4,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{textcomp}
 \usepackage[greek,english,american]{babel} % jonmay for greek unicode characters in titles
-
+\usepackage{enumitem}
 \usepackage{xspace}
 \usepackage{longtable}
 \usepackage{combelow}
@@ -160,27 +160,27 @@
 %% TOC %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \addcontentsline{toc}{chapter}{Table of Contents}
 \setcounter{tocdepth}{2}
-%\tableofcontents
+\tableofcontents
 \mainmatter
 \pagestyle{fancy}
 
 %% PREFACE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Conference Information}
 
-%\input{content/fmatter/preface-chair}
+\input{content/fmatter/preface-chair}
 \clearpage
-%\input{content/fmatter/preface-pc}
+\input{content/fmatter/preface-pc}
 
 \clearpage%{\thispagestyle{emptyheader}\cleardoublepage}
-%\input{content/fmatter/preface-industrial}
+\input{content/fmatter/preface-industrial}
 
 \clearpage
 \setheaders{}{}
-%\input{content/fmatter/committee}
+\input{content/fmatter/committee}
 
 \clearpage%{\thispagestyle{emptyheader}\cleardoublepage}
 \setheaders{}{}
-%\input{content/meal-info.tex}
+\input{content/meal-info.tex}
 \clearpage
 
 %% TUTORIALS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -190,7 +190,7 @@
 %% RECEPTION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
 \addcontentsline{toc}{chapter}{Welcome Reception: \daydate, 18:00}
-%\input{content/welcome-reception}
+\input{content/welcome-reception}
 
 %% MAIN CONFERENCE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setdaydateyear{Saturday}{June 2}{2018}
@@ -203,7 +203,7 @@
 \newpage
 \setheaders{}{}
 \addcontentsline{toc}{chapter}{Social Event: \daydate, 19:00}
-%\input{content/social-event}
+\input{content/social-event}
 
 \setdaydateyear{Monday}{June 4}{2018}
 %\input{content/day3/day3}

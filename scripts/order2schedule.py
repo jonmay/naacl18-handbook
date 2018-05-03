@@ -73,7 +73,8 @@ for file in args.order_files:
             # This names a parallel session that runs at a certain time
             str = line[2:]
             time_range, session_name = str.split(' ', 1)
-            sessions[session_name] = Session(line, (day, date, year))
+            if not sessions.has_key(session_name):
+                sessions[session_name] = Session(line, (day, date, year))
 
         elif line.startswith('+'):
             # This names an event that takes place at a certain time
@@ -82,7 +83,8 @@ for file in args.order_files:
             # jm this is wrong but won't matter
             if "poster" in title.lower() or "demo" in title.lower() or "best paper session" in title.lower():
                 session_name = title
-                sessions[session_name] = Session(line, (day, date, year))
+                if not sessions.has_key(session_name):
+                    sessions[session_name] = Session(line, (day, date, year))
 
         elif re.match(r'^\d+', line) is not None:
             id, rest = line.split(' ', 1)
@@ -92,10 +94,13 @@ for file in args.order_files:
                 title = rest
 
             if not sessions.has_key(session_name):
+                print("creating {}; current sessions are {}".format(session_name, sessions.keys()))
                 sessions[session_name] = Session("= %s %s" % (timerange, session_name), (day, date, year))
+            else:
+                print("Adding to {} which has {} papers".format(session_name, len(sessions[session_name].papers)))
 
             sessions[session_name].add_paper(Paper(line, subconf_name))
-
+            print("{}: now there are {} papers in {}".format(subconf_name, len(sessions[session_name].papers), session_name))
 # Take all the sessions and place them at their time
 for session in sorted(sessions.keys()):
     day, date, year = sessions[session].date
@@ -133,6 +138,7 @@ for date in dates:
         start, stop = timerange.split('--')
         print >> sys.stderr, "SESSION", day, num, year, timerange
         if not isinstance(events, list):
+            print("not a list of events")
             continue
         
         parallel_sessions = filter(lambda x: isinstance(x, Session) and not x.poster, events)
@@ -205,13 +211,14 @@ for date in dates:
             out = open(path, 'w')
             print >> sys.stderr, "\\input{%s}" % (path)
 
-            print >>out, '{\\section{%s}' % (session.name)
-            print >>out, '{\\setheaders{%s}{\\daydateyear}' % (session.name)
+            print >>out, '{\\subsection{%s}' % (session.desc)
+            print >>out, '{\\setheaders{%s}{\\daydateyear}' % (session.desc)
             print >>out, '{\large Time: \emph{%s}\\hfill Location: \\PosterLoc}\\\\' % (minus12(session.time))
             chair = session.chair()
             if chair[1] != '':
                 print >>out, '\\emph{\\sessionchair{%s}{%s}}' % (chair[0], chair[1])
-            print >>out, '\\\\'
+            #print >>out, '\\\\'
+            print("{} papers in {}".format(len(session.papers), session.desc))
             for paper in session.papers:
                 print >>out, '\\posterabstract{%s}' % (paper.id)
             print >>out

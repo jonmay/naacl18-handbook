@@ -1,7 +1,7 @@
 SubmissionNumber#=%=#14
 FinalPaperTitle#=%=#Modelling Natural Language, Programs, and their Intersection
 ShortPaperTitle#=%=#Modelling Natural Language, Programs, and their Intersection
-NumberOfPages#=%=#4
+NumberOfPages#=%=#3
 CopyrightSigned#=%=#Stephanie Lukin
 JobTitle#==#NAACL 2018 Publication Chair
 Organization#==#Uploading the original submission to the 'final' page.

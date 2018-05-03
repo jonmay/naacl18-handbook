@@ -1,12 +1,12 @@
 * Saturday, June 2, 2018
 = 10:30--11:30 Machine Learning -- Classification # %room Empire D %chair1 Luke Zettlemoyer %aff1 University of Washington
-1749 10:30--10:50  # Scalable Wide and Deep Learning for Computer Assisted Coding
-1751 10:50--11:10  # Neural Network based Extreme Classification and Similarity Models for Product Matching
-1769 11:10--11:30  # A Scalable Neural Shortlisting-Reranking Approach for Large-Scale Domain Classification in Natural Language Understanding
+1749 10:30--10:47  # Scalable Wide and Deep Learning for Computer Assisted Coding
+1751 10:48--11:05  # Neural Network based Extreme Classification and Similarity Models for Product Matching
+1769 11:06--11:23  # A Scalable Neural Shortlisting-Reranking Approach for Large-Scale Domain Classification in Natural Language Understanding
 = 11:30--12:30 Dialog # %room Empire D %chair1 Christine Doran %aff1 Interactions LLC
-1716 11:30--11:50  # What we need to learn if we want to do and not just talk
-1762 11:50--12:10  # Data Collection for Dialogue System: A Startup Perspective
-1788 12:10--12:30  # Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning
+1716 11:30--11:47  # What we need to learn if we want to do and not just talk
+1762 11:48--12:05  # Data Collection for Dialogue System: A Startup Perspective
+1788 12:05--12:23  # Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning
 = 10:30am--12:00pm Posters - Industry - 1 # %room Elite Hall B
 1729   # Quality Estimation for Automatically Generated Titles of eCommerce Browse Pages
 1746   # Atypical Inputs in Educational Applications
@@ -17,19 +17,19 @@
 ! 14:00--15:00 Building a Socialbot: Lessons Learned from 10M Conversations %by Mari Ostendorf
 = 15:30--17:00 Careers in the Industry Panel # %room Empire D %chair1 Philip Resnik %aff1 University of Maryland, College Park
 = 17:00--18:30 Machine Translation # %room Empire D %chair1 Kenneth Heafiled %aff1 University of Edinburgh
-1731 17:00--17:22  # Can Neural Machine Translation be Improved with User Feedback?
-1744 17:22--17:44  # Accelerating NMT Batched Beam Decoding with LMBR Posteriors for Deployment
-1754 17:44--18:07  # Pieces of Eight: 8-bit Neural Machine Translation
-1786 18:07--18:30  # From dictations to clinical reports using machine translation
+1731 17:00--17:17  # Can Neural Machine Translation be Improved with User Feedback?
+1744 17:18--17:35  # Accelerating NMT Batched Beam Decoding with LMBR Posteriors for Deployment
+1754 17:36--17:53  # Pieces of Eight: 8-bit Neural Machine Translation
+1786 17:54--18:12  # From dictations to clinical reports using machine translation
 * Sunday, June 3, 2018
 = 10:30--11:30 Machine Learning -- Domain Adaptation # %room Empire D %chair1 Mohit Bansal %aff1 University of North Carolina at Chapel Hill
-1719 10:30--10:50  # Selecting Machine-Translated Data for Quick Bootstrapping of a Natural Language Understanding System
-1760 10:50--11:10  # Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents
-1785 11:10--11:30  # Bag of Experts Architectures for Model Reuse in Conversational Language Understanding
+1719 10:30--10:47  # Selecting Machine-Translated Data for Quick Bootstrapping of a Natural Language Understanding System
+1760 10:48--11:05  # Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents
+1785 11:05--11:22  # Bag of Experts Architectures for Model Reuse in Conversational Language Understanding
 = 11:30--12:30 Named Entity and Language Generation # %room Empire D %chair1 Owen Rambow %aff1 Elemental Cognition
-1753 11:30--11:50  # Multi-lingual neural title generation for e-Commerce browse pages
-1755 11:50--12:10  # A Novel Approach to Part Name Discovery in Noisy Text
-1761 12:10--12:30  # The Alexa Meaning Representation Language
+1753 11:30--11:47  # Multi-lingual neural title generation for e-Commerce browse pages
+1755 11:48--12:05  # A Novel Approach to Part Name Discovery in Noisy Text
+1761 12:05--12:22  # The Alexa Meaning Representation Language
 = 14:00--15:00 Industry Track Keynote 2 # %room Empire Ballroom %chair1 Jennifer Chu-Carroll %aff1 Elemental Cognition
 ! 14:00--15:00 Building innovative startups, products, and services – personal insights %by Daniel Marcu
 = 15:30--17:00 Ethics in NLP Panel # %chair1 Dirk Hovy %aff1 Universita Bocconi
@@ -37,9 +37,9 @@
 1721   # Practical Application of Domain Dependent Confidence Measurement for Spoken Language Understanding Systems
 = 11:30--12:30 Machine Learning - Prediction # %chair1 Gokhan Tur %aff1 Uber
 * Monday, June 4, 2018
-1742 11:30--11:50  # Prediction for the Newsroom: Which Articles Will Get the Most Comments?
-1750 11:50--12:10  # Demand-Weighted Completeness Prediction for a Knowledge Base
-1782 12:10--12:30  # Personalized neural language models for real-world query auto completion
+1742 11:30--11:47  # Prediction for the Newsroom: Which Articles Will Get the Most Comments?
+1750 11:48--12:05  # Demand-Weighted Completeness Prediction for a Knowledge Base
+1782 12:05--12:22  # Personalized neural language models for real-world query auto completion
 = 10:30--12:00 Posters - Industry 3
 1733   # Document-based Recommender System for Job Postings using Dense Representations
 = 15:30--17:00 Posters Industry 4

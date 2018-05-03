@@ -39,21 +39,21 @@ available datasets and toolkits) will also be discussed. Finally, future work,
 outstanding challenges, and current industry practices will be presented. 
 All of the presented material will be made available online for future
 reference.
-Author{1}{Firstname}#=%=#Tsung-Hsien
-Author{1}{Lastname}#=%=#Wen
-Author{1}{Email}#=%=#shawnwen@poly-ai.com
-Author{1}{Affiliation}#=%=#PolyAI
-Author{2}{Firstname}#=%=#Ivan
-Author{2}{Lastname}#=%=#Vulić
-Author{2}{Email}#=%=#iv250@cam.ac.uk
+Author{1}{Firstname}#=%=#Pei-Hao
+Author{1}{Lastname}#=%=#Su
+Author{1}{Email}#=%=#phs26@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Nikola
+Author{2}{Lastname}#=%=#Mrkšić
+Author{2}{Email}#=%=#nikola.mrksic@gmail.com
 Author{2}{Affiliation}#=%=#University of Cambridge
-Author{3}{Firstname}#=%=#Nikola
-Author{3}{Lastname}#=%=#Mrkšić
-Author{3}{Email}#=%=#nikola.mrksic@gmail.com
-Author{3}{Affiliation}#=%=#University of Cambridge
-Author{4}{Firstname}#=%=#Pei-Hao
-Author{4}{Lastname}#=%=#Su
-Author{4}{Email}#=%=#phs26@cam.ac.uk
+Author{3}{Firstname}#=%=#Iñigo
+Author{3}{Lastname}#=%=#Casanueva
+Author{3}{Email}#=%=#inigo@poly-ai.com
+Author{3}{Affiliation}#=%=#PolyAI
+Author{4}{Firstname}#=%=#Ivan
+Author{4}{Lastname}#=%=#Vulić
+Author{4}{Email}#=%=#iv250@cam.ac.uk
 Author{4}{Affiliation}#=%=#University of Cambridge
 
 ==========

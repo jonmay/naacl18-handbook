@@ -81,7 +81,7 @@ class Session:
         else:
             print >> sys.stderr, "LINE %s NAME %s" % (line, self.name)
 
-        self.poster = self.track is not None and self.track == "P"
+        self.poster = self.track is not None and self.track >= "P"
         # l = self.name.lower()
         # if 'poster' in l or 'demo' in l or 'best paper' in l:
         #     self.poster = True
