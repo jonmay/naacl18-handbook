@@ -12,19 +12,20 @@ NAACL 2018 handbook can be compiled:
 - Workshop date consistencies
 -~~workshop locations~~
 - registration hours and days
-- fix to order2schedule to allow poster parallel
+-~~fix to order2schedule to allow poster parallel~~
 - ebay ad
 - amazon ad
 - polyai ad
 - iMerit ad
-- bloomberg ad
-- grammarly ad
+-~~bloomberg ad~~
+-~~grammarly ad~~
 - ibm ad
 - tulane ad
 - oracle ad
+- two sigma ad
 -~~kpmg ad~~
 - kpmg too small?
-- Not all the poster abstracts are being incorporated
+-~~Not all the poster abstracts are being incorporated~~
 - Manual citations for workshop invited talks
 -~~workshop main citations not last year's~~
 -~~Breakfast with tutorials? (yes, 730-9 each day)~~
@@ -34,18 +35,21 @@ NAACL 2018 handbook can be compiled:
 - Industry papers
 - Tutorials
 - Invited Speaker pages
-- cover art
+-~~cover art~~
 - gc msg
-- pc msg
+-~~pc msg~~
 - itc msg
 - ~~committee list~~
 - ~~ac list~~
 - meal info
-- room assignments
-- tutorial schedule
-- tutorial abstract and bios
+= back page
+-~~room assignments~~
+-~~tutorial schedule~~
+-~~tutorial abstract and bios~~
 - anti harrassment verify ok
 - Add page for social event
+- hotel map
+- house ad
 - Add childcare to conference information
 - Add image to welcome reception page?
 

@@ -1,0 +1,137 @@
+* Saturday, June 2, 2018
++ 07:30--08:45 Breakfast %room Empire Foyer
++ 08:45--09:00 Welcome from the Chairs %room Empire Ballroom %chair Marilyn Walker
++ 09:00--10:00 Session Keynote: Keynote 1 %room Empire Ballroom %chair Marilyn Walker %aff1 University of California Santa Cruz
+!  Why 72? %by Charles Yang
++ 10:00--10:30 Morning Coffee %room Empire Foyer
+= 10:30--11:30 Session 1A: Oral: Information Extraction 1 %room Empire A %chair Dan Bikel %aff1 Google
+69 10:30--10:47  # Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition
+165 10:48--11:05  # Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss
+309 11:06--11:23  # Variable Typing: Assigning Meaning to Variables in Mathematical Text
+= 10:30--11:30 Session 1B: Oral: Phonology Morphology and Word Segmentation %room Empire B %chair Barbara Plank
+44 10:30--10:47  # A Deep Generative Model of Vowel Formant Typology
+94 10:48--11:05  # Fortification of Neural Morphological Segmentation Models for Polysynthetic Minimal-Resource Languages
+136 11:06--11:23  # Improving Character-based Decoding Using Target-Side Morphological Information for Neural Machine Translation
+= 10:30--11:30 Session 1C: Oral: Speech %room Empire C %chair Dilek Hakkani-Tur
+199 10:30--10:47  # Parsing Speech: a Neural Approach to Integrating Lexical and Acoustic-Prosodic Information
+430 10:48--11:05  # Tied Multitask Learning for Neural Speech Translation
+596 11:06--11:23  # Please Clap: Modeling Applause in Campaign Speeches
+= 10:30--12:00 Session 1P: Posters and Demos: Discourse and Pragmatics %room Elite Hall B %chair Laura Perez
+353   # Automatic Focus Annotation: Bringing Formal Pragmatics Alive in Analyzing the Information Structure of Authentic Data
+508   # Attentive Interaction Model: Modeling Changes in View in Argumentation
+519   # Dear Sir or Madam, May I Introduce the GYAFC Dataset: Corpus, Benchmarks and Metrics for Formality Style Transfer
+578   # Improving Implicit Discourse Relation Classification by Modeling Inter-dependencies of Discourse Units in a Paragraph
+725   # Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset.
+795   # Enhanced Word Representations for Bridging Anaphora Resolution
+1009   # Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods
+1017   # Gender Bias in Coreference Resolution
+1070   # Neural Models for Reasoning over Multiple Mentions Using Coreference
+1095   # Integrating Stance Detection and Fact Checking in a Unified Corpus
+1098   # Multi-Task Learning for Argumentation Mining in Low-Resource Settings
+= 10:30--12:00 Session 1Q: Posters and Demos: Generation %room Elite Hall B %chair Laura Perez
+287   # Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation
+288   # Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types
+416   # Simplification Using Paraphrases and Context-Based Lexical Substitution
+513   # Discourse-Aware Neural Rewards for Coherent Text Generation
+579   # A Melody-conditioned Lyrics Language Model
+666   # A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation
+690   # Natural Answer Generation with Heterogeneous Memory
+765   # Neural Poetry Translation
+916   # Natural Language Generation by Hierarchical Decoding with Linguistic Patterns
+957   # RankME: Reliable Human Ratings for Natural Language Generation
+1014   # Sentence Simplification with Memory-Augmented Neural Networks
+1019   # Guiding Generation for Abstractive Text Summarization Based on Key Information Guide Network
+1108   # Automatic Dialogue Generation with Expressed Emotions
+= 10:30--12:00 Session 1R: Posters and Demos: NLP Applications %room Elite Hall B %chair Laura Perez
+383   # Content-Based Citation Recommendation
+454   # Neural Automated Essay Scoring and Coherence Modeling for Adversarially Crafted Input
+459   # QuickEdit: Editing Text \& Translations by Crossing Words Out
+509   # Automated Essay Scoring in the Presence of Biased Ratings
+517   # Tempo-Lexical Context Driven Word Embedding for Cross-Session Search Task Extraction
+603   # Looking beyond the Surface:A Challenge Set for Reading Comprehension over Multiple Sentences
+733   # Reference-less Measure of Faithfulness for Grammatical Error Correction
+829   # Humor Recognition Using Deep Learning
+962   # A Corpus of Non-Native Written English Annotated for Metaphor
+969   # Annotation Artifacts in Natural Language Inference Data
+1027   # Leveraging Intra-User and Inter-User Representation Learning for Automated Hate Speech Detection
+1032   # An Annotated Corpus for Machine Reading of Instructions in Wet Lab Protocols
+1127   # A Simple and Effective Approach to the Story Cloze Test
+= 11:30--12:30 Session 2A: Oral: Machine Learning 1 %room Empire A %chair Raymond Mooney
+279 11:30--11:47  # Zero-shot Sequence Labeling: Transferring Knowledge from Sentences to Tokens
+385 11:48--12:05  # Joint Bootstrapping Machines for High Confidence Relation Extraction
+= 11:30--12:30 Session 2B: Oral: Information Extraction 2 %room Empire B %chair David Chiang (a move!!)
+486 11:30--11:47  # Learning beyond Datasets: Knowledge Graph Augmented Neural Networks for Natural Language Processing
+520 11:48--12:05  # Comparing Constraints for Taxonomic Organization
+= 11:30--12:30 Session 2C: Oral: Machine Translation %room Empire C %chair Daniel Marcu
+78 11:30--11:47  # Improving Lexical Choice in Neural Machine Translation
+446 11:48--12:05  # Universal Neural Machine Translation for Extremely Low Resource Languages
+458 12:06--12:23  # Classical Structured Prediction Losses for Sequence to Sequence Learning
++ 12:30--14:00 Lunch
++ 14:00--15:00 Industry Track Keynote %room Empire Ballroom
++ 15:00--15:30 Afternoon Coffee %room Empire Foyer
+= 15:30--17:00 Session 3A: Oral: Machine Learning 2 %room Empire A
+182 15:30--15:47  # Deep Dirichlet Multinomial Regression
+1039 15:48--16:05  # Training Structured Prediction Energy Networks with Indirect Supervision
+= 15:30--17:00 Session 3B: Oral: Social Media and Computational Social Science 1 %room Empire B %chair Margaret Mitchell (moved!!)
+282 15:30--15:47  # Microblog Conversation Recommendation via Joint Modeling of Topics and Discourse
+445 15:48--16:05  # Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation
+710 16:06--16:23  # Si O No, Que Penses? Catalonian Independence and Linguistic Identity on Social Media
+= 15:30--17:00 Session 3C: Oral: Vision, Robotics and Other Grounding 1 %room Empire C %chair Mirella Lapata
+171 15:30--15:47  # Scene Graph Parsing as Dependency Parsing
+225 15:48--16:05  # Learning Visually Grounded Sentence Representations
+260 16:06--16:23  # Comparatives, Quantifiers, Proportions: a Multi-Task Model for the Learning of Quantities from Vision
+272 16:24--16:42  # Being Negative but Constructively: Lessons Learnt from Creating Better Visual Question Answering Datasets
+= 15:30--17:00 Session 3P: Posters and Demos: Semantics %room Elite Hall B %chair Scott Wen-tau Yih
+142   # attr2vec: Jointly Learning Word and Contextual Attribute Embeddings with Factorization Machines
+248   # Abstract Meaning Representation for Paraphrase Detection
+321   # Can Network Embedding of Distributional Thesaurus Be Combined with Word Vectors for Better Representation?
+341   # Unsupervised Learning of Sentence Embeddings Using Compositional n-Gram Features
+342   # Neural Tensor Networks with Diagonal Slice Matrices
+382   # Post-Specialisation: Retrofitting Vectors of Words Unseen in Lexical Resources
+478   # Deep Neural Models of Semantic Shift
+515   # Mining Possessions: Existence, Type and Temporal Anchors
+550   # Distributional Inclusion Vector Embedding for Unsupervised Hypernymy Detection
+15   # Olive Oil is Made \emph{of} Olives, Baby Oil is Made \emph{for} Babies: Interpreting Noun Compounds Using Paraphrases in a Neural Model
+757   # Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings
+782   # A Transition-based Algorithm for Unrestricted AMR Parsing
+788   # Similarity Measures for the Detection of Clinical Conditions with Verbal Fluency Tasks
+792   # Analogies in Complex Verb Meaning Shifts: the Effect of Affect in Semantic Similarity Models
+806   # Sluice Resolution without Hand-crafted Features over Brittle Syntax Trees
+827   # Transition-based Chinese AMR Parsing
+882   # Character-based Neural Networks for Sentence Pair Modeling
+924   # Mittens: an Extension of GloVe for Learning Domain-Specialized Representations
+945   # Lexical Substitution for Evaluating Compositional Distributional Models
+955   # Introducing Two Vietnamese Datasets for Evaluating Semantic Models of (Dis-)Similarity and Relatedness
+959   # Discriminating between Lexico-Semantic Relations with the Specialization Tensor Model
+960   # Semantic Pleonasm Detection
+966   # Diachronic Usage Relatedness (DURel): A Framework for the Annotation of Lexical Semantic Change
+975   # The Word Analogy Testing Caveat
+992   # Directional Skip-Gram: Explicitly Distinguishing Left and Right Context for Word Embeddings
+1050   # Determining Event Durations: Models and Error Analysis
+1077   # Evaluating bilingual word embeddings on the long tail
+!  Argumentext: Searching Arguments in Heterogeneous Sources (DEMO) %by Christian Stab, Johannes Daxenberger, Chris Stahlhut, Tristan Miller, Benjamin Schiller, Christopher Tauchmann, Steffen Eger and Iryna Gurevych
+!  ClaimRank: Detecting Check-Worthy Claims in Arabic and English (DEMO) %by Israa Jaradat, Pepa Gencheva, Alberto Barrón-Cedeño, Lluís Màrquez and Preslav Nakov
+= 15:30--17:00 Session 3Q: Posters and Demos: Sentiment Analysis %room Elite Hall B %chair Scott Wen-tau Yih
+139   # Learning Domain Representation for Multi-Domain Sentiment Classification
+231   # Relevant Emotion Ranking from Text Constrained with Emotion Relationships
+423   # SRL4ORL: Improving Opinion Role Labeling Using Multi-Task Learning with Semantic Role Labeling
+530   # Learning Sentence Representations over Tree Structures for Target-dependent Classification
+595   # Solving Data Sparsity for Aspect Based Sentiment Analysis Using Cross-linguality and Multi-linguality
+809   # Letting Emotions Flow: Success Prediction by Modeling the Flow of Emotions in Books
+813   # Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis
+828   # Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-based Sentiment Analysis
+1097   # Multi-task Learning Framework for Mining Crowd Intelligence towards Clinical Treatment
+1105   # Knowledge-enriched Two-layered Attention Network for Sentiment Analysis
+= 17:00--18:30 Session 4A: Oral: NLP Applications %room Empire A
+415 17:00--17:17  # Approaching Neural Grammatical Error Correction as a Low-Resource Machine Translation Task
+498 17:18--17:35  # Robust Cross-lingual Hypernymy Detection Using Dependency Context
+609 17:36--17:53  # Noising and Denoising Natural Language: Diverse Backtranslation for Grammar Correction
+980 18:13--18:30  # Near Human-Level Performance in Grammatical Error Correction with Hybrid Machine Translation
+= 17:00--18:30 Session 4B: Oral: Question Answering %room Empire B %chair Eugene Agichtein (moved!!)
+18 17:00--17:17  # Self-Training for Jointly Learning to Ask and Answer Questions
+51 17:18--17:35  # The Web as a Knowledge-base for Answering Complex Questions
+116 17:36--17:53  # A Meaning-based Statistical English Math Word Problem Solver
+82 17:54--18:12  # Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks
+= 17:00--18:30 Session 4C: Oral: SRW highlight papers %room Empire C %chair Shereen Oraby, Umashanthi Pavalanathan, Kyeongmin Rim
+! 17:45--17:59 Towards generating personalized hospitalization summaries %by Sabita Acharya, Barbara Di Eugenio, Andrew Boyd, Richard Cameron, Karen Dunn Lopez, Pamela Martyn-Nemeth, Carolyn Dickens and Amer Ardati
+! 18:00--18:14 A Generalized Knowledge Hunting Framework for the Winograd Schema Challenge %by Ali Emami, Adam Trischler, Kaheer Suleman and Jackie Chi Kit Cheung

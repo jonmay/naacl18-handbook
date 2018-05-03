@@ -592,6 +592,20 @@ Human Language Technologies}\par
       \hline\hline}
 {\hline\end{tabular}\end{center}}
 
+\newenvironment{FourSessionOverview}[6]{
+  \section[#1]{#1 Overview -- #2}
+  \setheaders{#1}{#2}
+  \begin{center}
+    \righthyphenmin2
+    \sloppy
+    \begin{tabular}{|>{\RaggedRight}p{1in}|>{\RaggedRight}p{1in}|>{\RaggedRight}p{1in}|>{\RaggedRight}p{1in}|}
+      \hline
+      \bf Track A & \bf Track B & \bf Track C & \bf Track D \\\hline
+      \it #3 & \it #4 & \it #5 & \it #6\\
+      \TrackALoc & \TrackBLoc & \TrackCLoc & \TrackDLoc \\\\
+      \hline\hline}
+{\hline\end{tabular}\end{center}}
+
 \newcommand{\daydate}{DAY, DATE}
 \newcommand{\daydateyear}{DAY, DATE, YEAR}
 \newcommand{\setdaydateyear}[3]{

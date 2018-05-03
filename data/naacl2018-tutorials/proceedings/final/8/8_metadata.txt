@@ -1,7 +1,7 @@
 SubmissionNumber#=%=#8
 FinalPaperTitle#=%=#The interplay between lexical resources and Natural Language Processing
 ShortPaperTitle#=%=#The interplay between lexical resources and Natural Language Processing
-NumberOfPages#=%=#8
+NumberOfPages#=%=#7
 CopyrightSigned#=%=#Stephanie Lukin
 JobTitle#==#NAACL Publication Chair
 Organization#==#U.S. Army Research Laboratory
