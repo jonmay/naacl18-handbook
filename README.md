@@ -33,7 +33,7 @@ NAACL 2018 handbook can be compiled:
 
 -~~grammarly ad~~
 
-- ibm ad
+-~~ibm ad~~
 
 -~~tulane ad~~
 
