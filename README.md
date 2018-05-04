@@ -27,15 +27,15 @@ NAACL 2018 handbook can be compiled:
 -~~kpmg ad~~
 -~~kpmg too small?~~
 -~~Not all the poster abstracts are being incorporated~~
-- Manual citations for workshop invited talks
+-~~Manual citations for workshop invited talks~~
 -~~workshop main citations not last year's~~
 -~~Breakfast with tutorials? (yes, 730-9 each day)~~
 - Main schedules
 - Main Papers
 - tacl papers
 - Industry papers
-- Tutorials
-- Invited Speaker pages
+-~~Tutorials~~
+-~~Invited Speaker pages~~
 -~~cover art~~
 - gc msg
 -~~pc msg~~
