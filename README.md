@@ -39,7 +39,7 @@ NAACL 2018 handbook can be compiled:
 -~~cover art~~
 - gc msg
 -~~pc msg~~
-- itc msg
+-~~itc msg~~
 - ~~committee list~~
 - ~~ac list~~
 - meal info
