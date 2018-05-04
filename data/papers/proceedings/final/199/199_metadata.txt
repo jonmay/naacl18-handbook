@@ -29,7 +29,7 @@ Author{4}{Affiliation}#=%=#Toyota Technological Institute at Chicago
 Author{5}{Firstname}#=%=#Karen
 Author{5}{Lastname}#=%=#Livescu
 Author{5}{Email}#=%=#klivescu@ttic.edu
-Author{5}{Affiliation}#=%=#TTI-Chicago
+Author{5}{Affiliation}#=%=#Toyota Technological Institute at Chicago
 Author{6}{Firstname}#=%=#Mari
 Author{6}{Lastname}#=%=#Ostendorf
 Author{6}{Email}#=%=#ostendor@u.washington.edu

@@ -17,7 +17,7 @@ anchors) can be automated.
 Author{1}{Firstname}#=%=#Dhivya
 Author{1}{Lastname}#=%=#Chinnappa
 Author{1}{Email}#=%=#dhivyainfantchinnappa@my.unt.edu
-Author{1}{Affiliation}#=%=#Student
+Author{1}{Affiliation}#=%=#University of North Texas
 Author{2}{Firstname}#=%=#Eduardo
 Author{2}{Lastname}#=%=#Blanco
 Author{2}{Email}#=%=#eduardo.blanco@unt.edu

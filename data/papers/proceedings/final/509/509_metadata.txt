@@ -31,6 +31,6 @@ Author{2}{Affiliation}#=%=#Universidade Federal de Minas Gerais
 Author{3}{Firstname}#=%=#Adriano
 Author{3}{Lastname}#=%=#Veloso
 Author{3}{Email}#=%=#adrianov@dcc.ufmg.br
-Author{3}{Affiliation}#=%=#UFMG
+Author{3}{Affiliation}#=%=#Universidade Federal de Minas Gerais
 
 ==========

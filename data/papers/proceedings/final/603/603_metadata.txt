@@ -37,6 +37,6 @@ Author{4}{Affiliation}#=%=#University of Pennsylvania
 Author{5}{Firstname}#=%=#Dan
 Author{5}{Lastname}#=%=#Roth
 Author{5}{Email}#=%=#danr@illinois.edu
-Author{5}{Affiliation}#=%=#University of Illinois
+Author{5}{Affiliation}#=%=#University of Pennsylvania
 
 ==========

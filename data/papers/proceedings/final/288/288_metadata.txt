@@ -19,7 +19,7 @@ on this task.
 Author{1}{Firstname}#=%=#Hady
 Author{1}{Lastname}#=%=#Elsahar
 Author{1}{Email}#=%=#hady.elsahar@univ-st-etienne.fr
-Author{1}{Affiliation}#=%=#Université de lyon - UJM
+Author{1}{Affiliation}#=%=#Université de Lyon - UJM
 Author{2}{Firstname}#=%=#Christophe
 Author{2}{Lastname}#=%=#Gravier
 Author{2}{Email}#=%=#christophe.gravier@univ-st-etienne.fr

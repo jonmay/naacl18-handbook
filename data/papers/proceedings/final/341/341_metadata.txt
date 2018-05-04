@@ -15,7 +15,7 @@ Author{1}{Affiliation}#=%=#Iprova SARL
 Author{2}{Firstname}#=%=#Prakhar
 Author{2}{Lastname}#=%=#Gupta
 Author{2}{Email}#=%=#prakhar.gupta@epfl.ch
-Author{2}{Affiliation}#=%=#École polytechnique fédérale de Lausanne
+Author{2}{Affiliation}#=%=#École Polytechnique Fédérale de Lausanne
 Author{3}{Firstname}#=%=#Martin
 Author{3}{Lastname}#=%=#Jaggi
 Author{3}{Email}#=%=#martin.jaggi@epfl.ch

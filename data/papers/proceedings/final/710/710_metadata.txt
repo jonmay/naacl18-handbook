@@ -22,7 +22,7 @@ Author{1}{Affiliation}#=%=#Georgia Institute of Technology
 Author{2}{Firstname}#=%=#Yuval
 Author{2}{Lastname}#=%=#Pinter
 Author{2}{Email}#=%=#yuvalpinter@gmail.com
-Author{2}{Affiliation}#=%=#Georgia Tech
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
 Author{3}{Firstname}#=%=#Jacob
 Author{3}{Lastname}#=%=#Eisenstein
 Author{3}{Email}#=%=#jacobe@gmail.com

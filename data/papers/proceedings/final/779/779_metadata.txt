@@ -18,6 +18,6 @@ Author{2}{Affiliation}#=%=#UT Austin
 Author{3}{Firstname}#=%=#Katrin
 Author{3}{Lastname}#=%=#Erk
 Author{3}{Email}#=%=#katrin.erk@mail.utexas.edu
-Author{3}{Affiliation}#=%=#University of Texas at Austin
+Author{3}{Affiliation}#=%=#The University of Texas at Austin
 
 ==========

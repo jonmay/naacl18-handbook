@@ -19,7 +19,7 @@ Author{2}{Affiliation}#=%=#University of California, Santa Cruz
 Author{3}{Firstname}#=%=#Kevin
 Author{3}{Lastname}#=%=#Bowden
 Author{3}{Email}#=%=#kkbowden@ucsc.edu
-Author{3}{Affiliation}#=%=#ucsc
+Author{3}{Affiliation}#=%=#University of California, Santa Cruz
 Author{4}{Firstname}#=%=#Marilyn
 Author{4}{Lastname}#=%=#Walker
 Author{4}{Email}#=%=#maw@soe.ucsc.edu

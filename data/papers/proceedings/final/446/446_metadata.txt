@@ -10,7 +10,7 @@ Our approach is able to achieve 23 BLEU on Romanian-English WMT2016 using a tiny
 Author{1}{Firstname}#=%=#Jiatao
 Author{1}{Lastname}#=%=#Gu
 Author{1}{Email}#=%=#jiataogu@eee.hku.hk
-Author{1}{Affiliation}#=%=#Department of Electrical and Electronic Engineering, The University of Hong Kong
+Author{1}{Affiliation}#=%=#The University of Hong Kong
 Author{2}{Firstname}#=%=#Hany
 Author{2}{Lastname}#=%=#Hassan
 Author{2}{Email}#=%=#hanyh@microsoft.com

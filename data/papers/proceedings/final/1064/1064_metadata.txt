@@ -39,7 +39,7 @@ Author{5}{Lastname}#=%=#Khapra
 Author{5}{Email}#=%=#miteshk@cse.iitm.ac.in
 Author{5}{Affiliation}#=%=#Indian Institute of Technology Madras
 Author{6}{Firstname}#=%=#Shreyas
-Author{6}{Lastname}#=%=#Shetty M
+Author{6}{Lastname}#=%=#Shetty
 Author{6}{Email}#=%=#shreyas.shetty@gmail.com
 Author{6}{Affiliation}#=%=#IIT Madras
 

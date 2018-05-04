@@ -17,6 +17,6 @@ Author{2}{Affiliation}#=%=#Computer Science and Engineering, Texas A&M Universit
 Author{3}{Firstname}#=%=#Ruihong
 Author{3}{Lastname}#=%=#Huang
 Author{3}{Email}#=%=#huangrh@cse.tamu.edu
-Author{3}{Affiliation}#=%=#Computer Science and Engineering, Texas A&M University
+Author{3}{Affiliation}#=%=#Texas A&M University
 
 ==========

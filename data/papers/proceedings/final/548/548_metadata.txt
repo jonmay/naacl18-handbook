@@ -12,7 +12,7 @@ Author{1}{Lastname}#=%=#Nema
 Author{1}{Email}#=%=#cs15m036@smail.iitm.ac.in
 Author{1}{Affiliation}#=%=#Indian Institute of Technology Madras
 Author{2}{Firstname}#=%=#Shreyas
-Author{2}{Lastname}#=%=#Shetty M
+Author{2}{Lastname}#=%=#Shetty
 Author{2}{Email}#=%=#shreyas.shetty@gmail.com
 Author{2}{Affiliation}#=%=#IIT Madras
 Author{3}{Firstname}#=%=#Parag

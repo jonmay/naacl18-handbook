@@ -17,7 +17,7 @@ and that invalid corrections obtain a lower score.
 Author{1}{Firstname}#=%=#Leshem
 Author{1}{Lastname}#=%=#Choshen
 Author{1}{Email}#=%=#leshem.choshen@mail.huji.ac.il
-Author{1}{Affiliation}#=%=#Hebrew University Jerusalem Israel
+Author{1}{Affiliation}#=%=#The Hebrew University of Jerusalem
 Author{2}{Firstname}#=%=#Omri
 Author{2}{Lastname}#=%=#Abend
 Author{2}{Email}#=%=#omri.abend@mail.huji.ac.il

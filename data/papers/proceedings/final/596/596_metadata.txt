@@ -21,7 +21,7 @@ designed to capture rhetorical techniques.
 Author{1}{Firstname}#=%=#Jon
 Author{1}{Lastname}#=%=#Gillick
 Author{1}{Email}#=%=#jongillick@berkeley.edu
-Author{1}{Affiliation}#=%=#UC Berkeley
+Author{1}{Affiliation}#=%=#University of California, Berkeley
 Author{2}{Firstname}#=%=#David
 Author{2}{Lastname}#=%=#Bamman
 Author{2}{Email}#=%=#dbamman@berkeley.edu

@@ -23,6 +23,6 @@ Author{3}{Affiliation}#=%=#Johns Hopkins University
 Author{4}{Firstname}#=%=#Benjamin
 Author{4}{Lastname}#=%=#Van Durme
 Author{4}{Email}#=%=#vandurme@cs.jhu.edu
-Author{4}{Affiliation}#=%=#JHU
+Author{4}{Affiliation}#=%=#Johns Hopkins University
 
 ==========

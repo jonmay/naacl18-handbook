@@ -13,7 +13,7 @@ Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{2}{Firstname}#=%=#Mitra
 Author{2}{Lastname}#=%=#Mohtarami
 Author{2}{Email}#=%=#mitra@csail.mit.edu
-Author{2}{Affiliation}#=%=#MIT Computer Science and Artificial Intelligence Lab
+Author{2}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{3}{Firstname}#=%=#James
 Author{3}{Lastname}#=%=#Glass
 Author{3}{Email}#=%=#glass@mit.edu

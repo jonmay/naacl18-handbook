@@ -36,6 +36,6 @@ Author{2}{Affiliation}#=%=#University of Massachusetts, Amherst
 Author{3}{Firstname}#=%=#Andrew
 Author{3}{Lastname}#=%=#McCallum
 Author{3}{Email}#=%=#mccallum@cs.umass.edu
-Author{3}{Affiliation}#=%=#UMass Amherst
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
 
 ==========

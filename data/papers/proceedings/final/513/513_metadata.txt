@@ -31,7 +31,7 @@ Author{3}{Affiliation}#=%=#Microsoft Research
 Author{4}{Firstname}#=%=#Jianfeng
 Author{4}{Lastname}#=%=#Gao
 Author{4}{Email}#=%=#jfgao@microsoft.com
-Author{4}{Affiliation}#=%=#Microsoft Research, Redmond
+Author{4}{Affiliation}#=%=#Microsoft Research
 Author{5}{Firstname}#=%=#Po-Sen
 Author{5}{Lastname}#=%=#Huang
 Author{5}{Email}#=%=#huang146@illinois.edu

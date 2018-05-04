@@ -9,7 +9,7 @@ Abstract#==#We present an effective end-to-end memory network model that jointly
 Author{1}{Firstname}#=%=#Mitra
 Author{1}{Lastname}#=%=#Mohtarami
 Author{1}{Email}#=%=#mitra@csail.mit.edu
-Author{1}{Affiliation}#=%=#MIT Computer Science and Artificial Intelligence Lab
+Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{2}{Firstname}#=%=#Ramy
 Author{2}{Lastname}#=%=#Baly
 Author{2}{Email}#=%=#baly@mit.edu

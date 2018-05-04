@@ -13,7 +13,7 @@ Author{1}{Affiliation}#=%=#University of Southampton
 Author{2}{Firstname}#=%=#Hady
 Author{2}{Lastname}#=%=#Elsahar
 Author{2}{Email}#=%=#hady.elsahar@univ-st-etienne.fr
-Author{2}{Affiliation}#=%=#Université de lyon - UJM
+Author{2}{Affiliation}#=%=#Université de Lyon - UJM
 Author{3}{Firstname}#=%=#Pavlos
 Author{3}{Lastname}#=%=#Vougiouklis
 Author{3}{Email}#=%=#pv1e13@ecs.soton.ac.uk

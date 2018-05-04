@@ -31,14 +31,14 @@ Author{3}{Affiliation}#=%=#Northeastern University
 Author{4}{Firstname}#=%=#Nicholas
 Author{4}{Lastname}#=%=#Beauchamp
 Author{4}{Email}#=%=#n.beauchamp@northeastern.edu
-Author{4}{Affiliation}#=%=#Department of Political Science, Northeastern University
+Author{4}{Affiliation}#=%=#Northeastern University
 Author{5}{Firstname}#=%=#Sarah
 Author{5}{Lastname}#=%=#Shugars
 Author{5}{Email}#=%=#shugars.s@husky.neu.edu
-Author{5}{Affiliation}#=%=#Network Science Institute, Northeastern University
+Author{5}{Affiliation}#=%=#Northeastern University
 Author{6}{Firstname}#=%=#Kam-Fai
 Author{6}{Lastname}#=%=#Wong
 Author{6}{Email}#=%=#kfwong@se.cuhk.edu.hk
-Author{6}{Affiliation}#=%=#Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Hong Kong
+Author{6}{Affiliation}#=%=#The Chinese University of Hong Kong
 
 ==========

@@ -19,6 +19,6 @@ Author{2}{Affiliation}#=%=#University of Rochester
 Author{3}{Firstname}#=%=#Benjamin
 Author{3}{Lastname}#=%=#Van Durme
 Author{3}{Email}#=%=#vandurme@cs.jhu.edu
-Author{3}{Affiliation}#=%=#JHU
+Author{3}{Affiliation}#=%=#Johns Hopkins University
 
 ==========

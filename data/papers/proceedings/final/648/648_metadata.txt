@@ -1,7 +1,7 @@
 SubmissionNumber#=%=#648
 FinalPaperTitle#=%=#Neural Particle Smoothing for Sampling from Conditional Sequence Models
 ShortPaperTitle#=%=#Neural Particle Smoothing for Sampling from Conditional Sequence Models
-NumberOfPages#=%=#14
+NumberOfPages#=%=#13
 CopyrightSigned#=%=#Jason Eisner, Chu-Cheng Lin
 JobTitle#==#
 Organization#==#Department of Computer Science

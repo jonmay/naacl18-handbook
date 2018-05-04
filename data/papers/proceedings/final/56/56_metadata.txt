@@ -21,6 +21,6 @@ Author{3}{Affiliation}#=%=#UIUC
 Author{4}{Firstname}#=%=#Dan
 Author{4}{Lastname}#=%=#Roth
 Author{4}{Email}#=%=#danr@illinois.edu
-Author{4}{Affiliation}#=%=#University of Illinois
+Author{4}{Affiliation}#=%=#University of Pennsylvania
 
 ==========

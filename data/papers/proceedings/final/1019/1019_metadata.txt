@@ -31,7 +31,7 @@ Author{3}{Lastname}#=%=#Li
 Author{3}{Email}#=%=#lisi@bupt.edu.cn
 Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
 Author{4}{Firstname}#=%=#Sheng
-Author{4}{Lastname}#=%=#GAO
+Author{4}{Lastname}#=%=#Gao
 Author{4}{Email}#=%=#gaosheng@bupt.edu.cn
 Author{4}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
 
