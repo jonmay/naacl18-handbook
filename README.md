@@ -8,51 +8,100 @@ NAACL 2018 handbook can be compiled:
 - Add more things
 
 - All workshops
--~~ Workshop schedules~~
+
+-~~Workshop schedules~~
+
 -~~Workshop date consistencies~~
+
 -~~workshop locations~~
+
 - registration hours and days
+
 - local guide
+
 -~~fix to order2schedule to allow poster parallel~~
+
 - ebay ad
+
 -~~amazon ad~~
+
 -~~polyai ad~~
+
 - iMerit ad
+
 -~~bloomberg ad~~
+
 -~~grammarly ad~~
+
 - ibm ad
+
 -~~tulane ad~~
+
 - oracle ad
+
+
 -~~two sigma ad~~
+
 -~~kpmg ad~~
+
 -~~kpmg too small?~~
+
+
+
 -~~Not all the poster abstracts are being incorporated~~
+
+
 -~~Manual citations for workshop invited talks~~
+
 -~~workshop main citations not last year's~~
+
 -~~Breakfast with tutorials? (yes, 730-9 each day)~~
+
 - Main schedules
+
 - Main Papers
+
 - tacl papers
+
 - Industry papers
+
 -~~Tutorials~~
+
 -~~Invited Speaker pages~~
+
 -~~cover art~~
+
 - gc msg
+
 -~~pc msg~~
+
 -~~itc msg~~
-- ~~committee list~~
-- ~~ac list~~
+
+-~~committee list~~
+-~~ac list~~
+
 - meal info
+
 - back page
+
 -~~room assignments~~
+
 -~~tutorial schedule~~
+
 -~~tutorial abstract and bios~~
+
 - anti harrassment verify ok
+
 - Add page for social event
+
 -~~hotel map~~
+
 - house ad
+
 -~~Add childcare to conference information~~
+
 - Add image to welcome reception page?
+
 
 # current proceedings pull report
 ```
