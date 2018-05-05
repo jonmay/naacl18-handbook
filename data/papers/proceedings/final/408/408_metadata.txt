@@ -10,7 +10,7 @@ Abstract#==#Co-training is a popular semi-supervised learning framework to utili
 Author{1}{Firstname}#=%=#Jiawei
 Author{1}{Lastname}#=%=#Wu
 Author{1}{Email}#=%=#jiawei_wu@cs.ucsb.edu
-Author{1}{Affiliation}#=%=#UC Santa Barbara
+Author{1}{Affiliation}#=%=#University of California, Santa Barbara
 Author{2}{Firstname}#=%=#Lei
 Author{2}{Lastname}#=%=#Li
 Author{2}{Email}#=%=#lileicc@gmail.com
@@ -18,6 +18,6 @@ Author{2}{Affiliation}#=%=#Toutiao.com
 Author{3}{Firstname}#=%=#William Yang
 Author{3}{Lastname}#=%=#Wang
 Author{3}{Email}#=%=#william@cs.ucsb.edu
-Author{3}{Affiliation}#=%=#Unversity of California, Santa Barbara
+Author{3}{Affiliation}#=%=#University of California, Santa Barbara
 
 ==========

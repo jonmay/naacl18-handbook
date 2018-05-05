@@ -24,7 +24,7 @@ word evolution in topics over time.
 Author{1}{Firstname}#=%=#Pankaj
 Author{1}{Lastname}#=%=#Gupta
 Author{1}{Email}#=%=#pankaj_gupta96@yahoo.com
-Author{1}{Affiliation}#=%=#LMU, Siemens
+Author{1}{Affiliation}#=%=#Ludwig Maximilian University of Munich / Siemens
 Author{2}{Firstname}#=%=#Subburam
 Author{2}{Lastname}#=%=#Rajaram
 Author{2}{Email}#=%=#subburam.rajaram@tum.de
@@ -36,6 +36,6 @@ Author{3}{Affiliation}#=%=#Siemens
 Author{4}{Firstname}#=%=#Hinrich
 Author{4}{Lastname}#=%=#Schütze
 Author{4}{Email}#=%=#inquiries@cislmu.org
-Author{4}{Affiliation}#=%=#university of munich
+Author{4}{Affiliation}#=%=#Ludwig Maximilian University of Munich
 
 ==========

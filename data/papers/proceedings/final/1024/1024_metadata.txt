@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#1024
-FinalPaperTitle#=%=#A Bi-model Based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling
-ShortPaperTitle#=%=#A Bi-model Based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling
+FinalPaperTitle#=%=#A Bi-Model Based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling
+ShortPaperTitle#=%=#A Bi-Model Based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling
 NumberOfPages#=%=#6
 CopyrightSigned#=%=#Yu Wang
 JobTitle#==#

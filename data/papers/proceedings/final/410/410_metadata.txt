@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#410
-FinalPaperTitle#=%=#Simultaneously Self-attending to All Mentions for Full-Abstract Biological Relation Extraction
-ShortPaperTitle#=%=#Simultaneously Self-attending to All Mentions for Full-Abstract Biological Relation Extraction
+FinalPaperTitle#=%=#Simultaneously Self-Attending to All Mentions for Full-Abstract Biological Relation Extraction
+ShortPaperTitle#=%=#Simultaneously Self-Attending to All Mentions for Full-Abstract Biological Relation Extraction
 NumberOfPages#=%=#13
 CopyrightSigned#=%=#Patrick Verga
 JobTitle#==#
@@ -28,11 +28,11 @@ than distantly supervised alternatives.
 Author{1}{Firstname}#=%=#Patrick
 Author{1}{Lastname}#=%=#Verga
 Author{1}{Email}#=%=#pat@cs.umass.edu
-Author{1}{Affiliation}#=%=#UMass Amherst
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
 Author{2}{Firstname}#=%=#Emma
 Author{2}{Lastname}#=%=#Strubell
 Author{2}{Email}#=%=#strubell@cs.umass.edu
-Author{2}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
 Author{3}{Firstname}#=%=#Andrew
 Author{3}{Lastname}#=%=#McCallum
 Author{3}{Email}#=%=#mccallum@cs.umass.edu

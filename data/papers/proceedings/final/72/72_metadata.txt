@@ -20,7 +20,7 @@ Author{2}{Affiliation}#=%=#Nanyang Technological University
 Author{3}{Firstname}#=%=#Amir
 Author{3}{Lastname}#=%=#Zadeh
 Author{3}{Email}#=%=#abagherz@andrew.cmu.edu
-Author{3}{Affiliation}#=%=#CMU
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
 Author{4}{Firstname}#=%=#Erik
 Author{4}{Lastname}#=%=#Cambria
 Author{4}{Email}#=%=#erik@sentic.net

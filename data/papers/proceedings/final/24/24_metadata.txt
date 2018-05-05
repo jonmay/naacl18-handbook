@@ -19,6 +19,6 @@ Author{2}{Affiliation}#=%=#The Hebrew University of Jerusalem
 Author{3}{Firstname}#=%=#Ari
 Author{3}{Lastname}#=%=#Rappoport
 Author{3}{Email}#=%=#arir@cs.huji.ac.il
-Author{3}{Affiliation}#=%=#The Hebrew University
+Author{3}{Affiliation}#=%=#The Hebrew University of Jerusalem
 
 ==========

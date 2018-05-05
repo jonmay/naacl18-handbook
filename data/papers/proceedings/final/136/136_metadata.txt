@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#136
-FinalPaperTitle#=%=#Improving Character-based Decoding Using Target-Side Morphological Information for Neural Machine Translation
-ShortPaperTitle#=%=#Improving Character-based Decoding Using Target-Side Morphological Information for NMT
+FinalPaperTitle#=%=#Improving Character-Based Decoding Using Target-Side Morphological Information for Neural Machine Translation
+ShortPaperTitle#=%=#Improving Character-Based Decoding Using Target-Side Morphological Information for NMT
 NumberOfPages#=%=#11
 CopyrightSigned#=%=#PEYMAN PASSBAN
 JobTitle#==#Postdoc Researcher
@@ -9,14 +9,14 @@ Abstract#==#Recently, neural machine translation (NMT) has emerged as a powerful
 Author{1}{Firstname}#=%=#Peyman
 Author{1}{Lastname}#=%=#Passban
 Author{1}{Email}#=%=#peyman.passban@adaptcentre.ie
-Author{1}{Affiliation}#=%=#ADAPT
+Author{1}{Affiliation}#=%=#ADAPT Centre
 Author{2}{Firstname}#=%=#Qun
 Author{2}{Lastname}#=%=#Liu
 Author{2}{Email}#=%=#qun.liu@adaptcentre.ie
-Author{2}{Affiliation}#=%=#ADAPT
+Author{2}{Affiliation}#=%=#ADAPT Centre
 Author{3}{Firstname}#=%=#Andy
 Author{3}{Lastname}#=%=#Way
 Author{3}{Email}#=%=#andy.way@adaptcentre.ie
-Author{3}{Affiliation}#=%=#ADAPT
+Author{3}{Affiliation}#=%=#ADAPT Centre
 
 ==========

@@ -11,7 +11,7 @@ Abstract#==#Dependency parsing research, which has made significant gains in rec
 Author{1}{Firstname}#=%=#Katherine
 Author{1}{Lastname}#=%=#Keith
 Author{1}{Email}#=%=#kkeith@cs.umass.edu
-Author{1}{Affiliation}#=%=#Univ. of Massachusetts, Amherst
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
 Author{2}{Firstname}#=%=#Su Lin
 Author{2}{Lastname}#=%=#Blodgett
 Author{2}{Email}#=%=#blodgett@cs.umass.edu
@@ -19,6 +19,6 @@ Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
 Author{3}{Firstname}#=%=#Brendan
 Author{3}{Lastname}#=%=#O'Connor
 Author{3}{Email}#=%=#brenocon@cs.umass.edu
-Author{3}{Affiliation}#=%=#Univ. of Massachusetts, Amherst
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
 
 ==========

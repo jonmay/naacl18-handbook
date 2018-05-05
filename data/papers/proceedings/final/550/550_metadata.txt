@@ -9,7 +9,7 @@ Abstract#==#Modeling hypernymy, such as poodle is-a dog, is an important general
 Author{1}{Firstname}#=%=#Haw-Shiuan
 Author{1}{Lastname}#=%=#Chang
 Author{1}{Email}#=%=#hschang@cs.umass.edu
-Author{1}{Affiliation}#=%=#UMass Amherst
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
 Author{2}{Firstname}#=%=#Ziyun
 Author{2}{Lastname}#=%=#Wang
 Author{2}{Email}#=%=#wang-zy14@mails.tsinghua.edu.cn
@@ -17,10 +17,10 @@ Author{2}{Affiliation}#=%=#Tsinghua University
 Author{3}{Firstname}#=%=#Luke
 Author{3}{Lastname}#=%=#Vilnis
 Author{3}{Email}#=%=#luke@cs.umass.edu
-Author{3}{Affiliation}#=%=#UMass Amherst
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
 Author{4}{Firstname}#=%=#Andrew
 Author{4}{Lastname}#=%=#McCallum
 Author{4}{Email}#=%=#mccallum@cs.umass.edu
-Author{4}{Affiliation}#=%=#UMass Amherst
+Author{4}{Affiliation}#=%=#University of Massachusetts Amherst
 
 ==========

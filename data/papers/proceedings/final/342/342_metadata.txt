@@ -32,6 +32,6 @@ Author{4}{Affiliation}#=%=#Nara Institute of Science and Technology
 Author{5}{Firstname}#=%=#Masaaki
 Author{5}{Lastname}#=%=#Nagata
 Author{5}{Email}#=%=#nagata.masaaki@lab.ntt.co.jp
-Author{5}{Affiliation}#=%=#+81-774-93-5235
+Author{5}{Affiliation}#=%=#NTT Communication Science Laboratories
 
 ==========

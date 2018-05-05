@@ -12,7 +12,7 @@ of the translations ranks the quality as acceptable $78.2\%$ of the time.
 Author{1}{Firstname}#=%=#Marjan
 Author{1}{Lastname}#=%=#Ghazvininejad
 Author{1}{Email}#=%=#ghazvini@isi.edu
-Author{1}{Affiliation}#=%=#USC
+Author{1}{Affiliation}#=%=#University of Southern California
 Author{2}{Firstname}#=%=#Yejin
 Author{2}{Lastname}#=%=#Choi
 Author{2}{Email}#=%=#yejin@cs.washington.edu
@@ -20,6 +20,6 @@ Author{2}{Affiliation}#=%=#University of Washington
 Author{3}{Firstname}#=%=#Kevin
 Author{3}{Lastname}#=%=#Knight
 Author{3}{Email}#=%=#knight@isi.edu
-Author{3}{Affiliation}#=%=#USC/ISI
+Author{3}{Affiliation}#=%=#University of Southern California / Information Sciences Institute
 
 ==========

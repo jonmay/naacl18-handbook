@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#579
-FinalPaperTitle#=%=#A Melody-conditioned Lyrics Language Model
-ShortPaperTitle#=%=#A Melody-conditioned Lyrics Language Model
+FinalPaperTitle#=%=#A Melody-Conditioned Lyrics Language Model
+ShortPaperTitle#=%=#A Melody-Conditioned Lyrics Language Model
 NumberOfPages#=%=#10
 CopyrightSigned#=%=#Kento Watanabe
 JobTitle#==#

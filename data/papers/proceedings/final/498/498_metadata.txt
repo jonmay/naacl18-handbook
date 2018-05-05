@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#498
-FinalPaperTitle#=%=#Robust Cross-lingual Hypernymy Detection Using Dependency Context
-ShortPaperTitle#=%=#Robust Cross-lingual Hypernymy Detection Using Dependency Context
+FinalPaperTitle#=%=#Robust Cross-Lingual Hypernymy Detection Using Dependency Context
+ShortPaperTitle#=%=#Robust Cross-Lingual Hypernymy Detection Using Dependency Context
 NumberOfPages#=%=#12
 CopyrightSigned#=%=#Yogarshi Vyas
 JobTitle#==#

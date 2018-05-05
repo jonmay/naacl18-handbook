@@ -23,6 +23,6 @@ Author{2}{Affiliation}#=%=#University of Stuttgart
 Author{3}{Firstname}#=%=#Stefanie
 Author{3}{Lastname}#=%=#Eckmann
 Author{3}{Email}#=%=#stefanie-eckmann@gmx.de
-Author{3}{Affiliation}#=%=#Ludwig-Maximilian University Munich
+Author{3}{Affiliation}#=%=#Ludwig Maximilian University of Munich
 
 ==========

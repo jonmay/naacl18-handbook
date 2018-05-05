@@ -9,14 +9,14 @@ Abstract#==#Visual question answering (Visual QA) has attracted a lot of attenti
 Author{1}{Firstname}#=%=#Wei-Lun
 Author{1}{Lastname}#=%=#Chao
 Author{1}{Email}#=%=#weilunchao760414@gmail.com
-Author{1}{Affiliation}#=%=#USC
+Author{1}{Affiliation}#=%=#University of Southern California
 Author{2}{Firstname}#=%=#Hexiang
 Author{2}{Lastname}#=%=#Hu
 Author{2}{Email}#=%=#hexiang.frank.hu@gmail.com
-Author{2}{Affiliation}#=%=#USC
+Author{2}{Affiliation}#=%=#University of Southern California
 Author{3}{Firstname}#=%=#Fei
 Author{3}{Lastname}#=%=#Sha
 Author{3}{Email}#=%=#feisha@usc.edu
-Author{3}{Affiliation}#=%=#USC
+Author{3}{Affiliation}#=%=#University of Southern California
 
 ==========

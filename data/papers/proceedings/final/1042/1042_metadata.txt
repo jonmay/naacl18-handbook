@@ -18,6 +18,6 @@ Author{2}{Affiliation}#=%=#University of California
 Author{3}{Firstname}#=%=#William Yang
 Author{3}{Lastname}#=%=#Wang
 Author{3}{Email}#=%=#william@cs.ucsb.edu
-Author{3}{Affiliation}#=%=#Unversity of California, Santa Barbara
+Author{3}{Affiliation}#=%=#University of California, Santa Barbara
 
 ==========

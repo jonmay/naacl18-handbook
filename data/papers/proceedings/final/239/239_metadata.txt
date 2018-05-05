@@ -31,7 +31,7 @@ Author{1}{Affiliation}#=%=#School of computer science and engineering, Southeast
 Author{2}{Firstname}#=%=#Linsen
 Author{2}{Lastname}#=%=#Guo
 Author{2}{Email}#=%=#guolinsen@seu.edu.cn
-Author{2}{Affiliation}#=%=#School of computer science and engineering, Southeast University
+Author{2}{Affiliation}#=%=#Southeast University
 Author{3}{Firstname}#=%=#Yulan
 Author{3}{Lastname}#=%=#He
 Author{3}{Email}#=%=#y.he@cantab.net

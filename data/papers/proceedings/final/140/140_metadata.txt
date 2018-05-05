@@ -26,6 +26,6 @@ Author{3}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
 Author{4}{Firstname}#=%=#Le
 Author{4}{Lastname}#=%=#Sun
 Author{4}{Email}#=%=#lesunle@163.com
-Author{4}{Affiliation}#=%=#ISCAS
+Author{4}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
 
 ==========

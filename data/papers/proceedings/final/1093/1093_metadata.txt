@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#1093
-FinalPaperTitle#=%=#Keep Your Bearings: Lightly-supervised Information Extraction with Ladder Networks That Avoids Semantic Drift
-ShortPaperTitle#=%=#Lightly-supervised Information Extraction with Ladder Networks That Avoids Semantic Drift
+FinalPaperTitle#=%=#Keep Your Bearings: Lightly-Supervised Information Extraction with Ladder Networks That Avoids Semantic Drift
+ShortPaperTitle#=%=#Lightly-Supervised Information Extraction with Ladder Networks That Avoids Semantic Drift
 NumberOfPages#=%=#7
 CopyrightSigned#=%=#Ajay Nagesh
 JobTitle#==#

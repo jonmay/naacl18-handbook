@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#827
-FinalPaperTitle#=%=#Transition-based Chinese AMR Parsing
-ShortPaperTitle#=%=#Transition-based Chinese AMR Parsing
+FinalPaperTitle#=%=#Transition-Based Chinese AMR Parsing
+ShortPaperTitle#=%=#Transition-Based Chinese AMR Parsing
 NumberOfPages#=%=#6
 CopyrightSigned#=%=#Chuan Wang
 JobTitle#==#

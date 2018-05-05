@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#970
-FinalPaperTitle#=%=#An Evaluation of Image-based Verb Prediction Models against Human Eye-tracking Data
-ShortPaperTitle#=%=#An Evaluation of Image-based Verb Prediction Models against Human Eye-tracking Data
+FinalPaperTitle#=%=#An Evaluation of Image-Based Verb Prediction Models against Human Eye-Tracking Data
+ShortPaperTitle#=%=#An Evaluation of Image-Based Verb Prediction Models against Human Eye-Tracking Data
 NumberOfPages#=%=#6
 CopyrightSigned#=%=#NA
 JobTitle#==#

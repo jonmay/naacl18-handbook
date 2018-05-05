@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#878
-FinalPaperTitle#=%=#TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation
-ShortPaperTitle#=%=#TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation
+FinalPaperTitle#=%=#TypeSQL: Knowledge-Based Type-Aware Neural Text-to-SQL Generation
+ShortPaperTitle#=%=#TypeSQL: Knowledge-Based Type-Aware Neural Text-to-SQL Generation
 NumberOfPages#=%=#7
 CopyrightSigned#=%=#tao yu
 JobTitle#==#

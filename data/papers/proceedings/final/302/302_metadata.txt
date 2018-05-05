@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#302
-FinalPaperTitle#=%=#Cross-lingual Abstract Meaning Representation Parsing
-ShortPaperTitle#=%=#Cross-lingual Abstract Meaning Representation Parsing
+FinalPaperTitle#=%=#Cross-Lingual Abstract Meaning Representation Parsing
+ShortPaperTitle#=%=#Cross-Lingual Abstract Meaning Representation Parsing
 NumberOfPages#=%=#10
 CopyrightSigned#=%=#Marco Damonte
 JobTitle#==#
@@ -17,7 +17,7 @@ evaluation, obtaining a Pearson correlation coefficient of 0.95.
 Author{1}{Firstname}#=%=#Marco
 Author{1}{Lastname}#=%=#Damonte
 Author{1}{Email}#=%=#m.damonte@sms.ed.ac.uk
-Author{1}{Affiliation}#=%=#The University of Edinburgh
+Author{1}{Affiliation}#=%=#University of Edinburgh
 Author{2}{Firstname}#=%=#Shay B.
 Author{2}{Lastname}#=%=#Cohen
 Author{2}{Email}#=%=#scohen@inf.ed.ac.uk

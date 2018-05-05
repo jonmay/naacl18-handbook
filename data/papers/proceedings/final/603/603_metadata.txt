@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#603
-FinalPaperTitle#=%=#Looking beyond the Surface:A Challenge Set for Reading Comprehension over Multiple Sentences
-ShortPaperTitle#=%=#Looking beyond the Surface:A Challenge Set for Reading Comprehension over Multiple Sentences
+FinalPaperTitle#=%=#Looking Beyond the Surface: A Challenge Set for Reading Comprehension over Multiple Sentences
+ShortPaperTitle#=%=#Looking Beyond the Surface: A Challenge Set for Reading Comprehension over Multiple Sentences
 NumberOfPages#=%=#11
 CopyrightSigned#=%=#Daniel Khashabi
 JobTitle#==#

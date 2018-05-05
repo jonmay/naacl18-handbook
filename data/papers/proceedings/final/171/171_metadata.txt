@@ -31,7 +31,7 @@ Author{2}{Affiliation}#=%=#Johns Hopkins University
 Author{3}{Firstname}#=%=#Xiaohui
 Author{3}{Lastname}#=%=#Zeng
 Author{3}{Email}#=%=#xzengaf@connect.ust.hk
-Author{3}{Affiliation}#=%=#HKUST
+Author{3}{Affiliation}#=%=#Hong Kong University of Science and Technology
 Author{4}{Firstname}#=%=#Alan
 Author{4}{Lastname}#=%=#Yuille
 Author{4}{Email}#=%=#ayuille1@jhu.edu

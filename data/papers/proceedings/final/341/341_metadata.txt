@@ -19,6 +19,6 @@ Author{2}{Affiliation}#=%=#École Polytechnique Fédérale de Lausanne
 Author{3}{Firstname}#=%=#Martin
 Author{3}{Lastname}#=%=#Jaggi
 Author{3}{Email}#=%=#martin.jaggi@epfl.ch
-Author{3}{Affiliation}#=%=#EPFL
+Author{3}{Affiliation}#=%=#École Polytechnique Fédérale de Lausanne
 
 ==========

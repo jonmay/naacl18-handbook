@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#882
-FinalPaperTitle#=%=#Character-based Neural Networks for Sentence Pair Modeling
-ShortPaperTitle#=%=#Character-based Neural Networks for Sentence Pair Modeling
+FinalPaperTitle#=%=#Character-Based Neural Networks for Sentence Pair Modeling
+ShortPaperTitle#=%=#Character-Based Neural Networks for Sentence Pair Modeling
 NumberOfPages#=%=#7
 CopyrightSigned#=%=#Wuwei Lan
 JobTitle#==#

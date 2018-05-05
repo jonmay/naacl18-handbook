@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#782
-FinalPaperTitle#=%=#A Transition-based Algorithm for Unrestricted AMR Parsing
-ShortPaperTitle#=%=#A Transition-based Algorithm for Unrestricted AMR Parsing
+FinalPaperTitle#=%=#A Transition-Based Algorithm for Unrestricted AMR Parsing
+ShortPaperTitle#=%=#A Transition-Based Algorithm for Unrestricted AMR Parsing
 NumberOfPages#=%=#8
 CopyrightSigned#=%=#David Vilares
 JobTitle#==#

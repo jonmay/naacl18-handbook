@@ -22,6 +22,6 @@ Author{3}{Affiliation}#=%=#Thomson Reuters
 Author{4}{Firstname}#=%=#Jochen L.
 Author{4}{Lastname}#=%=#Leidner
 Author{4}{Email}#=%=#leidner@acm.org
-Author{4}{Affiliation}#=%=#Thomson Reuters and University of Sheffield
+Author{4}{Affiliation}#=%=#Thomson Reuters / University of Sheffield
 
 ==========

@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#806
-FinalPaperTitle#=%=#Sluice Resolution without Hand-crafted Features over Brittle Syntax Trees
-ShortPaperTitle#=%=#Sluice Resolution without Hand-crafted Features over Brittle Syntax Trees
+FinalPaperTitle#=%=#Sluice Resolution without Hand-Crafted Features over Brittle Syntax Trees
+ShortPaperTitle#=%=#Sluice Resolution without Hand-Crafted Features over Brittle Syntax Trees
 NumberOfPages#=%=#6
 CopyrightSigned#=%=#Ola Rønning
 JobTitle#==#

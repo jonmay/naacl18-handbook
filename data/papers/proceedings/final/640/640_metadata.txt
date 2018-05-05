@@ -13,7 +13,7 @@ Author{1}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
 Author{2}{Firstname}#=%=#John
 Author{2}{Lastname}#=%=#Wieting
 Author{2}{Email}#=%=#jwieting@cs.cmu.edu
-Author{2}{Affiliation}#=%=#University of Illinois; TTI-Chicago; CMU
+Author{2}{Affiliation}#=%=#University of Illinois / Toyota Technical Institute, Chicago / Carnegie Mellon University
 Author{3}{Firstname}#=%=#Kevin
 Author{3}{Lastname}#=%=#Gimpel
 Author{3}{Email}#=%=#kgimpel@ttic.edu

@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#116
-FinalPaperTitle#=%=#A Meaning-based Statistical English Math Word Problem Solver
-ShortPaperTitle#=%=#A Meaning-based Statistical English Math Word Problem Solver
+FinalPaperTitle#=%=#A Meaning-Based Statistical English Math Word Problem Solver
+ShortPaperTitle#=%=#A Meaning-Based Statistical English Math Word Problem Solver
 NumberOfPages#=%=#11
 CopyrightSigned#=%=#Chao-Chun Liang
 JobTitle#==#

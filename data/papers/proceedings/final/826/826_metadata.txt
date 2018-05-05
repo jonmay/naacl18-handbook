@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#826
-FinalPaperTitle#=%=#Cross-lingual Learning-to-Rank with Shared Representations
-ShortPaperTitle#=%=#Cross-lingual Learning-to-Rank with Shared Representations
+FinalPaperTitle#=%=#Cross-Lingual Learning-to-Rank with Shared Representations
+ShortPaperTitle#=%=#Cross-Lingual Learning-to-Rank with Shared Representations
 NumberOfPages#=%=#6
 CopyrightSigned#=%=#Shota Sasaki
 JobTitle#==#

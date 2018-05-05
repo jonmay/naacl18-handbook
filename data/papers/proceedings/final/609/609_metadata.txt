@@ -10,7 +10,7 @@ Abstract#==#Translation-based methods for grammar correction that directly map n
 Author{1}{Firstname}#=%=#Ziang
 Author{1}{Lastname}#=%=#Xie
 Author{1}{Email}#=%=#zxie@cs.stanford.edu
-Author{1}{Affiliation}#=%=#Stanford
+Author{1}{Affiliation}#=%=#Stanford University
 Author{2}{Firstname}#=%=#Guillaume
 Author{2}{Lastname}#=%=#Genthial
 Author{2}{Email}#=%=#genthial@cs.stanford.edu
@@ -18,11 +18,11 @@ Author{2}{Affiliation}#=%=#Stanford University
 Author{3}{Firstname}#=%=#Stanley
 Author{3}{Lastname}#=%=#Xie
 Author{3}{Email}#=%=#stanxie@cs.stanford.edu
-Author{3}{Affiliation}#=%=#Stanford
+Author{3}{Affiliation}#=%=#Stanford University
 Author{4}{Firstname}#=%=#Andrew
 Author{4}{Lastname}#=%=#Ng
 Author{4}{Email}#=%=#ang@cs.stanford.edu
-Author{4}{Affiliation}#=%=#Stanford
+Author{4}{Affiliation}#=%=#Stanford University
 Author{5}{Firstname}#=%=#Dan
 Author{5}{Lastname}#=%=#Jurafsky
 Author{5}{Email}#=%=#jurafsky@stanford.edu

@@ -21,7 +21,7 @@ subject (0.76 AUC).
 Author{1}{Firstname}#=%=#Tuka
 Author{1}{Lastname}#=%=#Al Hanai
 Author{1}{Email}#=%=#tuka@mit.edu
-Author{1}{Affiliation}#=%=#MIT
+Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{2}{Firstname}#=%=#Rhoda
 Author{2}{Lastname}#=%=#Au
 Author{2}{Email}#=%=#rhodaau@bu.edu

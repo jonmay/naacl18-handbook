@@ -17,6 +17,6 @@ Author{2}{Affiliation}#=%=#University of Stuttgart
 Author{3}{Firstname}#=%=#Ngoc Thang
 Author{3}{Lastname}#=%=#Vu
 Author{3}{Email}#=%=#thangvu@ims.uni-stuttgart.de
-Author{3}{Affiliation}#=%=#University Stuttgart
+Author{3}{Affiliation}#=%=#University of Stuttgart
 
 ==========

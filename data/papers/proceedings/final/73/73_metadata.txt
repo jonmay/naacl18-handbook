@@ -15,10 +15,10 @@ Abstract#==#This work takes a first step toward movie content analysis by tackli
 Author{1}{Firstname}#=%=#Philip John
 Author{1}{Lastname}#=%=#Gorinski
 Author{1}{Email}#=%=#p.j.gorinski@ed.ac.uk
-Author{1}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{1}{Affiliation}#=%=#University of Edinburgh
 Author{2}{Firstname}#=%=#Mirella
 Author{2}{Lastname}#=%=#Lapata
 Author{2}{Email}#=%=#mlap@inf.ed.ac.uk
-Author{2}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{2}{Affiliation}#=%=#University of Edinburgh
 
 ==========

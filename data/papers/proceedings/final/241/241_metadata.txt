@@ -27,6 +27,6 @@ Author{2}{Affiliation}#=%=#University of Edinburgh
 Author{3}{Firstname}#=%=#Mirella
 Author{3}{Lastname}#=%=#Lapata
 Author{3}{Email}#=%=#mlap@inf.ed.ac.uk
-Author{3}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{3}{Affiliation}#=%=#University of Edinburgh
 
 ==========

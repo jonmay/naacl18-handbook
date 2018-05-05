@@ -21,7 +21,7 @@ Author{2}{Affiliation}#=%=#University of Houston
 Author{3}{Firstname}#=%=#Manuel
 Author{3}{Lastname}#=%=#Montes
 Author{3}{Email}#=%=#mmontesg@inaoep.mx
-Author{3}{Affiliation}#=%=#INAOE
+Author{3}{Affiliation}#=%=#Instituto Nacional de Astrofísica, Óptica y Electrónica
 Author{4}{Firstname}#=%=#Fabio A.
 Author{4}{Lastname}#=%=#Gonzalez
 Author{4}{Email}#=%=#fagonzalezo@unal.edu.co
@@ -29,6 +29,6 @@ Author{4}{Affiliation}#=%=#Universidad Nacional de Colombia
 Author{5}{Firstname}#=%=#Thamar
 Author{5}{Lastname}#=%=#Solorio
 Author{5}{Email}#=%=#thamar.solorio@gmail.com
-Author{5}{Affiliation}#=%=#UH
+Author{5}{Affiliation}#=%=#University of Houston
 
 ==========

@@ -14,10 +14,10 @@ Author{1}{Affiliation}#=%=#University of Texas at Austin
 Author{2}{Firstname}#=%=#Greg
 Author{2}{Lastname}#=%=#Durrett
 Author{2}{Email}#=%=#gdurrett@cs.utexas.edu
-Author{2}{Affiliation}#=%=#UT Austin
+Author{2}{Affiliation}#=%=#University of Texas at Austin
 Author{3}{Firstname}#=%=#Katrin
 Author{3}{Lastname}#=%=#Erk
 Author{3}{Email}#=%=#katrin.erk@mail.utexas.edu
-Author{3}{Affiliation}#=%=#The University of Texas at Austin
+Author{3}{Affiliation}#=%=#University of Texas at Austin
 
 ==========

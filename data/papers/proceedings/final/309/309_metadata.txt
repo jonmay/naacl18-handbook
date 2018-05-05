@@ -21,6 +21,6 @@ Author{3}{Affiliation}#=%=#University of Cambridge
 Author{4}{Firstname}#=%=#Simone
 Author{4}{Lastname}#=%=#Teufel
 Author{4}{Email}#=%=#simone.teufel@googlemail.com
-Author{4}{Affiliation}#=%=#Cambridge University
+Author{4}{Affiliation}#=%=#University of Cambridge
 
 ==========

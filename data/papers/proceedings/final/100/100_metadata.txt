@@ -22,14 +22,14 @@ learning techniques bring to ontology matching.
 Author{1}{Firstname}#=%=#Prodromos
 Author{1}{Lastname}#=%=#Kolyvakis
 Author{1}{Email}#=%=#prodromos.kolyvakis@epfl.ch
-Author{1}{Affiliation}#=%=#École polytechnique fédérale de Lausanne (EPFL), Lausanne, Switzerland
+Author{1}{Affiliation}#=%=#École Polytechnique Fédérale de Lausanne
 Author{2}{Firstname}#=%=#Alexandros
 Author{2}{Lastname}#=%=#Kalousis
 Author{2}{Email}#=%=#alexandros.kalousis@unige.ch
-Author{2}{Affiliation}#=%=#Business Informatics Department, University of Applied Sciences, Western Switzerland, Carouge, HES-SO, Switzerland
+Author{2}{Affiliation}#=%=#University of Applied Sciences
 Author{3}{Firstname}#=%=#Dimitris
 Author{3}{Lastname}#=%=#Kiritsis
 Author{3}{Email}#=%=#dimitris.kiritsis@epfl.ch
-Author{3}{Affiliation}#=%=#École polytechnique fédérale de Lausanne (EPFL), Lausanne, Switzerland
+Author{3}{Affiliation}#=%=#École Polytechnique Fédérale de Lausanne
 
 ==========

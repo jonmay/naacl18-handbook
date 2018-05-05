@@ -66,7 +66,7 @@ class Session:
         self.date = date
         self.papers = []
         self.desc = ""
-        
+        self.track = None
         (self.name, self.keywords) = extract_keywords(namestr)
         
         if self.name.find(':') != -1:

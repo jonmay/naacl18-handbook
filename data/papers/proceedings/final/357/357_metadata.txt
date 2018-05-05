@@ -30,6 +30,6 @@ Author{2}{Affiliation}#=%=#Tel Aviv University
 Author{3}{Firstname}#=%=#Jonas
 Author{3}{Lastname}#=%=#Kuhn
 Author{3}{Email}#=%=#jonas@ims.uni-stuttgart.de
-Author{3}{Affiliation}#=%=#Stuttgart University
+Author{3}{Affiliation}#=%=#University of Stuttgart
 
 ==========

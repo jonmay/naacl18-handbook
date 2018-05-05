@@ -55,10 +55,10 @@ Author{5}{Affiliation}#=%=#Allen Institute for Artificial Intelligence (AI2)
 Author{6}{Firstname}#=%=#Eduard
 Author{6}{Lastname}#=%=#Hovy
 Author{6}{Email}#=%=#hovy@cmu.edu
-Author{6}{Affiliation}#=%=#CMU
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
 Author{7}{Firstname}#=%=#Roy
 Author{7}{Lastname}#=%=#Schwartz
 Author{7}{Email}#=%=#roysch@cs.washington.edu
-Author{7}{Affiliation}#=%=#University of Washington and The Allen Institute for Artificial Intelligence
+Author{7}{Affiliation}#=%=#University of Washington / The Allen Institute for Artificial Intelligence
 
 ==========

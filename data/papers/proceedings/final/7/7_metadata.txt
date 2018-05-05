@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#7
-FinalPaperTitle#=%=#Generating Topic-oriented Summaries Using Neural Attention
-ShortPaperTitle#=%=#Topic-oriented Summaries Using Neural Attention
+FinalPaperTitle#=%=#Generating Topic-Oriented Summaries Using Neural Attention
+ShortPaperTitle#=%=#Topic-Oriented Summaries Using Neural Attention
 NumberOfPages#=%=#9
 CopyrightSigned#=%=#Kundan Krishna
 JobTitle#==#

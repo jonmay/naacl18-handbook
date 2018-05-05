@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#482
-FinalPaperTitle#=%=#End-to-end Graph-based TAG Parsing with Neural Networks
-ShortPaperTitle#=%=#End-to-end Graph-based TAG Parsing with Neural Networks
+FinalPaperTitle#=%=#End-to-end Graph-Based TAG Parsing with Neural Networks
+ShortPaperTitle#=%=#End-to-end Graph-Based TAG Parsing with Neural Networks
 NumberOfPages#=%=#14
 CopyrightSigned#=%=#Jungo Kasai
 JobTitle#==#
@@ -25,7 +25,7 @@ Author{4}{Email}#=%=#william.merrill@yale.edu
 Author{4}{Affiliation}#=%=#Yale University
 Author{5}{Firstname}#=%=#Owen
 Author{5}{Lastname}#=%=#Rambow
-Author{5}{Email}#=%=#rambow@ccls.columbia.edu
-Author{5}{Affiliation}#=%=#Columbia University
+Author{5}{Email}#=%=#owenr@elementalcognition.com
+Author{5}{Affiliation}#=%=#Elemental Cognition, LLC
 
 ==========

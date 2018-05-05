@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#459
-FinalPaperTitle#=%=#QuickEdit: Editing Text \& Translations by Crossing Words Out
-ShortPaperTitle#=%=#QuickEdit: Editing Text \& Translations by Crossing Words Out
+FinalPaperTitle#=%=#QuickEdit: Editing Text & Translations by Crossing Words Out
+ShortPaperTitle#=%=#QuickEdit: Editing Text & Translations by Crossing Words Out
 NumberOfPages#=%=#11
 CopyrightSigned#=%=#David Grangier
 JobTitle#==#

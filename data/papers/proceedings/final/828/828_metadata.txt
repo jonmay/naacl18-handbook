@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#828
-FinalPaperTitle#=%=#Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-based Sentiment Analysis
-ShortPaperTitle#=%=#Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-based Sentiment Analysis
+FinalPaperTitle#=%=#Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-Based Sentiment Analysis
+ShortPaperTitle#=%=#Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-Based Sentiment Analysis
 NumberOfPages#=%=#6
 CopyrightSigned#=%=#Fei Liu
 JobTitle#==#

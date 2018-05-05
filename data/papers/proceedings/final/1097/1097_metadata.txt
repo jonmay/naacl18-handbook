@@ -27,11 +27,11 @@ Author{2}{Affiliation}#=%=#Indian Institute of Technology Patna
 Author{3}{Firstname}#=%=#Sriparna
 Author{3}{Lastname}#=%=#Saha
 Author{3}{Email}#=%=#sriparna.saha@gmail.com
-Author{3}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{3}{Affiliation}#=%=#Indian Institutes of Technology, Patna
 Author{4}{Firstname}#=%=#Pushpak
 Author{4}{Lastname}#=%=#Bhattacharyya
 Author{4}{Email}#=%=#pushpakbh@gmail.com
-Author{4}{Affiliation}#=%=#CSE Department, IIT Bombay
+Author{4}{Affiliation}#=%=#Indian Institutes of Technology, Bombay
 Author{5}{Firstname}#=%=#Amit
 Author{5}{Lastname}#=%=#Sheth
 Author{5}{Email}#=%=#amit@knoesis.org

@@ -23,6 +23,6 @@ Author{3}{Affiliation}#=%=#Universidad Nacional de Colombia
 Author{4}{Firstname}#=%=#Thamar
 Author{4}{Lastname}#=%=#Solorio
 Author{4}{Email}#=%=#thamar.solorio@gmail.com
-Author{4}{Affiliation}#=%=#UH
+Author{4}{Affiliation}#=%=#University of Houston
 
 ==========

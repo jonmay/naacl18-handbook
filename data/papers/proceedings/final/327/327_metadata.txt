@@ -33,10 +33,10 @@ Author{3}{Affiliation}#=%=#Universitat Leipzig
 Author{4}{Firstname}#=%=#Jonathan
 Author{4}{Lastname}#=%=#May
 Author{4}{Email}#=%=#jonmay@gmail.com
-Author{4}{Affiliation}#=%=#USC Information Sciences Institute
+Author{4}{Affiliation}#=%=#University of Southern California / Information Sciences Institute
 Author{5}{Firstname}#=%=#Kevin
 Author{5}{Lastname}#=%=#Knight
 Author{5}{Email}#=%=#knight@isi.edu
-Author{5}{Affiliation}#=%=#USC/ISI
+Author{5}{Affiliation}#=%=#University of Southern California / Information Sciences Institute
 
 ==========

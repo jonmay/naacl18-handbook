@@ -16,14 +16,14 @@ Author{1}{Affiliation}#=%=#University of Stuttgart
 Author{2}{Firstname}#=%=#Viktor
 Author{2}{Lastname}#=%=#Hangya
 Author{2}{Email}#=%=#hangyav@cis.uni-muenchen.de
-Author{2}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+Author{2}{Affiliation}#=%=#Ludwig Maximilian University of Munich
 Author{3}{Firstname}#=%=#Tobias
 Author{3}{Lastname}#=%=#Eder
 Author{3}{Email}#=%=#tobias.eder@germanistik.uni-muenchen.de
-Author{3}{Affiliation}#=%=#LMU Munich
+Author{3}{Affiliation}#=%=#Ludwig Maximilian University of Munich
 Author{4}{Firstname}#=%=#Alexander
 Author{4}{Lastname}#=%=#Fraser
 Author{4}{Email}#=%=#fraser@cis.uni-muenchen.de
-Author{4}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+Author{4}{Affiliation}#=%=#Ludwig Maximilian University of Munich
 
 ==========

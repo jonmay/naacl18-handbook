@@ -14,6 +14,6 @@ Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
 Author{2}{Firstname}#=%=#Brendan
 Author{2}{Lastname}#=%=#O'Connor
 Author{2}{Email}#=%=#brenocon@cs.umass.edu
-Author{2}{Affiliation}#=%=#Univ. of Massachusetts, Amherst
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
 
 ==========
