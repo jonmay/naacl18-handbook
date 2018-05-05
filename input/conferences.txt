@@ -1,4 +1,4 @@
-naacl-2018-industrial-track|https://www.softconf.com/naacl2018/naacl2018-industrial-track/pub/aclpub/proceedings.tgz|"18a0133-1fd7f45-56b57276ab95f"
+naacl-2018-industrial-track|https://www.softconf.com/naacl2018/naacl2018-industrial-track/pub/aclpub/proceedings.tgz|"18a00f3-1fd87f6-56b68c0e205a6"
 naacl2018-SRW|https://www.softconf.com/naacl2018/naacl2018-SRW/pub/aclpub/proceedings.tgz|"18a00e4-1787498-56b291ea67145"
 naacl2018-tutorials|https://www.softconf.com/naacl2018/naacl2018-tutorials/pub/aclpub/proceedings.tgz|"1842457-2d9411-56b4e96758713"
 naacl2018-demos|https://www.softconf.com/naacl2018/naacl2018-demos/pub/aclpub/proceedings.tgz|"1840315-23adc5c-56b1bab2590b4"

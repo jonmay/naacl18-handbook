@@ -13,6 +13,10 @@ while (my $line = <STDIN>)
   $line =~ /\\indexentry{(.*)}{([^{}]+)}\s*$/;
   my $a = $1;  # name
   my $p = $2;  # pageref
+  #print "$a\n";
+  $a =~ s/ ,/,/g;
+  $a =~ s/ \|/\|/g;
+  #print "$a\n";
   my $s = $a;  # name
   $s =~ s/\\IeC //g;
   $s =~ s/\\[^[:alpha:]]//g;

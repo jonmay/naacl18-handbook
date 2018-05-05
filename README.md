@@ -37,7 +37,7 @@ NAACL 2018 handbook can be compiled:
 
 -~~tulane ad~~
 
-- oracle ad
+-~~oracle ad~~
 
 
 -~~two sigma ad~~

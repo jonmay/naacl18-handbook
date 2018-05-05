@@ -7,8 +7,9 @@
 1716 11:30--11:47  # What we need to learn if we want to do and not just talk
 1762 11:48--12:05  # Data Collection for Dialogue System: A Startup Perspective
 1788 12:05--12:23  # Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning
-= 10:30am--12:00pm Posters - Industry - 1 # %room Elite Hall B
+= 10:30am--12:00pm Session Posters and Demos: Generation # %room Elite Hall B %chair1 Laura Perez
 1729   # Quality Estimation for Automatically Generated Titles of eCommerce Browse Pages
+= 10:30--12:00 Session Posters and Demos: NLP Applications - # %room Elite Hall B %chair1 Laura Perez
 1746   # Atypical Inputs in Educational Applications
 1776   # Using Aspect Extraction Approaches to Generate Review Summaries and User Profiles
 1779   # SystemT: Declarative Text Understanding for Enterprise
@@ -21,7 +22,7 @@
 1744 17:18--17:35  # Accelerating NMT Batched Beam Decoding with LMBR Posteriors for Deployment
 1754 17:36--17:53  # Pieces of Eight: 8-bit Neural Machine Translation
 1786 17:54--18:12  # From dictations to clinical reports using machine translation
-= 15:30--17:00 Posters Industry 2
+= 15:30--17:00 Session Posters and Demos: Sentiment Analysis # %chair1 Scott Wen-tau Yih
 1783   # Benchmarks and models for entity-oriented polarity detection
 * Sunday, June 3, 2018
 = 10:30--11:30 Machine Learning -- Domain Adaptation # %room Empire D %chair1 Mohit Bansal %aff1 University of North Carolina at Chapel Hill
@@ -32,12 +33,12 @@
 1753 11:30--11:47  # Multi-lingual neural title generation for e-Commerce browse pages
 1755 11:48--12:05  # A Novel Approach to Part Name Discovery in Noisy Text
 1761 12:05--12:22  # The Alexa Meaning Representation Language
-= 10:30--12:00 Posters - Industry 3
-1721   # Practical Application of Domain Dependent Confidence Measurement for Spoken Language Understanding Systems
 = 14:00--15:00 Industry Track Keynote 2 # %room Empire Ballroom %chair1 Jennifer Chu-Carroll %aff1 Elemental Cognition
 ! 14:00--15:00 Building innovative startups, products, and services – personal insights %by Daniel Marcu
 = 15:30--17:00 Ethics in NLP Panel # %chair1 Dirk Hovy %aff1 Universita Bocconi
-= 15:30--17:00 Posters - Industry 4 # %room Elite Hall B
+= 15:30--17:00 Session Posters and Demos: Machine Learning # %chair1 Mona Diab
+1721   # Practical Application of Domain Dependent Confidence Measurement for Spoken Language Understanding Systems
+= 15:30--17:00 Session Posters and Demos: Machine Translation # %room Elite Hall B %chair1 Mona Diab
 1733   # Document-based Recommender System for Job Postings using Dense Representations
 = 11:30--12:30 Machine Learning - Prediction # %chair1 Gokhan Tur %aff1 Uber
 * Monday, June 4, 2018
