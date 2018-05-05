@@ -18,6 +18,6 @@ Author{2}{Affiliation}#=%=#North Carolina State University
 Author{3}{Firstname}#=%=#Lawrence
 Author{3}{Lastname}#=%=#Phillips
 Author{3}{Email}#=%=#lawrence.phillips@pnnl.gov
-Author{3}{Affiliation}#=%=#PNNL
+Author{3}{Affiliation}#=%=#Pacific Northwest National Laboratory
 
 ==========

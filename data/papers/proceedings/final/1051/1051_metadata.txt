@@ -20,6 +20,6 @@ Author{2}{Affiliation}#=%=#The University of Melbourne
 Author{3}{Firstname}#=%=#Trevor
 Author{3}{Lastname}#=%=#Cohn
 Author{3}{Email}#=%=#tcohn@unimelb.edu.au
-Author{3}{Affiliation}#=%=#University of Melbourne
+Author{3}{Affiliation}#=%=#The University of Melbourne
 
 ==========

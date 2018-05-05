@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#69
-FinalPaperTitle#=%=#Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition
-ShortPaperTitle#=%=#La-DTL for Cross-Specialty Medical NER
+FinalPaperTitle#=%=#Label-Aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition
+ShortPaperTitle#=%=#LA-DTL for Cross-Specialty Medical NER
 NumberOfPages#=%=#15
 CopyrightSigned#=%=#Zhenghui Wang
 JobTitle#==#
@@ -34,15 +34,15 @@ Author{6}{Affiliation}#=%=#Shanghai Jiao Tong University
 Author{7}{Firstname}#=%=#Yimei
 Author{7}{Lastname}#=%=#Gao
 Author{7}{Email}#=%=#gao.yimei@synyi.com
-Author{7}{Affiliation}#=%=#Synyi LLC.
+Author{7}{Affiliation}#=%=#Synyi LLC
 Author{8}{Firstname}#=%=#Gen
 Author{8}{Lastname}#=%=#Gu
 Author{8}{Email}#=%=#gu.gen@synyi.com
-Author{8}{Affiliation}#=%=#Synyi LLC.
+Author{8}{Affiliation}#=%=#Synyi LLC
 Author{9}{Firstname}#=%=#Ken
 Author{9}{Lastname}#=%=#Chen
 Author{9}{Email}#=%=#chen.ken@synyi.com
-Author{9}{Affiliation}#=%=#Synyi LLC.
+Author{9}{Affiliation}#=%=#Synyi LLC
 Author{10}{Firstname}#=%=#Yong
 Author{10}{Lastname}#=%=#Yu
 Author{10}{Email}#=%=#yyu@apex.sjtu.edu.cn

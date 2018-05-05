@@ -32,7 +32,7 @@ Author{2}{Affiliation}#=%=#Microsoft Research Asia
 Author{3}{Firstname}#=%=#Zhao
 Author{3}{Lastname}#=%=#Yan
 Author{3}{Email}#=%=#yanzhao@buaa.edu.cn
-Author{3}{Affiliation}#=%=#Beihang university
+Author{3}{Affiliation}#=%=#Beihang University
 Author{4}{Firstname}#=%=#Zhirui
 Author{4}{Lastname}#=%=#Zhang
 Author{4}{Email}#=%=#zrustc11@gmail.com
@@ -44,14 +44,14 @@ Author{5}{Affiliation}#=%=#Harbin Institute of Technology
 Author{6}{Firstname}#=%=#Shujie
 Author{6}{Lastname}#=%=#Liu
 Author{6}{Email}#=%=#shujliu@microsoft.com
-Author{6}{Affiliation}#=%=#Microsoft Research Asia, Beijing, China
+Author{6}{Affiliation}#=%=#Microsoft Research Asia
 Author{7}{Firstname}#=%=#Yuanhua
 Author{7}{Lastname}#=%=#Lv
 Author{7}{Email}#=%=#yuanhual@microsoft.com
-Author{7}{Affiliation}#=%=#Microsoft AI and Research, Sunnyvale CA, USA
+Author{7}{Affiliation}#=%=#Microsoft AI and Research
 Author{8}{Firstname}#=%=#Ming
 Author{8}{Lastname}#=%=#Zhou
 Author{8}{Email}#=%=#mingzhou@microsoft.com
-Author{8}{Affiliation}#=%=#microsoft research asia
+Author{8}{Affiliation}#=%=#Microsoft Research Asia
 
 ==========

@@ -11,11 +11,11 @@ Abstract#==#We propose a variant of a well-known machine translation (MT) evalua
 Author{1}{Firstname}#=%=#Marianna
 Author{1}{Lastname}#=%=#Apidianaki
 Author{1}{Email}#=%=#marianna.apidianaki@limsi.fr
-Author{1}{Affiliation}#=%=#LIMSI-CNRS, University Paris-Saclay
+Author{1}{Affiliation}#=%=#LIMSI, CNRS
 Author{2}{Firstname}#=%=#Guillaume
 Author{2}{Lastname}#=%=#Wisniewski
 Author{2}{Email}#=%=#guillaume.wisniewski@limsi.fr
-Author{2}{Affiliation}#=%=#Univ. Paris Sud and LIMSI-CNRS
+Author{2}{Affiliation}#=%=#LIMSI, CNRS
 Author{3}{Firstname}#=%=#Anne
 Author{3}{Lastname}#=%=#Cocos
 Author{3}{Email}#=%=#acocos@seas.upenn.edu

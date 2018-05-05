@@ -16,7 +16,7 @@ Author{1}{Affiliation}#=%=#National University of Singapore
 Author{2}{Firstname}#=%=#Soujanya
 Author{2}{Lastname}#=%=#Poria
 Author{2}{Email}#=%=#soujanya.poria@gmail.com
-Author{2}{Affiliation}#=%=#Nanyang Technological University
+Author{2}{Affiliation}#=%=#A*STAR
 Author{3}{Firstname}#=%=#Amir
 Author{3}{Lastname}#=%=#Zadeh
 Author{3}{Email}#=%=#abagherz@andrew.cmu.edu

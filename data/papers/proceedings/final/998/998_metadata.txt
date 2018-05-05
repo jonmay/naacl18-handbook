@@ -21,7 +21,7 @@ over baseline), a statistically significant result.
 Author{1}{Firstname}#=%=#Chun-Kai
 Author{1}{Lastname}#=%=#Wu
 Author{1}{Email}#=%=#s106062851@m106.nthu.edu.tw
-Author{1}{Affiliation}#=%=#Department of Computer Science, National Tsing Hua University.
+Author{1}{Affiliation}#=%=#National Tsing Hua University.
 Author{2}{Firstname}#=%=#Richard Tzong-Han
 Author{2}{Lastname}#=%=#Tsai
 Author{2}{Email}#=%=#thtsai@csie.ncu.edu.tw

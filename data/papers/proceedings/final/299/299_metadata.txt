@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#299
-FinalPaperTitle#=%=#Dialog Generation Using Multi-turn Reasoning Neural Networks
-ShortPaperTitle#=%=#Dialog Generation Using Multi-turn Reasoning Neural Networks
+FinalPaperTitle#=%=#Dialog Generation Using Multi-Turn Reasoning Neural Networks
+ShortPaperTitle#=%=#Dialog Generation Using Multi-Turn Reasoning Neural Networks
 NumberOfPages#=%=#11
 CopyrightSigned#=%=#xianchao wu
 JobTitle#==#
@@ -29,7 +29,7 @@ Author{1}{Affiliation}#=%=#Microsoft
 Author{2}{Firstname}#=%=#Ander
 Author{2}{Lastname}#=%=#Martinez
 Author{2}{Email}#=%=#ander.martinez.zy4@is.naist.jp
-Author{2}{Affiliation}#=%=#NAIST
+Author{2}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology
 Author{3}{Firstname}#=%=#Momo
 Author{3}{Lastname}#=%=#Klyen
 Author{3}{Email}#=%=#momokl@microsoft.com

@@ -14,18 +14,18 @@ Experimental results show that our method achieves the state-of-the-art performa
 Author{1}{Firstname}#=%=#Bo
 Author{1}{Lastname}#=%=#An
 Author{1}{Email}#=%=#anbo@iscas.ac.cn
-Author{1}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{1}{Affiliation}#=%=#Chinese Academy of Sciences
 Author{2}{Firstname}#=%=#Bo
 Author{2}{Lastname}#=%=#Chen
 Author{2}{Email}#=%=#chenbo@nfs.iscas.ac.cn
-Author{2}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{2}{Affiliation}#=%=#Chinese Academy of Sciences
 Author{3}{Firstname}#=%=#Xianpei
 Author{3}{Lastname}#=%=#Han
 Author{3}{Email}#=%=#hanxianpei@gmail.com
-Author{3}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{3}{Affiliation}#=%=#Chinese Academy of Sciences
 Author{4}{Firstname}#=%=#Le
 Author{4}{Lastname}#=%=#Sun
 Author{4}{Email}#=%=#lesunle@163.com
-Author{4}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{4}{Affiliation}#=%=#Chinese Academy of Sciences
 
 ==========

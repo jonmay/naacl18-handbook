@@ -22,7 +22,7 @@ Author{3}{Affiliation}#=%=#Georgia Institute of Technology
 Author{4}{Firstname}#=%=#Jimeng
 Author{4}{Lastname}#=%=#Sun
 Author{4}{Email}#=%=#jsun@cc.gatech.edu
-Author{4}{Affiliation}#=%=#Georgia Tech
+Author{4}{Affiliation}#=%=#Georgia Institute of Technology
 Author{5}{Firstname}#=%=#Jacob
 Author{5}{Lastname}#=%=#Eisenstein
 Author{5}{Email}#=%=#jacobe@gmail.com

@@ -17,4 +17,4 @@ Fig-Lang18|https://www.softconf.com/naacl2018/Fig-Lang18/pub/aclpub/proceedings.
 PEOPLES18|https://www.softconf.com/naacl2018/PEOPLES18/pub/aclpub/proceedings.tgz|"2030ed-11e07f1-56b02b29d1be0"
 CRAC18|https://www.softconf.com/naacl2018/CRAC18/pub/aclpub/proceedings.tgz|"18422a2-837c2b-56b0a21d722fe"
 SpLU18|https://www.softconf.com/naacl2018/SpLU18/pub/aclpub/proceedings.tgz|"2520165-b0b815-56b28b3e3bc80"
-papers|https://www.softconf.com/naacl2018/papers/pub/aclpub/proceedings.tgz|"1be1210-21ccc21e-56b29eda86000"
+papers|https://www.softconf.com/naacl2018/papers/pub/aclpub/proceedings.tgz|"1bc43f9-32536f29-56b7b2ef31f15"

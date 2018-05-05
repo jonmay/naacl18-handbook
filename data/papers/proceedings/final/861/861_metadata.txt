@@ -18,6 +18,6 @@ Author{1}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{2}{Firstname}#=%=#Iryna
 Author{2}{Lastname}#=%=#Gurevych
 Author{2}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
-Author{2}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{2}{Affiliation}#=%=#Technische Universität Darmstadt
 
 ==========

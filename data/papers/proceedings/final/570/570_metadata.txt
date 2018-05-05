@@ -10,7 +10,7 @@ Abstract#==#Inferring missing links in knowledge graphs (KG) has attracted a lot
 Author{1}{Firstname}#=%=#Wenhu
 Author{1}{Lastname}#=%=#Chen
 Author{1}{Email}#=%=#wenhuchen@cs.ucsb.edu
-Author{1}{Affiliation}#=%=#UCSB
+Author{1}{Affiliation}#=%=#University of California, Santa Barbara
 Author{2}{Firstname}#=%=#Wenhan
 Author{2}{Lastname}#=%=#Xiong
 Author{2}{Email}#=%=#xwhan@cs.ucsb.edu
@@ -18,7 +18,7 @@ Author{2}{Affiliation}#=%=#University of California, Santa Barbara
 Author{3}{Firstname}#=%=#Xifeng
 Author{3}{Lastname}#=%=#Yan
 Author{3}{Email}#=%=#xifeng@ucsb.edu
-Author{3}{Affiliation}#=%=#UCSB
+Author{3}{Affiliation}#=%=#University of California, Santa Barbara
 Author{4}{Firstname}#=%=#William Yang
 Author{4}{Lastname}#=%=#Wang
 Author{4}{Email}#=%=#william@cs.ucsb.edu

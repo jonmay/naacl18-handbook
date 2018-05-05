@@ -16,7 +16,7 @@ Author{1}{Affiliation}#=%=#Johns Hopkins University
 Author{2}{Firstname}#=%=#Christo
 Author{2}{Lastname}#=%=#Kirov
 Author{2}{Email}#=%=#ckirov@gmail.com
-Author{2}{Affiliation}#=%=#Center for Language and Speech Processing, Johns Hopkins University
+Author{2}{Affiliation}#=%=#Johns Hopkins University
 Author{3}{Firstname}#=%=#Sebastian J.
 Author{3}{Lastname}#=%=#Mielke
 Author{3}{Email}#=%=#sjm@sjmielke.com

@@ -22,7 +22,7 @@ Author{2}{Affiliation}#=%=#Ochanomizu University
 Author{3}{Firstname}#=%=#Pascual
 Author{3}{Lastname}#=%=#Martínez-Gómez
 Author{3}{Email}#=%=#pasmargo@gmail.com
-Author{3}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology (AIST)
+Author{3}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology
 Author{4}{Firstname}#=%=#Daisuke
 Author{4}{Lastname}#=%=#Bekki
 Author{4}{Email}#=%=#bekki@is.ocha.ac.jp

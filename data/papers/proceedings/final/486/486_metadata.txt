@@ -14,7 +14,7 @@ Author{1}{Affiliation}#=%=#Indian Institute of Science
 Author{2}{Firstname}#=%=#Somnath
 Author{2}{Lastname}#=%=#Basu Roy Chowdhury
 Author{2}{Email}#=%=#brcsomnath@ee.iitkgp.ernet.in
-Author{2}{Affiliation}#=%=#IIT Kharagpur
+Author{2}{Affiliation}#=%=#Indian Institutes of Technology, Kharagpur
 Author{3}{Firstname}#=%=#Ambedkar
 Author{3}{Lastname}#=%=#Dukkipati
 Author{3}{Email}#=%=#ambedkar@iisc.ac.in

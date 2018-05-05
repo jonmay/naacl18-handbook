@@ -17,7 +17,7 @@ Our implementation is available as part of Sockeye.
 Author{1}{Firstname}#=%=#Matt
 Author{1}{Lastname}#=%=#Post
 Author{1}{Email}#=%=#post@cs.jhu.edu
-Author{1}{Affiliation}#=%=#Amazon Research
+Author{1}{Affiliation}#=%=#Amazon
 Author{2}{Firstname}#=%=#David
 Author{2}{Lastname}#=%=#Vilar
 Author{2}{Email}#=%=#david.vilar@gmail.com

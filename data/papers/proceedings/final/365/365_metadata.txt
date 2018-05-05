@@ -10,7 +10,7 @@ Abstract#==#A core step in statistical data-to-text generation concerns learning
 Author{1}{Firstname}#=%=#Laura
 Author{1}{Lastname}#=%=#Perez-Beltrachini
 Author{1}{Email}#=%=#lperez@inf.ed.ac.uk
-Author{1}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{1}{Affiliation}#=%=#University of Edinburgh
 Author{2}{Firstname}#=%=#Mirella
 Author{2}{Lastname}#=%=#Lapata
 Author{2}{Email}#=%=#mlap@inf.ed.ac.uk

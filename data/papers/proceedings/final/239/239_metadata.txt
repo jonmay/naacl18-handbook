@@ -25,9 +25,9 @@ been evaluated on three news corpora and the experimental results show that it
 outperforms state-of-the-art approaches for storyline generation on both
 accuracy and efficiency.
 Author{1}{Firstname}#=%=#Deyu
-Author{1}{Lastname}#=%=#ZHOU
+Author{1}{Lastname}#=%=#Zhou
 Author{1}{Email}#=%=#d.zhou@seu.edu.cn
-Author{1}{Affiliation}#=%=#School of computer science and engineering, Southeast University
+Author{1}{Affiliation}#=%=#Southeast University
 Author{2}{Firstname}#=%=#Linsen
 Author{2}{Lastname}#=%=#Guo
 Author{2}{Email}#=%=#guolinsen@seu.edu.cn

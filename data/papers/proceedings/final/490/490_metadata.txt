@@ -27,10 +27,10 @@ Author{1}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{2}{Firstname}#=%=#Eneldo
 Author{2}{Lastname}#=%=#Loza Mencía
 Author{2}{Email}#=%=#eneldo@ke.tu-darmstadt.de
-Author{2}{Affiliation}#=%=#Knowledge Engineering Group, TU Darmstadt
+Author{2}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{3}{Firstname}#=%=#Johannes
 Author{3}{Lastname}#=%=#Fürnkranz
 Author{3}{Email}#=%=#juffi@ke.tu-darmstadt.de
-Author{3}{Affiliation}#=%=#Knowledge Engineering Group, TU Darmstadt
+Author{3}{Affiliation}#=%=#Technische Universität Darmstadt
 
 ==========

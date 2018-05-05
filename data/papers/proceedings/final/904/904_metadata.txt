@@ -22,15 +22,15 @@ Author{3}{Affiliation}#=%=#Institute for Information Industry
 Author{4}{Firstname}#=%=#Chih-Li
 Author{4}{Lastname}#=%=#Huo
 Author{4}{Email}#=%=#clhuo@iii.org.tw
-Author{4}{Affiliation}#=%=#Institute of Information Industry
+Author{4}{Affiliation}#=%=#Institute for Information Industry
 Author{5}{Firstname}#=%=#Tsung-Chieh
 Author{5}{Lastname}#=%=#Chen
 Author{5}{Email}#=%=#ericchen@iii.org.tw
-Author{5}{Affiliation}#=%=#Institute of Information Industry
+Author{5}{Affiliation}#=%=#Institute for Information Industry
 Author{6}{Firstname}#=%=#Keng-Wei
 Author{6}{Lastname}#=%=#Hsu
 Author{6}{Email}#=%=#hsu@iii.org.tw
-Author{6}{Affiliation}#=%=#Institute of Information Industry
+Author{6}{Affiliation}#=%=#Institute for Information Industry
 Author{7}{Firstname}#=%=#Yun-Nung
 Author{7}{Lastname}#=%=#Chen
 Author{7}{Email}#=%=#y.v.chen@ieee.org

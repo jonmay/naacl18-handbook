@@ -28,14 +28,14 @@ AIDA-CoNLL dataset.
 Author{1}{Firstname}#=%=#Yi
 Author{1}{Lastname}#=%=#Yang
 Author{1}{Email}#=%=#yiyangnlp@gmail.com
-Author{1}{Affiliation}#=%=#Bloomberg LP
+Author{1}{Affiliation}#=%=#Bloomberg
 Author{2}{Firstname}#=%=#Ozan
 Author{2}{Lastname}#=%=#Irsoy
 Author{2}{Email}#=%=#oirsoy@bloomberg.net
-Author{2}{Affiliation}#=%=#Bloomberg LP
+Author{2}{Affiliation}#=%=#Bloomberg
 Author{3}{Firstname}#=%=#Kazi Shefaet
 Author{3}{Lastname}#=%=#Rahman
 Author{3}{Email}#=%=#krahman7@bloomberg.net
-Author{3}{Affiliation}#=%=#Bloomberg LP
+Author{3}{Affiliation}#=%=#Bloomberg
 
 ==========

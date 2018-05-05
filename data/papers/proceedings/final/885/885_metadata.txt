@@ -19,6 +19,6 @@ Author{2}{Affiliation}#=%=#University of Amsterdam
 Author{3}{Firstname}#=%=#Ivan
 Author{3}{Lastname}#=%=#Titov
 Author{3}{Email}#=%=#titov@uva.nl
-Author{3}{Affiliation}#=%=#University of Edinburg - University of Amsterdam
+Author{3}{Affiliation}#=%=#University of Edinburgh / University of Amsterdam
 
 ==========

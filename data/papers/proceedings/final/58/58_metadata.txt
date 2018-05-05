@@ -36,6 +36,6 @@ Author{1}{Affiliation}#=%=#Technion
 Author{2}{Firstname}#=%=#Roi
 Author{2}{Lastname}#=%=#Reichart
 Author{2}{Email}#=%=#roireichart@gmail.com
-Author{2}{Affiliation}#=%=#Technion - Israel Institute of Technology
+Author{2}{Affiliation}#=%=#Technion
 
 ==========

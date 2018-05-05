@@ -11,7 +11,7 @@ Abstract#==#We present NEWSROOM, a summarization dataset of 1.3 million articles
 Author{1}{Firstname}#=%=#Max
 Author{1}{Lastname}#=%=#Grusky
 Author{1}{Email}#=%=#grusky@cs.cornell.edu
-Author{1}{Affiliation}#=%=#Cornell University
+Author{1}{Affiliation}#=%=#Cornell Tech
 Author{2}{Firstname}#=%=#Mor
 Author{2}{Lastname}#=%=#Naaman
 Author{2}{Email}#=%=#mor.naaman@cornell.edu
@@ -19,6 +19,6 @@ Author{2}{Affiliation}#=%=#Cornell Tech
 Author{3}{Firstname}#=%=#Yoav
 Author{3}{Lastname}#=%=#Artzi
 Author{3}{Email}#=%=#yoav@cs.cornell.edu
-Author{3}{Affiliation}#=%=#Cornell University
+Author{3}{Affiliation}#=%=#Cornell Tech
 
 ==========

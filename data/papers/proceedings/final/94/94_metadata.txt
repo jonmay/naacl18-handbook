@@ -47,7 +47,7 @@ Author{2}{Affiliation}#=%=#Universidad Nacional Autónoma de México
 Author{3}{Firstname}#=%=#Ivan Vladimir
 Author{3}{Lastname}#=%=#Meza Ruiz
 Author{3}{Email}#=%=#ivanvladimir@gmail.com
-Author{3}{Affiliation}#=%=#Insituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS-UNAM)
+Author{3}{Affiliation}#=%=#Insituto de Investigaciones en Matemáticas Aplicadas y en Sistemas
 Author{4}{Firstname}#=%=#Hinrich
 Author{4}{Lastname}#=%=#Schütze
 Author{4}{Email}#=%=#inquiries@cislmu.org

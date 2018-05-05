@@ -9,7 +9,7 @@ Abstract#==#Predicting the emotional value of lexical items is a well-known prob
 Author{1}{Firstname}#=%=#Sven
 Author{1}{Lastname}#=%=#Buechel
 Author{1}{Email}#=%=#sven.buechel@uni-jena.de
-Author{1}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+Author{1}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
 Author{2}{Firstname}#=%=#Udo
 Author{2}{Lastname}#=%=#Hahn
 Author{2}{Email}#=%=#udo.hahn@uni-jena.de

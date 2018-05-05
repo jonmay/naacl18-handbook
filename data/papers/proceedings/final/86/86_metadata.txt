@@ -51,7 +51,7 @@ Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
 Author{5}{Firstname}#=%=#Sebastian
 Author{5}{Lastname}#=%=#Kohlmeier
 Author{5}{Email}#=%=#sebastiank@allenai.org
-Author{5}{Affiliation}#=%=#Allen Institute for Artificial Intelligence (AI2)
+Author{5}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
 Author{6}{Firstname}#=%=#Eduard
 Author{6}{Lastname}#=%=#Hovy
 Author{6}{Email}#=%=#hovy@cmu.edu

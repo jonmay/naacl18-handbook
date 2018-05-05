@@ -29,6 +29,6 @@ Author{5}{Affiliation}#=%=#Amazon (prof. in Computer Science at University of Tr
 Author{6}{Firstname}#=%=#Preslav
 Author{6}{Lastname}#=%=#Nakov
 Author{6}{Email}#=%=#preslav.nakov@gmail.com
-Author{6}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{6}{Affiliation}#=%=#Qatar Computing Research Institute
 
 ==========

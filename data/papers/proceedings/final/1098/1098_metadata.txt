@@ -14,22 +14,22 @@ Our findings challenge previous assumptions that conceptualizations across AM da
 Author{1}{Firstname}#=%=#Claudia
 Author{1}{Lastname}#=%=#Schulz
 Author{1}{Email}#=%=#schulz@ukp.informatik.tu-darmstadt.de
-Author{1}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{1}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{2}{Firstname}#=%=#Steffen
 Author{2}{Lastname}#=%=#Eger
 Author{2}{Email}#=%=#eger.steffen@gmail.com
-Author{2}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{2}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{3}{Firstname}#=%=#Johannes
 Author{3}{Lastname}#=%=#Daxenberger
 Author{3}{Email}#=%=#daxenberger@ukp.informatik.tu-darmstadt.de
-Author{3}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{3}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{4}{Firstname}#=%=#Tobias
 Author{4}{Lastname}#=%=#Kahse
 Author{4}{Email}#=%=#t-kahse@hotmail.de
-Author{4}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{4}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{5}{Firstname}#=%=#Iryna
 Author{5}{Lastname}#=%=#Gurevych
 Author{5}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
-Author{5}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{5}{Affiliation}#=%=#Technische Universität Darmstadt
 
 ==========

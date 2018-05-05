@@ -28,7 +28,7 @@ Author{1}{Affiliation}#=%=#University of Geneva
 Author{2}{Firstname}#=%=#Piotr
 Author{2}{Lastname}#=%=#Bojanowski
 Author{2}{Email}#=%=#bojanowski@fb.com
-Author{2}{Affiliation}#=%=#facebook
+Author{2}{Affiliation}#=%=#Facebook
 Author{3}{Firstname}#=%=#Edouard
 Author{3}{Lastname}#=%=#Grave
 Author{3}{Email}#=%=#edouard.grave@gmail.com

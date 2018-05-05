@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#103
-FinalPaperTitle#=%=#Reusing Weights in Subword-aware Neural Language Models
-ShortPaperTitle#=%=#Reusing Weights in Subword-aware Neural Language Models
+FinalPaperTitle#=%=#Reusing Weights in Subword-Aware Neural Language Models
+ShortPaperTitle#=%=#Reusing Weights in Subword-Aware Neural Language Models
 NumberOfPages#=%=#11
 CopyrightSigned#=%=#Zhenisbek Assylbekov
 JobTitle#==#

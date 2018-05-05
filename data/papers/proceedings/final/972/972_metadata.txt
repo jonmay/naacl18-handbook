@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#972
-FinalPaperTitle#=%=#Higher-order Coreference Resolution with Coarse-to-fine Inference
-ShortPaperTitle#=%=#Higher-order Coreference Resolution with Coarse-to-fine Inference
+FinalPaperTitle#=%=#Higher-order Coreference Resolution with Coarse-to-Fine Inference
+ShortPaperTitle#=%=#Higher-order Coreference Resolution with Coarse-to-Fine Inference
 NumberOfPages#=%=#6
 CopyrightSigned#=%=#Kenton Lee
 JobTitle#==#

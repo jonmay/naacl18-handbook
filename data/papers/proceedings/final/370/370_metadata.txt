@@ -17,15 +17,15 @@ Author{2}{Affiliation}#=%=#IBM Research
 Author{3}{Firstname}#=%=#Jinfeng
 Author{3}{Lastname}#=%=#Yi
 Author{3}{Email}#=%=#jinfengy@us.ibm.com
-Author{3}{Affiliation}#=%=#Tencent AI Lab
+Author{3}{Affiliation}#=%=#IBM Research
 Author{4}{Firstname}#=%=#Shiyu
 Author{4}{Lastname}#=%=#Chang
 Author{4}{Email}#=%=#mnbvcxz210@gmail.com
-Author{4}{Affiliation}#=%=#IBM
+Author{4}{Affiliation}#=%=#IBM Research
 Author{5}{Firstname}#=%=#Saloni
 Author{5}{Lastname}#=%=#Potdar
 Author{5}{Email}#=%=#saloni.potdar@gmail.com
-Author{5}{Affiliation}#=%=#IBM Watson, Carnegie Mellon University
+Author{5}{Affiliation}#=%=#IBM Research
 Author{6}{Firstname}#=%=#Yu
 Author{6}{Lastname}#=%=#Cheng
 Author{6}{Email}#=%=#chengyu@us.ibm.com
@@ -37,7 +37,7 @@ Author{7}{Affiliation}#=%=#IBM Research
 Author{8}{Firstname}#=%=#Haoyu
 Author{8}{Lastname}#=%=#Wang
 Author{8}{Email}#=%=#wanghaoy@us.ibm.com
-Author{8}{Affiliation}#=%=#IBM Watson
+Author{8}{Affiliation}#=%=#IBM Research
 Author{9}{Firstname}#=%=#Bowen
 Author{9}{Lastname}#=%=#Zhou
 Author{9}{Email}#=%=#zhou@us.ibm.com

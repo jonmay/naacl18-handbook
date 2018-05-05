@@ -18,11 +18,11 @@ CARNN-based architectures outperform previous methods.
 Author{1}{Firstname}#=%=#Quan Hung
 Author{1}{Lastname}#=%=#Tran
 Author{1}{Email}#=%=#quanthdhcn@gmail.com
-Author{1}{Affiliation}#=%=#Monash University
+Author{1}{Affiliation}#=%=#Monash University / Adobe Research
 Author{2}{Firstname}#=%=#Tuan
 Author{2}{Lastname}#=%=#Lai
 Author{2}{Email}#=%=#laituan245@gmail.com
-Author{2}{Affiliation}#=%=#Adobe Systems
+Author{2}{Affiliation}#=%=#Adobe Research
 Author{3}{Firstname}#=%=#Ingrid
 Author{3}{Lastname}#=%=#Zukerman
 Author{3}{Email}#=%=#Ingrid.Zukerman@monash.edu
@@ -38,6 +38,6 @@ Author{5}{Affiliation}#=%=#Adobe Research
 Author{6}{Firstname}#=%=#Hung
 Author{6}{Lastname}#=%=#Bui
 Author{6}{Email}#=%=#bui.h.hung@gmail.com
-Author{6}{Affiliation}#=%=#Adobe Research
+Author{6}{Affiliation}#=%=#DeepMind
 
 ==========

@@ -37,6 +37,6 @@ Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
 Author{5}{Firstname}#=%=#Peter
 Author{5}{Lastname}#=%=#Clark
 Author{5}{Email}#=%=#peterc@allenai.org
-Author{5}{Affiliation}#=%=#Allen Institute for AI
+Author{5}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
 
 ==========

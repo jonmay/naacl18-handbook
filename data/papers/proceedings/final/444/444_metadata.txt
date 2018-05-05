@@ -9,7 +9,7 @@ Abstract#==#Entity mentions embedded in longer entity mentions are referred to a
 Author{1}{Firstname}#=%=#Meizhi
 Author{1}{Lastname}#=%=#Ju
 Author{1}{Email}#=%=#meizhi.ju@postgrad.manchester.ac.uk
-Author{1}{Affiliation}#=%=#National Centre for Text Mining, University of Manchester
+Author{1}{Affiliation}#=%=#University of Manchester
 Author{2}{Firstname}#=%=#Makoto
 Author{2}{Lastname}#=%=#Miwa
 Author{2}{Email}#=%=#makoto-miwa@toyota-ti.ac.jp

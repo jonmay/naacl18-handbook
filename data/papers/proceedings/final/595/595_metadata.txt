@@ -30,11 +30,11 @@ Author{2}{Affiliation}#=%=#Goa University
 Author{3}{Firstname}#=%=#Sukanta
 Author{3}{Lastname}#=%=#Sen
 Author{3}{Email}#=%=#sukantasen10@gmail.com
-Author{3}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{3}{Affiliation}#=%=#Indian Institutes of Technology, Patna
 Author{4}{Firstname}#=%=#Asif
 Author{4}{Lastname}#=%=#Ekbal
 Author{4}{Email}#=%=#asif.ekbal@gmail.com
-Author{4}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{4}{Affiliation}#=%=#Indian Institutes of Technology, Patna
 Author{5}{Firstname}#=%=#Pushpak
 Author{5}{Lastname}#=%=#Bhattacharyya
 Author{5}{Email}#=%=#pushpakbh@gmail.com

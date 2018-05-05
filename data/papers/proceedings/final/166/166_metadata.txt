@@ -13,7 +13,7 @@ consistent BLEU score improvements across the languages.
 Author{1}{Firstname}#=%=#Nima
 Author{1}{Lastname}#=%=#Pourdamghani
 Author{1}{Email}#=%=#damghani@gmail.com
-Author{1}{Affiliation}#=%=#University of Southern California / information Sciences Institute
+Author{1}{Affiliation}#=%=#University of Southern California / Information Sciences Institute
 Author{2}{Firstname}#=%=#Marjan
 Author{2}{Lastname}#=%=#Ghazvininejad
 Author{2}{Email}#=%=#ghazvini@isi.edu

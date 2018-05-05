@@ -21,7 +21,7 @@ Author{3}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{4}{Firstname}#=%=#Preslav
 Author{4}{Lastname}#=%=#Nakov
 Author{4}{Email}#=%=#preslav.nakov@gmail.com
-Author{4}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{4}{Affiliation}#=%=#Qatar Computing Research Institute
 Author{5}{Firstname}#=%=#Lluís
 Author{5}{Lastname}#=%=#Màrquez
 Author{5}{Email}#=%=#lluismv@amazon.com

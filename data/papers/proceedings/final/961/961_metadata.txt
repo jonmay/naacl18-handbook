@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#961
-FinalPaperTitle#=%=#Looking for Structure in Lexical and Acoustic-prosodic Entrainment Behaviors
-ShortPaperTitle#=%=#Looking for Structure in Lexical and Acoustic-prosodic Entrainment Behaviors
+FinalPaperTitle#=%=#Looking for Structure in Lexical and Acoustic-Prosodic Entrainment Behaviors
+ShortPaperTitle#=%=#Looking for Structure in Lexical and Acoustic-Prosodic Entrainment Behaviors
 NumberOfPages#=%=#6
 CopyrightSigned#=%=#Andreas Weise
 JobTitle#==#
@@ -13,10 +13,10 @@ word measure. We present a negative result of our search, finding no meaningful 
 Author{1}{Firstname}#=%=#Andreas
 Author{1}{Lastname}#=%=#Weise
 Author{1}{Email}#=%=#aweise@gradcenter.cuny.edu
-Author{1}{Affiliation}#=%=#Graduate Center CUNY
+Author{1}{Affiliation}#=%=#Graduate Center, CUNY
 Author{2}{Firstname}#=%=#Rivka
 Author{2}{Lastname}#=%=#Levitan
 Author{2}{Email}#=%=#levitan@sci.brooklyn.cuny.edu
-Author{2}{Affiliation}#=%=#Brooklyn College CUNY
+Author{2}{Affiliation}#=%=#Brooklyn College, CUNY
 
 ==========

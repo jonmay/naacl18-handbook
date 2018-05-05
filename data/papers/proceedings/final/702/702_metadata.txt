@@ -10,7 +10,7 @@ Abstract#==#Reading a document and extracting an answer to a question about its 
 Author{1}{Firstname}#=%=#Shimi
 Author{1}{Lastname}#=%=#Salant
 Author{1}{Email}#=%=#salant.shimi@gmail.com
-Author{1}{Affiliation}#=%=#Tel-Aviv University
+Author{1}{Affiliation}#=%=#Tel Aviv University
 Author{2}{Firstname}#=%=#Jonathan
 Author{2}{Lastname}#=%=#Berant
 Author{2}{Email}#=%=#joberant@cs.tau.ac.il

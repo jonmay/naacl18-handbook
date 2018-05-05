@@ -12,11 +12,11 @@ Abstract#==#We present a novel approach for determining learners' second languag
 Author{1}{Firstname}#=%=#Yevgeni
 Author{1}{Lastname}#=%=#Berzak
 Author{1}{Email}#=%=#berzak@mit.edu
-Author{1}{Affiliation}#=%=#CSAIL MIT
+Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{2}{Firstname}#=%=#Boris
 Author{2}{Lastname}#=%=#Katz
 Author{2}{Email}#=%=#boris@mit.edu
-Author{2}{Affiliation}#=%=#CSAIL MIT
+Author{2}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{3}{Firstname}#=%=#Roger
 Author{3}{Lastname}#=%=#Levy
 Author{3}{Email}#=%=#rplevy@mit.edu

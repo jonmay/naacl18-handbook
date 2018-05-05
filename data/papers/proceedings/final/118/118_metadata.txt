@@ -11,7 +11,7 @@ Three different GBNs, namely uniform GBN, language-model GBN and coaching GBN, a
 Author{1}{Firstname}#=%=#Wenhu
 Author{1}{Lastname}#=%=#Chen
 Author{1}{Email}#=%=#wenhuchen@cs.ucsb.edu
-Author{1}{Affiliation}#=%=#UCSB
+Author{1}{Affiliation}#=%=#University of California, Santa Barbara
 Author{2}{Firstname}#=%=#Guanlin
 Author{2}{Lastname}#=%=#Li
 Author{2}{Email}#=%=#epsilonlee.green@gmail.com
@@ -19,18 +19,22 @@ Author{2}{Affiliation}#=%=#Harbin Institute of Technology
 Author{3}{Firstname}#=%=#Shuo
 Author{3}{Lastname}#=%=#Ren
 Author{3}{Email}#=%=#v-shure@microsoft.com
-Author{3}{Affiliation}#=%=#Beihang University
+Author{3}{Affiliation}#=%=#Beijing University of Aeronautics and Astronautics
 Author{4}{Firstname}#=%=#Shujie
 Author{4}{Lastname}#=%=#Liu
 Author{4}{Email}#=%=#shujliu@microsoft.com
-Author{4}{Affiliation}#=%=#MSRA
-Author{5}{Firstname}#=%=#Mu
-Author{5}{Lastname}#=%=#Li
-Author{5}{Email}#=%=#muli@microsoft.com
-Author{5}{Affiliation}#=%=#MSRA
-Author{6}{Firstname}#=%=#Ming
-Author{6}{Lastname}#=%=#Zhou
-Author{6}{Email}#=%=#mingzhou@microsoft.com
-Author{6}{Affiliation}#=%=#MSRA
+Author{4}{Affiliation}#=%=#Microsoft Research Asia
+Author{5}{Firstname}#=%=#Zhirui
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Email}#=%=#v-zhirzh@microsoft.com
+Author{5}{Affiliation}#=%=#University of Science and Technology of China
+Author{6}{Firstname}#=%=#Mu
+Author{6}{Lastname}#=%=#Li
+Author{6}{Email}#=%=#muli@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research Asia
+Author{7}{Firstname}#=%=#Ming
+Author{7}{Lastname}#=%=#Zhou
+Author{7}{Email}#=%=#mingzhou@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft Research Asia
 
 ==========

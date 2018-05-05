@@ -1,5 +1,5 @@
 SubmissionNumber#=%=#725
-FinalPaperTitle#=%=#Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset.
+FinalPaperTitle#=%=#Is Something Better than Nothing? Automatically Predicting Stance-based Arguments Using Deep Learning and Small Labelled Dataset
 ShortPaperTitle#=%=#Automatically Predicting Stance-based Arguments
 NumberOfPages#=%=#7
 CopyrightSigned#=%=#Pavithra Rajendran

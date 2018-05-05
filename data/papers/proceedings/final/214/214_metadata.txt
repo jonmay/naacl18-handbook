@@ -22,7 +22,7 @@ accuracy and speed.
 Author{1}{Firstname}#=%=#Yijia
 Author{1}{Lastname}#=%=#Liu
 Author{1}{Email}#=%=#oneplus.lau@gmail.com
-Author{1}{Affiliation}#=%=#Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
 Author{2}{Firstname}#=%=#Yi
 Author{2}{Lastname}#=%=#Zhu
 Author{2}{Email}#=%=#yz568@cam.ac.uk

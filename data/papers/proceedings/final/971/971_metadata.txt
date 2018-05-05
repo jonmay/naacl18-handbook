@@ -13,7 +13,7 @@ Author{1}{Affiliation}#=%=#University of Southampton
 Author{2}{Firstname}#=%=#Hady
 Author{2}{Lastname}#=%=#Elsahar
 Author{2}{Email}#=%=#hady.elsahar@univ-st-etienne.fr
-Author{2}{Affiliation}#=%=#Université de Lyon - UJM
+Author{2}{Affiliation}#=%=#Université de Lyon
 Author{3}{Firstname}#=%=#Pavlos
 Author{3}{Lastname}#=%=#Vougiouklis
 Author{3}{Email}#=%=#pv1e13@ecs.soton.ac.uk
@@ -25,7 +25,7 @@ Author{4}{Affiliation}#=%=#Université Jean Monnet
 Author{5}{Firstname}#=%=#Frederique
 Author{5}{Lastname}#=%=#Laforest
 Author{5}{Email}#=%=#frederique.laforest@univ-st-etienne.fr
-Author{5}{Affiliation}#=%=#Universite de Lyon Laboratoire Hubert Curien, Saint-Etienne, France
+Author{5}{Affiliation}#=%=#Université de Lyon
 Author{6}{Firstname}#=%=#Jonathon
 Author{6}{Lastname}#=%=#Hare
 Author{6}{Email}#=%=#jsh2@ecs.soton.ac.uk

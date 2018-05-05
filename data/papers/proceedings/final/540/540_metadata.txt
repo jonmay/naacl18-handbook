@@ -19,7 +19,7 @@ Challenge.
 Author{1}{Firstname}#=%=#Mahmoud
 Author{1}{Lastname}#=%=#Azab
 Author{1}{Email}#=%=#mazab@umich.edu
-Author{1}{Affiliation}#=%=#University of Michigan - Ann Arbor
+Author{1}{Affiliation}#=%=#University of Michigan
 Author{2}{Firstname}#=%=#Mingzhe
 Author{2}{Lastname}#=%=#Wang
 Author{2}{Email}#=%=#mzwang@umich.edu

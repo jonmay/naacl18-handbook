@@ -16,10 +16,10 @@ Author{1}{Affiliation}#=%=#US Naval Academy
 Author{2}{Firstname}#=%=#Ben
 Author{2}{Lastname}#=%=#Fry
 Author{2}{Email}#=%=#milehighfry405@gmail.com
-Author{2}{Affiliation}#=%=#US Navy
+Author{2}{Affiliation}#=%=#US Naval Academy
 Author{3}{Firstname}#=%=#James
 Author{3}{Lastname}#=%=#McMasters
 Author{3}{Email}#=%=#jrmzelda@gmail.com
-Author{3}{Affiliation}#=%=#US Navy
+Author{3}{Affiliation}#=%=#US Naval Academy
 
 ==========

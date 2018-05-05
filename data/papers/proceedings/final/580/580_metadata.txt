@@ -16,10 +16,10 @@ Author{1}{Affiliation}#=%=#University of California, Berkeley
 Author{2}{Firstname}#=%=#Mitchell
 Author{2}{Lastname}#=%=#Stern
 Author{2}{Email}#=%=#mitchell@berkeley.edu
-Author{2}{Affiliation}#=%=#UC Berkeley
+Author{2}{Affiliation}#=%=#University of California, Berkeley
 Author{3}{Firstname}#=%=#Dan
 Author{3}{Lastname}#=%=#Klein
 Author{3}{Email}#=%=#klein@cs.berkeley.edu
-Author{3}{Affiliation}#=%=#UC Berkeley
+Author{3}{Affiliation}#=%=#University of California, Berkeley
 
 ==========

@@ -18,6 +18,6 @@ Author{2}{Affiliation}#=%=#Google
 Author{3}{Firstname}#=%=#Radu
 Author{3}{Lastname}#=%=#Soricut
 Author{3}{Email}#=%=#radu.soricut@gmail.com
-Author{3}{Affiliation}#=%=#Google Inc
+Author{3}{Affiliation}#=%=#Google
 
 ==========

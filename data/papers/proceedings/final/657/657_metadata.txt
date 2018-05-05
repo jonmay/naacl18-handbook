@@ -28,6 +28,6 @@ Author{2}{Affiliation}#=%=#Indian Institute of Science
 Author{3}{Firstname}#=%=#Vasudeva
 Author{3}{Lastname}#=%=#Varma
 Author{3}{Email}#=%=#vv@iiit.ac.in
-Author{3}{Affiliation}#=%=#IIIT Hyderabad
+Author{3}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
 
 ==========

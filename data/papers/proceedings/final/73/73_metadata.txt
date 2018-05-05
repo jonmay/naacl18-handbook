@@ -1,5 +1,5 @@
 SubmissionNumber#=%=#73
-FinalPaperTitle#=%=#What's this Movie about? A Joint Neural Network Architecture for Movie Content Analysis
+FinalPaperTitle#=%=#What's This Movie About? A Joint Neural Network Architecture for Movie Content Analysis
 ShortPaperTitle#=%=#A Joint Neural Network Architecture for Movie Content Analysis
 NumberOfPages#=%=#12
 CopyrightSigned#=%=#Philip John Gorinski

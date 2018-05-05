@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#388
-FinalPaperTitle#=%=#Multi-task Learning of Pairwise Sequence Classification Tasks over Disparate Label Spaces
-ShortPaperTitle#=%=#Multi-task Learning of Pairwise Sequence Classification Tasks over Disparate Label Spaces
+FinalPaperTitle#=%=#Multi-Task Learning of Pairwise Sequence Classification Tasks over Disparate Label Spaces
+ShortPaperTitle#=%=#Multi-Task Learning of Pairwise Sequence Classification Tasks over Disparate Label Spaces
 NumberOfPages#=%=#11
 CopyrightSigned#=%=#Isabelle Augenstein
 JobTitle#==#
@@ -17,7 +17,7 @@ sentiment analysis.
 Author{1}{Firstname}#=%=#Isabelle
 Author{1}{Lastname}#=%=#Augenstein
 Author{1}{Email}#=%=#augenstein@di.ku.dk
-Author{1}{Affiliation}#=%=#Department of Computer Science, University of Copenhagen
+Author{1}{Affiliation}#=%=#University of Copenhagen
 Author{2}{Firstname}#=%=#Sebastian
 Author{2}{Lastname}#=%=#Ruder
 Author{2}{Email}#=%=#ruder.sebastian@gmail.com

@@ -11,22 +11,22 @@ Abstract#==#An essential step in FrameNet Semantic Role Labeling is the Frame Id
 Author{1}{Firstname}#=%=#Teresa
 Author{1}{Lastname}#=%=#Botschen
 Author{1}{Email}#=%=#teresa.botschen@gmail.com
-Author{1}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{1}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{2}{Firstname}#=%=#Iryna
 Author{2}{Lastname}#=%=#Gurevych
 Author{2}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
-Author{2}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{2}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{3}{Firstname}#=%=#Jan-Christoph
 Author{3}{Lastname}#=%=#Klie
 Author{3}{Email}#=%=#jck@mrklie.com
-Author{3}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{3}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{4}{Firstname}#=%=#Hatem
 Author{4}{Lastname}#=%=#Mousselly Sergieh
 Author{4}{Email}#=%=#mousselly-sergieh@ukp.informatik.tu-darmstadt.de
-Author{4}{Affiliation}#=%=#Technischen Universität Darmstadt
+Author{4}{Affiliation}#=%=#Technische Universität Darmstadt
 Author{5}{Firstname}#=%=#Stefan
 Author{5}{Lastname}#=%=#Roth
 Author{5}{Email}#=%=#stefan.roth@visinf.tu-darmstadt.de
-Author{5}{Affiliation}#=%=#TU Darmstadt
+Author{5}{Affiliation}#=%=#Technische Universität Darmstadt
 
 ==========

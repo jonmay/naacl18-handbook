@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#982
-FinalPaperTitle#=%=#Exploiting Dynamic Oracles to Train Projective Dependency Parsers on Non-projective Trees
-ShortPaperTitle#=%=#Exploiting Dynamic Oracles to Train Projective Dependency Parsers on Non-projective Trees
+FinalPaperTitle#=%=#Exploiting Dynamic Oracles to Train Projective Dependency Parsers on Non-Projective Trees
+ShortPaperTitle#=%=#Exploiting Dynamic Oracles to Train Projective Dependency Parsers on Non-Projective Trees
 NumberOfPages#=%=#7
 CopyrightSigned#=%=#Lauriane Aufrant
 JobTitle#==#
@@ -10,14 +10,14 @@ Abstract#==#Because the most common transition systems are projective, training 
 Author{1}{Firstname}#=%=#Lauriane
 Author{1}{Lastname}#=%=#Aufrant
 Author{1}{Email}#=%=#lauriane.aufrant@limsi.fr
-Author{1}{Affiliation}#=%=#LIMSI-CNRS, DGA
+Author{1}{Affiliation}#=%=#LIMSI, CNRS
 Author{2}{Firstname}#=%=#Guillaume
 Author{2}{Lastname}#=%=#Wisniewski
 Author{2}{Email}#=%=#guillaume.wisniewski@limsi.fr
-Author{2}{Affiliation}#=%=#Univ. Paris Sud and LIMSI-CNRS
+Author{2}{Affiliation}#=%=#LIMSI, CNRS
 Author{3}{Firstname}#=%=#François
 Author{3}{Lastname}#=%=#Yvon
 Author{3}{Email}#=%=#francois.yvon@limsi.fr
-Author{3}{Affiliation}#=%=#LIMSI/CNRS
+Author{3}{Affiliation}#=%=#LIMSI, CNRS
 
 ==========

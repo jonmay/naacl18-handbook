@@ -17,6 +17,6 @@ Author{1}{Affiliation}#=%=#Heidelberg University
 Author{2}{Firstname}#=%=#Anette
 Author{2}{Lastname}#=%=#Frank
 Author{2}{Email}#=%=#frank@cl.uni-heidelberg.de
-Author{2}{Affiliation}#=%=#Heidelberg Universiy
+Author{2}{Affiliation}#=%=#Heidelberg University
 
 ==========

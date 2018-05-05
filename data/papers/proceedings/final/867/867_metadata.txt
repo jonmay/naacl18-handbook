@@ -27,7 +27,7 @@ Abstract#==#This work introduces a new strategy to compare the numerous
 Author{1}{Firstname}#=%=#Guillaume
 Author{1}{Lastname}#=%=#Wisniewski
 Author{1}{Email}#=%=#guillaume.wisniewski@limsi.fr
-Author{1}{Affiliation}#=%=#Univ. Paris Sud and LIMSI-CNRS
+Author{1}{Affiliation}#=%=#LIMSI, CNRS
 Author{2}{Firstname}#=%=#Ophélie
 Author{2}{Lastname}#=%=#Lacroix
 Author{2}{Email}#=%=#ola@siteimprove.com
@@ -35,6 +35,6 @@ Author{2}{Affiliation}#=%=#Siteimprove
 Author{3}{Firstname}#=%=#François
 Author{3}{Lastname}#=%=#Yvon
 Author{3}{Email}#=%=#francois.yvon@limsi.fr
-Author{3}{Affiliation}#=%=#LIMSI/CNRS
+Author{3}{Affiliation}#=%=#LIMSI, CNRS
 
 ==========

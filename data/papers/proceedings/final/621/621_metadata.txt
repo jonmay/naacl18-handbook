@@ -14,7 +14,7 @@ Author{1}{Affiliation}#=%=#Harbin Institute of Technology
 Author{2}{Firstname}#=%=#Nan
 Author{2}{Lastname}#=%=#Jiang
 Author{2}{Email}#=%=#nanjiang@buaa.edu.cn
-Author{2}{Affiliation}#=%=#School of Computer Science and Engineering, Beihang University, China
+Author{2}{Affiliation}#=%=#Beihang University
 Author{3}{Firstname}#=%=#Bingquan
 Author{3}{Lastname}#=%=#Liu
 Author{3}{Email}#=%=#liubq@hit.edu.cn
@@ -26,11 +26,11 @@ Author{4}{Affiliation}#=%=#Beihang University
 Author{5}{Firstname}#=%=#Bowen
 Author{5}{Lastname}#=%=#Wu
 Author{5}{Email}#=%=#wubowen@trio.ai
-Author{5}{Affiliation}#=%=#Tricorn (Beijing) Technology Co. LTD
+Author{5}{Affiliation}#=%=#Tricorn (Beijing) Technology Co., Ltd.
 Author{6}{Firstname}#=%=#Baoxun
 Author{6}{Lastname}#=%=#Wang
 Author{6}{Email}#=%=#wangbaoxun@trio.ai
-Author{6}{Affiliation}#=%=#Tricorn (Beijing) Technology Co., Ltd
+Author{6}{Affiliation}#=%=#Tricorn (Beijing) Technology Co., Ltd.
 Author{7}{Firstname}#=%=#Zhuoran
 Author{7}{Lastname}#=%=#Wang
 Author{7}{Email}#=%=#wangzhuoran@trio.ai

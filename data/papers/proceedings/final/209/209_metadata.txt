@@ -18,7 +18,7 @@ Author{2}{Affiliation}#=%=#Microsoft Research Asia
 Author{3}{Firstname}#=%=#Di
 Author{3}{Lastname}#=%=#He
 Author{3}{Email}#=%=#dihe@microsoft.com
-Author{3}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Affiliation}#=%=#Peking University
 Author{4}{Firstname}#=%=#Tao
 Author{4}{Lastname}#=%=#Qin
 Author{4}{Email}#=%=#taoqin@microsoft.com
@@ -26,6 +26,6 @@ Author{4}{Affiliation}#=%=#Microsoft Research Asia
 Author{5}{Firstname}#=%=#Tie-Yan
 Author{5}{Lastname}#=%=#Liu
 Author{5}{Email}#=%=#tyliu@microsoft.com
-Author{5}{Affiliation}#=%=#
+Author{5}{Affiliation}#=%=#Microsoft Research Asia
 
 ==========

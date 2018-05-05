@@ -11,11 +11,11 @@ Abstract#==#Multi-task learning with Convolutional Neural Network (CNN) has show
 Author{1}{Firstname}#=%=#Liqiang
 Author{1}{Lastname}#=%=#Xiao
 Author{1}{Email}#=%=#xiaoliqiang@sjtu.edu.cn
-Author{1}{Affiliation}#=%=#State Key Lab of Advanced Optical Communication System and Network, Shanghai Jiao Tong University
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
 Author{2}{Firstname}#=%=#Honglun
 Author{2}{Lastname}#=%=#Zhang
 Author{2}{Email}#=%=#zhanghonglun@sjtu.edu.cn
-Author{2}{Affiliation}#=%=#State Key Lab of Advanced Optical Communication System and Network, Shanghai Jiao Tong University
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
 Author{3}{Firstname}#=%=#Wenqing
 Author{3}{Lastname}#=%=#Chen
 Author{3}{Email}#=%=#wenqingchen@sjtu.edu.cn

@@ -1,5 +1,5 @@
 SubmissionNumber#=%=#1097
-FinalPaperTitle#=%=#Multi-task Learning Framework for Mining Crowd Intelligence towards Clinical Treatment
+FinalPaperTitle#=%=#Multi-Task Learning Framework for Mining Crowd Intelligence towards Clinical Treatment
 ShortPaperTitle#=%=#Multi-task Learning Framework for Mining Crowd Intelligence towards Clinical Treatment
 NumberOfPages#=%=#7
 CopyrightSigned#=%=#Shweta Yadav
@@ -19,11 +19,11 @@ blog. Our evaluation shows promising results for our target tasks.
 Author{1}{Firstname}#=%=#Shweta
 Author{1}{Lastname}#=%=#Yadav
 Author{1}{Email}#=%=#yshweta73@gmail.com
-Author{1}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{1}{Affiliation}#=%=#Indian Institutes of Technology, Patna
 Author{2}{Firstname}#=%=#Asif
 Author{2}{Lastname}#=%=#Ekbal
 Author{2}{Email}#=%=#asif.ekbal@gmail.com
-Author{2}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{2}{Affiliation}#=%=#Indian Institutes of Technology, Patna
 Author{3}{Firstname}#=%=#Sriparna
 Author{3}{Lastname}#=%=#Saha
 Author{3}{Email}#=%=#sriparna.saha@gmail.com

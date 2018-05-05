@@ -17,7 +17,7 @@ Author{2}{Affiliation}#=%=#Université Catholique de Louvain
 Author{3}{Firstname}#=%=#Marco
 Author{3}{Lastname}#=%=#Idiart
 Author{3}{Email}#=%=#marco.idiart@gmail.com
-Author{3}{Affiliation}#=%=#UFRGS
+Author{3}{Affiliation}#=%=#Universidade Federal do Rio Grande do Sul
 Author{4}{Firstname}#=%=#Aline
 Author{4}{Lastname}#=%=#Villavicencio
 Author{4}{Email}#=%=#alinev@gmail.com

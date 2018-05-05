@@ -37,7 +37,7 @@ Author{4}{Affiliation}#=%=#Microsoft Research
 Author{5}{Firstname}#=%=#Xueqi
 Author{5}{Lastname}#=%=#Cheng
 Author{5}{Email}#=%=#cxq@ict.ac.cn
-Author{5}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{5}{Affiliation}#=%=#Chinese Academy of Sciences
 Author{6}{Firstname}#=%=#Tie-Yan
 Author{6}{Lastname}#=%=#Liu
 Author{6}{Email}#=%=#tyliu@microsoft.com

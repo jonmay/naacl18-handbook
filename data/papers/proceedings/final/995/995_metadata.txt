@@ -21,6 +21,6 @@ Author{3}{Affiliation}#=%=#Johns Hopkins University
 Author{4}{Firstname}#=%=#Brian
 Author{4}{Lastname}#=%=#Roark
 Author{4}{Email}#=%=#roarkbr@gmail.com
-Author{4}{Affiliation}#=%=#Google Inc.
+Author{4}{Affiliation}#=%=#Google
 
 ==========

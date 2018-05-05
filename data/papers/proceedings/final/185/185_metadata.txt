@@ -9,14 +9,14 @@ Abstract#==#The named concepts and compositional opera- tors present in natural 
 Author{1}{Firstname}#=%=#Jacob
 Author{1}{Lastname}#=%=#Andreas
 Author{1}{Email}#=%=#jda@cs.berkeley.edu
-Author{1}{Affiliation}#=%=#Berkeley
+Author{1}{Affiliation}#=%=#University of California, Berkeley
 Author{2}{Firstname}#=%=#Dan
 Author{2}{Lastname}#=%=#Klein
 Author{2}{Email}#=%=#klein@cs.berkeley.edu
-Author{2}{Affiliation}#=%=#UC Berkeley
+Author{2}{Affiliation}#=%=#University of California, Berkeley
 Author{3}{Firstname}#=%=#Sergey
 Author{3}{Lastname}#=%=#Levine
 Author{3}{Email}#=%=#svlevine@eecs.berkeley.edu
-Author{3}{Affiliation}#=%=#UC Berkeley
+Author{3}{Affiliation}#=%=#University of California, Berkeley
 
 ==========

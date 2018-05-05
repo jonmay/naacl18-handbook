@@ -23,18 +23,18 @@ Transformer on English-German and Chinese-English translation tasks.
 Author{1}{Firstname}#=%=#Zhen
 Author{1}{Lastname}#=%=#Yang
 Author{1}{Email}#=%=#yangzhen2014@ia.ac.cn
-Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{1}{Affiliation}#=%=#Chinese Academy of Sciences
 Author{2}{Firstname}#=%=#Wei
 Author{2}{Lastname}#=%=#Chen
 Author{2}{Email}#=%=#wei.chen.media@ia.ac.cn
-Author{2}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Affiliation}#=%=#Chinese Academy of Sciences
 Author{3}{Firstname}#=%=#Feng
 Author{3}{Lastname}#=%=#Wang
 Author{3}{Email}#=%=#feng.wang@ia.ac.cn
-Author{3}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{3}{Affiliation}#=%=#Chinese Academy of Sciences
 Author{4}{Firstname}#=%=#Bo
 Author{4}{Lastname}#=%=#Xu
 Author{4}{Email}#=%=#xubo@ia.ac.cn
-Author{4}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{4}{Affiliation}#=%=#Chinese Academy of Sciences
 
 ==========

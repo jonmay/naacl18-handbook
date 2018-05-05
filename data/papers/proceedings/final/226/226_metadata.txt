@@ -26,7 +26,7 @@ Author{1}{Affiliation}#=%=#NTT Communication Science Laboratories
 Author{2}{Firstname}#=%=#Tsutomu
 Author{2}{Lastname}#=%=#Hirao
 Author{2}{Email}#=%=#hirao.tsutomu@lab.ntt.co.jp
-Author{2}{Affiliation}#=%=#NTT Communication Science Labs.
+Author{2}{Affiliation}#=%=#NTT Communication Science Laboratories
 Author{3}{Firstname}#=%=#Masaaki
 Author{3}{Lastname}#=%=#Nishino
 Author{3}{Email}#=%=#nishino.masaaki@lab.ntt.co.jp
@@ -34,6 +34,6 @@ Author{3}{Affiliation}#=%=#NTT Communication Science Laboratories
 Author{4}{Firstname}#=%=#Masaaki
 Author{4}{Lastname}#=%=#Nagata
 Author{4}{Email}#=%=#nagata.masaaki@lab.ntt.co.jp
-Author{4}{Affiliation}#=%=#+81-774-93-5235
+Author{4}{Affiliation}#=%=#NTT Communication Science Laboratories
 
 ==========

@@ -24,7 +24,7 @@ Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{2}{Firstname}#=%=#Hung-yi
 Author{2}{Lastname}#=%=#Lee
 Author{2}{Email}#=%=#tlkagkb93901106@gmail.com
-Author{2}{Affiliation}#=%=#National Taiwan University (NTU)
+Author{2}{Affiliation}#=%=#National Taiwan University
 Author{3}{Firstname}#=%=#James
 Author{3}{Lastname}#=%=#Glass
 Author{3}{Email}#=%=#glass@mit.edu

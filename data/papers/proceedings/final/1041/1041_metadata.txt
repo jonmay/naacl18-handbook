@@ -31,7 +31,7 @@ Author{1}{Affiliation}#=%=#Johns Hopkins University
 Author{2}{Firstname}#=%=#Yonatan
 Author{2}{Lastname}#=%=#Belinkov
 Author{2}{Email}#=%=#belinkov@mit.edu
-Author{2}{Affiliation}#=%=#MIT CSAIL
+Author{2}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{3}{Firstname}#=%=#James
 Author{3}{Lastname}#=%=#Glass
 Author{3}{Email}#=%=#glass@mit.edu

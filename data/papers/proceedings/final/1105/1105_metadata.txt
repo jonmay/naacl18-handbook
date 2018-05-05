@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#1105
-FinalPaperTitle#=%=#Knowledge-Enriched Two-layered Attention Network for Sentiment Analysis
-ShortPaperTitle#=%=#Knowledge-Enriched Two-layered Attention Network for Sentiment Analysis
+FinalPaperTitle#=%=#Knowledge-Enriched Two-Layered Attention Network for Sentiment Analysis
+ShortPaperTitle#=%=#Knowledge-Enriched Two-Layered Attention Network for Sentiment Analysis
 NumberOfPages#=%=#6
 CopyrightSigned#=%=#Abhishek Kumar
 JobTitle#==#

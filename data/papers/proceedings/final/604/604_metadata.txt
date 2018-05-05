@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#604
-FinalPaperTitle#=%=#Hierarchical Structured Model for Fine-to-coarse Manifesto Text Analysis
-ShortPaperTitle#=%=#Hierarchical Structured Model for Fine-to-coarse Manifesto Text Analysis
+FinalPaperTitle#=%=#Hierarchical Structured Model for Fine-to-Coarse Manifesto Text Analysis
+ShortPaperTitle#=%=#Hierarchical Structured Model for Fine-to-Coarse Manifesto Text Analysis
 NumberOfPages#=%=#11
 CopyrightSigned#=%=#Shivashankar Subramanian
 JobTitle#==#

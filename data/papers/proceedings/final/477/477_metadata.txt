@@ -56,6 +56,6 @@ Author{9}{Affiliation}#=%=#Oregon State University
 Author{10}{Firstname}#=%=#Oladimeji
 Author{10}{Lastname}#=%=#Farri
 Author{10}{Email}#=%=#dimeji.farri@philips.com
-Author{10}{Affiliation}#=%=#Philips Research NA
+Author{10}{Affiliation}#=%=#Philips Research North America
 
 ==========

@@ -21,7 +21,7 @@ complement each other.
 Author{1}{Firstname}#=%=#Francesco
 Author{1}{Lastname}#=%=#Barbieri
 Author{1}{Email}#=%=#francesco.barbieri@upf.edu
-Author{1}{Affiliation}#=%=#Pompeu Fabra University, Barcelona
+Author{1}{Affiliation}#=%=#Universitat Pompeu Fabra
 Author{2}{Firstname}#=%=#Miguel
 Author{2}{Lastname}#=%=#Ballesteros
 Author{2}{Email}#=%=#miguel.ballesteros@ibm.com
@@ -29,7 +29,7 @@ Author{2}{Affiliation}#=%=#IBM Research
 Author{3}{Firstname}#=%=#Francesco
 Author{3}{Lastname}#=%=#Ronzano
 Author{3}{Email}#=%=#francesco.ronzano@upf.edu
-Author{3}{Affiliation}#=%=#Integrative Biomedical Informatics Group (IBI), Universitat Pompeu Fabra, Barcelona
+Author{3}{Affiliation}#=%=#Universitat Pompeu Fabra
 Author{4}{Firstname}#=%=#Horacio
 Author{4}{Lastname}#=%=#Saggion
 Author{4}{Email}#=%=#horacio.saggion@upf.edu

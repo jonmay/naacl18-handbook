@@ -17,7 +17,7 @@ of non-sequential retrievals.
 Author{1}{Firstname}#=%=#Jeremy
 Author{1}{Lastname}#=%=#Cole
 Author{1}{Email}#=%=#jrcole@psu.edu
-Author{1}{Affiliation}#=%=#Penn State
+Author{1}{Affiliation}#=%=#Penn State University
 Author{2}{Firstname}#=%=#David
 Author{2}{Lastname}#=%=#Reitter
 Author{2}{Email}#=%=#reitter@psu.edu

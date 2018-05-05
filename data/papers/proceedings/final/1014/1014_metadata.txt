@@ -22,7 +22,7 @@ Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
 Author{2}{Firstname}#=%=#Baotian
 Author{2}{Lastname}#=%=#Hu
 Author{2}{Email}#=%=#baotianchina@gmail.com
-Author{2}{Affiliation}#=%=#Harbin Institute of Technology Shenzhen Graduate School
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
 Author{3}{Firstname}#=%=#Tsendsuren
 Author{3}{Lastname}#=%=#Munkhdalai
 Author{3}{Email}#=%=#tsendsuren.munkhdalai@umassmed.edu

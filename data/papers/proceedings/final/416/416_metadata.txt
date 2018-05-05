@@ -18,7 +18,7 @@ Author{2}{Affiliation}#=%=#Choosito, Inc.
 Author{3}{Firstname}#=%=#Marianna
 Author{3}{Lastname}#=%=#Apidianaki
 Author{3}{Email}#=%=#marianna.apidianaki@limsi.fr
-Author{3}{Affiliation}#=%=#LIMSI-CNRS, University Paris-Saclay
+Author{3}{Affiliation}#=%=#LIMSI, CNRS
 Author{4}{Firstname}#=%=#Chris
 Author{4}{Lastname}#=%=#Callison-Burch
 Author{4}{Email}#=%=#ccb@cis.upenn.edu

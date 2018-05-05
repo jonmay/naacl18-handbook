@@ -13,7 +13,7 @@ Author{1}{Affiliation}#=%=#Indian Institutes of Technology, Patna
 Author{2}{Firstname}#=%=#Mohammed
 Author{2}{Lastname}#=%=#Hasanuzzaman
 Author{2}{Email}#=%=#hasanuzzaman.im@gmail.com
-Author{2}{Affiliation}#=%=#ADAPT Centre, Dublin, Ireland
+Author{2}{Affiliation}#=%=#ADAPT Centre
 Author{3}{Firstname}#=%=#Asif
 Author{3}{Lastname}#=%=#Ekbal
 Author{3}{Email}#=%=#asif.ekbal@gmail.com

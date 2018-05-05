@@ -23,6 +23,6 @@ Author{2}{Affiliation}#=%=#University of Maryland
 Author{3}{Firstname}#=%=#Michael J.
 Author{3}{Lastname}#=%=#Paul
 Author{3}{Email}#=%=#mpaul39@gmail.com
-Author{3}{Affiliation}#=%=#University of Colorado
+Author{3}{Affiliation}#=%=#University of Colorado Boulder
 
 ==========

@@ -29,10 +29,10 @@ Author{1}{Affiliation}#=%=#Google
 Author{2}{Firstname}#=%=#Jakob
 Author{2}{Lastname}#=%=#Uszkoreit
 Author{2}{Email}#=%=#jakob@uszkoreit.net
-Author{2}{Affiliation}#=%=#Google, Inc.
+Author{2}{Affiliation}#=%=#Google
 Author{3}{Firstname}#=%=#Ashish
 Author{3}{Lastname}#=%=#Vaswani
 Author{3}{Email}#=%=#vaswani@usc.edu
-Author{3}{Affiliation}#=%=#University of Southern California Information Sciences Institute
+Author{3}{Affiliation}#=%=#Google
 
 ==========

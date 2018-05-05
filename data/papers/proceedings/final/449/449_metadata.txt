@@ -17,6 +17,6 @@ Author{2}{Affiliation}#=%=#Boston Children's Hospital and Harvard Medical School
 Author{3}{Firstname}#=%=#Guergana
 Author{3}{Lastname}#=%=#Savova
 Author{3}{Email}#=%=#guergana.savova@childrens.harvard.edu
-Author{3}{Affiliation}#=%=#Harvard
+Author{3}{Affiliation}#=%=#Harvard University
 
 ==========

@@ -33,7 +33,7 @@ Author{3}{Affiliation}#=%=#University of Notre Dame
 Author{4}{Firstname}#=%=#XIN-YU
 Author{4}{Lastname}#=%=#Dai
 Author{4}{Email}#=%=#daixinyu@nju.edu.cn
-Author{4}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{4}{Affiliation}#=%=#Nanjing University
 Author{5}{Firstname}#=%=#Jiajun
 Author{5}{Lastname}#=%=#Chen
 Author{5}{Email}#=%=#chenjj@nju.edu.cn

@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#352
-FinalPaperTitle#=%=#Universal Dependency Parsing for Hindi-English Code-switching
-ShortPaperTitle#=%=#Universal Dependency Parsing for Hindi-English Code-switching
+FinalPaperTitle#=%=#Universal Dependency Parsing for Hindi-English Code-Switching
+ShortPaperTitle#=%=#Universal Dependency Parsing for Hindi-English Code-Switching
 NumberOfPages#=%=#12
 CopyrightSigned#=%=#Irshad Ahmad Bhat
 JobTitle#==#
@@ -28,18 +28,18 @@ uses first-best normalization and/or back-transliteration.
 Author{1}{Firstname}#=%=#Irshad
 Author{1}{Lastname}#=%=#Bhat
 Author{1}{Email}#=%=#irshad.bhat@research.iiit.ac.in
-Author{1}{Affiliation}#=%=#IIIT Hyderabad
+Author{1}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
 Author{2}{Firstname}#=%=#Riyaz A.
 Author{2}{Lastname}#=%=#Bhat
 Author{2}{Email}#=%=#riyazahbhat@gmail.com
-Author{2}{Affiliation}#=%=#International Institute of Information Technology
+Author{2}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
 Author{3}{Firstname}#=%=#Manish
 Author{3}{Lastname}#=%=#Shrivastava
 Author{3}{Email}#=%=#m.shrivastava@iiit.ac.in
-Author{3}{Affiliation}#=%=#International Institute of Information Technology
+Author{3}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
 Author{4}{Firstname}#=%=#Dipti
 Author{4}{Lastname}#=%=#Sharma
 Author{4}{Email}#=%=#diptims@gmail.com
-Author{4}{Affiliation}#=%=#IIIT, Hyderabad
+Author{4}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
 
 ==========

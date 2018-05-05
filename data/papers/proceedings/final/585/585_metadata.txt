@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#585
-FinalPaperTitle#=%=#Neural Machine Translation for Bilingually Scarce Scenarios: a Deep Multi-task Learning Approach
-ShortPaperTitle#=%=#Neural Machine Translation for Bilingually Scarce Scenarios: a Deep Multi-task Learning Approach
+FinalPaperTitle#=%=#Neural Machine Translation for Bilingually Scarce Scenarios: a Deep Multi-Task Learning Approach
+ShortPaperTitle#=%=#Neural Machine Translation for Bilingually Scarce Scenarios: a Deep Multi-Task Learning Approach
 NumberOfPages#=%=#10
 CopyrightSigned#=%=#Gholamreza Haffari
 JobTitle#==#

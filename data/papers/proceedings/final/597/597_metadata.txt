@@ -23,7 +23,7 @@ Author{1}{Affiliation}#=%=#University of Washington
 Author{2}{Firstname}#=%=#Yangfeng
 Author{2}{Lastname}#=%=#Ji
 Author{2}{Email}#=%=#jiyfeng@gmail.com
-Author{2}{Affiliation}#=%=#CSE, University of Washington
+Author{2}{Affiliation}#=%=#University of Washington
 Author{3}{Firstname}#=%=#Noah A.
 Author{3}{Lastname}#=%=#Smith
 Author{3}{Email}#=%=#nasmith@cs.washington.edu

@@ -14,7 +14,7 @@ Abstract#==#Neural sequence-to-sequence networks with attention have achieved re
 Author{1}{Firstname}#=%=#Lesly
 Author{1}{Lastname}#=%=#Miculicich Werlen
 Author{1}{Email}#=%=#lesly.miculicich@idiap.ch
-Author{1}{Affiliation}#=%=#Idiap Research Institute / École Polytechnique Fédérale de Lausanne
+Author{1}{Affiliation}#=%=#École Polytechnique Fédérale de Lausanne / Idiap Research Institute
 Author{2}{Firstname}#=%=#Nikolaos
 Author{2}{Lastname}#=%=#Pappas
 Author{2}{Email}#=%=#nikolaos.pappas@idiap.ch

@@ -9,7 +9,7 @@ Abstract#==#Extracting temporal relations (before, after, overlapping, etc.) is 
 Author{1}{Firstname}#=%=#Qiang
 Author{1}{Lastname}#=%=#Ning
 Author{1}{Email}#=%=#qning2@illinois.edu
-Author{1}{Affiliation}#=%=#Univ. of Illinois, Urbana-Champaign
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
 Author{2}{Firstname}#=%=#Hao
 Author{2}{Lastname}#=%=#Wu
 Author{2}{Email}#=%=#haowu4@seas.upenn.edu
@@ -17,7 +17,7 @@ Author{2}{Affiliation}#=%=#University of Pennsylvania
 Author{3}{Firstname}#=%=#Haoruo
 Author{3}{Lastname}#=%=#Peng
 Author{3}{Email}#=%=#hpeng7@illinois.edu
-Author{3}{Affiliation}#=%=#UIUC
+Author{3}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
 Author{4}{Firstname}#=%=#Dan
 Author{4}{Lastname}#=%=#Roth
 Author{4}{Email}#=%=#danr@illinois.edu

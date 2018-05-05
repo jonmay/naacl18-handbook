@@ -41,6 +41,6 @@ Author{3}{Affiliation}#=%=#University of California, Davis
 Author{4}{Firstname}#=%=#Kai-Wei
 Author{4}{Lastname}#=%=#Chang
 Author{4}{Email}#=%=#kw@kwchang.net
-Author{4}{Affiliation}#=%=#UCLA
+Author{4}{Affiliation}#=%=#University of California, Los Angeles
 
 ==========

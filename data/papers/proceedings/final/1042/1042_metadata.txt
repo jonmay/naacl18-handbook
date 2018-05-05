@@ -14,7 +14,7 @@ Author{1}{Affiliation}#=%=#University of California, Santa Barbara
 Author{2}{Firstname}#=%=#Yuan-Fang
 Author{2}{Lastname}#=%=#Wang
 Author{2}{Email}#=%=#yfwang@cs.ucsb.edu
-Author{2}{Affiliation}#=%=#University of California
+Author{2}{Affiliation}#=%=#University of California, Santa Barbara
 Author{3}{Firstname}#=%=#William Yang
 Author{3}{Lastname}#=%=#Wang
 Author{3}{Email}#=%=#william@cs.ucsb.edu

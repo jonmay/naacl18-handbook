@@ -20,6 +20,6 @@ Author{2}{Affiliation}#=%=#University of Amsterdam
 Author{3}{Firstname}#=%=#Khalil
 Author{3}{Lastname}#=%=#Simaan
 Author{3}{Email}#=%=#k.simaan@uva.nl
-Author{3}{Affiliation}#=%=#ILLC, University of Amsterdam
+Author{3}{Affiliation}#=%=#University of Amsterdam
 
 ==========

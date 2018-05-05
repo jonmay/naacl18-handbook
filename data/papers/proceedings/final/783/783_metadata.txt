@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#783
-FinalPaperTitle#=%=#When and Why Are Pre-trained Word Embeddings Useful for Neural Machine Translation?
-ShortPaperTitle#=%=#When and Why Are Pre-trained Word Embeddings Useful for Neural Machine Translation?
+FinalPaperTitle#=%=#When and Why Are Pre-Trained Word Embeddings Useful for Neural Machine Translation?
+ShortPaperTitle#=%=#When and Why Are Pre-Trained Word Embeddings Useful for Neural Machine Translation?
 NumberOfPages#=%=#7
 CopyrightSigned#=%=#Ye Qi
 JobTitle#==#

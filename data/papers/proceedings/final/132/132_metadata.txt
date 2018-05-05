@@ -27,7 +27,7 @@ Author{2}{Affiliation}#=%=#IBM Research
 Author{3}{Firstname}#=%=#Jonathan
 Author{3}{Lastname}#=%=#Herzig
 Author{3}{Email}#=%=#jherzig@gmail.com
-Author{3}{Affiliation}#=%=#Tel-Aviv University
+Author{3}{Affiliation}#=%=#Tel Aviv University
 Author{4}{Firstname}#=%=#David
 Author{4}{Lastname}#=%=#Konopnicki
 Author{4}{Email}#=%=#davidko@il.ibm.com

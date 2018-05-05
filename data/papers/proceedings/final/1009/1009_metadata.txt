@@ -19,7 +19,7 @@ datasets.
 Author{1}{Firstname}#=%=#Jieyu
 Author{1}{Lastname}#=%=#Zhao
 Author{1}{Email}#=%=#jyzhao@cs.ucla.edu
-Author{1}{Affiliation}#=%=#UCLA
+Author{1}{Affiliation}#=%=#University of California, Los Angeles
 Author{2}{Firstname}#=%=#Tianlu
 Author{2}{Lastname}#=%=#Wang
 Author{2}{Email}#=%=#tw8cb@virginia.edu
@@ -35,6 +35,6 @@ Author{4}{Affiliation}#=%=#University of Virginia
 Author{5}{Firstname}#=%=#Kai-Wei
 Author{5}{Lastname}#=%=#Chang
 Author{5}{Email}#=%=#kw@kwchang.net
-Author{5}{Affiliation}#=%=#UCLA
+Author{5}{Affiliation}#=%=#University of California, Los Angeles
 
 ==========

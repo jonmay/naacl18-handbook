@@ -9,7 +9,7 @@ Abstract#==#Visual reasoning with compositional natural language instructions, e
 Author{1}{Firstname}#=%=#Hao
 Author{1}{Lastname}#=%=#Tan
 Author{1}{Email}#=%=#airsplay@cs.unc.edu
-Author{1}{Affiliation}#=%=#The University of North Carolina at Chapel Hill
+Author{1}{Affiliation}#=%=#University of North Carolina at Chapel Hill
 Author{2}{Firstname}#=%=#Mohit
 Author{2}{Lastname}#=%=#Bansal
 Author{2}{Email}#=%=#mbansal@cs.unc.edu
