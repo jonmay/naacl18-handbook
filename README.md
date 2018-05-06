@@ -4,10 +4,15 @@
 The following list contains the remaining steps until the final
 NAACL 2018 handbook can be compiled:
 
-- ~~Download Christian's code~~
-- Add more things
+-~~Download Christian's code~~
 
-- All workshops
+-~~Add more things~~
+
+-~~All workshops~~
+
+- test of time
+
+- outstanding papers
 
 -~~Workshop schedules~~
 
@@ -17,7 +22,7 @@ NAACL 2018 handbook can be compiled:
 
 - registration hours and days
 
-- local guide
+-~~local guide~~
 
 -~~fix to order2schedule to allow poster parallel~~
 
@@ -59,11 +64,13 @@ NAACL 2018 handbook can be compiled:
 
 - Main schedules
 
-- Main Papers
+-~~Main Papers~~
 
-- tacl papers
+-~~tacl papers~~
 
-- Industry papers
+- drago author check
+
+-~~Industry papers~~
 
 -~~Tutorials~~
 
@@ -78,9 +85,10 @@ NAACL 2018 handbook can be compiled:
 -~~itc msg~~
 
 -~~committee list~~
+
 -~~ac list~~
 
-- meal info
+-~~meal info~~
 
 - back page
 
@@ -92,7 +100,7 @@ NAACL 2018 handbook can be compiled:
 
 - anti harrassment verify ok
 
-- Add page for social event
+-~~Add page for social event~~
 
 -~~hotel map~~
 
@@ -100,7 +108,7 @@ NAACL 2018 handbook can be compiled:
 
 -~~Add childcare to conference information~~
 
-- Add image to welcome reception page?
+-~~Add image to welcome reception page?~~
 
 
 # current proceedings pull report

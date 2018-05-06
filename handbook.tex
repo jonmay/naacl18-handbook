@@ -192,8 +192,13 @@
 \addcontentsline{toc}{chapter}{Welcome Reception: \daydate, 18:00}
 \input{content/welcome-reception}
 
+
 %% MAIN CONFERENCE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setdaydateyear{Saturday}{June 2}{2018}
+\addcontentsline{toc}{chapter}{Recruitment Lunch: \daydate, 12:30}
+\input{content/recruitment-lunch}
+
+
 \input{content/day1/day1}
 
 \setdaydateyear{Sunday}{June 3}{2018}
@@ -202,11 +207,11 @@
 %% SOCIAL EVENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
 \setheaders{}{}
-\addcontentsline{toc}{chapter}{Social Event: \daydate, 19:00}
+\addcontentsline{toc}{chapter}{Social Event: \daydate, 18:45}
 \input{content/social-event}
 
 \setdaydateyear{Monday}{June 4}{2018}
-%\input{content/day3/day3}
+\input{content/day3/day3}
 
 %% WORKSHOPS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setdaydateyear{Tuesday--Wednesday}{June 5--6}{2018}
@@ -218,6 +223,9 @@
 %% LOCAL GUIDE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setheaders{Local Guide}{Local Guide}
 \input{content/local-guide/local-guide.tex}
+
+\includepdf{content/2018-NAACL-Restaurants-around-hotel}
+\includepdf{content/2018-NAACL-Restaurants-Casual-and-Upscale}
 
 \setheaders{On-Site Childcare}{On-Site Childcare}
 \input{content/local-guide/kiddiecorp.tex}
@@ -236,6 +244,6 @@
 %% BACK COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \fancyfoot[C]{}
 \includepdf[pages={1-2},nup={1x2}]{content/fmatter/2018-NAACL-Hyatt-Regency-New-Orleans-Floor-Plans-4242018}
-\includepdf[pages={1}]{content/fmatter/back2.pdf}
+\includepdf[pages={1}]{content/fmatter/back.pdf}
 
 \end{document}

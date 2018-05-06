@@ -545,6 +545,9 @@ Human Language Technologies}\par
 \newcommand{\sessionchairs}[4]{
   \emph{Chairs: #1 #2 and #3 #4}\par\index{#2, #1} \index{#4, #3}}
 
+\newcommand{\threesessionchairs}[6]{
+  \emph{Chairs: #1 #2, #3 #4 and #5 #6}\par\index{#2, #1} \index{#4, #3} \index{#6, #5}}
+
 \newcommand{\papertitleandauthor}[1]{
   {\bfseries \papertitle{#1}}\\
   \paperauthor{\citefullauthornames{#1}}}
@@ -566,6 +569,19 @@ Human Language Technologies}\par
       \TrackALoc & \TrackBLoc & \TrackCLoc & \TrackDLoc & \TrackPLoc \\
       \hline\hline}
 {\end{tabular}\end{center}}
+
+\newenvironment{OneSessionOverview}[3]{
+  \section[#1]{#1 Overview -- #2}
+  \setheaders{#1}{#2}
+  \begin{center}
+    \righthyphenmin2
+    \sloppy
+    \begin{tabular}{|>{\RaggedRight}p{2.0in}|>{\RaggedRight}p{2.0in}|}
+      \hline
+      \it #3 \\
+      \PlenaryLoc \\
+      \hline\hline}
+{\hline\end{tabular}\end{center}}
 
 \newenvironment{TwoSessionOverview}[4]{
   \section[#1]{#1 Overview -- #2}

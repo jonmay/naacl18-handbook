@@ -138,6 +138,7 @@ for date in dates:
             # turn "Session 9A" to "Session 9"
             thenum = ""
             for session in sessions:
+                print(session)
                 if hasattr(session, num):
                     thenum = session.num
                     break
