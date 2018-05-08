@@ -9,10 +9,13 @@
 \usepackage{longtable}
 \usepackage{combelow}
 \usepackage{newunicodechar}
+%\usepackage[titles]{tocloft}
 \usepackage[hidelinks]{hyperref}
 \newunicodechar{ș}{\cb{s}}
 \newunicodechar{ț}{\cb{t}}
 
+%\renewcommand\cftbeforetoctitleskip{-6cm}
+%\renewcommand\cftbeforeloftitleskip{-2cm}
 
 %% \usepackage{fontspec,xunicode,xltxtra}
 %% \setromanfont[Mapping=tex-text]{Times}
@@ -162,6 +165,7 @@
 %% TOC %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \addcontentsline{toc}{chapter}{Table of Contents}
 \setcounter{tocdepth}{2}
+%\vspace{-2in}
 \tableofcontents
 \mainmatter
 \pagestyle{fancy}
