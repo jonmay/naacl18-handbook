@@ -570,7 +570,7 @@ Human Language Technologies}\par
       \hline\hline}
 {\end{tabular}\end{center}}
 
-\newenvironment{OneSessionOverview}[3]{
+\newenvironment{OneSessionOverview}[4]{
   \section[#1]{#1 Overview -- #2}
   \setheaders{#1}{#2}
   \begin{center}
@@ -579,7 +579,7 @@ Human Language Technologies}\par
     \begin{tabular}{|>{\RaggedRight}p{4.0in}|}
       \hline
       \it #3 \\
-      \PlenaryLoc \\
+      \ifthenelse{\equal{#4}{}}{\PlenaryLoc}{#4} \\
       \hline\hline}
 {\hline\end{tabular}\end{center}}
 
