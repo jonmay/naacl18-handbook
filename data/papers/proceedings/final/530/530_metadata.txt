@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#530
-FinalPaperTitle#=%=#Learning Sentence Representations over Tree Structures for Target-dependent Classification
-ShortPaperTitle#=%=#Learning Sentence Representations over Tree Structures for Target-dependent Classification
+FinalPaperTitle#=%=#Learning Sentence Representations over Tree Structures for Target-Dependent Classification
+ShortPaperTitle#=%=#Learning Sentence Representations over Tree Structures for Target-Dependent Classification
 NumberOfPages#=%=#10
 CopyrightSigned#=%=#Junwen Duan
 JobTitle#==#

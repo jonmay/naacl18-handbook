@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#373
-FinalPaperTitle#=%=#Fine-grained Temporal Orientation and its Relationship with Psycho-demographic Correlates
-ShortPaperTitle#=%=#Fine-grained Temporal Orientation and its Relationship with Psycho-demographic Correlates
+FinalPaperTitle#=%=#Fine-Grained Temporal Orientation and its Relationship with Psycho-Demographic Correlates
+ShortPaperTitle#=%=#Fine-Grained Temporal Orientation and its Relationship with Psycho-Demographic Correlates
 NumberOfPages#=%=#12
 CopyrightSigned#=%=#Sabyasachi Kamila
 JobTitle#==#
@@ -9,7 +9,7 @@ Abstract#==#Temporal orientation refers to an individual's tendency to connect t
 Author{1}{Firstname}#=%=#Sabyasachi
 Author{1}{Lastname}#=%=#Kamila
 Author{1}{Email}#=%=#sabyasachi.kamila@gmail.com
-Author{1}{Affiliation}#=%=#Indian Institutes of Technology, Patna
+Author{1}{Affiliation}#=%=#Indian Institute of Technology, Patna
 Author{2}{Firstname}#=%=#Mohammed
 Author{2}{Lastname}#=%=#Hasanuzzaman
 Author{2}{Email}#=%=#hasanuzzaman.im@gmail.com
@@ -17,11 +17,11 @@ Author{2}{Affiliation}#=%=#ADAPT Centre
 Author{3}{Firstname}#=%=#Asif
 Author{3}{Lastname}#=%=#Ekbal
 Author{3}{Email}#=%=#asif.ekbal@gmail.com
-Author{3}{Affiliation}#=%=#Indian Institutes of Technology, Patna
+Author{3}{Affiliation}#=%=#Indian Institute of Technology, Patna
 Author{4}{Firstname}#=%=#Pushpak
 Author{4}{Lastname}#=%=#Bhattacharyya
 Author{4}{Email}#=%=#pushpakbh@gmail.com
-Author{4}{Affiliation}#=%=#Indian Institutes of Technology, Bombay
+Author{4}{Affiliation}#=%=#Indian Institute of Technology, Patna
 Author{5}{Firstname}#=%=#Andy
 Author{5}{Lastname}#=%=#Way
 Author{5}{Email}#=%=#andy.way@adaptcentre.ie

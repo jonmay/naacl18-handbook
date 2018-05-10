@@ -29,7 +29,7 @@ Author{2}{Affiliation}#=%=#University of Edinburgh
 Author{3}{Firstname}#=%=#Andreas
 Author{3}{Lastname}#=%=#Maletti
 Author{3}{Email}#=%=#andreas.maletti@uni-leipzig.de
-Author{3}{Affiliation}#=%=#Universitat Leipzig
+Author{3}{Affiliation}#=%=#Universität Leipzig
 Author{4}{Firstname}#=%=#Jonathan
 Author{4}{Lastname}#=%=#May
 Author{4}{Email}#=%=#jonmay@gmail.com

@@ -26,7 +26,7 @@ between queries.
 Author{1}{Firstname}#=%=#Procheta
 Author{1}{Lastname}#=%=#Sen
 Author{1}{Email}#=%=#senprocheta@gmail.com
-Author{1}{Affiliation}#=%=#Dublin City University
+Author{1}{Affiliation}#=%=#ADAPT Centre
 Author{2}{Firstname}#=%=#Debasis
 Author{2}{Lastname}#=%=#Ganguly
 Author{2}{Email}#=%=#debforit@gmail.com
@@ -34,6 +34,6 @@ Author{2}{Affiliation}#=%=#IBM Research, Dublin
 Author{3}{Firstname}#=%=#Gareth
 Author{3}{Lastname}#=%=#Jones
 Author{3}{Email}#=%=#gareth.jones@computing.dcu.ie
-Author{3}{Affiliation}#=%=#Dublin City University
+Author{3}{Affiliation}#=%=#ADAPT Centre
 
 ==========

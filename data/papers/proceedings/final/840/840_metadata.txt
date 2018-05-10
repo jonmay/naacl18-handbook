@@ -27,7 +27,7 @@ Author{1}{Affiliation}#=%=#Georgia Institute of Technology
 Author{2}{Firstname}#=%=#Devi
 Author{2}{Lastname}#=%=#Parikh
 Author{2}{Email}#=%=#parikh@gatech.edu
-Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology / Facebook AI Research
 Author{3}{Firstname}#=%=#Mohit
 Author{3}{Lastname}#=%=#Bansal
 Author{3}{Email}#=%=#mbansal@cs.unc.edu

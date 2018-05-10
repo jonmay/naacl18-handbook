@@ -23,11 +23,11 @@ context2vec LexSub model using the same context.
 Author{1}{Firstname}#=%=#Maja
 Author{1}{Lastname}#=%=#Buljan
 Author{1}{Email}#=%=#maja.buljan@ims.uni-stuttgart.de
-Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{1}{Affiliation}#=%=#Universität Stuttgart
 Author{2}{Firstname}#=%=#Sebastian
 Author{2}{Lastname}#=%=#Padó
 Author{2}{Email}#=%=#pado@ims.uni-stuttgart.de
-Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Affiliation}#=%=#Universität Stuttgart
 Author{3}{Firstname}#=%=#Jan
 Author{3}{Lastname}#=%=#Šnajder
 Author{3}{Email}#=%=#jan.snajder@fer.hr

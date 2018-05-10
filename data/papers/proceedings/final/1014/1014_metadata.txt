@@ -18,18 +18,18 @@ human judgments.
 Author{1}{Firstname}#=%=#Tu
 Author{1}{Lastname}#=%=#Vu
 Author{1}{Email}#=%=#tuvu@cs.umass.edu
-Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{1}{Affiliation}#=%=#University of Massachusetts, Amherst
 Author{2}{Firstname}#=%=#Baotian
 Author{2}{Lastname}#=%=#Hu
 Author{2}{Email}#=%=#baotianchina@gmail.com
-Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Affiliation}#=%=#University of Massachusetts Medical School
 Author{3}{Firstname}#=%=#Tsendsuren
 Author{3}{Lastname}#=%=#Munkhdalai
 Author{3}{Email}#=%=#tsendsuren.munkhdalai@umassmed.edu
-Author{3}{Affiliation}#=%=#University of Massachusetts
+Author{3}{Affiliation}#=%=#Microsoft Research
 Author{4}{Firstname}#=%=#Hong
 Author{4}{Lastname}#=%=#Yu
 Author{4}{Email}#=%=#hong.yu@umassmed.edu
-Author{4}{Affiliation}#=%=#University of Massachusetts
+Author{4}{Affiliation}#=%=#University of Massachusetts, Amherst / University of Massachusetts Medical School
 
 ==========

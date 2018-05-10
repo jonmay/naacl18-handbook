@@ -25,7 +25,7 @@ Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{2}{Firstname}#=%=#Rhoda
 Author{2}{Lastname}#=%=#Au
 Author{2}{Email}#=%=#rhodaau@bu.edu
-Author{2}{Affiliation}#=%=#Boston University Medical School
+Author{2}{Affiliation}#=%=#Boston University School of Medicine and Public Health / The Framingham Heart Study
 Author{3}{Firstname}#=%=#James
 Author{3}{Lastname}#=%=#Glass
 Author{3}{Email}#=%=#glass@mit.edu

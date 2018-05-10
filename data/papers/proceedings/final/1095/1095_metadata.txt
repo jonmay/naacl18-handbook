@@ -21,11 +21,11 @@ Author{3}{Affiliation}#=%=#Massachusetts Institute of Technology
 Author{4}{Firstname}#=%=#Lluís
 Author{4}{Lastname}#=%=#Màrquez
 Author{4}{Email}#=%=#lluismv@amazon.com
-Author{4}{Affiliation}#=%=#Amazon Core ML
+Author{4}{Affiliation}#=%=#Amazon
 Author{5}{Firstname}#=%=#Alessandro
 Author{5}{Lastname}#=%=#Moschitti
 Author{5}{Email}#=%=#amoschitti@gmail.com
-Author{5}{Affiliation}#=%=#Amazon (prof. in Computer Science at University of Trento)
+Author{5}{Affiliation}#=%=#Amazon
 Author{6}{Firstname}#=%=#Preslav
 Author{6}{Lastname}#=%=#Nakov
 Author{6}{Email}#=%=#preslav.nakov@gmail.com

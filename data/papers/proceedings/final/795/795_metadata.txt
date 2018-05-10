@@ -14,6 +14,6 @@ by exploring the syntactic structure of noun phrases. We demonstrate that using 
 Author{1}{Firstname}#=%=#Yufang
 Author{1}{Lastname}#=%=#Hou
 Author{1}{Email}#=%=#bnuxiaofang@gmail.com
-Author{1}{Affiliation}#=%=#IBM Research Ireland
+Author{1}{Affiliation}#=%=#IBM Research, Ireland
 
 ==========

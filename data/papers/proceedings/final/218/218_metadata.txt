@@ -11,20 +11,20 @@ Author{1}{Lastname}#=%=#Liu
 Author{1}{Email}#=%=#liubing@cmu.edu
 Author{1}{Affiliation}#=%=#Carnegie Mellon University
 Author{2}{Firstname}#=%=#Gokhan
-Author{2}{Lastname}#=%=#Tur
+Author{2}{Lastname}#=%=#Tür
 Author{2}{Email}#=%=#gokhan.tur@ieee.org
-Author{2}{Affiliation}#=%=#Uber
+Author{2}{Affiliation}#=%=#Google Research
 Author{3}{Firstname}#=%=#Dilek
-Author{3}{Lastname}#=%=#Hakkani-Tur
+Author{3}{Lastname}#=%=#Hakkani-Tür
 Author{3}{Email}#=%=#dilekh@google.com
-Author{3}{Affiliation}#=%=#Google
+Author{3}{Affiliation}#=%=#Google Research
 Author{4}{Firstname}#=%=#Pararth
 Author{4}{Lastname}#=%=#Shah
 Author{4}{Email}#=%=#pararth@google.com
-Author{4}{Affiliation}#=%=#Google
+Author{4}{Affiliation}#=%=#Google Research
 Author{5}{Firstname}#=%=#Larry
 Author{5}{Lastname}#=%=#Heck
 Author{5}{Email}#=%=#larry.heck@ieee.org
-Author{5}{Affiliation}#=%=#Google
+Author{5}{Affiliation}#=%=#Samsung Research
 
 ==========

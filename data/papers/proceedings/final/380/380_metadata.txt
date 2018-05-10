@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#380
-FinalPaperTitle#=%=#Higher-order Syntactic Attention Network for Longer Sentence Compression
-ShortPaperTitle#=%=#Higher-order Syntactic Attention Network for Longer Sentence Compression
+FinalPaperTitle#=%=#Higher-Order Syntactic Attention Network for Longer Sentence Compression
+ShortPaperTitle#=%=#Higher-Order Syntactic Attention Network for Longer Sentence Compression
 NumberOfPages#=%=#11
 CopyrightSigned#=%=#Hidetaka Kamigaito
 JobTitle#==#
@@ -20,11 +20,11 @@ outperformed baseline methods in both readability and informativeness.
 Author{1}{Firstname}#=%=#Hidetaka
 Author{1}{Lastname}#=%=#Kamigaito
 Author{1}{Email}#=%=#kamigaitohidetaka@gmail.com
-Author{1}{Affiliation}#=%=#NTT Communication Science Laboratories
+Author{1}{Affiliation}#=%=#Tokyo Institute of Technology
 Author{2}{Firstname}#=%=#Katsuhiko
 Author{2}{Lastname}#=%=#Hayashi
 Author{2}{Email}#=%=#katsuhiko-h@is.naist.jp
-Author{2}{Affiliation}#=%=#NTT Communication Science Laboratories
+Author{2}{Affiliation}#=%=#Osaka University
 Author{3}{Firstname}#=%=#Tsutomu
 Author{3}{Lastname}#=%=#Hirao
 Author{3}{Email}#=%=#hirao.tsutomu@lab.ntt.co.jp

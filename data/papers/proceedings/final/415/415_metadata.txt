@@ -15,7 +15,7 @@ Abstract#==#Previously, neural methods in grammatical error correction (GEC) did
 Author{1}{Firstname}#=%=#Marcin
 Author{1}{Lastname}#=%=#Junczys-Dowmunt
 Author{1}{Email}#=%=#marcinjd@microsoft.com
-Author{1}{Affiliation}#=%=#Microsoft Research
+Author{1}{Affiliation}#=%=#Microsoft
 Author{2}{Firstname}#=%=#Roman
 Author{2}{Lastname}#=%=#Grundkiewicz
 Author{2}{Email}#=%=#rgrundki@inf.ed.ac.uk

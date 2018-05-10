@@ -39,7 +39,7 @@ future research.
 Author{1}{Firstname}#=%=#Katharina
 Author{1}{Lastname}#=%=#Kann
 Author{1}{Email}#=%=#kann@nyu.edu
-Author{1}{Affiliation}#=%=#New York University
+Author{1}{Affiliation}#=%=#Ludwig Maximilian University of Munich
 Author{2}{Firstname}#=%=#Jesus Manuel
 Author{2}{Lastname}#=%=#Mager Hois
 Author{2}{Email}#=%=#mmager@turing.iimas.unam.mx
@@ -47,7 +47,7 @@ Author{2}{Affiliation}#=%=#Universidad Nacional Autónoma de México
 Author{3}{Firstname}#=%=#Ivan Vladimir
 Author{3}{Lastname}#=%=#Meza Ruiz
 Author{3}{Email}#=%=#ivanvladimir@gmail.com
-Author{3}{Affiliation}#=%=#Insituto de Investigaciones en Matemáticas Aplicadas y en Sistemas
+Author{3}{Affiliation}#=%=#Universidad Nacional Autónoma de México
 Author{4}{Firstname}#=%=#Hinrich
 Author{4}{Lastname}#=%=#Schütze
 Author{4}{Email}#=%=#inquiries@cislmu.org

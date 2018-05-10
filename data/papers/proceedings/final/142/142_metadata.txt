@@ -16,7 +16,7 @@ Author{1}{Affiliation}#=%=#Thomson Reuters
 Author{2}{Firstname}#=%=#Vassilis
 Author{2}{Lastname}#=%=#Plachouras
 Author{2}{Email}#=%=#vplachouras@acm.org
-Author{2}{Affiliation}#=%=#Thomson Reuters
+Author{2}{Affiliation}#=%=#Facebook
 Author{3}{Firstname}#=%=#Timothy
 Author{3}{Lastname}#=%=#Nugent
 Author{3}{Email}#=%=#tim.nugent@thomsonreuters.com
@@ -24,6 +24,6 @@ Author{3}{Affiliation}#=%=#Thomson Reuters
 Author{4}{Firstname}#=%=#Jochen L.
 Author{4}{Lastname}#=%=#Leidner
 Author{4}{Email}#=%=#leidner@acm.org
-Author{4}{Affiliation}#=%=#Thomson Reuters / University of Sheffield
+Author{4}{Affiliation}#=%=#Thomson Reuters
 
 ==========

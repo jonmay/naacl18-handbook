@@ -9,14 +9,14 @@ Abstract#==#Automatic identification of spurious instances (those with potential
 Author{1}{Firstname}#=%=#Hadi
 Author{1}{Lastname}#=%=#Amiri
 Author{1}{Email}#=%=#amirieb@gmail.com
-Author{1}{Affiliation}#=%=#Harvard University
+Author{1}{Affiliation}#=%=#Boston Children's Hospital Informatics Program
 Author{2}{Firstname}#=%=#Timothy
 Author{2}{Lastname}#=%=#Miller
 Author{2}{Email}#=%=#timothy.miller@childrens.harvard.edu
-Author{2}{Affiliation}#=%=#Boston Children's Hospital and Harvard Medical School
+Author{2}{Affiliation}#=%=#Boston Children's Hospital Informatics Program
 Author{3}{Firstname}#=%=#Guergana
 Author{3}{Lastname}#=%=#Savova
 Author{3}{Email}#=%=#guergana.savova@childrens.harvard.edu
-Author{3}{Affiliation}#=%=#Harvard University
+Author{3}{Affiliation}#=%=#Boston Children's Hospital Informatics Program
 
 ==========

@@ -28,14 +28,14 @@ than distantly supervised alternatives.
 Author{1}{Firstname}#=%=#Patrick
 Author{1}{Lastname}#=%=#Verga
 Author{1}{Email}#=%=#pat@cs.umass.edu
-Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{1}{Affiliation}#=%=#University of Massachusetts, Amherst
 Author{2}{Firstname}#=%=#Emma
 Author{2}{Lastname}#=%=#Strubell
 Author{2}{Email}#=%=#strubell@cs.umass.edu
-Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Affiliation}#=%=#University of Massachusetts, Amherst
 Author{3}{Firstname}#=%=#Andrew
 Author{3}{Lastname}#=%=#McCallum
 Author{3}{Email}#=%=#mccallum@cs.umass.edu
-Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Affiliation}#=%=#University of Massachusetts, Amherst
 
 ==========

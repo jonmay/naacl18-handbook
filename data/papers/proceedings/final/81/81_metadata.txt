@@ -14,10 +14,10 @@ Stacking With Auxiliary Features (SWAF) is an intelligent ensembling technique w
 Author{1}{Firstname}#=%=#Nazneen Fatema
 Author{1}{Lastname}#=%=#Rajani
 Author{1}{Email}#=%=#nrajani@cs.utexas.edu
-Author{1}{Affiliation}#=%=#University of Texas at Austin
+Author{1}{Affiliation}#=%=#The University of Texas at Austin
 Author{2}{Firstname}#=%=#Raymond
 Author{2}{Lastname}#=%=#Mooney
 Author{2}{Email}#=%=#mooney@cs.utexas.edu
-Author{2}{Affiliation}#=%=#University of Texas at Austin
+Author{2}{Affiliation}#=%=#The University of Texas at Austin
 
 ==========

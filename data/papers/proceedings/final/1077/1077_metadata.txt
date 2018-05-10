@@ -12,7 +12,7 @@ Abstract#==#Bilingual word embeddings are useful for bilingual lexicon induction
 Author{1}{Firstname}#=%=#Fabienne
 Author{1}{Lastname}#=%=#Braune
 Author{1}{Email}#=%=#braune.fabienne@gmail.com
-Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{1}{Affiliation}#=%=#Ludwig Maximilian University of Munich / Volkswagen Data Lab Munich
 Author{2}{Firstname}#=%=#Viktor
 Author{2}{Lastname}#=%=#Hangya
 Author{2}{Email}#=%=#hangyav@cis.uni-muenchen.de

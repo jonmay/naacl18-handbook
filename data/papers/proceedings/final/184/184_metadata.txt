@@ -25,10 +25,10 @@ Author{4}{Affiliation}#=%=#Qatar Computing Research Institute
 Author{5}{Firstname}#=%=#Lluís
 Author{5}{Lastname}#=%=#Màrquez
 Author{5}{Email}#=%=#lluismv@amazon.com
-Author{5}{Affiliation}#=%=#Amazon Core ML
+Author{5}{Affiliation}#=%=#Amazon
 Author{6}{Firstname}#=%=#Alessandro
 Author{6}{Lastname}#=%=#Moschitti
 Author{6}{Email}#=%=#amoschitti@gmail.com
-Author{6}{Affiliation}#=%=#Amazon (prof. in Computer Science at University of Trento)
+Author{6}{Affiliation}#=%=#Amazon
 
 ==========

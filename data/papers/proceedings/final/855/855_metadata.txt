@@ -26,6 +26,6 @@ Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
 Author{5}{Firstname}#=%=#Xiaodong
 Author{5}{Lastname}#=%=#He
 Author{5}{Email}#=%=#xiaohe@microsoft.com
-Author{5}{Affiliation}#=%=#Microsoft Research
+Author{5}{Affiliation}#=%=#JD AI Research
 
 ==========

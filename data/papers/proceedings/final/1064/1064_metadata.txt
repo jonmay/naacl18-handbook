@@ -25,22 +25,22 @@ Author{1}{Affiliation}#=%=#IBM Research
 Author{2}{Firstname}#=%=#Anirban
 Author{2}{Lastname}#=%=#Laha
 Author{2}{Email}#=%=#anirlaha@in.ibm.com
-Author{2}{Affiliation}#=%=#IBM Research AI
+Author{2}{Affiliation}#=%=#IBM Research
 Author{3}{Firstname}#=%=#Karthik
 Author{3}{Lastname}#=%=#Sankaranarayanan
 Author{3}{Email}#=%=#kartsank@in.ibm.com
-Author{3}{Affiliation}#=%=#IBM Research AI
+Author{3}{Affiliation}#=%=#IBM Research
 Author{4}{Firstname}#=%=#Preksha
 Author{4}{Lastname}#=%=#Nema
 Author{4}{Email}#=%=#cs15m036@smail.iitm.ac.in
-Author{4}{Affiliation}#=%=#Indian Institutes of Technology, Madras
+Author{4}{Affiliation}#=%=#Indian Institute of Technology, Madras
 Author{5}{Firstname}#=%=#Mitesh M.
 Author{5}{Lastname}#=%=#Khapra
 Author{5}{Email}#=%=#miteshk@cse.iitm.ac.in
-Author{5}{Affiliation}#=%=#Indian Institutes of Technology, Madras
+Author{5}{Affiliation}#=%=#Indian Institute of Technology, Madras
 Author{6}{Firstname}#=%=#Shreyas
 Author{6}{Lastname}#=%=#Shetty
 Author{6}{Email}#=%=#shreyas.shetty@gmail.com
-Author{6}{Affiliation}#=%=#Indian Institutes of Technology, Madras
+Author{6}{Affiliation}#=%=#Indian Institute of Technology, Madras
 
 ==========

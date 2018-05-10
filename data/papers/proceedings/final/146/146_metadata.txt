@@ -14,6 +14,6 @@ Abstract#==#Text classification models are  becoming increasingly complex and op
 Author{1}{Firstname}#=%=#Dong
 Author{1}{Lastname}#=%=#Nguyen
 Author{1}{Email}#=%=#dong.p.ng@gmail.com
-Author{1}{Affiliation}#=%=#Alan Turing Institute
+Author{1}{Affiliation}#=%=#The Alan Turing Institute
 
 ==========

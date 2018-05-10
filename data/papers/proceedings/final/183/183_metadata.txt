@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#183
-FinalPaperTitle#=%=#The Context-dependent Additive Recurrent Neural Net
-ShortPaperTitle#=%=#The Context-dependent Additive Recurrent Neural Net
+FinalPaperTitle#=%=#The Context-Dependent Additive Recurrent Neural Net
+ShortPaperTitle#=%=#The Context-Dependent Additive Recurrent Neural Net
 NumberOfPages#=%=#10
 CopyrightSigned#=%=#Quan Hung Tran
 JobTitle#==#
@@ -23,13 +23,13 @@ Author{2}{Firstname}#=%=#Tuan
 Author{2}{Lastname}#=%=#Lai
 Author{2}{Email}#=%=#laituan245@gmail.com
 Author{2}{Affiliation}#=%=#Adobe Research
-Author{3}{Firstname}#=%=#Ingrid
-Author{3}{Lastname}#=%=#Zukerman
-Author{3}{Email}#=%=#Ingrid.Zukerman@monash.edu
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Email}#=%=#reza.haffari@gmail.com
 Author{3}{Affiliation}#=%=#Monash University
-Author{4}{Firstname}#=%=#Gholamreza
-Author{4}{Lastname}#=%=#Haffari
-Author{4}{Email}#=%=#reza.haffari@gmail.com
+Author{4}{Firstname}#=%=#Ingrid
+Author{4}{Lastname}#=%=#Zukerman
+Author{4}{Email}#=%=#Ingrid.Zukerman@monash.edu
 Author{4}{Affiliation}#=%=#Monash University
 Author{5}{Firstname}#=%=#Trung
 Author{5}{Lastname}#=%=#Bui

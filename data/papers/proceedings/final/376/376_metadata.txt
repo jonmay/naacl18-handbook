@@ -40,7 +40,7 @@ Author{5}{Affiliation}#=%=#University of Washington
 Author{6}{Firstname}#=%=#Kenton
 Author{6}{Lastname}#=%=#Lee
 Author{6}{Email}#=%=#kentonl@google.com
-Author{6}{Affiliation}#=%=#Google Research
+Author{6}{Affiliation}#=%=#University of Washington
 Author{7}{Firstname}#=%=#Luke
 Author{7}{Lastname}#=%=#Zettlemoyer
 Author{7}{Email}#=%=#lsz@cs.washington.edu

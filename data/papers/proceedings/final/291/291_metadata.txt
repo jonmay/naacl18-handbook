@@ -10,7 +10,7 @@ We compare two state-of-the-art paraphrase models based on Moses, a statistical 
 Author{1}{Firstname}#=%=#Vassilis
 Author{1}{Lastname}#=%=#Plachouras
 Author{1}{Email}#=%=#vplachouras@acm.org
-Author{1}{Affiliation}#=%=#Thomson Reuters
+Author{1}{Affiliation}#=%=#Facebook
 Author{2}{Firstname}#=%=#Fabio
 Author{2}{Lastname}#=%=#Petroni
 Author{2}{Email}#=%=#petronif@acm.org
@@ -22,6 +22,6 @@ Author{3}{Affiliation}#=%=#Thomson Reuters
 Author{4}{Firstname}#=%=#Jochen L.
 Author{4}{Lastname}#=%=#Leidner
 Author{4}{Email}#=%=#leidner@acm.org
-Author{4}{Affiliation}#=%=#Thomson Reuters / University of Sheffield
+Author{4}{Affiliation}#=%=#Thomson Reuters
 
 ==========

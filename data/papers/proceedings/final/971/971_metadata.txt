@@ -21,7 +21,7 @@ Author{3}{Affiliation}#=%=#University of Southampton
 Author{4}{Firstname}#=%=#Christophe
 Author{4}{Lastname}#=%=#Gravier
 Author{4}{Email}#=%=#christophe.gravier@univ-st-etienne.fr
-Author{4}{Affiliation}#=%=#Université Jean Monnet
+Author{4}{Affiliation}#=%=#Université de Lyon
 Author{5}{Firstname}#=%=#Frederique
 Author{5}{Lastname}#=%=#Laforest
 Author{5}{Email}#=%=#frederique.laforest@univ-st-etienne.fr

@@ -16,8 +16,8 @@ arc-hybrid parser enhanced with the Swap transition, which can handle
 unrestricted non-projectivity.
 Author{1}{Firstname}#=%=#Daniel
 Author{1}{Lastname}#=%=#Fernández-González
-Author{1}{Email}#=%=#danifg@uvigo.es
-Author{1}{Affiliation}#=%=#Universidade de Vigo
+Author{1}{Email}#=%=#d.fgonzalez@udc.es
+Author{1}{Affiliation}#=%=#Universidade da Coruña
 Author{2}{Firstname}#=%=#Carlos
 Author{2}{Lastname}#=%=#Gómez-Rodríguez
 Author{2}{Email}#=%=#cgomezr@udc.es

@@ -16,18 +16,18 @@ in captions.
 Author{1}{Firstname}#=%=#Varun
 Author{1}{Lastname}#=%=#Manjunatha
 Author{1}{Email}#=%=#varunm@cs.umd.edu
-Author{1}{Affiliation}#=%=#University of Maryland
+Author{1}{Affiliation}#=%=#University of Maryland, College Park
 Author{2}{Firstname}#=%=#Mohit
 Author{2}{Lastname}#=%=#Iyyer
 Author{2}{Email}#=%=#m.iyyer@gmail.com
-Author{2}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{2}{Affiliation}#=%=#Allen Institute for Artificial Intelligence / University of Massachusetts, Amherst
 Author{3}{Firstname}#=%=#Jordan
 Author{3}{Lastname}#=%=#Boyd-Graber
 Author{3}{Email}#=%=#jbg@umiacs.umd.edu
-Author{3}{Affiliation}#=%=#University of Maryland
+Author{3}{Affiliation}#=%=#University of Maryland, College Park
 Author{4}{Firstname}#=%=#Larry
 Author{4}{Lastname}#=%=#Davis
 Author{4}{Email}#=%=#lsd@umiacs.umd.edu
-Author{4}{Affiliation}#=%=#University of Maryland
+Author{4}{Affiliation}#=%=#University of Maryland, College Park
 
 ==========

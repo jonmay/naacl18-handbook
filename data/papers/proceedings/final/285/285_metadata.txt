@@ -13,6 +13,6 @@ Author{1}{Affiliation}#=%=#University of Cambridge
 Author{2}{Firstname}#=%=#Nikola
 Author{2}{Lastname}#=%=#Mrkšić
 Author{2}{Email}#=%=#nikola.mrksic@gmail.com
-Author{2}{Affiliation}#=%=#University of Cambridge
+Author{2}{Affiliation}#=%=#PolyAI
 
 ==========

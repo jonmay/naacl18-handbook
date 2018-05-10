@@ -11,7 +11,7 @@ Abstract#==#The recent tremendous success of unsupervised word embeddings in a m
 Author{1}{Firstname}#=%=#Matteo
 Author{1}{Lastname}#=%=#Pagliardini
 Author{1}{Email}#=%=#mpagliardini@iprova.com
-Author{1}{Affiliation}#=%=#Iprova SARL
+Author{1}{Affiliation}#=%=#Iprova SA
 Author{2}{Firstname}#=%=#Prakhar
 Author{2}{Lastname}#=%=#Gupta
 Author{2}{Email}#=%=#prakhar.gupta@epfl.ch

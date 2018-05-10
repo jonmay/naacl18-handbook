@@ -10,7 +10,7 @@ Abstract#==#Because the most common transition systems are projective, training 
 Author{1}{Firstname}#=%=#Lauriane
 Author{1}{Lastname}#=%=#Aufrant
 Author{1}{Email}#=%=#lauriane.aufrant@limsi.fr
-Author{1}{Affiliation}#=%=#LIMSI, CNRS
+Author{1}{Affiliation}#=%=#LIMSI, CNRS / DGA
 Author{2}{Firstname}#=%=#Guillaume
 Author{2}{Lastname}#=%=#Wisniewski
 Author{2}{Email}#=%=#guillaume.wisniewski@limsi.fr

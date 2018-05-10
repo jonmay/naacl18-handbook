@@ -33,6 +33,6 @@ Author{2}{Affiliation}#=%=#National University of Singapore
 Author{3}{Firstname}#=%=#Kazunari
 Author{3}{Lastname}#=%=#Sugiyama
 Author{3}{Email}#=%=#sugiyama@comp.nus.edu.sg
-Author{3}{Affiliation}#=%=#National University of Singapore
+Author{3}{Affiliation}#=%=#National University of Singapore / National Institute of Informatics
 
 ==========

@@ -14,6 +14,6 @@ Author{1}{Affiliation}#=%=#University of Edinburgh
 Author{2}{Firstname}#=%=#Marcin
 Author{2}{Lastname}#=%=#Junczys-Dowmunt
 Author{2}{Email}#=%=#marcinjd@microsoft.com
-Author{2}{Affiliation}#=%=#Microsoft Research
+Author{2}{Affiliation}#=%=#Microsoft
 
 ==========

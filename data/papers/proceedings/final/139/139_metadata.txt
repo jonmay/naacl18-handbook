@@ -8,8 +8,8 @@ Organization#==#Singapore University of Technology and Design, 8 Somapah Rd, Sin
 Abstract#==#Training data for sentiment analysis are abundant in multiple domains, yet scarce for other domains. It is useful to leveraging data available for all existing domains to enhance performance on different domains. We investigate this problem by learning domain-specific representations of input sentences using neural network. In particular, a descriptor vector is learned for representing each domain, which is used to map adversarially trained domain-general Bi-LSTM input representations into domain-specific representations. Based on this model, we further expand the input representation with exemplary domain knowledge, collected by attending over a memory network of domain training data. Results show that our model outperforms existing methods on multi-domain sentiment analysis significantly, giving the best accuracies on two different benchmarks.
 Author{1}{Firstname}#=%=#Qi
 Author{1}{Lastname}#=%=#Liu
-Author{1}{Email}#=%=#t-qili@microsoft.com
-Author{1}{Affiliation}#=%=#Microsoft Research
+Author{1}{Email}#=%=#leuchine@gmail.com
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
 Author{2}{Firstname}#=%=#Yue
 Author{2}{Lastname}#=%=#Zhang
 Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg

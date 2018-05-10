@@ -32,8 +32,8 @@ Author{2}{Email}#=%=#pfb30@cam.ac.uk
 Author{2}{Affiliation}#=%=#University of Cambridge
 Author{3}{Firstname}#=%=#Pei-Hao
 Author{3}{Lastname}#=%=#Su
-Author{3}{Email}#=%=#phs26@cam.ac.uk
-Author{3}{Affiliation}#=%=#University of Cambridge
+Author{3}{Email}#=%=#eddysu@poly-ai.com
+Author{3}{Affiliation}#=%=#PolyAI
 Author{4}{Firstname}#=%=#Stefan
 Author{4}{Lastname}#=%=#Ultes
 Author{4}{Email}#=%=#su259@cam.ac.uk
@@ -41,7 +41,7 @@ Author{4}{Affiliation}#=%=#University of Cambridge
 Author{5}{Firstname}#=%=#Lina M.
 Author{5}{Lastname}#=%=#Rojas Barahona
 Author{5}{Email}#=%=#linamaria.rojasbarahona@orange.com
-Author{5}{Affiliation}#=%=#Orange Labs
+Author{5}{Affiliation}#=%=#University of Cambridge
 Author{6}{Firstname}#=%=#Bo-Hsiang
 Author{6}{Lastname}#=%=#Tseng
 Author{6}{Email}#=%=#bht26@cam.ac.uk

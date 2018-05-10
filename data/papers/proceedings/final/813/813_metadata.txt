@@ -18,7 +18,7 @@ Author{2}{Affiliation}#=%=#A*STAR
 Author{3}{Firstname}#=%=#Prateek
 Author{3}{Lastname}#=%=#Vij
 Author{3}{Email}#=%=#prateekvij55@gmail.com
-Author{3}{Affiliation}#=%=#Indian Institutes of Technology, Guwahati
+Author{3}{Affiliation}#=%=#Indian Institute of Technology, Guwahati
 Author{4}{Firstname}#=%=#Gangeshwar
 Author{4}{Lastname}#=%=#Krishnamurthy
 Author{4}{Email}#=%=#gangeshwark@ihpc.a-star.edu.sg

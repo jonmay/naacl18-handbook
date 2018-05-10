@@ -10,10 +10,10 @@ Abstract#==#This work introduces a new problem, relational summarization, in whi
 Author{1}{Firstname}#=%=#Abram
 Author{1}{Lastname}#=%=#Handler
 Author{1}{Email}#=%=#abram.handler@gmail.com
-Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{1}{Affiliation}#=%=#University of Massachusetts, Amherst
 Author{2}{Firstname}#=%=#Brendan
 Author{2}{Lastname}#=%=#O'Connor
 Author{2}{Email}#=%=#brenocon@cs.umass.edu
-Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Affiliation}#=%=#University of Massachusetts, Amherst
 
 ==========

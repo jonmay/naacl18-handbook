@@ -16,10 +16,10 @@ Abstract#==#We present neural syntactic generative models with exact marginaliza
 Author{1}{Firstname}#=%=#Jan
 Author{1}{Lastname}#=%=#Buys
 Author{1}{Email}#=%=#jbuys@cs.washington.edu
-Author{1}{Affiliation}#=%=#University of Washington
+Author{1}{Affiliation}#=%=#University of Oxford / University of Washington
 Author{2}{Firstname}#=%=#Phil
 Author{2}{Lastname}#=%=#Blunsom
 Author{2}{Email}#=%=#phil.blunsom@cs.ox.ac.uk
-Author{2}{Affiliation}#=%=#University of Oxford
+Author{2}{Affiliation}#=%=#University of Oxford / DeepMind
 
 ==========

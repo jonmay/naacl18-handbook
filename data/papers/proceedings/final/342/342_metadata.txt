@@ -20,7 +20,7 @@ Author{1}{Affiliation}#=%=#Nara Institute of Science and Technology
 Author{2}{Firstname}#=%=#Katsuhiko
 Author{2}{Lastname}#=%=#Hayashi
 Author{2}{Email}#=%=#katsuhiko-h@is.naist.jp
-Author{2}{Affiliation}#=%=#NTT Communication Science Laboratories
+Author{2}{Affiliation}#=%=#Osaka University
 Author{3}{Firstname}#=%=#Hitoshi
 Author{3}{Lastname}#=%=#Manabe
 Author{3}{Email}#=%=#manabe.hitoshi.me0@is.naist.jp

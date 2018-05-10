@@ -21,7 +21,7 @@ number of parameters and at a much lower computational cost.
 Author{1}{Firstname}#=%=#Fei
 Author{1}{Lastname}#=%=#Gao
 Author{1}{Email}#=%=#feiga@microsoft.com
-Author{1}{Affiliation}#=%=#Microsoft Research
+Author{1}{Affiliation}#=%=#Chinese Academy of Sciences / Microsoft Research
 Author{2}{Firstname}#=%=#Lijun
 Author{2}{Lastname}#=%=#Wu
 Author{2}{Email}#=%=#wulijun3@mail2.sysu.edu.cn

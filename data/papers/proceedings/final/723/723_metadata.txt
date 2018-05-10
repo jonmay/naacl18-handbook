@@ -14,7 +14,7 @@ Author{1}{Affiliation}#=%=#Pacific Northwest National Laboratory
 Author{2}{Firstname}#=%=#Stephen
 Author{2}{Lastname}#=%=#Ranshous
 Author{2}{Email}#=%=#smransho@ncsu.edu
-Author{2}{Affiliation}#=%=#North Carolina State University
+Author{2}{Affiliation}#=%=#Pacific Northwest National Laboratory
 Author{3}{Firstname}#=%=#Lawrence
 Author{3}{Lastname}#=%=#Phillips
 Author{3}{Email}#=%=#lawrence.phillips@pnnl.gov

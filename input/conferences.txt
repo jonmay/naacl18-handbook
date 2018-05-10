@@ -1,4 +1,4 @@
-naacl-2018-industrial-track|https://www.softconf.com/naacl2018/naacl2018-industrial-track/pub/aclpub/proceedings.tgz|"18a00f3-1fd87f6-56b68c0e205a6"
+naacl-2018-industrial-track|https://www.softconf.com/naacl2018/naacl2018-industrial-track/pub/aclpub/proceedings.tgz|"18a0129-1fd8246-56ba7af3983be"
 naacl2018-SRW|https://www.softconf.com/naacl2018/naacl2018-SRW/pub/aclpub/proceedings.tgz|"18a00e4-1787498-56b291ea67145"
 naacl2018-tutorials|https://www.softconf.com/naacl2018/naacl2018-tutorials/pub/aclpub/proceedings.tgz|"1842457-2d9411-56b4e96758713"
 naacl2018-demos|https://www.softconf.com/naacl2018/naacl2018-demos/pub/aclpub/proceedings.tgz|"1840315-23adc5c-56b1bab2590b4"
@@ -17,4 +17,4 @@ Fig-Lang18|https://www.softconf.com/naacl2018/Fig-Lang18/pub/aclpub/proceedings.
 PEOPLES18|https://www.softconf.com/naacl2018/PEOPLES18/pub/aclpub/proceedings.tgz|"2030ed-11e07f1-56b02b29d1be0"
 CRAC18|https://www.softconf.com/naacl2018/CRAC18/pub/aclpub/proceedings.tgz|"18422a2-837c2b-56b0a21d722fe"
 SpLU18|https://www.softconf.com/naacl2018/SpLU18/pub/aclpub/proceedings.tgz|"2520165-b0b815-56b28b3e3bc80"
-papers|https://www.softconf.com/naacl2018/papers/pub/aclpub/proceedings.tgz|"1bc43f9-32536f29-56b7b2ef31f15"
+papers|https://www.softconf.com/naacl2018/papers/pub/aclpub/proceedings.tgz|"1bc445c-2b5ed057-56ba7d59ca0bf"

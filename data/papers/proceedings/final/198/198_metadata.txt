@@ -18,10 +18,10 @@ Author{2}{Affiliation}#=%=#Sun Yat-Sen University
 Author{3}{Firstname}#=%=#Huiling
 Author{3}{Lastname}#=%=#Zhu
 Author{3}{Email}#=%=#zhuhling6@mail.sysu.edu.cn
-Author{3}{Affiliation}#=%=#Sun Yat-sen University
+Author{3}{Affiliation}#=%=#Sun Yat-sen University / Guangdong Key Laboratory of Big Data Analysis and Processing
 Author{4}{Firstname}#=%=#Hankz Hankui
 Author{4}{Lastname}#=%=#Zhuo
 Author{4}{Email}#=%=#zhuohank@mail.sysu.edu.cn
-Author{4}{Affiliation}#=%=#Sun Yat-Sen University
+Author{4}{Affiliation}#=%=#Sun Yat-Sen University / Guangdong Key Laboratory of Big Data Analysis and Processing
 
 ==========

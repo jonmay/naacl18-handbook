@@ -21,7 +21,7 @@ on benchmark datasets.
 Author{1}{Firstname}#=%=#Gabriel
 Author{1}{Lastname}#=%=#Stanovsky
 Author{1}{Email}#=%=#gabriel.satanovsky@gmail.com
-Author{1}{Affiliation}#=%=#Bar-Ilan University
+Author{1}{Affiliation}#=%=#University of Washington / Allen Institute for Artificial Intelligence
 Author{2}{Firstname}#=%=#Julian
 Author{2}{Lastname}#=%=#Michael
 Author{2}{Email}#=%=#julianjm@cs.washington.edu

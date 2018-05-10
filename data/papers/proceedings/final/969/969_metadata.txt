@@ -28,7 +28,7 @@ Author{1}{Affiliation}#=%=#University of Washington
 Author{2}{Firstname}#=%=#Swabha
 Author{2}{Lastname}#=%=#Swayamdipta
 Author{2}{Email}#=%=#swabha@cs.cmu.edu
-Author{2}{Affiliation}#=%=#Carnegie Mellon University / University of Washington
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
 Author{3}{Firstname}#=%=#Omer
 Author{3}{Lastname}#=%=#Levy
 Author{3}{Email}#=%=#omerlevy@cs.washington.edu

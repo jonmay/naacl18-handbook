@@ -27,7 +27,7 @@ Author{2}{Affiliation}#=%=#Microsoft Research
 Author{3}{Firstname}#=%=#Xiaodong
 Author{3}{Lastname}#=%=#He
 Author{3}{Email}#=%=#xiaohe@microsoft.com
-Author{3}{Affiliation}#=%=#Microsoft Research
+Author{3}{Affiliation}#=%=#JD AI Research
 Author{4}{Firstname}#=%=#Jianfeng
 Author{4}{Lastname}#=%=#Gao
 Author{4}{Email}#=%=#jfgao@microsoft.com
@@ -39,6 +39,6 @@ Author{5}{Affiliation}#=%=#Microsoft Research
 Author{6}{Firstname}#=%=#Yejin
 Author{6}{Lastname}#=%=#Choi
 Author{6}{Email}#=%=#yejin@cs.washington.edu
-Author{6}{Affiliation}#=%=#University of Washington
+Author{6}{Affiliation}#=%=#University of Washington / Allen Institute for Artificial Intelligence
 
 ==========

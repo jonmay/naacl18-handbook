@@ -32,7 +32,7 @@ Author{1}{Affiliation}#=%=#International Institute of Information Technology, Hy
 Author{2}{Firstname}#=%=#Riyaz A.
 Author{2}{Lastname}#=%=#Bhat
 Author{2}{Email}#=%=#riyazahbhat@gmail.com
-Author{2}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{2}{Affiliation}#=%=#Interaction Labs
 Author{3}{Firstname}#=%=#Manish
 Author{3}{Lastname}#=%=#Shrivastava
 Author{3}{Email}#=%=#m.shrivastava@iiit.ac.in

@@ -27,7 +27,7 @@ Author{2}{Affiliation}#=%=#University of Virginia
 Author{3}{Firstname}#=%=#Mark
 Author{3}{Lastname}#=%=#Yatskar
 Author{3}{Email}#=%=#my89@cs.washington.edu
-Author{3}{Affiliation}#=%=#University of Washington
+Author{3}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
 Author{4}{Firstname}#=%=#Vicente
 Author{4}{Lastname}#=%=#Ordonez
 Author{4}{Email}#=%=#vicente@virginia.edu

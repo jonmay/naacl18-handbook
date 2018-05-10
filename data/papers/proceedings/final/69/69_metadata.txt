@@ -30,7 +30,7 @@ Author{5}{Affiliation}#=%=#Shanghai Jiao Tong University
 Author{6}{Firstname}#=%=#Shaodian
 Author{6}{Lastname}#=%=#Zhang
 Author{6}{Email}#=%=#shaodian@apex.sjtu.edu.cn
-Author{6}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{6}{Affiliation}#=%=#Shanghai Jiao Tong University / Synyi LLC
 Author{7}{Firstname}#=%=#Yimei
 Author{7}{Lastname}#=%=#Gao
 Author{7}{Email}#=%=#gao.yimei@synyi.com

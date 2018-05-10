@@ -10,18 +10,18 @@ Abstract#==#We introduce MeSys, a meaning-based approach, for solving English ma
 Author{1}{Firstname}#=%=#Chao-Chun
 Author{1}{Lastname}#=%=#Liang
 Author{1}{Email}#=%=#ccliang@iis.sinica.edu.tw
-Author{1}{Affiliation}#=%=#Institute of Information Science, Academia Sinica
+Author{1}{Affiliation}#=%=#Academia Sinica
 Author{2}{Firstname}#=%=#Yu-Shiang
 Author{2}{Lastname}#=%=#Wong
 Author{2}{Email}#=%=#yushiangwtw@iis.sinica.edu.tw
-Author{2}{Affiliation}#=%=#Institute of Information Science, Academia Sinica
+Author{2}{Affiliation}#=%=#Academia Sinica
 Author{3}{Firstname}#=%=#Yi-Chung
 Author{3}{Lastname}#=%=#Lin
 Author{3}{Email}#=%=#lyc@iis.sinica.edu.tw
-Author{3}{Affiliation}#=%=#Institute of Information Science, Academia Sinica
+Author{3}{Affiliation}#=%=#Academia Sinica
 Author{4}{Firstname}#=%=#Keh-Yih
 Author{4}{Lastname}#=%=#Su
 Author{4}{Email}#=%=#kysu@iis.sinica.edu.tw
-Author{4}{Affiliation}#=%=#Institute of Information Science, Academia Sinica
+Author{4}{Affiliation}#=%=#Academia Sinica
 
 ==========

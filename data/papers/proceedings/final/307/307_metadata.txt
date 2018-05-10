@@ -24,18 +24,18 @@ word evolution in topics over time.
 Author{1}{Firstname}#=%=#Pankaj
 Author{1}{Lastname}#=%=#Gupta
 Author{1}{Email}#=%=#pankaj_gupta96@yahoo.com
-Author{1}{Affiliation}#=%=#University of Munich / Siemens
+Author{1}{Affiliation}#=%=#Ludwig Maximilian University of Munich / Siemens
 Author{2}{Firstname}#=%=#Subburam
 Author{2}{Lastname}#=%=#Rajaram
 Author{2}{Email}#=%=#subburam.rajaram@tum.de
-Author{2}{Affiliation}#=%=#University of Munich
-Author{3}{Firstname}#=%=#Bernt
-Author{3}{Lastname}#=%=#Andrassy
-Author{3}{Email}#=%=#bernt.andrassy@siemens.com
-Author{3}{Affiliation}#=%=#Siemens
-Author{4}{Firstname}#=%=#Hinrich
-Author{4}{Lastname}#=%=#Schütze
-Author{4}{Email}#=%=#inquiries@cislmu.org
-Author{4}{Affiliation}#=%=#University of Munich
+Author{2}{Affiliation}#=%=#Ludwig Maximilian University of Munich
+Author{3}{Firstname}#=%=#Hinrich
+Author{3}{Lastname}#=%=#Schütze
+Author{3}{Email}#=%=#inquiries@cislmu.org
+Author{3}{Affiliation}#=%=#Ludwig Maximilian University of Munich
+Author{4}{Firstname}#=%=#Bernt
+Author{4}{Lastname}#=%=#Andrassy
+Author{4}{Email}#=%=#bernt.andrassy@siemens.com
+Author{4}{Affiliation}#=%=#Siemens
 
 ==========

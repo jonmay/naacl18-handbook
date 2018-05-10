@@ -21,7 +21,7 @@ Author{2}{Affiliation}#=%=#University of Copenhagen
 Author{3}{Firstname}#=%=#Lea
 Author{3}{Lastname}#=%=#Frermann
 Author{3}{Email}#=%=#uedi@frermann.de
-Author{3}{Affiliation}#=%=#Amazon Core Machine Learning
+Author{3}{Affiliation}#=%=#Amazon
 Author{4}{Firstname}#=%=#Anders
 Author{4}{Lastname}#=%=#Søgaard
 Author{4}{Email}#=%=#soegaard@di.ku.dk

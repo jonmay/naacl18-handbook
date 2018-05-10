@@ -17,7 +17,7 @@ Author{2}{Email}#=%=#prem@agolo.com
 Author{2}{Affiliation}#=%=#Agolo, Inc.
 Author{3}{Firstname}#=%=#Owen
 Author{3}{Lastname}#=%=#Rambow
-Author{3}{Email}#=%=#rambow@ccls.columbia.edu
-Author{3}{Affiliation}#=%=#Columbia University
+Author{3}{Email}#=%=#owenr@elementalcognition.com
+Author{3}{Affiliation}#=%=#Elemental Cognition, LLC
 
 ==========

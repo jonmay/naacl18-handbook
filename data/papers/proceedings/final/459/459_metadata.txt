@@ -10,7 +10,7 @@ Abstract#==#We propose a framework for computer-assisted text editing. It applie
 Author{1}{Firstname}#=%=#David
 Author{1}{Lastname}#=%=#Grangier
 Author{1}{Email}#=%=#grangier@fb.com
-Author{1}{Affiliation}#=%=#Facebook
+Author{1}{Affiliation}#=%=#Facebook AI Research
 Author{2}{Firstname}#=%=#Michael
 Author{2}{Lastname}#=%=#Auli
 Author{2}{Email}#=%=#michael.auli@gmail.com

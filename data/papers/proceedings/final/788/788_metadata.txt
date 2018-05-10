@@ -21,6 +21,6 @@ Author{3}{Affiliation}#=%=#Universidade Federal do Rio Grande do Sul
 Author{4}{Firstname}#=%=#Aline
 Author{4}{Lastname}#=%=#Villavicencio
 Author{4}{Email}#=%=#alinev@gmail.com
-Author{4}{Affiliation}#=%=#University of Essex
+Author{4}{Affiliation}#=%=#Universidade Federal do Rio Grande do Sul / University of Essex
 
 ==========

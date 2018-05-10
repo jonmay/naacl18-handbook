@@ -10,10 +10,10 @@ Abstract#==#Sentence pair modeling is critical for many NLP tasks, such as parap
 Author{1}{Firstname}#=%=#Wuwei
 Author{1}{Lastname}#=%=#Lan
 Author{1}{Email}#=%=#lan.105@osu.edu
-Author{1}{Affiliation}#=%=#The Ohio State University
+Author{1}{Affiliation}#=%=#Ohio State University
 Author{2}{Firstname}#=%=#Wei
 Author{2}{Lastname}#=%=#Xu
 Author{2}{Email}#=%=#xu.1265@osu.edu
-Author{2}{Affiliation}#=%=#The Ohio State University
+Author{2}{Affiliation}#=%=#Ohio State University
 
 ==========

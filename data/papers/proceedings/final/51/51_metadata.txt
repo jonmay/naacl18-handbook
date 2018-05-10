@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#51
-FinalPaperTitle#=%=#The Web as a Knowledge-base for Answering Complex Questions
-ShortPaperTitle#=%=#The Web as a Knowledge-base for Answering Complex Questions
+FinalPaperTitle#=%=#The Web as a Knowledge-Base for Answering Complex Questions
+ShortPaperTitle#=%=#The Web as a Knowledge-Base for Answering Complex Questions
 NumberOfPages#=%=#11
 CopyrightSigned#=%=#Alon Talmor
 JobTitle#==#

@@ -17,6 +17,6 @@ Author{2}{Affiliation}#=%=#Tulane University
 Author{3}{Firstname}#=%=#Parisa
 Author{3}{Lastname}#=%=#Kordjamshidi
 Author{3}{Email}#=%=#pkordjam@tulane.edu
-Author{3}{Affiliation}#=%=#Tulane University
+Author{3}{Affiliation}#=%=#Tulane University / Florida Institute for Human and Machine Cognition (IHMC)
 
 ==========

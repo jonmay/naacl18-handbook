@@ -16,7 +16,7 @@ Author{1}{Affiliation}#=%=#LIMSI, CNRS
 Author{2}{Firstname}#=%=#Rico
 Author{2}{Lastname}#=%=#Sennrich
 Author{2}{Email}#=%=#rico.sennrich@ed.ac.uk
-Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Affiliation}#=%=#University of Edinburgh / University of Zurich
 Author{3}{Firstname}#=%=#Alexandra
 Author{3}{Lastname}#=%=#Birch
 Author{3}{Email}#=%=#lexi.birch@gmail.com

@@ -31,13 +31,13 @@ Author{2}{Firstname}#=%=#Fabio A.
 Author{2}{Lastname}#=%=#González
 Author{2}{Email}#=%=#fagonzalezo@unal.edu.co
 Author{2}{Affiliation}#=%=#Universidad Nacional de Colombia
-Author{3}{Firstname}#=%=#Hugo Jair
-Author{3}{Lastname}#=%=#Escalante
-Author{3}{Email}#=%=#hugo.jair@gmail.com
+Author{3}{Firstname}#=%=#Manuel
+Author{3}{Lastname}#=%=#Montes
+Author{3}{Email}#=%=#mmontesg@inaoep.mx
 Author{3}{Affiliation}#=%=#Instituto Nacional de Astrofísica, Óptica y Electrónica
-Author{4}{Firstname}#=%=#Manuel
-Author{4}{Lastname}#=%=#Montes
-Author{4}{Email}#=%=#mmontesg@inaoep.mx
+Author{4}{Firstname}#=%=#Hugo Jair
+Author{4}{Lastname}#=%=#Escalante
+Author{4}{Email}#=%=#hugo.jair@gmail.com
 Author{4}{Affiliation}#=%=#Instituto Nacional de Astrofísica, Óptica y Electrónica
 Author{5}{Firstname}#=%=#Thamar
 Author{5}{Lastname}#=%=#Solorio

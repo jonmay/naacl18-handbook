@@ -19,22 +19,22 @@ blog. Our evaluation shows promising results for our target tasks.
 Author{1}{Firstname}#=%=#Shweta
 Author{1}{Lastname}#=%=#Yadav
 Author{1}{Email}#=%=#yshweta73@gmail.com
-Author{1}{Affiliation}#=%=#Indian Institutes of Technology, Patna
+Author{1}{Affiliation}#=%=#Indian Institute of Technology, Patna
 Author{2}{Firstname}#=%=#Asif
 Author{2}{Lastname}#=%=#Ekbal
 Author{2}{Email}#=%=#asif.ekbal@gmail.com
-Author{2}{Affiliation}#=%=#Indian Institutes of Technology, Patna
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Patna
 Author{3}{Firstname}#=%=#Sriparna
 Author{3}{Lastname}#=%=#Saha
 Author{3}{Email}#=%=#sriparna.saha@gmail.com
-Author{3}{Affiliation}#=%=#Indian Institutes of Technology, Patna
+Author{3}{Affiliation}#=%=#Indian Institute of Technology, Patna
 Author{4}{Firstname}#=%=#Pushpak
 Author{4}{Lastname}#=%=#Bhattacharyya
 Author{4}{Email}#=%=#pushpakbh@gmail.com
-Author{4}{Affiliation}#=%=#Indian Institutes of Technology, Bombay
+Author{4}{Affiliation}#=%=#Indian Institute of Technology, Patna
 Author{5}{Firstname}#=%=#Amit
 Author{5}{Lastname}#=%=#Sheth
 Author{5}{Email}#=%=#amit@knoesis.org
-Author{5}{Affiliation}#=%=#Wright State University, Ohio
+Author{5}{Affiliation}#=%=#Wright State University
 
 ==========

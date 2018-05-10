@@ -26,10 +26,10 @@ the representations where a lexical resource has been used.
 Author{1}{Firstname}#=%=#Abhik
 Author{1}{Lastname}#=%=#Jana
 Author{1}{Email}#=%=#abhikjana1@gmail.com
-Author{1}{Affiliation}#=%=#Indian Institutes of Technology, Kharagpur
+Author{1}{Affiliation}#=%=#Indian Institute of Technology, Kharagpur
 Author{2}{Firstname}#=%=#Pawan
 Author{2}{Lastname}#=%=#Goyal
 Author{2}{Email}#=%=#pawang.iitk@gmail.com
-Author{2}{Affiliation}#=%=#Indian Institutes of Technology, Kharagpur
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Kharagpur
 
 ==========

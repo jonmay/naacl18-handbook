@@ -25,7 +25,7 @@ and non-reasoning baselines.
 Author{1}{Firstname}#=%=#Xianchao
 Author{1}{Lastname}#=%=#Wu
 Author{1}{Email}#=%=#wuxianchao@gmail.com
-Author{1}{Affiliation}#=%=#Microsoft
+Author{1}{Affiliation}#=%=#Microsoft Development Co., Ltd.
 Author{2}{Firstname}#=%=#Ander
 Author{2}{Lastname}#=%=#Martinez
 Author{2}{Email}#=%=#ander.martinez.zy4@is.naist.jp
@@ -33,6 +33,6 @@ Author{2}{Affiliation}#=%=#National Institute of Advanced Industrial Science and
 Author{3}{Firstname}#=%=#Momo
 Author{3}{Lastname}#=%=#Klyen
 Author{3}{Email}#=%=#momokl@microsoft.com
-Author{3}{Affiliation}#=%=#Microsoft
+Author{3}{Affiliation}#=%=#Microsoft Development Co., Ltd.
 
 ==========

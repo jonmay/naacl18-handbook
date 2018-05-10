@@ -15,6 +15,6 @@ Author{1}{Affiliation}#=%=#Birkbeck, University of London
 Author{2}{Firstname}#=%=#Mans
 Author{2}{Lastname}#=%=#Hulden
 Author{2}{Email}#=%=#mhulden@email.arizona.edu
-Author{2}{Affiliation}#=%=#University of Colorado Boulder
+Author{2}{Affiliation}#=%=#University of Colorado, Boulder
 
 ==========

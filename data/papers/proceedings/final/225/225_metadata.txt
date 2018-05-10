@@ -17,15 +17,15 @@ improved word embeddings.
 Author{1}{Firstname}#=%=#Douwe
 Author{1}{Lastname}#=%=#Kiela
 Author{1}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
-Author{1}{Affiliation}#=%=#Facebook
+Author{1}{Affiliation}#=%=#Facebook AI Research
 Author{2}{Firstname}#=%=#Alexis
 Author{2}{Lastname}#=%=#Conneau
 Author{2}{Email}#=%=#aconneau@fb.com
-Author{2}{Affiliation}#=%=#Facebook AI Research Paris / University Le Mans
+Author{2}{Affiliation}#=%=#Facebook AI Research
 Author{3}{Firstname}#=%=#Allan
 Author{3}{Lastname}#=%=#Jabri
 Author{3}{Email}#=%=#ajabri@gmail.com
-Author{3}{Affiliation}#=%=#Facebook AI Research
+Author{3}{Affiliation}#=%=#University of California, Berkeley
 Author{4}{Firstname}#=%=#Maximilian
 Author{4}{Lastname}#=%=#Nickel
 Author{4}{Email}#=%=#maxn@fb.com

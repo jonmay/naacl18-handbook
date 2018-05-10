@@ -33,6 +33,6 @@ Author{2}{Affiliation}#=%=#Carnegie Mellon University
 Author{3}{Firstname}#=%=#Chris
 Author{3}{Lastname}#=%=#Dyer
 Author{3}{Email}#=%=#cdyer@google.com
-Author{3}{Affiliation}#=%=#Google DeepMind
+Author{3}{Affiliation}#=%=#DeepMind
 
 ==========

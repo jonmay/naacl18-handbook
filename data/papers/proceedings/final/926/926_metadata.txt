@@ -14,14 +14,14 @@ Author{1}{Affiliation}#=%=#University of Oslo
 Author{2}{Firstname}#=%=#Johann-Mattis
 Author{2}{Lastname}#=%=#List
 Author{2}{Email}#=%=#mattis.list@lingpy.org
-Author{2}{Affiliation}#=%=#Centre des Recherches Linguistiques sur l'Asie Orientale
+Author{2}{Affiliation}#=%=#Max Planck Institute for the Science of Human History
 Author{3}{Firstname}#=%=#Johannes
 Author{3}{Lastname}#=%=#Wahle
 Author{3}{Email}#=%=#johannes.wahle@uni-tuebingen.de
-Author{3}{Affiliation}#=%=#University of Tuebingen
+Author{3}{Affiliation}#=%=#University Tübingen
 Author{4}{Firstname}#=%=#Gerhard
 Author{4}{Lastname}#=%=#Jäger
 Author{4}{Email}#=%=#gerhard.jaeger@uni-tuebingen.de
-Author{4}{Affiliation}#=%=#University of Tuebingen
+Author{4}{Affiliation}#=%=#University Tübingen
 
 ==========

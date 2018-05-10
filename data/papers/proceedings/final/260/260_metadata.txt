@@ -16,7 +16,7 @@ Author{1}{Affiliation}#=%=#University of Trento
 Author{2}{Firstname}#=%=#Ionut-Teodor
 Author{2}{Lastname}#=%=#Sorodoc
 Author{2}{Email}#=%=#ionut.sorodoc@gmail.com
-Author{2}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{2}{Affiliation}#=%=#University of Trento / Universitat Pompeu Fabra Barcelona
 Author{3}{Firstname}#=%=#Raffaella
 Author{3}{Lastname}#=%=#Bernardi
 Author{3}{Email}#=%=#bernardi@disi.unitn.it

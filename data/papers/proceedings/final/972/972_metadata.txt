@@ -1,6 +1,6 @@
 SubmissionNumber#=%=#972
-FinalPaperTitle#=%=#Higher-order Coreference Resolution with Coarse-to-Fine Inference
-ShortPaperTitle#=%=#Higher-order Coreference Resolution with Coarse-to-Fine Inference
+FinalPaperTitle#=%=#Higher-Order Coreference Resolution with Coarse-to-Fine Inference
+ShortPaperTitle#=%=#Higher-Order Coreference Resolution with Coarse-to-Fine Inference
 NumberOfPages#=%=#6
 CopyrightSigned#=%=#Kenton Lee
 JobTitle#==#
@@ -18,7 +18,7 @@ OntoNotes benchmark, while being far more computationally efficient.
 Author{1}{Firstname}#=%=#Kenton
 Author{1}{Lastname}#=%=#Lee
 Author{1}{Email}#=%=#kentonl@google.com
-Author{1}{Affiliation}#=%=#Google Research
+Author{1}{Affiliation}#=%=#University of Washington
 Author{2}{Firstname}#=%=#Luheng
 Author{2}{Lastname}#=%=#He
 Author{2}{Email}#=%=#luheng@uw.edu

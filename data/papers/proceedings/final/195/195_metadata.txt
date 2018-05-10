@@ -18,7 +18,7 @@ Author{1}{Affiliation}#=%=#University of Illinois at Urbana Champaign
 Author{2}{Firstname}#=%=#Suma
 Author{2}{Lastname}#=%=#Bhat
 Author{2}{Email}#=%=#spbhat2@illinois.edu
-Author{2}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Affiliation}#=%=#University of Illinois at Urbana Champaign
 Author{3}{Firstname}#=%=#Pramod
 Author{3}{Lastname}#=%=#Viswanath
 Author{3}{Email}#=%=#pramodv@illinois.edu

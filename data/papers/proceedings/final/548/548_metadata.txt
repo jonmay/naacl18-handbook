@@ -10,26 +10,26 @@ Abstract#==#In this work, we focus on the task of generating natural language de
 Author{1}{Firstname}#=%=#Preksha
 Author{1}{Lastname}#=%=#Nema
 Author{1}{Email}#=%=#cs15m036@smail.iitm.ac.in
-Author{1}{Affiliation}#=%=#Indian Institutes of Technology, Madras
+Author{1}{Affiliation}#=%=#Indian Institute of Technology, Madras
 Author{2}{Firstname}#=%=#Shreyas
 Author{2}{Lastname}#=%=#Shetty
 Author{2}{Email}#=%=#shreyas.shetty@gmail.com
-Author{2}{Affiliation}#=%=#Indian Institutes of Technology, Madras
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Madras
 Author{3}{Firstname}#=%=#Parag
 Author{3}{Lastname}#=%=#Jain
 Author{3}{Email}#=%=#parag.pxj@gmail.com
-Author{3}{Affiliation}#=%=#IBM Research India
+Author{3}{Affiliation}#=%=#IBM Research
 Author{4}{Firstname}#=%=#Anirban
 Author{4}{Lastname}#=%=#Laha
 Author{4}{Email}#=%=#anirlaha@in.ibm.com
-Author{4}{Affiliation}#=%=#IBM Research India
+Author{4}{Affiliation}#=%=#IBM Research
 Author{5}{Firstname}#=%=#Karthik
 Author{5}{Lastname}#=%=#Sankaranarayanan
 Author{5}{Email}#=%=#kartsank@in.ibm.com
-Author{5}{Affiliation}#=%=#IBM Research India
+Author{5}{Affiliation}#=%=#IBM Research
 Author{6}{Firstname}#=%=#Mitesh M.
 Author{6}{Lastname}#=%=#Khapra
 Author{6}{Email}#=%=#miteshk@cse.iitm.ac.in
-Author{6}{Affiliation}#=%=#Indian Institutes of Technology, Madras
+Author{6}{Affiliation}#=%=#Indian Institute of Technology, Madras
 
 ==========
