@@ -32,16 +32,16 @@
 = 11:30--12:30 Named Entity and Language Generation # %room Empire D %chair1 Owen Rambow %aff1 Elemental Cognition
 1753 11:30--11:47  # Multi-lingual neural title generation for e-Commerce browse pages
 1755 11:48--12:05  # A Novel Approach to Part Name Discovery in Noisy Text
-1761 12:05--12:22  # The Alexa Meaning Representation Language
+1761 12:06--12:23  # The Alexa Meaning Representation Language
 = 14:00--15:00 Industry Track Keynote 2 # %room Empire Ballroom %chair1 Jennifer Chu-Carroll %aff1 Elemental Cognition
 ! 14:00--15:00 Building innovative startups, products, and services – personal insights %by Daniel Marcu
 = 15:30--17:00 Ethics in NLP Panel # %chair1 Dirk Hovy %aff1 Universita Bocconi
 = 15:30--17:00 Session Posters and Demos: Machine Learning # %chair1 Mona Diab
 1721   # Practical Application of Domain Dependent Confidence Measurement for Spoken Language Understanding Systems
-= 15:30--17:00 Session Posters and Demos: Machine Translation # %room Elite Hall B %chair1 Mona Diab
-1733   # Document-based Recommender System for Job Postings using Dense Representations
 * Monday, June 4, 2018
 = 11:30--12:30 Machine Learning - Prediction # %chair1 Gokhan Tur %aff1 Uber
 1742 11:30--11:47  # Prediction for the Newsroom: Which Articles Will Get the Most Comments?
 1750 11:48--12:05  # Demand-Weighted Completeness Prediction for a Knowledge Base
 1782 12:05--12:22  # Personalized neural language models for real-world query auto completion
+= 10:30--12:00 Session Posters and Demos: Social Media and Computational Social Science # %room Elite Hall B %chair1 Mona Diab
+1733   # Document-based Recommender System for Job Postings using Dense Representations
