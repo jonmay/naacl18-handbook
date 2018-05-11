@@ -1,6 +1,6 @@
 % This file is just done manually
 
-\chapter{Tutorials: \daydate}
+\chapter{Workshops and Tutorials: \daydate}
 \thispagestyle{emptyheader}
 \setheaders{Tutorials}{\daydateyear}
 \setlength{\parindent}{0in}
@@ -20,6 +20,9 @@
   \\[-2mm]
   07:30 & -- & 9:00 &
   {\bfseries Breakfast} \hfill\emph{\BreakfastLoc}\\
+  \\[-2mm]
+  08:30 & -- & 18:00 &
+  {\bfseries WiNLP: Widening NLP} \hfill\emph{\WShopLocWiNLP}\\
   \\[-2mm]
   09:00 & -- & 12:30 &
   {\bfseries Morning Tutorials} \hfill\\
@@ -58,9 +61,17 @@
   {\bfseries Welcome Reception} \hfill \emph{\WelcomeReceptionLoc}\\
   \\[-2mm]
 \end{SingleTrackSchedule}
-
+\setheaders{One-day Workshops}{\daydateyear}
+\begin{wsschedule}
+  {WiNLP: Widening NLP}
+  {4}{WShopWiNLP}
+  {WiNLP:1}
+  {\WShopLocWiNLP}
+  \input{auto/winlp18/schedule}
+\end{wsschedule}
+\clearpage
+\setheaders{Tutorials}{\daydateyear}
 \clearpage\input{content/tutorials/tutorials-intro.tex}
-
 \setheaders{Tutorials}{\daydateyear}
 \clearpage\input{content/tutorials/tutorials-001.tex}
 \clearpage\input{content/tutorials/tutorials-002.tex}
